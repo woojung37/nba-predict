@@ -28,3 +28,19 @@ python -m collector.validate                                   # 데이터 점�
 | `data/derived/upcoming.json` | 향후 60시간 경기 (한국 시간, 상대전적, 부상자, 휴식일, 주요 선수) |
 
 GitHub Actions(`.github/workflows/collect.yml`)가 매일 한국 시간 15:00과 06:30에 `daily`를 돌려 결과를 커밋합니다.
+
+## 예측 모델 (`model/`)
+
+팀마다 공격·수비 지수를 두고 매 경기 결과로 갱신합니다. 홈 코트, 백투백, 부상자(주전급 선수의 최근 기여도)를 반영해 예상 점수, 승률, 80% 점수차 범위를 냅니다.
+
+```bash
+python -m model.train   # 2024-25로 설정값을 고르고 2025-26으로 검증 → model/params.json, data/model/backtest.json
+```
+
+2025-26 검증 결과(모델이 보지 않은 시즌, 1,322경기): 승패 적중률 68%, 점수차 평균 오차 11.2점, 80% 범위 적중 80%.
+`collector.collect daily`가 돌 때마다 예정 경기 예측이 `data/derived/upcoming.json`에 들어가고, 경기 전 예측은 `data/model/predictions_log.json`에 남아 실제 결과와 비교됩니다.
+
+## 웹사이트 (`site/`)
+
+정적 사이트(HTML/JS)로 `data/`의 JSON을 읽습니다. GitHub Actions가 데이터 갱신 후 GitHub Pages로 배포합니다.
+로컬 확인: `site/`와 `data/`를 한 폴더에 모아 `python -m http.server`.
