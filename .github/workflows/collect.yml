@@ -4,12 +4,14 @@ on:
   schedule:
     # 06:00 UTC = 15:00 KST: last night's US games are final, next games are listed
     - cron: "0 6 * * *"
-    # 21:30 UTC = 06:30 KST: refresh injuries and lineups before tip-off
+    # 21:30 UTC = 06:30 KST: refresh injuries and predictions before tip-off
     - cron: "30 21 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: collect
@@ -24,7 +26,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Collect
+      - name: Collect and predict
         run: python -m collector.collect daily
       - name: Validate
         run: python -m collector.validate
@@ -37,3 +39,19 @@ jobs:
           git commit -m "Update NBA data $(date -u +%Y-%m-%dT%H:%MZ)"
           git pull --rebase
           git push
+      - name: Assemble site
+        run: |
+          mkdir -p _site
+          cp -r site/. _site/
+          cp -r data _site/data
+      - uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    needs: collect
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

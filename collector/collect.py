@@ -12,6 +12,8 @@ import sys
 from concurrent.futures import ThreadPoolExecutor
 from zoneinfo import ZoneInfo
 
+from model import predict
+
 from . import derive, espn, parse
 from .store import DATA, read_csv, read_json, season_dir, write_csv, write_json
 
@@ -141,6 +143,7 @@ def cmd_daily(args):
 
 def cmd_build(args):
     derive.build_all(DATA, current_season())
+    predict.write_predictions(DATA, current_season())
     write_json(DATA / "meta.json", {
         "updated_utc": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
         "source": "ESPN public API (site.api.espn.com)",
