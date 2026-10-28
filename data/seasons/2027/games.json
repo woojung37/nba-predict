@@ -1117,20 +1117,20 @@
   "date": "2026-10-28T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Madison Square Garden",
   "home": {
    "id": "18",
    "abbr": "NY",
-   "score": 103
+   "score": 111
   },
   "away": {
    "id": "8",
    "abbr": "DET",
-   "score": 86
+   "score": 97
   }
  },
  {
@@ -1159,26 +1159,20 @@
   "date": "2026-10-28T03:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
-  "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "crypto.com Arena",
   "home": {
    "id": "13",
    "abbr": "LAL",
-   "score": null
+   "score": 129
   },
   "away": {
    "id": "22",
    "abbr": "POR",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "LAL -1.5",
-   "spread": -1.5,
-   "over_under": 233.5
+   "score": 136
   }
  },
  {
@@ -1205,7 +1199,7 @@
    "provider": "DraftKings",
    "details": "ATL -3.5",
    "spread": -3.5,
-   "over_under": 239.5
+   "over_under": 240.5
   }
  },
  {
@@ -1259,7 +1253,7 @@
    "provider": "DraftKings",
    "details": "DET -7.5",
    "spread": -7.5,
-   "over_under": 216.5
+   "over_under": 215.5
   }
  },
  {
@@ -1394,7 +1388,7 @@
    "provider": "DraftKings",
    "details": "MIN -3.5",
    "spread": -3.5,
-   "over_under": 225.5
+   "over_under": 228.5
   }
  },
  {
@@ -1421,7 +1415,7 @@
    "provider": "DraftKings",
    "details": "DEN -4.5",
    "spread": 4.5,
-   "over_under": 238.5
+   "over_under": 240.5
   }
  },
  {
@@ -1475,7 +1469,7 @@
    "provider": "DraftKings",
    "details": "OKC -5.5",
    "spread": 5.5,
-   "over_under": 230.5
+   "over_under": 229.5
   }
  },
  {

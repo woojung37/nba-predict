@@ -1,984 +1,5 @@
 [
  {
-  "id": "401909878",
-  "date": "2026-10-28T00:00Z",
-  "season_type": 2,
-  "state": "in",
-  "neutral": false,
-  "venue": "Madison Square Garden",
-  "date_kst": "2026-10-28T09:00:00+09:00",
-  "home": {
-   "id": "18",
-   "abbr": "NY",
-   "name": "New York Knicks",
-   "standing": {
-    "team_id": "18",
-    "abbr": "NY",
-    "conference": "Eastern Conference",
-    "seed": 13,
-    "wins": 0,
-    "losses": 3,
-    "win_pct": 0.0,
-    "games_behind": "3",
-    "home": "0-2",
-    "road": "0-1",
-    "last10": "0-3",
-    "streak": "L3",
-    "ppg": 101.666664,
-    "opp_ppg": 108.0
-   },
-   "stats": {
-    "gp": 3,
-    "record": [
-     0,
-     3
-    ],
-    "home_record": [
-     0,
-     2
-    ],
-    "away_record": [
-     0,
-     1
-    ],
-    "ppg": 101.7,
-    "opp_ppg": 108.0,
-    "avg_margin": -6.3,
-    "last10_record": [
-     0,
-     3
-    ],
-    "last10_margin": -6.3,
-    "last_game": "2026-10-25T23:00Z",
-    "pace": 102.5,
-    "ortg": 99.2,
-    "drtg": 105.4,
-    "net_rtg": -6.2
-   },
-   "rest_days": 1,
-   "injuries": [
-    {
-     "team_id": "18",
-     "team": "New York Knicks",
-     "athlete_id": "4277869",
-     "name": "Jose Alvarado",
-     "position": "G",
-     "status": "Out",
-     "injury": "Left Ankle Sprain",
-     "return_date": "2026-10-28",
-     "updated": "2026-10-26T20:50Z",
-     "comment": "Alvarado (ankle) is out for Tuesday's game against the Pistons."
-    }
-   ],
-   "top_players": [
-    {
-     "athlete_id": "3934672",
-     "name": "Jalen Brunson",
-     "position": "G",
-     "team_id": "18",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 34.3,
-     "pts": 22.7,
-     "reb": 3.3,
-     "ast": 3.7,
-     "stl": 0.7,
-     "blk": 1.0,
-     "tov": 2.7,
-     "plus_minus": -2.7,
-     "fg_pct": 39.1,
-     "fg3_pct": 26.7,
-     "ft_pct": 70.0,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "3136195",
-     "name": "Karl-Anthony Towns",
-     "position": "C",
-     "team_id": "18",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 31.3,
-     "pts": 21.0,
-     "reb": 12.0,
-     "ast": 2.7,
-     "stl": 0.7,
-     "blk": 1.0,
-     "tov": 4.0,
-     "plus_minus": 0.3,
-     "fg_pct": 62.2,
-     "fg3_pct": 45.5,
-     "ft_pct": 70.6,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "3934719",
-     "name": "OG Anunoby",
-     "position": "F",
-     "team_id": "18",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 33.7,
-     "pts": 17.3,
-     "reb": 6.0,
-     "ast": 3.3,
-     "stl": 0.3,
-     "blk": 0.3,
-     "tov": 2.3,
-     "plus_minus": -14.0,
-     "fg_pct": 41.2,
-     "fg3_pct": 28.6,
-     "ft_pct": 81.8,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "3062679",
-     "name": "Josh Hart",
-     "position": "G",
-     "team_id": "18",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 33.7,
-     "pts": 12.3,
-     "reb": 9.0,
-     "ast": 3.3,
-     "stl": 2.0,
-     "blk": 0.3,
-     "tov": 1.7,
-     "plus_minus": 2.7,
-     "fg_pct": 41.2,
-     "fg3_pct": 33.3,
-     "ft_pct": 66.7,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "4431823",
-     "name": "Miles McBride",
-     "position": "G",
-     "team_id": "18",
-     "gp": 3,
-     "gs": 0,
-     "last_game": "2026-10-25",
-     "min": 19.0,
-     "pts": 8.0,
-     "reb": 1.3,
-     "ast": 1.0,
-     "stl": 0.7,
-     "blk": 0.3,
-     "tov": 0.3,
-     "plus_minus": -2.3,
-     "fg_pct": 46.7,
-     "fg3_pct": 58.3,
-     "ft_pct": 75.0,
-     "injury_status": null
-    }
-   ]
-  },
-  "away": {
-   "id": "8",
-   "abbr": "DET",
-   "name": "Detroit Pistons",
-   "standing": {
-    "team_id": "8",
-    "abbr": "DET",
-    "conference": "Eastern Conference",
-    "seed": 1,
-    "wins": 3,
-    "losses": 0,
-    "win_pct": 1.0,
-    "games_behind": "-",
-    "home": "1-0",
-    "road": "2-0",
-    "last10": "3-0",
-    "streak": "W3",
-    "ppg": 118.333336,
-    "opp_ppg": 105.666664
-   },
-   "stats": {
-    "gp": 3,
-    "record": [
-     3,
-     0
-    ],
-    "home_record": [
-     1,
-     0
-    ],
-    "away_record": [
-     2,
-     0
-    ],
-    "ppg": 118.3,
-    "opp_ppg": 105.7,
-    "avg_margin": 12.7,
-    "last10_record": [
-     3,
-     0
-    ],
-    "last10_margin": 12.7,
-    "last_game": "2026-10-25T23:30Z",
-    "pace": 103.1,
-    "ortg": 114.8,
-    "drtg": 102.5,
-    "net_rtg": 12.3
-   },
-   "rest_days": 1,
-   "injuries": [
-    {
-     "team_id": "8",
-     "team": "Detroit Pistons",
-     "athlete_id": "4395702",
-     "name": "Isaiah Joe",
-     "position": "G",
-     "status": "Out",
-     "injury": "Right Hip Bruise",
-     "return_date": "2026-10-28",
-     "updated": "2026-10-27T23:21Z",
-     "comment": "Joe (hip) has been ruled out for Tuesday's game against the Knicks."
-    },
-    {
-     "team_id": "8",
-     "team": "Detroit Pistons",
-     "athlete_id": "4433621",
-     "name": "Jalen Duren",
-     "position": "C",
-     "status": "Out",
-     "injury": "Right Hamstring Strain",
-     "return_date": "2026-11-09",
-     "updated": "2026-10-25T14:56Z",
-     "comment": "Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of ClutchPoints.com reports."
-    }
-   ],
-   "top_players": [
-    {
-     "athlete_id": "4432166",
-     "name": "Cade Cunningham",
-     "position": "G",
-     "team_id": "8",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 32.7,
-     "pts": 21.3,
-     "reb": 4.7,
-     "ast": 8.0,
-     "stl": 1.3,
-     "blk": 2.0,
-     "tov": 5.3,
-     "plus_minus": 9.3,
-     "fg_pct": 48.9,
-     "fg3_pct": 35.3,
-     "ft_pct": 73.7,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "3157465",
-     "name": "Duncan Robinson",
-     "position": "F",
-     "team_id": "8",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 29.3,
-     "pts": 19.7,
-     "reb": 2.0,
-     "ast": 2.3,
-     "stl": 1.0,
-     "blk": 0.0,
-     "tov": 1.7,
-     "plus_minus": 16.3,
-     "fg_pct": 47.1,
-     "fg3_pct": 53.6,
-     "ft_pct": 80.0,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "3908845",
-     "name": "John Collins",
-     "position": "F",
-     "team_id": "8",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 29.3,
-     "pts": 15.0,
-     "reb": 7.7,
-     "ast": 0.7,
-     "stl": 0.3,
-     "blk": 1.0,
-     "tov": 1.0,
-     "plus_minus": 6.3,
-     "fg_pct": 51.4,
-     "fg3_pct": 50.0,
-     "ft_pct": 0.0,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "4433621",
-     "name": "Jalen Duren",
-     "position": "C",
-     "team_id": "8",
-     "gp": 2,
-     "gs": 2,
-     "last_game": "2026-10-24",
-     "min": 19.0,
-     "pts": 13.0,
-     "reb": 7.5,
-     "ast": 2.0,
-     "stl": 1.0,
-     "blk": 1.0,
-     "tov": 1.0,
-     "plus_minus": 5.5,
-     "fg_pct": 58.8,
-     "fg3_pct": null,
-     "ft_pct": 85.7,
-     "injury_status": "Out"
-    },
-    {
-     "athlete_id": "5107199",
-     "name": "Daniss Jenkins",
-     "position": "G",
-     "team_id": "8",
-     "gp": 3,
-     "gs": 1,
-     "last_game": "2026-10-25",
-     "min": 25.0,
-     "pts": 12.0,
-     "reb": 5.0,
-     "ast": 4.7,
-     "stl": 0.3,
-     "blk": 0.3,
-     "tov": 2.0,
-     "plus_minus": 10.3,
-     "fg_pct": 54.5,
-     "fg3_pct": 71.4,
-     "ft_pct": 77.8,
-     "injury_status": null
-    }
-   ]
-  },
-  "head_to_head": {
-   "games": 13,
-   "wins": 5,
-   "losses": 8,
-   "avg_margin": -5.3,
-   "recent": [
-    {
-     "id": "401810651",
-     "date": "2026-02-20T00:30Z",
-     "season": 2026,
-     "home": "NY",
-     "away": "DET",
-     "home_score": 111,
-     "away_score": 126
-    },
-    {
-     "id": "401810597",
-     "date": "2026-02-07T00:30Z",
-     "season": 2026,
-     "home": "DET",
-     "away": "NY",
-     "home_score": 118,
-     "away_score": 80
-    },
-    {
-     "id": "401810357",
-     "date": "2026-01-06T00:00Z",
-     "season": 2026,
-     "home": "DET",
-     "away": "NY",
-     "home_score": 121,
-     "away_score": 90
-    },
-    {
-     "id": "401768045",
-     "date": "2025-05-01T23:30Z",
-     "season": 2025,
-     "home": "DET",
-     "away": "NY",
-     "home_score": 113,
-     "away_score": 116
-    },
-    {
-     "id": "401768044",
-     "date": "2025-04-29T23:30Z",
-     "season": 2025,
-     "home": "NY",
-     "away": "DET",
-     "home_score": 103,
-     "away_score": 106
-    },
-    {
-     "id": "401768043",
-     "date": "2025-04-27T17:00Z",
-     "season": 2025,
-     "home": "DET",
-     "away": "NY",
-     "home_score": 93,
-     "away_score": 94
-    },
-    {
-     "id": "401768042",
-     "date": "2025-04-24T23:00Z",
-     "season": 2025,
-     "home": "DET",
-     "away": "NY",
-     "home_score": 116,
-     "away_score": 118
-    },
-    {
-     "id": "401768041",
-     "date": "2025-04-21T23:30Z",
-     "season": 2025,
-     "home": "NY",
-     "away": "DET",
-     "home_score": 94,
-     "away_score": 100
-    },
-    {
-     "id": "401767820",
-     "date": "2025-04-19T22:00Z",
-     "season": 2025,
-     "home": "NY",
-     "away": "DET",
-     "home_score": 123,
-     "away_score": 112
-    },
-    {
-     "id": "401705733",
-     "date": "2025-04-10T23:00Z",
-     "season": 2025,
-     "home": "DET",
-     "away": "NY",
-     "home_score": 115,
-     "away_score": 106
-    }
-   ]
-  },
-  "pre_game_prediction": {
-   "home_points": 110.2,
-   "away_points": 106.1,
-   "home_margin": 4.1,
-   "home_win_prob": 0.613,
-   "margin_range80": [
-    -14.1,
-    22.2
-   ]
-  }
- },
- {
-  "id": "401909880",
-  "date": "2026-10-28T03:00Z",
-  "season_type": 2,
-  "state": "pre",
-  "neutral": false,
-  "venue": "crypto.com Arena",
-  "date_kst": "2026-10-28T12:00:00+09:00",
-  "odds": {
-   "provider": "DraftKings",
-   "details": "LAL -1.5",
-   "spread": -1.5,
-   "over_under": 233.5
-  },
-  "home": {
-   "id": "13",
-   "abbr": "LAL",
-   "name": "Los Angeles Lakers",
-   "standing": {
-    "team_id": "13",
-    "abbr": "LAL",
-    "conference": "Western Conference",
-    "seed": 4,
-    "wins": 3,
-    "losses": 0,
-    "win_pct": 1.0,
-    "games_behind": "0.5",
-    "home": "2-0",
-    "road": "1-0",
-    "last10": "3-0",
-    "streak": "W3",
-    "ppg": 128.0,
-    "opp_ppg": 115.0
-   },
-   "stats": {
-    "gp": 3,
-    "record": [
-     3,
-     0
-    ],
-    "home_record": [
-     2,
-     0
-    ],
-    "away_record": [
-     1,
-     0
-    ],
-    "ppg": 128.0,
-    "opp_ppg": 115.0,
-    "avg_margin": 13.0,
-    "last10_record": [
-     3,
-     0
-    ],
-    "last10_margin": 13.0,
-    "last_game": "2026-10-25T21:00Z",
-    "pace": 104.2,
-    "ortg": 122.8,
-    "drtg": 110.3,
-    "net_rtg": 12.5
-   },
-   "rest_days": 1,
-   "injuries": [
-    {
-     "team_id": "13",
-     "team": "Los Angeles Lakers",
-     "athlete_id": "5113969",
-     "name": "Cameron Carr",
-     "position": "G",
-     "status": "Out",
-     "injury": "Right Oblique Strain",
-     "return_date": "2026-10-28",
-     "updated": "2026-10-27T23:42Z",
-     "comment": "The Lakers recalled Carr (oblique) from the G League's Coachella Valley Lakers on Tuesday, Mark Medina of TheSportingTribune.com reports."
-    },
-    {
-     "team_id": "13",
-     "team": "Los Angeles Lakers",
-     "athlete_id": "5060631",
-     "name": "Adou Thiero",
-     "position": "F",
-     "status": "Out",
-     "injury": "Left Knee Inflammation",
-     "return_date": "2026-10-28",
-     "updated": "2026-10-27T00:08Z",
-     "comment": "Thiero (knee) is out for Tuesday's game against Portland."
-    }
-   ],
-   "top_players": [
-    {
-     "athlete_id": "3945274",
-     "name": "Luka Doncic",
-     "position": "G",
-     "team_id": "13",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 35.0,
-     "pts": 34.3,
-     "reb": 7.3,
-     "ast": 8.0,
-     "stl": 1.7,
-     "blk": 0.3,
-     "tov": 7.0,
-     "plus_minus": 14.7,
-     "fg_pct": 46.4,
-     "fg3_pct": 39.5,
-     "ft_pct": 88.9,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "4066457",
-     "name": "Austin Reaves",
-     "position": "G",
-     "team_id": "13",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 35.3,
-     "pts": 26.7,
-     "reb": 2.3,
-     "ast": 6.3,
-     "stl": 1.7,
-     "blk": 1.0,
-     "tov": 4.3,
-     "plus_minus": 17.7,
-     "fg_pct": 63.9,
-     "fg3_pct": 61.5,
-     "ft_pct": 89.7,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "4433136",
-     "name": "Walker Kessler",
-     "position": "C",
-     "team_id": "13",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 31.0,
-     "pts": 16.7,
-     "reb": 8.0,
-     "ast": 1.3,
-     "stl": 1.0,
-     "blk": 3.0,
-     "tov": 1.3,
-     "plus_minus": 16.0,
-     "fg_pct": 82.1,
-     "fg3_pct": null,
-     "ft_pct": 44.4,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "4433137",
-     "name": "Ziaire Williams",
-     "position": "F",
-     "team_id": "13",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 28.3,
-     "pts": 11.3,
-     "reb": 3.3,
-     "ast": 1.7,
-     "stl": 1.3,
-     "blk": 0.3,
-     "tov": 0.7,
-     "plus_minus": 10.7,
-     "fg_pct": 52.2,
-     "fg3_pct": 41.7,
-     "ft_pct": 100.0,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "3907498",
-     "name": "Matisse Thybulle",
-     "position": "G",
-     "team_id": "13",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 24.3,
-     "pts": 9.0,
-     "reb": 1.7,
-     "ast": 1.3,
-     "stl": 2.0,
-     "blk": 1.0,
-     "tov": 0.3,
-     "plus_minus": 12.3,
-     "fg_pct": 50.0,
-     "fg3_pct": 46.7,
-     "ft_pct": null,
-     "injury_status": null
-    }
-   ]
-  },
-  "away": {
-   "id": "22",
-   "abbr": "POR",
-   "name": "Portland Trail Blazers",
-   "standing": {
-    "team_id": "22",
-    "abbr": "POR",
-    "conference": "Western Conference",
-    "seed": 5,
-    "wins": 2,
-    "losses": 0,
-    "win_pct": 1.0,
-    "games_behind": "1",
-    "home": "1-0",
-    "road": "1-0",
-    "last10": "2-0",
-    "streak": "W2",
-    "ppg": 126.0,
-    "opp_ppg": 101.5
-   },
-   "stats": {
-    "gp": 2,
-    "record": [
-     2,
-     0
-    ],
-    "home_record": [
-     1,
-     0
-    ],
-    "away_record": [
-     1,
-     0
-    ],
-    "ppg": 126.0,
-    "opp_ppg": 101.5,
-    "avg_margin": 24.5,
-    "last10_record": [
-     2,
-     0
-    ],
-    "last10_margin": 24.5,
-    "last_game": "2026-10-24T02:00Z",
-    "pace": 103.6,
-    "ortg": 121.6,
-    "drtg": 98.0,
-    "net_rtg": 23.6
-   },
-   "rest_days": 3,
-   "injuries": [
-    {
-     "team_id": "22",
-     "team": "Portland Trail Blazers",
-     "athlete_id": "4706557",
-     "name": "Chris Youngblood",
-     "position": "G",
-     "status": "Out",
-     "injury": "Left Ankle Soreness",
-     "return_date": "2026-10-29",
-     "updated": "2026-10-27T04:58Z",
-     "comment": "Youngblood (ankle/two-way player) is out for Tuesday's game against the Lakers."
-    },
-    {
-     "team_id": "22",
-     "team": "Portland Trail Blazers",
-     "athlete_id": "4914336",
-     "name": "Shaedon Sharpe",
-     "position": "G",
-     "status": "Out",
-     "injury": "Right Knee Surgery",
-     "return_date": "2027-03-02",
-     "updated": "2026-08-24T20:23Z",
-     "comment": "Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN."
-    }
-   ],
-   "top_players": [
-    {
-     "athlete_id": "4683021",
-     "name": "Deni Avdija",
-     "position": "F",
-     "team_id": "22",
-     "gp": 2,
-     "gs": 2,
-     "last_game": "2026-10-24",
-     "min": 30.5,
-     "pts": 22.0,
-     "reb": 8.5,
-     "ast": 5.0,
-     "stl": 1.5,
-     "blk": 0.0,
-     "tov": 2.5,
-     "plus_minus": 18.5,
-     "fg_pct": 46.9,
-     "fg3_pct": 33.3,
-     "ft_pct": 68.8,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "6606",
-     "name": "Damian Lillard",
-     "position": "G",
-     "team_id": "22",
-     "gp": 2,
-     "gs": 2,
-     "last_game": "2026-10-24",
-     "min": 28.5,
-     "pts": 22.0,
-     "reb": 4.0,
-     "ast": 4.0,
-     "stl": 1.5,
-     "blk": 0.0,
-     "tov": 1.5,
-     "plus_minus": 21.0,
-     "fg_pct": 46.7,
-     "fg3_pct": 40.0,
-     "ft_pct": 100.0,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "4431736",
-     "name": "Toumani Camara",
-     "position": "F",
-     "team_id": "22",
-     "gp": 2,
-     "gs": 2,
-     "last_game": "2026-10-24",
-     "min": 25.0,
-     "pts": 18.5,
-     "reb": 2.5,
-     "ast": 2.0,
-     "stl": 1.0,
-     "blk": 0.0,
-     "tov": 0.5,
-     "plus_minus": 14.5,
-     "fg_pct": 61.9,
-     "fg3_pct": 52.9,
-     "ft_pct": 100.0,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "4279888",
-     "name": "Ja Morant",
-     "position": "G",
-     "team_id": "22",
-     "gp": 2,
-     "gs": 2,
-     "last_game": "2026-10-24",
-     "min": 25.0,
-     "pts": 13.0,
-     "reb": 4.0,
-     "ast": 7.5,
-     "stl": 2.0,
-     "blk": 0.0,
-     "tov": 1.5,
-     "plus_minus": 20.0,
-     "fg_pct": 52.4,
-     "fg3_pct": 37.5,
-     "ft_pct": 50.0,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "3995",
-     "name": "Jrue Holiday",
-     "position": "G",
-     "team_id": "22",
-     "gp": 2,
-     "gs": 0,
-     "last_game": "2026-10-24",
-     "min": 23.5,
-     "pts": 10.0,
-     "reb": 2.5,
-     "ast": 4.5,
-     "stl": 1.5,
-     "blk": 0.5,
-     "tov": 0.0,
-     "plus_minus": 15.5,
-     "fg_pct": 37.5,
-     "fg3_pct": 25.0,
-     "ft_pct": 83.3,
-     "injury_status": null
-    }
-   ]
-  },
-  "head_to_head": {
-   "games": 7,
-   "wins": 4,
-   "losses": 3,
-   "avg_margin": -3.6,
-   "recent": [
-    {
-     "id": "401810456",
-     "date": "2026-01-18T03:00Z",
-     "season": 2026,
-     "home": "POR",
-     "away": "LAL",
-     "home_score": 132,
-     "away_score": 116
-    },
-    {
-     "id": "401810018",
-     "date": "2025-11-04T03:00Z",
-     "season": 2026,
-     "home": "POR",
-     "away": "LAL",
-     "home_score": 115,
-     "away_score": 123
-    },
-    {
-     "id": "401809977",
-     "date": "2025-10-28T02:30Z",
-     "season": 2026,
-     "home": "LAL",
-     "away": "POR",
-     "home_score": 108,
-     "away_score": 122
-    },
-    {
-     "id": "401705765",
-     "date": "2025-04-13T19:30Z",
-     "season": 2025,
-     "home": "POR",
-     "away": "LAL",
-     "home_score": 109,
-     "away_score": 81
-    },
-    {
-     "id": "401705362",
-     "date": "2025-02-21T03:00Z",
-     "season": 2025,
-     "home": "POR",
-     "away": "LAL",
-     "home_score": 102,
-     "away_score": 110
-    },
-    {
-     "id": "401705034",
-     "date": "2025-01-03T03:30Z",
-     "season": 2025,
-     "home": "LAL",
-     "away": "POR",
-     "home_score": 114,
-     "away_score": 106
-    },
-    {
-     "id": "401704924",
-     "date": "2024-12-09T02:30Z",
-     "season": 2025,
-     "home": "LAL",
-     "away": "POR",
-     "home_score": 107,
-     "away_score": 98
-    }
-   ]
-  },
-  "prediction": {
-   "home_points": 115.6,
-   "away_points": 112.7,
-   "home_margin": 2.9,
-   "home_win_prob": 0.582,
-   "away_win_prob": 0.418,
-   "margin_range80": [
-    -15.2,
-    21.1
-   ],
-   "total": 228.3,
-   "total_range80": [
-    204.6,
-    252.0
-   ],
-   "sigma": 14.15,
-   "total_sigma": 18.49,
-   "factors": {
-    "team_strength": 0.4,
-    "home_court": 2.0,
-    "rest": -0.0,
-    "injuries": 0.5
-   },
-   "back_to_back": {
-    "home": false,
-    "away": false
-   },
-   "injury_impact": {
-    "home": [],
-    "away": [
-     {
-      "athlete_id": "4914336",
-      "name": "Shaedon Sharpe",
-      "status": "Out",
-      "impact": -0.5
-     }
-    ]
-   },
-   "ratings": {
-    "home": {
-     "offense": 0.9,
-     "defense": -1.5
-    },
-    "away": {
-     "offense": -1.0,
-     "defense": -3.0
-    }
-   },
-   "vs_line": {
-    "spread": -1.5,
-    "over_under": 233.5,
-    "home_cover_prob": 0.54,
-    "over_prob": 0.39,
-    "provider": "DraftKings"
-   }
-  }
- },
- {
   "id": "401909881",
   "date": "2026-10-28T23:00Z",
   "season_type": 2,
@@ -990,7 +11,7 @@
    "provider": "DraftKings",
    "details": "ATL -3.5",
    "spread": -3.5,
-   "over_under": 239.5
+   "over_under": 240.5
   },
   "home": {
    "id": "1",
@@ -1004,7 +25,7 @@
     "wins": 2,
     "losses": 2,
     "win_pct": 0.5,
-    "games_behind": "1.5",
+    "games_behind": "1",
     "home": "0-1",
     "road": "2-1",
     "last10": "2-2",
@@ -1199,7 +220,7 @@
     "wins": 0,
     "losses": 4,
     "win_pct": 0.0,
-    "games_behind": "3.5",
+    "games_behind": "3",
     "home": "0-3",
     "road": "0-1",
     "last10": "0-4",
@@ -1371,10 +392,10 @@
    ]
   },
   "head_to_head": {
-   "games": 9,
-   "wins": 3,
-   "losses": 6,
-   "avg_margin": -8.8,
+   "games": 13,
+   "wins": 4,
+   "losses": 9,
+   "avg_margin": -7.8,
    "recent": [
     {
      "id": "401811044",
@@ -1456,12 +477,21 @@
      "away": "MIA",
      "home_score": 120,
      "away_score": 110
+    },
+    {
+     "id": "401585775",
+     "date": "2024-04-09T23:30Z",
+     "season": 2024,
+     "home": "ATL",
+     "away": "MIA",
+     "home_score": 111,
+     "away_score": 117
     }
    ]
   },
   "prediction": {
-   "home_points": 123.4,
-   "away_points": 117.3,
+   "home_points": 123.5,
+   "away_points": 117.4,
    "home_margin": 6.1,
    "home_win_prob": 0.668,
    "away_win_prob": 0.332,
@@ -1469,10 +499,10 @@
     -12.0,
     24.3
    ],
-   "total": 240.7,
+   "total": 240.9,
    "total_range80": [
-    217.0,
-    264.4
+    217.2,
+    264.6
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -1506,18 +536,18 @@
    "ratings": {
     "home": {
      "offense": 1.8,
-     "defense": -0.1
+     "defense": -0.2
     },
     "away": {
      "offense": 2.1,
-     "defense": 3.9
+     "defense": 3.8
     }
    },
    "vs_line": {
     "spread": -3.5,
-    "over_under": 239.5,
+    "over_under": 240.5,
     "home_cover_prob": 0.574,
-    "over_prob": 0.525,
+    "over_prob": 0.51,
     "provider": "DraftKings"
    }
   }
@@ -1548,7 +578,7 @@
     "wins": 2,
     "losses": 1,
     "win_pct": 0.6666667,
-    "games_behind": "1",
+    "games_behind": "0.5",
     "home": "2-0",
     "road": "0-1",
     "last10": "2-1",
@@ -1706,7 +736,7 @@
     "wins": 2,
     "losses": 2,
     "win_pct": 0.5,
-    "games_behind": "1.5",
+    "games_behind": "1",
     "home": "1-1",
     "road": "1-1",
     "last10": "2-2",
@@ -1902,10 +932,10 @@
    ]
   },
   "head_to_head": {
-   "games": 8,
-   "wins": 8,
+   "games": 12,
+   "wins": 12,
    "losses": 0,
-   "avg_margin": 18.1,
+   "avg_margin": 18.8,
    "recent": [
     {
      "id": "401811042",
@@ -1978,28 +1008,46 @@
      "away": "CLE",
      "home_score": 116,
      "away_score": 135
+    },
+    {
+     "id": "401585448",
+     "date": "2024-02-25T23:00Z",
+     "season": 2024,
+     "home": "WSH",
+     "away": "CLE",
+     "home_score": 105,
+     "away_score": 114
+    },
+    {
+     "id": "401585356",
+     "date": "2024-02-08T00:00Z",
+     "season": 2024,
+     "home": "WSH",
+     "away": "CLE",
+     "home_score": 106,
+     "away_score": 114
     }
    ]
   },
   "prediction": {
-   "home_points": 124.4,
+   "home_points": 124.6,
    "away_points": 113.9,
-   "home_margin": 10.5,
-   "home_win_prob": 0.771,
-   "away_win_prob": 0.229,
+   "home_margin": 10.6,
+   "home_win_prob": 0.773,
+   "away_win_prob": 0.227,
    "margin_range80": [
-    -7.7,
-    28.6
+    -7.5,
+    28.8
    ],
-   "total": 238.3,
+   "total": 238.5,
    "total_range80": [
-    214.6,
-    262.0
+    214.8,
+    262.2
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
    "factors": {
-    "team_strength": 6.2,
+    "team_strength": 6.3,
     "home_court": 2.0,
     "rest": -0.0,
     "injuries": 2.3
@@ -2033,19 +1081,19 @@
    },
    "ratings": {
     "home": {
-     "offense": 1.3,
+     "offense": 1.2,
      "defense": 0.1
     },
     "away": {
-     "offense": 0.4,
+     "offense": 0.2,
      "defense": 5.4
     }
    },
    "vs_line": {
     "spread": -10.5,
     "over_under": 239.5,
-    "home_cover_prob": 0.5,
-    "over_prob": 0.475,
+    "home_cover_prob": 0.503,
+    "over_prob": 0.478,
     "provider": "DraftKings"
    }
   }
@@ -2062,7 +1110,7 @@
    "provider": "DraftKings",
    "details": "DET -7.5",
    "spread": -7.5,
-   "over_under": 216.5
+   "over_under": 215.5
   },
   "home": {
    "id": "8",
@@ -2074,21 +1122,21 @@
     "conference": "Eastern Conference",
     "seed": 1,
     "wins": 3,
-    "losses": 0,
-    "win_pct": 1.0,
+    "losses": 1,
+    "win_pct": 0.75,
     "games_behind": "-",
     "home": "1-0",
-    "road": "2-0",
-    "last10": "3-0",
-    "streak": "W3",
-    "ppg": 118.333336,
-    "opp_ppg": 105.666664
+    "road": "2-1",
+    "last10": "3-1",
+    "streak": "L1",
+    "ppg": 113.0,
+    "opp_ppg": 107.0
    },
    "stats": {
-    "gp": 3,
+    "gp": 4,
     "record": [
      3,
-     0
+     1
     ],
     "home_record": [
      1,
@@ -2096,21 +1144,21 @@
     ],
     "away_record": [
      2,
-     0
+     1
     ],
-    "ppg": 118.3,
-    "opp_ppg": 105.7,
-    "avg_margin": 12.7,
+    "ppg": 113.0,
+    "opp_ppg": 107.0,
+    "avg_margin": 6.0,
     "last10_record": [
      3,
-     0
+     1
     ],
-    "last10_margin": 12.7,
-    "last_game": "2026-10-25T23:30Z",
-    "pace": 103.1,
-    "ortg": 114.8,
-    "drtg": 102.5,
-    "net_rtg": 12.3
+    "last10_margin": 6.0,
+    "last_game": "2026-10-28T00:00Z",
+    "pace": 101.8,
+    "ortg": 111.0,
+    "drtg": 105.1,
+    "net_rtg": 5.9
    },
    "rest_days": 0,
    "injuries": [
@@ -2120,10 +1168,10 @@
      "athlete_id": "4395702",
      "name": "Isaiah Joe",
      "position": "G",
-     "status": "Out",
+     "status": "Day-To-Day",
      "injury": "Right Hip Bruise",
      "return_date": "2026-10-28",
-     "updated": "2026-10-27T23:21Z",
+     "updated": "2026-10-28T05:11Z",
      "comment": "Joe (hip) has been ruled out for Tuesday's game against the Knicks."
     },
     {
@@ -2145,20 +1193,20 @@
      "name": "Cade Cunningham",
      "position": "G",
      "team_id": "8",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 32.7,
-     "pts": 21.3,
-     "reb": 4.7,
+     "gp": 4,
+     "gs": 4,
+     "last_game": "2026-10-28",
+     "min": 33.5,
+     "pts": 20.8,
+     "reb": 5.8,
      "ast": 8.0,
-     "stl": 1.3,
-     "blk": 2.0,
-     "tov": 5.3,
-     "plus_minus": 9.3,
-     "fg_pct": 48.9,
-     "fg3_pct": 35.3,
-     "ft_pct": 73.7,
+     "stl": 1.0,
+     "blk": 1.8,
+     "tov": 4.8,
+     "plus_minus": 3.2,
+     "fg_pct": 46.0,
+     "fg3_pct": 33.3,
+     "ft_pct": 70.8,
      "injury_status": null
     },
     {
@@ -2166,41 +1214,41 @@
      "name": "Duncan Robinson",
      "position": "F",
      "team_id": "8",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 29.3,
-     "pts": 19.7,
-     "reb": 2.0,
-     "ast": 2.3,
+     "gp": 4,
+     "gs": 4,
+     "last_game": "2026-10-28",
+     "min": 30.2,
+     "pts": 17.8,
+     "reb": 1.5,
+     "ast": 2.2,
      "stl": 1.0,
-     "blk": 0.0,
-     "tov": 1.7,
-     "plus_minus": 16.3,
-     "fg_pct": 47.1,
-     "fg3_pct": 53.6,
-     "ft_pct": 80.0,
+     "blk": 0.2,
+     "tov": 1.5,
+     "plus_minus": 8.5,
+     "fg_pct": 41.7,
+     "fg3_pct": 44.7,
+     "ft_pct": 82.4,
      "injury_status": null
     },
     {
-     "athlete_id": "3908845",
-     "name": "John Collins",
+     "athlete_id": "4278562",
+     "name": "Paul Reed",
      "position": "F",
      "team_id": "8",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 29.3,
-     "pts": 15.0,
-     "reb": 7.7,
-     "ast": 0.7,
-     "stl": 0.3,
+     "gp": 4,
+     "gs": 2,
+     "last_game": "2026-10-28",
+     "min": 23.0,
+     "pts": 13.8,
+     "reb": 8.5,
+     "ast": 2.5,
+     "stl": 0.8,
      "blk": 1.0,
-     "tov": 1.0,
-     "plus_minus": 6.3,
-     "fg_pct": 51.4,
-     "fg3_pct": 50.0,
-     "ft_pct": 0.0,
+     "tov": 1.8,
+     "plus_minus": 7.2,
+     "fg_pct": 65.7,
+     "fg3_pct": 100.0,
+     "ft_pct": 66.7,
      "injury_status": null
     },
     {
@@ -2225,24 +1273,24 @@
      "injury_status": "Out"
     },
     {
-     "athlete_id": "5107199",
-     "name": "Daniss Jenkins",
-     "position": "G",
+     "athlete_id": "3908845",
+     "name": "John Collins",
+     "position": "F",
      "team_id": "8",
-     "gp": 3,
-     "gs": 1,
-     "last_game": "2026-10-25",
-     "min": 25.0,
-     "pts": 12.0,
-     "reb": 5.0,
-     "ast": 4.7,
-     "stl": 0.3,
-     "blk": 0.3,
-     "tov": 2.0,
-     "plus_minus": 10.3,
-     "fg_pct": 54.5,
-     "fg3_pct": 71.4,
-     "ft_pct": 77.8,
+     "gp": 4,
+     "gs": 4,
+     "last_game": "2026-10-28",
+     "min": 28.8,
+     "pts": 11.8,
+     "reb": 8.0,
+     "ast": 0.8,
+     "stl": 0.2,
+     "blk": 1.5,
+     "tov": 1.0,
+     "plus_minus": 1.8,
+     "fg_pct": 48.8,
+     "fg3_pct": 50.0,
+     "ft_pct": 0.0,
      "injury_status": null
     }
    ]
@@ -2259,7 +1307,7 @@
     "wins": 3,
     "losses": 1,
     "win_pct": 0.75,
-    "games_behind": "0.5",
+    "games_behind": "-",
     "home": "2-1",
     "road": "1-0",
     "last10": "3-1",
@@ -2455,10 +1503,10 @@
    ]
   },
   "head_to_head": {
-   "games": 7,
-   "wins": 5,
+   "games": 10,
+   "wins": 8,
    "losses": 2,
-   "avg_margin": 8.7,
+   "avg_margin": 9.7,
    "recent": [
     {
      "id": "401811026",
@@ -2522,34 +1570,61 @@
      "away": "DET",
      "home_score": 108,
      "away_score": 107
+    },
+    {
+     "id": "401585561",
+     "date": "2024-03-11T23:00Z",
+     "season": 2024,
+     "home": "DET",
+     "away": "CHA",
+     "home_score": 114,
+     "away_score": 97
+    },
+    {
+     "id": "401585247",
+     "date": "2024-01-25T00:00Z",
+     "season": 2024,
+     "home": "DET",
+     "away": "CHA",
+     "home_score": 113,
+     "away_score": 106
+    },
+    {
+     "id": "401584705",
+     "date": "2023-10-27T23:00Z",
+     "season": 2024,
+     "home": "CHA",
+     "away": "DET",
+     "home_score": 99,
+     "away_score": 111
     }
    ]
   },
   "prediction": {
-   "home_points": 113.3,
-   "away_points": 106.0,
-   "home_margin": 7.3,
-   "home_win_prob": 0.696,
-   "away_win_prob": 0.304,
+   "home_points": 110.0,
+   "away_points": 106.2,
+   "home_margin": 3.9,
+   "home_win_prob": 0.608,
+   "away_win_prob": 0.392,
    "margin_range80": [
-    -10.9,
-    25.4
+    -14.2,
+    22.0
    ],
-   "total": 219.3,
+   "total": 216.2,
    "total_range80": [
-    195.6,
-    243.0
+    192.5,
+    239.9
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
    "factors": {
-    "team_strength": 4.4,
+    "team_strength": 4.0,
     "home_court": 2.0,
-    "rest": -0.0,
+    "rest": -3.0,
     "injuries": 0.9
    },
    "back_to_back": {
-    "home": false,
+    "home": true,
     "away": false
    },
    "injury_impact": {
@@ -2578,19 +1653,19 @@
    },
    "ratings": {
     "home": {
-     "offense": -0.4,
+     "offense": -0.8,
      "defense": -5.1
     },
     "away": {
-     "offense": -2.6,
-     "defense": -2.9
+     "offense": -2.7,
+     "defense": -3.0
     }
    },
    "vs_line": {
     "spread": -7.5,
-    "over_under": 216.5,
-    "home_cover_prob": 0.493,
-    "over_prob": 0.561,
+    "over_under": 215.5,
+    "home_cover_prob": 0.399,
+    "over_prob": 0.515,
     "provider": "DraftKings"
    }
   }
@@ -2621,7 +1696,7 @@
     "wins": 2,
     "losses": 2,
     "win_pct": 0.5,
-    "games_behind": "1.5",
+    "games_behind": "1",
     "home": "0-1",
     "road": "2-1",
     "last10": "2-2",
@@ -2876,7 +1951,7 @@
     "wins": 3,
     "losses": 1,
     "win_pct": 0.75,
-    "games_behind": "0.5",
+    "games_behind": "-",
     "home": "2-1",
     "road": "1-0",
     "last10": "3-1",
@@ -3072,10 +2147,10 @@
    ]
   },
   "head_to_head": {
-   "games": 8,
-   "wins": 3,
-   "losses": 5,
-   "avg_margin": -2.0,
+   "games": 11,
+   "wins": 5,
+   "losses": 6,
+   "avg_margin": -0.8,
    "recent": [
     {
      "id": "401811030",
@@ -3148,23 +2223,41 @@
      "away": "PHI",
      "home_score": 114,
      "away_score": 118
+    },
+    {
+     "id": "401585255",
+     "date": "2024-01-26T00:00Z",
+     "season": 2024,
+     "home": "IND",
+     "away": "PHI",
+     "home_score": 134,
+     "away_score": 122
+    },
+    {
+     "id": "401584107",
+     "date": "2023-11-15T00:00Z",
+     "season": 2024,
+     "home": "PHI",
+     "away": "IND",
+     "home_score": 126,
+     "away_score": 132
     }
    ]
   },
   "prediction": {
-   "home_points": 113.2,
-   "away_points": 118.2,
+   "home_points": 113.3,
+   "away_points": 118.4,
    "home_margin": -5.0,
-   "home_win_prob": 0.362,
-   "away_win_prob": 0.638,
+   "home_win_prob": 0.361,
+   "away_win_prob": 0.639,
    "margin_range80": [
-    -23.1,
+    -23.2,
     13.1
    ],
-   "total": 231.5,
+   "total": 231.7,
    "total_range80": [
-    207.8,
-    255.2
+    208.0,
+    255.4
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -3221,7 +2314,7 @@
    },
    "ratings": {
     "home": {
-     "offense": 0.8,
+     "offense": 0.7,
      "defense": 2.9
     },
     "away": {
@@ -3232,8 +2325,8 @@
    "vs_line": {
     "spread": 4.5,
     "over_under": 237.5,
-    "home_cover_prob": 0.486,
-    "over_prob": 0.372,
+    "home_cover_prob": 0.485,
+    "over_prob": 0.377,
     "provider": "DraftKings"
    }
   }
@@ -3264,7 +2357,7 @@
     "wins": 2,
     "losses": 1,
     "win_pct": 0.6666667,
-    "games_behind": "1",
+    "games_behind": "0.5",
     "home": "1-0",
     "road": "1-1",
     "last10": "2-1",
@@ -3447,7 +2540,7 @@
     "wins": 1,
     "losses": 2,
     "win_pct": 0.33333334,
-    "games_behind": "2",
+    "games_behind": "1.5",
     "home": "0-2",
     "road": "1-0",
     "last10": "1-2",
@@ -3655,10 +2748,10 @@
    ]
   },
   "head_to_head": {
-   "games": 7,
+   "games": 10,
    "wins": 5,
-   "losses": 2,
-   "avg_margin": 7.6,
+   "losses": 5,
+   "avg_margin": 0.9,
    "recent": [
     {
      "id": "401810941",
@@ -3722,23 +2815,50 @@
      "away": "ORL",
      "home_score": 97,
      "away_score": 106
+    },
+    {
+     "id": "401585607",
+     "date": "2024-03-17T22:00Z",
+     "season": 2024,
+     "home": "ORL",
+     "away": "TOR",
+     "home_score": 111,
+     "away_score": 96
+    },
+    {
+     "id": "401585591",
+     "date": "2024-03-15T23:30Z",
+     "season": 2024,
+     "home": "TOR",
+     "away": "ORL",
+     "home_score": 103,
+     "away_score": 113
+    },
+    {
+     "id": "401584126",
+     "date": "2023-11-22T00:00Z",
+     "season": 2024,
+     "home": "ORL",
+     "away": "TOR",
+     "home_score": 126,
+     "away_score": 107
     }
    ]
   },
   "prediction": {
-   "home_points": 111.7,
-   "away_points": 106.6,
+   "home_points": 111.9,
+   "away_points": 106.7,
    "home_margin": 5.2,
-   "home_win_prob": 0.643,
-   "away_win_prob": 0.357,
+   "home_win_prob": 0.642,
+   "away_win_prob": 0.358,
    "margin_range80": [
     -13.0,
     23.3
    ],
-   "total": 218.3,
+   "total": 218.5,
    "total_range80": [
-    194.6,
-    242.0
+    194.9,
+    242.2
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -3783,14 +2903,14 @@
     },
     "away": {
      "offense": -2.0,
-     "defense": -2.0
+     "defense": -2.1
     }
    },
    "vs_line": {
     "spread": -4.5,
     "over_under": 223.5,
-    "home_cover_prob": 0.519,
-    "over_prob": 0.389,
+    "home_cover_prob": 0.518,
+    "over_prob": 0.394,
     "provider": "DraftKings"
    }
   }
@@ -3821,7 +2941,7 @@
     "wins": 1,
     "losses": 3,
     "win_pct": 0.25,
-    "games_behind": "2.5",
+    "games_behind": "2",
     "home": "0-1",
     "road": "1-2",
     "last10": "1-3",
@@ -4013,44 +3133,44 @@
     "abbr": "NY",
     "conference": "Eastern Conference",
     "seed": 13,
-    "wins": 0,
+    "wins": 1,
     "losses": 3,
-    "win_pct": 0.0,
-    "games_behind": "3",
-    "home": "0-2",
+    "win_pct": 0.25,
+    "games_behind": "2",
+    "home": "1-2",
     "road": "0-1",
-    "last10": "0-3",
-    "streak": "L3",
-    "ppg": 101.666664,
-    "opp_ppg": 108.0
+    "last10": "1-3",
+    "streak": "W1",
+    "ppg": 104.0,
+    "opp_ppg": 105.25
    },
    "stats": {
-    "gp": 3,
+    "gp": 4,
     "record": [
-     0,
+     1,
      3
     ],
     "home_record": [
-     0,
+     1,
      2
     ],
     "away_record": [
      0,
      1
     ],
-    "ppg": 101.7,
-    "opp_ppg": 108.0,
-    "avg_margin": -6.3,
+    "ppg": 104.0,
+    "opp_ppg": 105.2,
+    "avg_margin": -1.2,
     "last10_record": [
-     0,
+     1,
      3
     ],
-    "last10_margin": -6.3,
-    "last_game": "2026-10-25T23:00Z",
-    "pace": 102.5,
-    "ortg": 99.2,
-    "drtg": 105.4,
-    "net_rtg": -6.2
+    "last10_margin": -1.2,
+    "last_game": "2026-10-28T00:00Z",
+    "pace": 101.3,
+    "ortg": 102.6,
+    "drtg": 103.9,
+    "net_rtg": -1.3
    },
    "rest_days": 0,
    "injuries": [
@@ -4060,10 +3180,10 @@
      "athlete_id": "4277869",
      "name": "Jose Alvarado",
      "position": "G",
-     "status": "Out",
+     "status": "Day-To-Day",
      "injury": "Left Ankle Sprain",
      "return_date": "2026-10-28",
-     "updated": "2026-10-26T20:50Z",
+     "updated": "2026-10-28T05:12Z",
      "comment": "Alvarado (ankle) is out for Tuesday's game against the Pistons."
     }
    ],
@@ -4073,20 +3193,20 @@
      "name": "Jalen Brunson",
      "position": "G",
      "team_id": "18",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 34.3,
-     "pts": 22.7,
-     "reb": 3.3,
-     "ast": 3.7,
-     "stl": 0.7,
-     "blk": 1.0,
-     "tov": 2.7,
-     "plus_minus": -2.7,
-     "fg_pct": 39.1,
-     "fg3_pct": 26.7,
-     "ft_pct": 70.0,
+     "gp": 4,
+     "gs": 4,
+     "last_game": "2026-10-28",
+     "min": 34.8,
+     "pts": 22.8,
+     "reb": 2.8,
+     "ast": 4.5,
+     "stl": 0.5,
+     "blk": 0.8,
+     "tov": 2.2,
+     "plus_minus": 1.5,
+     "fg_pct": 36.6,
+     "fg3_pct": 20.0,
+     "ft_pct": 75.0,
      "injury_status": null
     },
     {
@@ -4094,20 +3214,20 @@
      "name": "Karl-Anthony Towns",
      "position": "C",
      "team_id": "18",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 31.3,
-     "pts": 21.0,
-     "reb": 12.0,
-     "ast": 2.7,
-     "stl": 0.7,
-     "blk": 1.0,
-     "tov": 4.0,
-     "plus_minus": 0.3,
-     "fg_pct": 62.2,
-     "fg3_pct": 45.5,
-     "ft_pct": 70.6,
+     "gp": 4,
+     "gs": 4,
+     "last_game": "2026-10-28",
+     "min": 31.8,
+     "pts": 22.5,
+     "reb": 14.0,
+     "ast": 2.8,
+     "stl": 0.5,
+     "blk": 0.8,
+     "tov": 4.8,
+     "plus_minus": -0.5,
+     "fg_pct": 60.3,
+     "fg3_pct": 37.5,
+     "ft_pct": 73.7,
      "injury_status": null
     },
     {
@@ -4115,20 +3235,20 @@
      "name": "OG Anunoby",
      "position": "F",
      "team_id": "18",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 33.7,
-     "pts": 17.3,
-     "reb": 6.0,
-     "ast": 3.3,
-     "stl": 0.3,
-     "blk": 0.3,
-     "tov": 2.3,
-     "plus_minus": -14.0,
-     "fg_pct": 41.2,
-     "fg3_pct": 28.6,
-     "ft_pct": 81.8,
+     "gp": 4,
+     "gs": 4,
+     "last_game": "2026-10-28",
+     "min": 34.2,
+     "pts": 16.2,
+     "reb": 6.2,
+     "ast": 3.0,
+     "stl": 0.8,
+     "blk": 0.8,
+     "tov": 2.2,
+     "plus_minus": -7.2,
+     "fg_pct": 38.8,
+     "fg3_pct": 25.9,
+     "ft_pct": 83.3,
      "injury_status": null
     },
     {
@@ -4136,49 +3256,49 @@
      "name": "Josh Hart",
      "position": "G",
      "team_id": "18",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 33.7,
-     "pts": 12.3,
-     "reb": 9.0,
-     "ast": 3.3,
-     "stl": 2.0,
-     "blk": 0.3,
-     "tov": 1.7,
-     "plus_minus": 2.7,
-     "fg_pct": 41.2,
-     "fg3_pct": 33.3,
+     "gp": 4,
+     "gs": 4,
+     "last_game": "2026-10-28",
+     "min": 32.0,
+     "pts": 10.8,
+     "reb": 7.8,
+     "ast": 3.5,
+     "stl": 2.8,
+     "blk": 0.2,
+     "tov": 2.0,
+     "plus_minus": 6.8,
+     "fg_pct": 44.4,
+     "fg3_pct": 39.1,
      "ft_pct": 66.7,
      "injury_status": null
     },
     {
-     "athlete_id": "4431823",
-     "name": "Miles McBride",
+     "athlete_id": "3914044",
+     "name": "Landry Shamet",
      "position": "G",
      "team_id": "18",
-     "gp": 3,
+     "gp": 4,
      "gs": 0,
-     "last_game": "2026-10-25",
-     "min": 19.0,
+     "last_game": "2026-10-28",
+     "min": 24.0,
      "pts": 8.0,
-     "reb": 1.3,
-     "ast": 1.0,
-     "stl": 0.7,
-     "blk": 0.3,
-     "tov": 0.3,
-     "plus_minus": -2.3,
-     "fg_pct": 46.7,
-     "fg3_pct": 58.3,
-     "ft_pct": 75.0,
+     "reb": 2.0,
+     "ast": 2.0,
+     "stl": 0.2,
+     "blk": 0.0,
+     "tov": 1.5,
+     "plus_minus": 3.5,
+     "fg_pct": 37.0,
+     "fg3_pct": 42.1,
+     "ft_pct": 66.7,
      "injury_status": null
     }
    ]
   },
   "head_to_head": {
-   "games": 7,
-   "wins": 3,
-   "losses": 4,
+   "games": 11,
+   "wins": 4,
+   "losses": 7,
    "avg_margin": -5.1,
    "recent": [
     {
@@ -4243,35 +3363,62 @@
      "away": "CHI",
      "home_score": 123,
      "away_score": 124
+    },
+    {
+     "id": "401585818",
+     "date": "2024-04-14T17:00Z",
+     "season": 2024,
+     "home": "NY",
+     "away": "CHI",
+     "home_score": 120,
+     "away_score": 119
+    },
+    {
+     "id": "401585777",
+     "date": "2024-04-10T00:00Z",
+     "season": 2024,
+     "home": "CHI",
+     "away": "NY",
+     "home_score": 117,
+     "away_score": 128
+    },
+    {
+     "id": "401585747",
+     "date": "2024-04-06T00:00Z",
+     "season": 2024,
+     "home": "CHI",
+     "away": "NY",
+     "home_score": 108,
+     "away_score": 100
     }
    ]
   },
   "prediction": {
-   "home_points": 111.0,
-   "away_points": 120.8,
-   "home_margin": -9.9,
-   "home_win_prob": 0.243,
-   "away_win_prob": 0.757,
+   "home_points": 110.7,
+   "away_points": 118.0,
+   "home_margin": -7.3,
+   "home_win_prob": 0.304,
+   "away_win_prob": 0.696,
    "margin_range80": [
-    -28.0,
-    8.3
+    -25.4,
+    10.9
    ],
-   "total": 231.8,
+   "total": 228.7,
    "total_range80": [
-    208.1,
-    255.5
+    205.0,
+    252.4
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
    "factors": {
-    "team_strength": -11.9,
+    "team_strength": -12.3,
     "home_court": 2.0,
-    "rest": -0.0,
+    "rest": 3.0,
     "injuries": -0.0
    },
    "back_to_back": {
     "home": false,
-    "away": false
+    "away": true
    },
    "injury_impact": {
     "home": [
@@ -4286,19 +3433,19 @@
    },
    "ratings": {
     "home": {
-     "offense": 0.0,
+     "offense": -0.0,
      "defense": 6.2
     },
     "away": {
-     "offense": -1.1,
-     "defense": -6.8
+     "offense": -1.2,
+     "defense": -7.2
     }
    },
    "vs_line": {
     "spread": 7.5,
     "over_under": 234.5,
-    "home_cover_prob": 0.433,
-    "over_prob": 0.442,
+    "home_cover_prob": 0.507,
+    "over_prob": 0.376,
     "provider": "DraftKings"
    }
   }
@@ -4329,7 +3476,7 @@
     "wins": 1,
     "losses": 3,
     "win_pct": 0.25,
-    "games_behind": "2.5",
+    "games_behind": "2",
     "home": "1-1",
     "road": "0-2",
     "last10": "1-3",
@@ -4671,10 +3818,10 @@
    ]
   },
   "head_to_head": {
-   "games": 4,
-   "wins": 1,
-   "losses": 3,
-   "avg_margin": -3.8,
+   "games": 6,
+   "wins": 2,
+   "losses": 4,
+   "avg_margin": -1.7,
    "recent": [
     {
      "id": "401810965",
@@ -4711,23 +3858,41 @@
      "away": "HOU",
      "home_score": 101,
      "away_score": 100
+    },
+    {
+     "id": "401585124",
+     "date": "2024-01-07T01:00Z",
+     "season": 2024,
+     "home": "HOU",
+     "away": "MIL",
+     "home_score": 112,
+     "away_score": 108
+    },
+    {
+     "id": "401584974",
+     "date": "2023-12-18T00:00Z",
+     "season": 2024,
+     "home": "MIL",
+     "away": "HOU",
+     "home_score": 128,
+     "away_score": 119
     }
    ]
   },
   "prediction": {
-   "home_points": 112.8,
-   "away_points": 115.6,
+   "home_points": 113.0,
+   "away_points": 115.8,
    "home_margin": -2.8,
    "home_win_prob": 0.422,
    "away_win_prob": 0.578,
    "margin_range80": [
     -20.9,
-    15.4
+    15.3
    ],
-   "total": 228.4,
+   "total": 228.7,
    "total_range80": [
-    204.7,
-    252.1
+    205.0,
+    252.4
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -4771,14 +3936,14 @@
     },
     "away": {
      "offense": -0.7,
-     "defense": -3.6
+     "defense": -3.7
     }
    },
    "vs_line": {
     "spread": 8.5,
     "over_under": 227.5,
     "home_cover_prob": 0.657,
-    "over_prob": 0.52,
+    "over_prob": 0.526,
     "provider": "DraftKings"
    }
   }
@@ -4795,7 +3960,7 @@
    "provider": "DraftKings",
    "details": "MIN -3.5",
    "spread": -3.5,
-   "over_under": 225.5
+   "over_under": 228.5
   },
   "home": {
    "id": "16",
@@ -5188,10 +4353,10 @@
    ]
   },
   "head_to_head": {
-   "games": 13,
-   "wins": 8,
+   "games": 16,
+   "wins": 11,
    "losses": 5,
-   "avg_margin": 3.8,
+   "avg_margin": 3.9,
    "recent": [
     {
      "id": "401810821",
@@ -5286,19 +4451,19 @@
    ]
   },
   "prediction": {
-   "home_points": 118.6,
-   "away_points": 110.4,
+   "home_points": 118.7,
+   "away_points": 110.6,
    "home_margin": 8.2,
-   "home_win_prob": 0.719,
-   "away_win_prob": 0.281,
+   "home_win_prob": 0.718,
+   "away_win_prob": 0.282,
    "margin_range80": [
-    -9.9,
+    -10.0,
     26.3
    ],
-   "total": 229.0,
+   "total": 229.3,
    "total_range80": [
-    205.3,
-    252.7
+    205.6,
+    253.0
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -5339,7 +4504,7 @@
    "ratings": {
     "home": {
      "offense": 1.1,
-     "defense": -3.1
+     "defense": -3.2
     },
     "away": {
      "offense": 0.3,
@@ -5348,9 +4513,9 @@
    },
    "vs_line": {
     "spread": -3.5,
-    "over_under": 225.5,
-    "home_cover_prob": 0.63,
-    "over_prob": 0.575,
+    "over_under": 228.5,
+    "home_cover_prob": 0.629,
+    "over_prob": 0.517,
     "provider": "DraftKings"
    }
   }
@@ -5367,7 +4532,7 @@
    "provider": "DraftKings",
    "details": "DEN -4.5",
    "spread": 4.5,
-   "over_under": 238.5
+   "over_under": 240.5
   },
   "home": {
    "id": "3",
@@ -5760,10 +4925,10 @@
    ]
   },
   "head_to_head": {
-   "games": 8,
-   "wins": 1,
-   "losses": 7,
-   "avg_margin": -10.8,
+   "games": 11,
+   "wins": 2,
+   "losses": 9,
+   "avg_margin": -10.1,
    "recent": [
     {
      "id": "401909859",
@@ -5836,12 +5001,30 @@
      "away": "DEN",
      "home_score": 101,
      "away_score": 94
+    },
+    {
+     "id": "401585167",
+     "date": "2024-01-13T03:00Z",
+     "season": 2024,
+     "home": "DEN",
+     "away": "NO",
+     "home_score": 125,
+     "away_score": 113
+    },
+    {
+     "id": "401584122",
+     "date": "2023-11-18T01:00Z",
+     "season": 2024,
+     "home": "NO",
+     "away": "DEN",
+     "home_score": 115,
+     "away_score": 110
     }
    ]
   },
   "prediction": {
-   "home_points": 119.7,
-   "away_points": 121.7,
+   "home_points": 119.8,
+   "away_points": 121.9,
    "home_margin": -2.0,
    "home_win_prob": 0.443,
    "away_win_prob": 0.557,
@@ -5849,10 +5032,10 @@
     -20.2,
     16.1
    ],
-   "total": 241.4,
+   "total": 241.7,
    "total_range80": [
-    217.7,
-    265.1
+    218.0,
+    265.4
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -5899,7 +5082,7 @@
    "ratings": {
     "home": {
      "offense": 1.9,
-     "defense": 4.4
+     "defense": 4.3
     },
     "away": {
      "offense": 2.1,
@@ -5908,9 +5091,9 @@
    },
    "vs_line": {
     "spread": 4.5,
-    "over_under": 238.5,
+    "over_under": 240.5,
     "home_cover_prob": 0.569,
-    "over_prob": 0.563,
+    "over_prob": 0.526,
     "provider": "DraftKings"
    }
   }
@@ -6332,10 +5515,10 @@
    ]
   },
   "head_to_head": {
-   "games": 7,
-   "wins": 2,
-   "losses": 5,
-   "avg_margin": -7.9,
+   "games": 10,
+   "wins": 4,
+   "losses": 6,
+   "avg_margin": -3.1,
    "recent": [
     {
      "id": "401810487",
@@ -6399,12 +5582,39 @@
      "away": "SA",
      "home_score": 88,
      "away_score": 106
+    },
+    {
+     "id": "401585686",
+     "date": "2024-03-28T01:00Z",
+     "season": 2024,
+     "home": "UTAH",
+     "away": "SA",
+     "home_score": 111,
+     "away_score": 118
+    },
+    {
+     "id": "401585453",
+     "date": "2024-02-26T01:00Z",
+     "season": 2024,
+     "home": "UTAH",
+     "away": "SA",
+     "home_score": 128,
+     "away_score": 109
+    },
+    {
+     "id": "401585040",
+     "date": "2023-12-27T01:00Z",
+     "season": 2024,
+     "home": "SA",
+     "away": "UTAH",
+     "home_score": 118,
+     "away_score": 130
     }
    ]
   },
   "prediction": {
-   "home_points": 112.3,
-   "away_points": 120.7,
+   "home_points": 112.5,
+   "away_points": 120.9,
    "home_margin": -8.4,
    "home_win_prob": 0.276,
    "away_win_prob": 0.724,
@@ -6412,10 +5622,10 @@
     -26.5,
     9.7
    ],
-   "total": 233.1,
+   "total": 233.3,
    "total_range80": [
-    209.4,
-    256.8
+    209.6,
+    257.0
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -6454,19 +5664,19 @@
    },
    "ratings": {
     "home": {
-     "offense": 2.0,
+     "offense": 1.9,
      "defense": 6.4
     },
     "away": {
      "offense": 1.6,
-     "defense": -4.5
+     "defense": -4.6
     }
    },
    "vs_line": {
     "spread": 12.5,
     "over_under": 234.5,
     "home_cover_prob": 0.614,
-    "over_prob": 0.469,
+    "over_prob": 0.475,
     "provider": "DraftKings"
    }
   }
@@ -6483,7 +5693,7 @@
    "provider": "DraftKings",
    "details": "OKC -5.5",
    "spread": 5.5,
-   "over_under": 230.5
+   "over_under": 229.5
   },
   "home": {
    "id": "6",
@@ -6984,10 +6194,10 @@
    ]
   },
   "head_to_head": {
-   "games": 7,
-   "wins": 3,
-   "losses": 4,
-   "avg_margin": -5.6,
+   "games": 17,
+   "wins": 8,
+   "losses": 9,
+   "avg_margin": -3.9,
    "recent": [
     {
      "id": "401810731",
@@ -7051,12 +6261,39 @@
      "away": "DAL",
      "home_score": 119,
      "away_score": 121
+    },
+    {
+     "id": "401658194",
+     "date": "2024-05-19T00:00Z",
+     "season": 2024,
+     "home": "DAL",
+     "away": "OKC",
+     "home_score": 117,
+     "away_score": 116
+    },
+    {
+     "id": "401658192",
+     "date": "2024-05-16T01:30Z",
+     "season": 2024,
+     "home": "OKC",
+     "away": "DAL",
+     "home_score": 92,
+     "away_score": 104
+    },
+    {
+     "id": "401658191",
+     "date": "2024-05-14T01:30Z",
+     "season": 2024,
+     "home": "DAL",
+     "away": "OKC",
+     "home_score": 96,
+     "away_score": 100
     }
    ]
   },
   "prediction": {
-   "home_points": 111.4,
-   "away_points": 114.7,
+   "home_points": 111.5,
+   "away_points": 114.8,
    "home_margin": -3.3,
    "home_win_prob": 0.408,
    "away_win_prob": 0.592,
@@ -7064,10 +6301,10 @@
     -21.4,
     14.8
    ],
-   "total": 226.1,
+   "total": 226.4,
    "total_range80": [
-    202.4,
-    249.8
+    202.7,
+    250.1
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -7131,19 +6368,19 @@
    },
    "ratings": {
     "home": {
-     "offense": 0.6,
-     "defense": 3.0
+     "offense": 0.5,
+     "defense": 2.9
     },
     "away": {
-     "offense": 1.7,
+     "offense": 1.6,
      "defense": -5.5
     }
    },
    "vs_line": {
     "spread": 5.5,
-    "over_under": 230.5,
+    "over_under": 229.5,
     "home_cover_prob": 0.562,
-    "over_prob": 0.405,
+    "over_prob": 0.432,
     "provider": "DraftKings"
    }
   }
@@ -7401,45 +6638,45 @@
     "team_id": "13",
     "abbr": "LAL",
     "conference": "Western Conference",
-    "seed": 4,
+    "seed": 5,
     "wins": 3,
-    "losses": 0,
-    "win_pct": 1.0,
-    "games_behind": "0.5",
-    "home": "2-0",
+    "losses": 1,
+    "win_pct": 0.75,
+    "games_behind": "1",
+    "home": "2-1",
     "road": "1-0",
-    "last10": "3-0",
-    "streak": "W3",
-    "ppg": 128.0,
-    "opp_ppg": 115.0
+    "last10": "3-1",
+    "streak": "L1",
+    "ppg": 128.25,
+    "opp_ppg": 120.25
    },
    "stats": {
-    "gp": 3,
+    "gp": 4,
     "record": [
      3,
-     0
+     1
     ],
     "home_record": [
      2,
-     0
+     1
     ],
     "away_record": [
      1,
      0
     ],
-    "ppg": 128.0,
-    "opp_ppg": 115.0,
-    "avg_margin": 13.0,
+    "ppg": 128.2,
+    "opp_ppg": 120.2,
+    "avg_margin": 8.0,
     "last10_record": [
      3,
-     0
+     1
     ],
-    "last10_margin": 13.0,
-    "last_game": "2026-10-25T21:00Z",
-    "pace": 104.2,
-    "ortg": 122.8,
-    "drtg": 110.3,
-    "net_rtg": 12.5
+    "last10_margin": 8.0,
+    "last_game": "2026-10-28T03:00Z",
+    "pace": 103.8,
+    "ortg": 123.5,
+    "drtg": 115.8,
+    "net_rtg": 7.7
    },
    "rest_days": 0,
    "injuries": [
@@ -7474,20 +6711,20 @@
      "name": "Luka Doncic",
      "position": "G",
      "team_id": "13",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 35.0,
-     "pts": 34.3,
-     "reb": 7.3,
-     "ast": 8.0,
-     "stl": 1.7,
-     "blk": 0.3,
-     "tov": 7.0,
-     "plus_minus": 14.7,
-     "fg_pct": 46.4,
-     "fg3_pct": 39.5,
-     "ft_pct": 88.9,
+     "gp": 4,
+     "gs": 4,
+     "last_game": "2026-10-28",
+     "min": 35.5,
+     "pts": 36.0,
+     "reb": 6.8,
+     "ast": 8.2,
+     "stl": 1.2,
+     "blk": 0.5,
+     "tov": 5.8,
+     "plus_minus": 12.8,
+     "fg_pct": 48.4,
+     "fg3_pct": 39.6,
+     "ft_pct": 87.5,
      "injury_status": null
     },
     {
@@ -7495,20 +6732,20 @@
      "name": "Austin Reaves",
      "position": "G",
      "team_id": "13",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 35.3,
-     "pts": 26.7,
-     "reb": 2.3,
-     "ast": 6.3,
-     "stl": 1.7,
-     "blk": 1.0,
-     "tov": 4.3,
-     "plus_minus": 17.7,
-     "fg_pct": 63.9,
-     "fg3_pct": 61.5,
-     "ft_pct": 89.7,
+     "gp": 4,
+     "gs": 4,
+     "last_game": "2026-10-28",
+     "min": 36.2,
+     "pts": 26.5,
+     "reb": 2.8,
+     "ast": 6.5,
+     "stl": 1.2,
+     "blk": 0.8,
+     "tov": 3.2,
+     "plus_minus": 13.2,
+     "fg_pct": 63.3,
+     "fg3_pct": 57.1,
+     "ft_pct": 88.9,
      "injury_status": null
     },
     {
@@ -7516,20 +6753,20 @@
      "name": "Walker Kessler",
      "position": "C",
      "team_id": "13",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 31.0,
-     "pts": 16.7,
+     "gp": 4,
+     "gs": 4,
+     "last_game": "2026-10-28",
+     "min": 31.5,
+     "pts": 15.8,
      "reb": 8.0,
-     "ast": 1.3,
+     "ast": 1.0,
      "stl": 1.0,
-     "blk": 3.0,
-     "tov": 1.3,
-     "plus_minus": 16.0,
-     "fg_pct": 82.1,
+     "blk": 2.8,
+     "tov": 2.0,
+     "plus_minus": 12.8,
+     "fg_pct": 78.4,
      "fg3_pct": null,
-     "ft_pct": 44.4,
+     "ft_pct": 38.5,
      "injury_status": null
     },
     {
@@ -7537,50 +6774,50 @@
      "name": "Ziaire Williams",
      "position": "F",
      "team_id": "13",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 28.3,
-     "pts": 11.3,
-     "reb": 3.3,
-     "ast": 1.7,
-     "stl": 1.3,
-     "blk": 0.3,
-     "tov": 0.7,
-     "plus_minus": 10.7,
-     "fg_pct": 52.2,
-     "fg3_pct": 41.7,
-     "ft_pct": 100.0,
+     "gp": 4,
+     "gs": 4,
+     "last_game": "2026-10-28",
+     "min": 28.5,
+     "pts": 11.2,
+     "reb": 3.0,
+     "ast": 2.2,
+     "stl": 1.5,
+     "blk": 0.2,
+     "tov": 0.8,
+     "plus_minus": 7.2,
+     "fg_pct": 57.1,
+     "fg3_pct": 46.7,
+     "ft_pct": 85.7,
      "injury_status": null
     },
     {
-     "athlete_id": "3907498",
-     "name": "Matisse Thybulle",
-     "position": "G",
+     "athlete_id": "4278580",
+     "name": "Sandro Mamukelashvili",
+     "position": "F",
      "team_id": "13",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 24.3,
-     "pts": 9.0,
-     "reb": 1.7,
-     "ast": 1.3,
-     "stl": 2.0,
-     "blk": 1.0,
-     "tov": 0.3,
-     "plus_minus": 12.3,
-     "fg_pct": 50.0,
-     "fg3_pct": 46.7,
-     "ft_pct": null,
+     "gp": 4,
+     "gs": 0,
+     "last_game": "2026-10-28",
+     "min": 22.8,
+     "pts": 9.5,
+     "reb": 4.0,
+     "ast": 1.5,
+     "stl": 0.5,
+     "blk": 0.5,
+     "tov": 0.2,
+     "plus_minus": 1.8,
+     "fg_pct": 59.1,
+     "fg3_pct": 55.6,
+     "ft_pct": 70.0,
      "injury_status": null
     }
    ]
   },
   "head_to_head": {
-   "games": 9,
-   "wins": 3,
-   "losses": 6,
-   "avg_margin": -2.9,
+   "games": 13,
+   "wins": 4,
+   "losses": 9,
+   "avg_margin": -2.1,
    "recent": [
     {
      "id": "401909851",
@@ -7662,35 +6899,44 @@
      "away": "LAL",
      "home_score": 116,
      "away_score": 102
+    },
+    {
+     "id": "401585476",
+     "date": "2024-02-29T03:00Z",
+     "season": 2024,
+     "home": "LAC",
+     "away": "LAL",
+     "home_score": 112,
+     "away_score": 116
     }
    ]
   },
   "prediction": {
-   "home_points": 113.1,
-   "away_points": 115.2,
-   "home_margin": -2.1,
-   "home_win_prob": 0.441,
-   "away_win_prob": 0.559,
+   "home_points": 114.3,
+   "away_points": 113.0,
+   "home_margin": 1.4,
+   "home_win_prob": 0.539,
+   "away_win_prob": 0.461,
    "margin_range80": [
-    -20.2,
-    16.0
+    -16.8,
+    19.5
    ],
-   "total": 228.3,
+   "total": 227.3,
    "total_range80": [
-    204.6,
-    252.0
+    203.6,
+    251.0
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
    "factors": {
-    "team_strength": -1.7,
+    "team_strength": -1.2,
     "home_court": 2.0,
-    "rest": -0.0,
+    "rest": 3.0,
     "injuries": -2.4
    },
    "back_to_back": {
     "home": false,
-    "away": false
+    "away": true
    },
    "injury_impact": {
     "home": [
@@ -7712,18 +6958,18 @@
    "ratings": {
     "home": {
      "offense": -0.7,
-     "defense": -1.4
+     "defense": -1.5
     },
     "away": {
-     "offense": 0.9,
-     "defense": -1.5
+     "offense": 1.5,
+     "defense": -0.5
     }
    },
    "vs_line": {
     "spread": 5.5,
     "over_under": 228.5,
-    "home_cover_prob": 0.595,
-    "over_prob": 0.496,
+    "home_cover_prob": 0.686,
+    "over_prob": 0.474,
     "provider": "DraftKings"
    }
   }
@@ -7748,7 +6994,7 @@
     "wins": 2,
     "losses": 2,
     "win_pct": 0.5,
-    "games_behind": "1.5",
+    "games_behind": "1",
     "home": "0-1",
     "road": "2-1",
     "last10": "2-2",
@@ -7943,7 +7189,7 @@
     "wins": 2,
     "losses": 1,
     "win_pct": 0.6666667,
-    "games_behind": "1",
+    "games_behind": "0.5",
     "home": "2-0",
     "road": "0-1",
     "last10": "2-1",
@@ -8090,10 +7336,10 @@
    ]
   },
   "head_to_head": {
-   "games": 7,
-   "wins": 4,
-   "losses": 3,
-   "avg_margin": 2.9,
+   "games": 11,
+   "wins": 5,
+   "losses": 6,
+   "avg_margin": -1.9,
    "recent": [
     {
      "id": "401811028",
@@ -8157,12 +7403,39 @@
      "away": "ATL",
      "home_score": 124,
      "away_score": 135
+    },
+    {
+     "id": "401585523",
+     "date": "2024-03-07T00:30Z",
+     "season": 2024,
+     "home": "ATL",
+     "away": "CLE",
+     "home_score": 112,
+     "away_score": 101
+    },
+    {
+     "id": "401585223",
+     "date": "2024-01-21T00:30Z",
+     "season": 2024,
+     "home": "ATL",
+     "away": "CLE",
+     "home_score": 95,
+     "away_score": 116
+    },
+    {
+     "id": "401584964",
+     "date": "2023-12-17T00:30Z",
+     "season": 2024,
+     "home": "CLE",
+     "away": "ATL",
+     "home_score": 127,
+     "away_score": 119
     }
    ]
   },
   "prediction": {
-   "home_points": 119.6,
-   "away_points": 116.9,
+   "home_points": 119.8,
+   "away_points": 117.0,
    "home_margin": 2.8,
    "home_win_prob": 0.578,
    "away_win_prob": 0.422,
@@ -8170,10 +7443,10 @@
     -15.4,
     20.9
    ],
-   "total": 236.5,
+   "total": 236.8,
    "total_range80": [
-    212.8,
-    260.2
+    213.1,
+    260.5
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -8194,10 +7467,10 @@
    "ratings": {
     "home": {
      "offense": 1.8,
-     "defense": -0.1
+     "defense": -0.2
     },
     "away": {
-     "offense": 1.3,
+     "offense": 1.2,
      "defense": 0.1
     }
    }
@@ -8602,10 +7875,10 @@
    ]
   },
   "head_to_head": {
-   "games": 7,
-   "wins": 3,
+   "games": 13,
+   "wins": 9,
    "losses": 4,
-   "avg_margin": 3.4,
+   "avg_margin": 9.8,
    "recent": [
     {
      "id": "401810983",
@@ -8669,23 +7942,50 @@
      "away": "SAC",
      "home_score": 109,
      "away_score": 111
+    },
+    {
+     "id": "401654661",
+     "date": "2024-04-20T01:30Z",
+     "season": 2024,
+     "home": "NO",
+     "away": "SAC",
+     "home_score": 105,
+     "away_score": 98
+    },
+    {
+     "id": "401585798",
+     "date": "2024-04-12T02:00Z",
+     "season": 2024,
+     "home": "SAC",
+     "away": "NO",
+     "home_score": 123,
+     "away_score": 135
+    },
+    {
+     "id": "401585128",
+     "date": "2024-01-07T23:00Z",
+     "season": 2024,
+     "home": "SAC",
+     "away": "NO",
+     "home_score": 100,
+     "away_score": 133
     }
    ]
   },
   "prediction": {
-   "home_points": 123.4,
-   "away_points": 115.4,
+   "home_points": 123.5,
+   "away_points": 115.5,
    "home_margin": 8.0,
-   "home_win_prob": 0.714,
-   "away_win_prob": 0.286,
+   "home_win_prob": 0.715,
+   "away_win_prob": 0.285,
    "margin_range80": [
     -10.1,
-    26.1
+    26.2
    ],
-   "total": 238.8,
+   "total": 239.1,
    "total_range80": [
-    215.1,
-    262.5
+    215.4,
+    262.8
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -8738,7 +8038,7 @@
    "ratings": {
     "home": {
      "offense": 1.9,
-     "defense": 4.4
+     "defense": 4.3
     },
     "away": {
      "offense": -1.7,
@@ -8763,22 +8063,22 @@
     "team_id": "22",
     "abbr": "POR",
     "conference": "Western Conference",
-    "seed": 5,
-    "wins": 2,
+    "seed": 4,
+    "wins": 3,
     "losses": 0,
     "win_pct": 1.0,
-    "games_behind": "1",
+    "games_behind": "0.5",
     "home": "1-0",
-    "road": "1-0",
-    "last10": "2-0",
-    "streak": "W2",
-    "ppg": 126.0,
-    "opp_ppg": 101.5
+    "road": "2-0",
+    "last10": "3-0",
+    "streak": "W3",
+    "ppg": 129.33333,
+    "opp_ppg": 110.666664
    },
    "stats": {
-    "gp": 2,
+    "gp": 3,
     "record": [
-     2,
+     3,
      0
     ],
     "home_record": [
@@ -8786,22 +8086,22 @@
      0
     ],
     "away_record": [
-     1,
-     0
-    ],
-    "ppg": 126.0,
-    "opp_ppg": 101.5,
-    "avg_margin": 24.5,
-    "last10_record": [
      2,
      0
     ],
-    "last10_margin": 24.5,
-    "last_game": "2026-10-24T02:00Z",
-    "pace": 103.6,
-    "ortg": 121.6,
-    "drtg": 98.0,
-    "net_rtg": 23.6
+    "ppg": 129.3,
+    "opp_ppg": 110.7,
+    "avg_margin": 18.7,
+    "last10_record": [
+     3,
+     0
+    ],
+    "last10_margin": 18.7,
+    "last_game": "2026-10-28T03:00Z",
+    "pace": 103.3,
+    "ortg": 125.2,
+    "drtg": 107.2,
+    "net_rtg": 18.0
    },
    "rest_days": 1,
    "injuries": [
@@ -8836,20 +8136,20 @@
      "name": "Deni Avdija",
      "position": "F",
      "team_id": "22",
-     "gp": 2,
-     "gs": 2,
-     "last_game": "2026-10-24",
-     "min": 30.5,
-     "pts": 22.0,
-     "reb": 8.5,
-     "ast": 5.0,
-     "stl": 1.5,
+     "gp": 3,
+     "gs": 3,
+     "last_game": "2026-10-28",
+     "min": 31.3,
+     "pts": 22.3,
+     "reb": 7.0,
+     "ast": 6.3,
+     "stl": 1.3,
      "blk": 0.0,
-     "tov": 2.5,
-     "plus_minus": 18.5,
-     "fg_pct": 46.9,
-     "fg3_pct": 33.3,
-     "ft_pct": 68.8,
+     "tov": 2.7,
+     "plus_minus": 15.0,
+     "fg_pct": 48.9,
+     "fg3_pct": 43.8,
+     "ft_pct": 60.9,
      "injury_status": null
     },
     {
@@ -8857,20 +8157,20 @@
      "name": "Damian Lillard",
      "position": "G",
      "team_id": "22",
-     "gp": 2,
-     "gs": 2,
-     "last_game": "2026-10-24",
-     "min": 28.5,
-     "pts": 22.0,
-     "reb": 4.0,
+     "gp": 3,
+     "gs": 3,
+     "last_game": "2026-10-28",
+     "min": 29.3,
+     "pts": 21.7,
+     "reb": 4.3,
      "ast": 4.0,
-     "stl": 1.5,
+     "stl": 1.0,
      "blk": 0.0,
-     "tov": 1.5,
-     "plus_minus": 21.0,
-     "fg_pct": 46.7,
-     "fg3_pct": 40.0,
-     "ft_pct": 100.0,
+     "tov": 1.7,
+     "plus_minus": 13.7,
+     "fg_pct": 45.2,
+     "fg3_pct": 42.9,
+     "ft_pct": 78.9,
      "injury_status": null
     },
     {
@@ -8878,19 +8178,19 @@
      "name": "Toumani Camara",
      "position": "F",
      "team_id": "22",
-     "gp": 2,
-     "gs": 2,
-     "last_game": "2026-10-24",
-     "min": 25.0,
-     "pts": 18.5,
-     "reb": 2.5,
-     "ast": 2.0,
+     "gp": 3,
+     "gs": 3,
+     "last_game": "2026-10-28",
+     "min": 24.7,
+     "pts": 16.3,
+     "reb": 2.0,
+     "ast": 1.7,
      "stl": 1.0,
      "blk": 0.0,
-     "tov": 0.5,
-     "plus_minus": 14.5,
-     "fg_pct": 61.9,
-     "fg3_pct": 52.9,
+     "tov": 0.3,
+     "plus_minus": 9.3,
+     "fg_pct": 65.4,
+     "fg3_pct": 59.1,
      "ft_pct": 100.0,
      "injury_status": null
     },
@@ -8899,20 +8199,20 @@
      "name": "Ja Morant",
      "position": "G",
      "team_id": "22",
-     "gp": 2,
-     "gs": 2,
-     "last_game": "2026-10-24",
-     "min": 25.0,
-     "pts": 13.0,
-     "reb": 4.0,
-     "ast": 7.5,
-     "stl": 2.0,
+     "gp": 3,
+     "gs": 3,
+     "last_game": "2026-10-28",
+     "min": 27.0,
+     "pts": 16.3,
+     "reb": 2.7,
+     "ast": 6.3,
+     "stl": 1.3,
      "blk": 0.0,
-     "tov": 1.5,
-     "plus_minus": 20.0,
-     "fg_pct": 52.4,
-     "fg3_pct": 37.5,
-     "ft_pct": 50.0,
+     "tov": 1.3,
+     "plus_minus": 16.0,
+     "fg_pct": 58.8,
+     "fg3_pct": 44.4,
+     "ft_pct": 83.3,
      "injury_status": null
     },
     {
@@ -8920,20 +8220,20 @@
      "name": "Jrue Holiday",
      "position": "G",
      "team_id": "22",
-     "gp": 2,
+     "gp": 3,
      "gs": 0,
-     "last_game": "2026-10-24",
-     "min": 23.5,
-     "pts": 10.0,
-     "reb": 2.5,
-     "ast": 4.5,
-     "stl": 1.5,
-     "blk": 0.5,
-     "tov": 0.0,
-     "plus_minus": 15.5,
-     "fg_pct": 37.5,
-     "fg3_pct": 25.0,
-     "ft_pct": 83.3,
+     "last_game": "2026-10-28",
+     "min": 25.7,
+     "pts": 14.0,
+     "reb": 3.0,
+     "ast": 4.0,
+     "stl": 1.3,
+     "blk": 0.3,
+     "tov": 0.3,
+     "plus_minus": 13.7,
+     "fg_pct": 50.0,
+     "fg3_pct": 27.8,
+     "ft_pct": 75.0,
      "injury_status": null
     }
    ]
@@ -9097,10 +8397,10 @@
    ]
   },
   "head_to_head": {
-   "games": 7,
-   "wins": 4,
-   "losses": 3,
-   "avg_margin": -6.0,
+   "games": 11,
+   "wins": 7,
+   "losses": 4,
+   "avg_margin": -1.4,
    "recent": [
     {
      "id": "401810751",
@@ -9164,28 +8464,55 @@
      "away": "MEM",
      "home_score": 89,
      "away_score": 134
+    },
+    {
+     "id": "401585496",
+     "date": "2024-03-03T01:00Z",
+     "season": 2024,
+     "home": "MEM",
+     "away": "POR",
+     "home_score": 100,
+     "away_score": 107
+    },
+    {
+     "id": "401585489",
+     "date": "2024-03-02T01:00Z",
+     "season": 2024,
+     "home": "MEM",
+     "away": "POR",
+     "home_score": 92,
+     "away_score": 122
+    },
+    {
+     "id": "401584772",
+     "date": "2023-11-06T02:00Z",
+     "season": 2024,
+     "home": "POR",
+     "away": "MEM",
+     "home_score": 100,
+     "away_score": 112
     }
    ]
   },
   "prediction": {
-   "home_points": 120.1,
-   "away_points": 113.4,
-   "home_margin": 6.7,
-   "home_win_prob": 0.683,
-   "away_win_prob": 0.317,
+   "home_points": 121.4,
+   "away_points": 114.1,
+   "home_margin": 7.2,
+   "home_win_prob": 0.696,
+   "away_win_prob": 0.304,
    "margin_range80": [
-    -11.4,
-    24.9
+    -10.9,
+    25.4
    ],
-   "total": 233.5,
+   "total": 235.5,
    "total_range80": [
-    209.8,
-    257.2
+    211.8,
+    259.2
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
    "factors": {
-    "team_strength": 5.3,
+    "team_strength": 5.8,
     "home_court": 2.0,
     "rest": -0.0,
     "injuries": -0.5
@@ -9207,12 +8534,12 @@
    },
    "ratings": {
     "home": {
-     "offense": -1.0,
-     "defense": -3.0
+     "offense": 0.1,
+     "defense": -2.4
     },
     "away": {
-     "offense": 0.7,
-     "defense": 3.9
+     "offense": 0.6,
+     "defense": 3.8
     }
    }
   }
