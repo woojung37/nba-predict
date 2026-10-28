@@ -1096,26 +1096,20 @@
   "date": "2026-10-27T23:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "TD Garden",
   "home": {
    "id": "2",
    "abbr": "BOS",
-   "score": null
+   "score": 54
   },
   "away": {
    "id": "17",
    "abbr": "BKN",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "BOS -13.5",
-   "spread": -13.5,
-   "over_under": 223.5
+   "score": 59
   }
  },
  {
@@ -1123,26 +1117,20 @@
   "date": "2026-10-28T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Madison Square Garden",
   "home": {
    "id": "18",
    "abbr": "NY",
-   "score": null
+   "score": 20
   },
   "away": {
    "id": "8",
    "abbr": "DET",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "NY -3.5",
-   "spread": -3.5,
-   "over_under": 220.5
+   "score": 27
   }
  },
  {
@@ -1150,26 +1138,20 @@
   "date": "2026-10-28T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Frost Bank Center",
   "home": {
    "id": "24",
    "abbr": "SA",
-   "score": null
+   "score": 39
   },
   "away": {
    "id": "23",
    "abbr": "SAC",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "SA -19.5",
-   "spread": -19.5,
-   "over_under": 232.5
+   "score": 29
   }
  },
  {
@@ -1461,6 +1443,12 @@
    "id": "24",
    "abbr": "SA",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "SA -12.5",
+   "spread": 12.5,
+   "over_under": 234.5
   }
  },
  {
@@ -1482,6 +1470,12 @@
    "id": "25",
    "abbr": "OKC",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "OKC -5.5",
+   "spread": 5.5,
+   "over_under": 230.5
   }
  },
  {
@@ -1503,6 +1497,12 @@
    "id": "13",
    "abbr": "LAL",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "LAL -5.5",
+   "spread": 5.5,
+   "over_under": 228.5
   }
  },
  {
