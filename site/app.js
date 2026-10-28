@@ -53,7 +53,7 @@ async function viewGames() {
   }
   const byDay = {};
   for (const g of games) (byDay[kstDay(g.date)] ||= []).push(g);
-  let html = `<h1>예정된 경기 <small>한국 시간</small></h1>`;
+  let html = `<h1>예정된 경기 <small>한국 시간</small></h1>` + highlights(games);
   for (const [day, list] of Object.entries(byDay)) {
     html += `<h2>${esc(day)}</h2><div class="cards">`;
     for (const g of list) {
@@ -74,6 +74,29 @@ async function viewGames() {
   }
   app.innerHTML = html;
 }
+// 목록 위 요약: 모델이 확신하는 경기, 해외 기준선과 의견이 크게 다른 경기
+function highlights(games) {
+  const open = games.filter((g) => g.prediction && g.state === "pre");
+  const sure = open.map((g) => ({ g, p: Math.max(g.prediction.home_win_prob, 1 - g.prediction.home_win_prob) }))
+    .filter((x) => x.p >= 0.7).sort((a, b) => b.p - a.p);
+  const differ = open.filter((g) => g.prediction.vs_line?.spread != null)
+    .map((g) => ({ g, gap: g.prediction.home_margin + g.prediction.vs_line.spread }))
+    .filter((x) => Math.abs(x.gap) >= 4).sort((a, b) => Math.abs(b.gap) - Math.abs(a.gap));
+  if (!sure.length && !differ.length) return "";
+  const when = (g) => `<span class="muted">${esc(kst(g.date))}</span>`;
+  const fav = (g) => (g.prediction.home_margin >= 0 ? g.home : g.away);
+  return `<div class="two">
+    ${sure.length ? `<section class="panel"><h2>확신 경기 <small>(승률 70% 이상)</small></h2><table><tbody>
+      ${sure.map(({ g, p }) => `<tr><td><a href="#/game/${g.id}">${esc(ko(g.away.abbr))} @ ${esc(ko(g.home.abbr))}</a><br>${when(g)}</td><td class="num"><b>${esc(ko(fav(g).abbr).split(" ").pop())} ${pct(p)}</b></td></tr>`).join("")}
+    </tbody></table></section>` : ""}
+    ${differ.length ? `<section class="panel"><h2>기준선과 의견이 다른 경기 <small>(4점 이상 차이)</small></h2><table><tbody>
+      ${differ.map(({ g, gap }) => { const side = gap > 0 ? g.home : g.away, line = g.prediction.vs_line.spread;
+        return `<tr><td><a href="#/game/${g.id}">${esc(ko(g.away.abbr))} @ ${esc(ko(g.home.abbr))}</a><br>${when(g)}</td><td class="num">기준선 ${esc(ko(g.home.abbr).split(" ").pop())} ${line > 0 ? "+" : ""}${line}<br>모델은 <b>${esc(ko(side.abbr).split(" ").pop())}</b> 쪽 (${num(Math.abs(gap))}점)</td></tr>`; }).join("")}
+    </tbody></table></section>` : ""}
+  </div>
+  <p class="muted">기준선과 의견이 다른 경기는 모델이 틀렸을 가능성도 그만큼 커요. '예측 성적'의 기준선 적중률과 함께 보세요.</p>`;
+}
+
 const logo = (t) => (t?.logo ? `<img class="logo" src="${esc(t.logo)}" alt="">` : "");
 
 // ---------- 경기 상세 ----------

@@ -27,7 +27,7 @@ python -m collector.validate                                   # 데이터 점�
 | `data/derived/player_stats.json` | 선수별 시즌 평균 |
 | `data/derived/upcoming.json` | 향후 60시간 경기 (한국 시간, 상대전적, 부상자, 휴식일, 주요 선수) |
 
-GitHub Actions(`.github/workflows/collect.yml`)가 매일 한국 시간 15:00과 06:30에 `daily`를 돌려 결과를 커밋합니다.
+GitHub Actions(`.github/workflows/collect.yml`)가 매일 한국 시간 15:00, 21:00, 06:30에 `daily`를 돌려 결과를 커밋합니다.
 
 ## 예측 모델 (`model/`)
 
