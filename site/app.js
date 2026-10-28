@@ -330,8 +330,87 @@ function lineBox(tr) {
   ${row("핸디캡", tr.handicap)}${row("언오버", tr.over_under)}</tbody></table>
   ${tr.total_mae != null ? `<p class="muted">총점 평균 오차 ${num(tr.total_mae)}점. 참고로 기준선에서 수익을 내려면 보통 52~53% 이상 적중이 필요해요.</p>` : ""}`;
 }
+// 날짜별 예측 기록: 이번 시즌 실제 예측(log)과 지난 시즌 검증 경기(backtest)
+function historyRows(log, bt) {
+  const live = Object.entries(log || {}).map(([id, e]) => ({
+    id, date: e.date, home: e.home, away: e.away, live: true,
+    ph: e.prediction.home_points, pa: e.prediction.away_points, prob: e.prediction.home_win_prob,
+    hs: e.result?.home_score, as: e.result?.away_score, line: e.line,
+  }));
+  const past = (bt?.test_games || []).filter((g) => g.home_score != null).map((g) => ({
+    id: g.id, date: g.date, home: g.home, away: g.away, live: false,
+    ph: g.pred_home, pa: g.pred_away, prob: g.home_win_prob, hs: g.home_score, as: g.away_score,
+  }));
+  return { live, past };
+}
+
+function historyTable(rows) {
+  if (!rows.length) return `<p class="muted">이 날짜에는 기록된 경기가 없어요.</p>`;
+  const lineCell = (r) => {
+    if (!r.line || r.hs == null) return "";
+    const out = [];
+    const l = r.line;
+    if (l.spread != null && l.home_cover_prob != null) {
+      const d = r.hs - r.as + l.spread;
+      if (d !== 0) out.push(`핸디 ${(l.home_cover_prob > 0.5) === (d > 0) ? "✓" : "✗"}`);
+    }
+    if (l.over_under != null && l.over_prob != null) {
+      const d = r.hs + r.as - l.over_under;
+      if (d !== 0) out.push(`${l.over_prob > 0.5 ? "오버" : "언더"} ${(l.over_prob > 0.5) === (d > 0) ? "✓" : "✗"}`);
+    }
+    return out.join(" · ");
+  };
+  return `<div class="scroll"><table><thead><tr><th>경기 (원정 @ 홈)</th><th class="num">예측 점수</th><th class="num">예측 승률</th><th class="num">실제 스코어</th><th>결과</th><th class="num">총점 (예측/실제)</th>${rows.some((r) => r.line) ? "<th>기준선</th>" : ""}</tr></thead><tbody>
+  ${rows.map((r) => {
+    const favHome = r.prob >= 0.5, done = r.hs != null;
+    const hit = done && (favHome === r.hs > r.as);
+    return `<tr><td>${esc(ko(r.away))} @ ${esc(ko(r.home))}</td>
+      <td class="num">${Math.round(r.pa)} : ${Math.round(r.ph)}</td>
+      <td class="num">${esc(ko(favHome ? r.home : r.away).split(" ").pop())} ${pct(favHome ? r.prob : 1 - r.prob)}</td>
+      <td class="num">${done ? `${r.as} : ${r.hs}` : "-"}</td>
+      <td>${done ? `<span class="${hit ? "pos" : "neg"}">${hit ? "적중" : "실패"}</span>` : `<span class="muted">경기 전/중</span>`}</td>
+      <td class="num">${Math.round(r.ph + r.pa)} / ${done ? r.hs + r.as : "-"}</td>
+      ${rows.some((x) => x.line) ? `<td>${lineCell(r)}</td>` : ""}</tr>`;
+  }).join("")}</tbody></table></div>`;
+}
+
+function historySection(log, bt) {
+  const { live, past } = historyRows(log, bt);
+  const groups = { live, past };
+  setTimeout(() => {
+    const src = document.getElementById("h-src"), day = document.getElementById("h-day"), out = document.getElementById("h-out");
+    if (!src) return;
+    const fill = () => {
+      const days = [...new Set(groups[src.value].map((r) => kstDate(r.date)))].sort().reverse();
+      day.innerHTML = days.map((d) => `<option value="${d}">${d}</option>`).join("");
+      // 결과가 나온 가장 최근 날짜부터 보여 주기
+      const lastDone = days.find((d) => groups[src.value].some((r) => r.hs != null && kstDate(r.date) === d));
+      if (lastDone) day.value = lastDone;
+      show();
+    };
+    const show = () => {
+      const rows = groups[src.value].filter((r) => kstDate(r.date) === day.value).sort((a, b) => a.date.localeCompare(b.date));
+      const done = rows.filter((r) => r.hs != null);
+      const hits = done.filter((r) => (r.prob >= 0.5) === (r.hs > r.as)).length;
+      out.innerHTML = (done.length ? `<p>이날 <b>${done.length}경기 중 ${hits}경기 적중</b></p>` : "") + historyTable(rows);
+    };
+    src.addEventListener("change", fill);
+    day.addEventListener("change", show);
+    fill();
+  });
+  return `<section class="panel"><h2>날짜별 예측 기록 <small>(한국 날짜 기준)</small></h2>
+    <div class="filters">
+      <select id="h-src"><option value="live">이번 시즌 실제 예측</option><option value="past">지난 시즌 검증 (2025-26)</option></select>
+      <select id="h-day"></select>
+    </div>
+    <div id="h-out"></div>
+    <p class="muted">이번 시즌 기록은 경기 시작 전 마지막 예측이에요. 지난 시즌 검증은 각 경기 당시까지의 정보만으로 다시 계산한 예측이에요.</p>
+  </section>`;
+}
+const kstDate = (iso) => new Date(iso).toLocaleDateString("sv-SE", { timeZone: "Asia/Seoul" });
+
 async function viewModel() {
-  const [bt, tr] = await Promise.all([load("model/backtest.json"), load("model/track_record.json")]);
+  const [bt, tr, log] = await Promise.all([load("model/backtest.json"), load("model/track_record.json"), load("model/predictions_log.json")]);
   const box = (m) => m ? `<div class="stats">
     <div class="stat"><span>경기 수</span><b>${m.games}</b></div>
     <div class="stat"><span>승패 적중률</span><b>${pct(m.win_accuracy)}</b></div>
@@ -341,6 +420,7 @@ async function viewModel() {
   let html = `<h1>예측 성적</h1>
   <section class="panel"><h2>이번 시즌 실제 예측</h2>
   ${tr && tr.games ? box(tr) + lineBox(tr) : `<p class="muted">경기 전에 남긴 예측이 끝난 경기와 맞춰지면 여기에 쌓여요.</p>`}</section>`;
+  html += historySection(log, bt);
   if (bt) {
     html += `<section class="panel"><h2>지난 시즌 검증 <small>(${esc(bt.tested_on)}, 모델이 보지 않은 시즌)</small></h2>
     ${box(bt.test)}

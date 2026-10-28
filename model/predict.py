@@ -144,6 +144,8 @@ def write_predictions(data, season):
         if not g or g["state"] != "pre":
             continue
         entry["prediction"] = predict_game(g, ratings, players, injuries, params)
+        if dt.datetime.fromisoformat(g["date"].replace("Z", "+00:00")) <= dt.datetime.now(dt.timezone.utc):
+            continue  # ESPN can lag at tip-off; only log predictions made before the start
         log[g["id"]] = {"date": g["date"], "home": g["home"]["abbr"], "away": g["away"]["abbr"],
                         "predicted_at": now, "prediction": {k: entry["prediction"][k] for k in (
                             "home_points", "away_points", "home_margin", "home_win_prob",
