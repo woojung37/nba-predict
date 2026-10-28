@@ -8,7 +8,7 @@
   "venue": "State Farm Arena",
   "date_kst": "2026-10-29T08:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "ATL -1.5",
    "spread": -1.5,
    "over_under": 241.5
@@ -530,7 +530,7 @@
     "over_under": 241.5,
     "home_cover_prob": 0.624,
     "over_prob": 0.492,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -543,7 +543,7 @@
   "venue": "Rocket Arena",
   "date_kst": "2026-10-29T08:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "CLE -10.5",
    "spread": -10.5,
    "over_under": 239.5
@@ -1064,7 +1064,7 @@
     "over_under": 239.5,
     "home_cover_prob": 0.503,
     "over_prob": 0.478,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -1077,10 +1077,10 @@
   "venue": "Little Caesars Arena",
   "date_kst": "2026-10-29T08:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "DET -7.5",
    "spread": -7.5,
-   "over_under": 213.5
+   "over_under": 212.5
   },
   "home": {
    "id": "8",
@@ -1651,10 +1651,10 @@
    },
    "vs_line": {
     "spread": -7.5,
-    "over_under": 213.5,
+    "over_under": 212.5,
     "home_cover_prob": 0.39,
-    "over_prob": 0.551,
-    "provider": "Draft Kings"
+    "over_prob": 0.572,
+    "provider": "DraftKings"
    }
   }
  },
@@ -1667,10 +1667,10 @@
   "venue": "Gainbridge Fieldhouse",
   "date_kst": "2026-10-29T08:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
-   "details": "PHI -5.5",
-   "spread": 5.5,
-   "over_under": 236.5
+   "provider": "DraftKings",
+   "details": "PHI -7.5",
+   "spread": 7.5,
+   "over_under": 234.5
   },
   "home": {
    "id": "11",
@@ -1725,6 +1725,18 @@
     {
      "team_id": "11",
      "team": "Indiana Pacers",
+     "athlete_id": "4396993",
+     "name": "Tyrese Haliburton",
+     "position": "G",
+     "status": "Out",
+     "injury": "Left Hamstring Soreness",
+     "return_date": "2026-11-09",
+     "updated": "2026-10-28T18:03Z",
+     "comment": "Haliburton (hamstring) will miss time, though his timetable has yet to be announced, Shams Charania of ESPN reports."
+    },
+    {
+     "team_id": "11",
+     "team": "Indiana Pacers",
      "athlete_id": "4395712",
      "name": "Andrew Nembhard",
      "position": "G",
@@ -1733,18 +1745,6 @@
      "return_date": "2026-10-28",
      "updated": "2026-10-27T21:21Z",
      "comment": "Nembhard (neck) is listed as questionable for Wednesday's game against Philadelphia."
-    },
-    {
-     "team_id": "11",
-     "team": "Indiana Pacers",
-     "athlete_id": "4396993",
-     "name": "Tyrese Haliburton",
-     "position": "G",
-     "status": "Day-To-Day",
-     "injury": "Left Hamstring Soreness",
-     "return_date": "2026-10-28",
-     "updated": "2026-10-27T21:19Z",
-     "comment": "Haliburton is listed as questionable for Wednesday's game against the 76ers due to left hamstring tightness."
     },
     {
      "team_id": "11",
@@ -1860,7 +1860,7 @@
      "fg_pct": 51.6,
      "fg3_pct": 37.0,
      "ft_pct": 86.7,
-     "injury_status": "Day-To-Day"
+     "injury_status": "Out"
     },
     {
      "athlete_id": "4395712",
@@ -2233,19 +2233,19 @@
    ]
   },
   "prediction": {
-   "home_points": 113.3,
+   "home_points": 111.8,
    "away_points": 118.4,
-   "home_margin": -5.0,
-   "home_win_prob": 0.361,
-   "away_win_prob": 0.639,
+   "home_margin": -6.6,
+   "home_win_prob": 0.321,
+   "away_win_prob": 0.679,
    "margin_range80": [
-    -23.2,
-    13.1
+    -24.7,
+    11.6
    ],
-   "total": 231.7,
+   "total": 230.2,
    "total_range80": [
-    208.0,
-    255.4
+    206.5,
+    253.9
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -2253,7 +2253,7 @@
     "team_strength": -3.4,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": -3.6
+    "injuries": -5.2
    },
    "back_to_back": {
     "home": false,
@@ -2262,16 +2262,16 @@
    "injury_impact": {
     "home": [
      {
+      "athlete_id": "4396993",
+      "name": "Tyrese Haliburton",
+      "status": "Out",
+      "impact": -2.4
+     },
+     {
       "athlete_id": "4017837",
       "name": "Ivica Zubac",
       "status": "Out",
       "impact": -1.2
-     },
-     {
-      "athlete_id": "4396993",
-      "name": "Tyrese Haliburton",
-      "status": "Day-To-Day",
-      "impact": -0.8
      },
      {
       "athlete_id": "4395712",
@@ -2311,11 +2311,11 @@
     }
    },
    "vs_line": {
-    "spread": 5.5,
-    "over_under": 236.5,
-    "home_cover_prob": 0.513,
-    "over_prob": 0.398,
-    "provider": "Draft Kings"
+    "spread": 7.5,
+    "over_under": 234.5,
+    "home_cover_prob": 0.526,
+    "over_prob": 0.408,
+    "provider": "DraftKings"
    }
   }
  },
@@ -2328,10 +2328,10 @@
   "venue": "Scotiabank Arena",
   "date_kst": "2026-10-29T08:30:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "TOR -4.5",
    "spread": -4.5,
-   "over_under": 224.5
+   "over_under": 223.5
   },
   "home": {
    "id": "28",
@@ -2914,10 +2914,10 @@
    },
    "vs_line": {
     "spread": -4.5,
-    "over_under": 224.5,
+    "over_under": 223.5,
     "home_cover_prob": 0.522,
-    "over_prob": 0.371,
-    "provider": "Draft Kings"
+    "over_prob": 0.392,
+    "provider": "DraftKings"
    }
   }
  },
@@ -2930,10 +2930,10 @@
   "venue": "United Center",
   "date_kst": "2026-10-29T09:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
-   "details": "NY -7.5",
-   "spread": 7.5,
-   "over_under": 233.5
+   "provider": "DraftKings",
+   "details": "NY -6.5",
+   "spread": 6.5,
+   "over_under": 232.5
   },
   "home": {
    "id": "4",
@@ -3448,11 +3448,11 @@
     }
    },
    "vs_line": {
-    "spread": 7.5,
-    "over_under": 233.5,
-    "home_cover_prob": 0.507,
-    "over_prob": 0.397,
-    "provider": "Draft Kings"
+    "spread": 6.5,
+    "over_under": 232.5,
+    "home_cover_prob": 0.478,
+    "over_prob": 0.418,
+    "provider": "DraftKings"
    }
   }
  },
@@ -3465,7 +3465,7 @@
   "venue": "Fiserv Forum",
   "date_kst": "2026-10-29T09:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "HOU -8.5",
    "spread": 8.5,
    "over_under": 226.5
@@ -3684,11 +3684,11 @@
      "athlete_id": "2990992",
      "name": "Marcus Smart",
      "position": "G",
-     "status": "Day-To-Day",
+     "status": "Out",
      "injury": "Left Forearm Strain",
-     "return_date": "2026-10-28",
-     "updated": "2026-10-27T20:22Z",
-     "comment": "Smart (forearm) is questionable for Wednesday's game versus the Bucks."
+     "return_date": "2026-10-30",
+     "updated": "2026-10-28T17:34Z",
+     "comment": "Smart (forearm) is out for Wednesday's game against the Bucks."
     },
     {
      "team_id": "10",
@@ -3887,18 +3887,18 @@
   },
   "prediction": {
    "home_points": 113.0,
-   "away_points": 115.8,
-   "home_margin": -2.8,
-   "home_win_prob": 0.422,
-   "away_win_prob": 0.578,
+   "away_points": 115.3,
+   "home_margin": -2.3,
+   "home_win_prob": 0.435,
+   "away_win_prob": 0.565,
    "margin_range80": [
-    -20.9,
-    15.3
+    -20.5,
+    15.8
    ],
-   "total": 228.7,
+   "total": 228.3,
    "total_range80": [
-    205.0,
-    252.4
+    204.6,
+    252.0
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -3906,7 +3906,7 @@
     "team_strength": -7.7,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 3.0
+    "injuries": 3.4
    },
    "back_to_back": {
     "home": false,
@@ -3924,8 +3924,8 @@
      {
       "athlete_id": "2990992",
       "name": "Marcus Smart",
-      "status": "Day-To-Day",
-      "impact": -0.3
+      "status": "Out",
+      "impact": -0.7
      },
      {
       "athlete_id": "2991235",
@@ -3948,9 +3948,9 @@
    "vs_line": {
     "spread": 8.5,
     "over_under": 226.5,
-    "home_cover_prob": 0.657,
-    "over_prob": 0.548,
-    "provider": "Draft Kings"
+    "home_cover_prob": 0.669,
+    "over_prob": 0.538,
+    "provider": "DraftKings"
    }
   }
  },
@@ -3963,7 +3963,7 @@
   "venue": "Target Center",
   "date_kst": "2026-10-29T09:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "MIN -3.5",
    "spread": -3.5,
    "over_under": 227.5
@@ -4204,6 +4204,18 @@
     {
      "team_id": "9",
      "team": "Golden State Warriors",
+     "athlete_id": "5175737",
+     "name": "Yaxel Lendeborg",
+     "position": "F",
+     "status": "Day-To-Day",
+     "injury": "Foot",
+     "return_date": "2026-10-28",
+     "updated": "2026-10-28T17:16Z",
+     "comment": "Lendeborg (foot) went through Wednesday's morning shootaround, per Nick Friedell of The Athletic."
+    },
+    {
+     "team_id": "9",
+     "team": "Golden State Warriors",
      "athlete_id": "3102531",
      "name": "Kristaps Porzingis",
      "position": "C",
@@ -4212,18 +4224,6 @@
      "return_date": "2026-12-01",
      "updated": "2026-10-28T14:25Z",
      "comment": "The Warriors are exploring potential trades involving Porzingis (personal), who remains away from the team indefinitely while dealing with ongoing health concerns, Anthony Slater of ESPN.com reports."
-    },
-    {
-     "team_id": "9",
-     "team": "Golden State Warriors",
-     "athlete_id": "5175737",
-     "name": "Yaxel Lendeborg",
-     "position": "F",
-     "status": "Day-To-Day",
-     "injury": "Foot",
-     "return_date": "2026-10-28",
-     "updated": "2026-10-27T20:33Z",
-     "comment": "Lendeborg (foot) is questionable for Wednesday's game against Minnesota."
     },
     {
      "team_id": "9",
@@ -4522,7 +4522,7 @@
     "over_under": 227.5,
     "home_cover_prob": 0.629,
     "over_prob": 0.539,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -4535,7 +4535,7 @@
   "venue": "Smoothie King Center",
   "date_kst": "2026-10-29T09:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "DEN -4.5",
    "spread": 4.5,
    "over_under": 240.5
@@ -4590,18 +4590,6 @@
    },
    "rest_days": 3,
    "injuries": [
-    {
-     "team_id": "3",
-     "team": "New Orleans Pelicans",
-     "athlete_id": "4277956",
-     "name": "Jordan Poole",
-     "position": "G",
-     "status": "Day-To-Day",
-     "injury": "Illness",
-     "return_date": "2026-10-28",
-     "updated": "2026-10-27T19:18Z",
-     "comment": "Poole (illness) is listed as probable for Wednesday's game against Denver."
-    },
     {
      "team_id": "3",
      "team": "New Orleans Pelicans",
@@ -5029,19 +5017,19 @@
    ]
   },
   "prediction": {
-   "home_points": 119.8,
+   "home_points": 119.9,
    "away_points": 121.9,
-   "home_margin": -2.0,
-   "home_win_prob": 0.443,
-   "away_win_prob": 0.557,
+   "home_margin": -1.9,
+   "home_win_prob": 0.446,
+   "away_win_prob": 0.554,
    "margin_range80": [
-    -20.2,
-    16.1
+    -20.1,
+    16.2
    ],
-   "total": 241.7,
+   "total": 241.8,
    "total_range80": [
-    218.0,
-    265.4
+    218.1,
+    265.5
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -5062,12 +5050,6 @@
       "name": "Yves Missi",
       "status": "Out",
       "impact": -0.8
-     },
-     {
-      "athlete_id": "4277956",
-      "name": "Jordan Poole",
-      "status": "Day-To-Day",
-      "impact": -0.1
      }
     ],
     "away": [
@@ -5098,9 +5080,9 @@
    "vs_line": {
     "spread": 4.5,
     "over_under": 240.5,
-    "home_cover_prob": 0.569,
-    "over_prob": 0.526,
-    "provider": "Draft Kings"
+    "home_cover_prob": 0.572,
+    "over_prob": 0.528,
+    "provider": "DraftKings"
    }
   }
  },
@@ -5113,7 +5095,7 @@
   "venue": "Delta Center",
   "date_kst": "2026-10-29T10:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "SA -13.5",
    "spread": 13.5,
    "over_under": 233.5
@@ -5683,7 +5665,7 @@
     "over_under": 233.5,
     "home_cover_prob": 0.641,
     "over_prob": 0.497,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -5696,10 +5678,10 @@
   "venue": "American Airlines Center",
   "date_kst": "2026-10-29T10:30:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "OKC -5.5",
    "spread": 5.5,
-   "over_under": 228.5
+   "over_under": 227.5
   },
   "home": {
    "id": "6",
@@ -6384,10 +6366,10 @@
    },
    "vs_line": {
     "spread": 5.5,
-    "over_under": 228.5,
+    "over_under": 227.5,
     "home_cover_prob": 0.562,
-    "over_prob": 0.454,
-    "provider": "Draft Kings"
+    "over_prob": 0.475,
+    "provider": "DraftKings"
    }
   }
  },
@@ -6400,7 +6382,7 @@
   "venue": "Intuit Dome",
   "date_kst": "2026-10-29T11:30:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "LAL -4.5",
    "spread": 4.5,
    "over_under": 229.5
@@ -6695,8 +6677,8 @@
      "status": "Out",
      "injury": "Right Oblique Strain",
      "return_date": "2026-10-28",
-     "updated": "2026-10-27T23:42Z",
-     "comment": "The Lakers recalled Carr (oblique) from the G League's Coachella Valley Lakers on Tuesday, Mark Medina of TheSportingTribune.com reports."
+     "updated": "2026-10-28T17:27Z",
+     "comment": "Carr (oblique) was assigned Wednesday to the G League's Coachella Valley Lakers, Thuc Nhi Nguyen of the Los Angeles Times reports"
     },
     {
      "team_id": "13",
@@ -6976,7 +6958,7 @@
     "over_under": 229.5,
     "home_cover_prob": 0.661,
     "over_prob": 0.453,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -7543,18 +7525,6 @@
     {
      "team_id": "3",
      "team": "New Orleans Pelicans",
-     "athlete_id": "4277956",
-     "name": "Jordan Poole",
-     "position": "G",
-     "status": "Day-To-Day",
-     "injury": "Illness",
-     "return_date": "2026-10-28",
-     "updated": "2026-10-27T19:18Z",
-     "comment": "Poole (illness) is listed as probable for Wednesday's game against Denver."
-    },
-    {
-     "team_id": "3",
-     "team": "New Orleans Pelicans",
      "athlete_id": "5061589",
      "name": "Yves Missi",
      "position": "C",
@@ -7979,19 +7949,19 @@
    ]
   },
   "prediction": {
-   "home_points": 123.5,
+   "home_points": 123.6,
    "away_points": 115.5,
-   "home_margin": 8.0,
-   "home_win_prob": 0.715,
-   "away_win_prob": 0.285,
+   "home_margin": 8.1,
+   "home_win_prob": 0.717,
+   "away_win_prob": 0.283,
    "margin_range80": [
-    -10.1,
-    26.2
+    -10.0,
+    26.3
    ],
-   "total": 239.1,
+   "total": 239.2,
    "total_range80": [
-    215.4,
-    262.8
+    215.5,
+    262.9
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -7999,7 +7969,7 @@
     "team_strength": 3.9,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 2.1
+    "injuries": 2.2
    },
    "back_to_back": {
     "home": false,
@@ -8012,12 +7982,6 @@
       "name": "Yves Missi",
       "status": "Out",
       "impact": -0.8
-     },
-     {
-      "athlete_id": "4277956",
-      "name": "Jordan Poole",
-      "status": "Day-To-Day",
-      "impact": -0.1
      }
     ],
     "away": [
@@ -11550,6 +11514,18 @@
     {
      "team_id": "11",
      "team": "Indiana Pacers",
+     "athlete_id": "4396993",
+     "name": "Tyrese Haliburton",
+     "position": "G",
+     "status": "Out",
+     "injury": "Left Hamstring Soreness",
+     "return_date": "2026-11-09",
+     "updated": "2026-10-28T18:03Z",
+     "comment": "Haliburton (hamstring) will miss time, though his timetable has yet to be announced, Shams Charania of ESPN reports."
+    },
+    {
+     "team_id": "11",
+     "team": "Indiana Pacers",
      "athlete_id": "4395712",
      "name": "Andrew Nembhard",
      "position": "G",
@@ -11558,18 +11534,6 @@
      "return_date": "2026-10-28",
      "updated": "2026-10-27T21:21Z",
      "comment": "Nembhard (neck) is listed as questionable for Wednesday's game against Philadelphia."
-    },
-    {
-     "team_id": "11",
-     "team": "Indiana Pacers",
-     "athlete_id": "4396993",
-     "name": "Tyrese Haliburton",
-     "position": "G",
-     "status": "Day-To-Day",
-     "injury": "Left Hamstring Soreness",
-     "return_date": "2026-10-28",
-     "updated": "2026-10-27T21:19Z",
-     "comment": "Haliburton is listed as questionable for Wednesday's game against the 76ers due to left hamstring tightness."
     },
     {
      "team_id": "11",
@@ -11685,7 +11649,7 @@
      "fg_pct": 51.6,
      "fg3_pct": 37.0,
      "ft_pct": 86.7,
-     "injury_status": "Day-To-Day"
+     "injury_status": "Out"
     },
     {
      "athlete_id": "4395712",
@@ -11852,18 +11816,18 @@
   },
   "prediction": {
    "home_points": 122.6,
-   "away_points": 116.9,
-   "home_margin": 5.7,
-   "home_win_prob": 0.657,
-   "away_win_prob": 0.343,
+   "away_points": 115.4,
+   "home_margin": 7.3,
+   "home_win_prob": 0.696,
+   "away_win_prob": 0.304,
    "margin_range80": [
-    -12.4,
-    23.9
+    -10.9,
+    25.4
    ],
-   "total": 239.5,
+   "total": 238.0,
    "total_range80": [
-    215.8,
-    263.2
+    214.3,
+    261.7
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -11871,7 +11835,7 @@
     "team_strength": 0.4,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 3.3
+    "injuries": 4.9
    },
    "back_to_back": {
     "home": false,
@@ -11888,16 +11852,16 @@
     ],
     "away": [
      {
+      "athlete_id": "4396993",
+      "name": "Tyrese Haliburton",
+      "status": "Out",
+      "impact": -2.4
+     },
+     {
       "athlete_id": "4017837",
       "name": "Ivica Zubac",
       "status": "Out",
       "impact": -1.2
-     },
-     {
-      "athlete_id": "4396993",
-      "name": "Tyrese Haliburton",
-      "status": "Day-To-Day",
-      "impact": -0.8
      },
      {
       "athlete_id": "4395712",
@@ -12244,11 +12208,11 @@
      "athlete_id": "2990992",
      "name": "Marcus Smart",
      "position": "G",
-     "status": "Day-To-Day",
+     "status": "Out",
      "injury": "Left Forearm Strain",
-     "return_date": "2026-10-28",
-     "updated": "2026-10-27T20:22Z",
-     "comment": "Smart (forearm) is questionable for Wednesday's game versus the Bucks."
+     "return_date": "2026-10-30",
+     "updated": "2026-10-28T17:34Z",
+     "comment": "Smart (forearm) is out for Wednesday's game against the Bucks."
     },
     {
      "team_id": "10",
@@ -12483,18 +12447,18 @@
   },
   "prediction": {
    "home_points": 113.4,
-   "away_points": 115.2,
-   "home_margin": -1.8,
-   "home_win_prob": 0.448,
-   "away_win_prob": 0.552,
+   "away_points": 114.7,
+   "home_margin": -1.4,
+   "home_win_prob": 0.461,
+   "away_win_prob": 0.539,
    "margin_range80": [
-    -20.0,
-    16.3
+    -19.5,
+    16.8
    ],
-   "total": 228.6,
+   "total": 228.1,
    "total_range80": [
-    204.9,
-    252.2
+    204.4,
+    251.8
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -12502,7 +12466,7 @@
     "team_strength": -5.4,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 1.5
+    "injuries": 2.0
    },
    "back_to_back": {
     "home": false,
@@ -12533,8 +12497,8 @@
      {
       "athlete_id": "2990992",
       "name": "Marcus Smart",
-      "status": "Day-To-Day",
-      "impact": -0.3
+      "status": "Out",
+      "impact": -0.7
      },
      {
       "athlete_id": "2991235",
@@ -13200,6 +13164,18 @@
     {
      "team_id": "9",
      "team": "Golden State Warriors",
+     "athlete_id": "5175737",
+     "name": "Yaxel Lendeborg",
+     "position": "F",
+     "status": "Day-To-Day",
+     "injury": "Foot",
+     "return_date": "2026-10-28",
+     "updated": "2026-10-28T17:16Z",
+     "comment": "Lendeborg (foot) went through Wednesday's morning shootaround, per Nick Friedell of The Athletic."
+    },
+    {
+     "team_id": "9",
+     "team": "Golden State Warriors",
      "athlete_id": "3102531",
      "name": "Kristaps Porzingis",
      "position": "C",
@@ -13208,18 +13184,6 @@
      "return_date": "2026-12-01",
      "updated": "2026-10-28T14:25Z",
      "comment": "The Warriors are exploring potential trades involving Porzingis (personal), who remains away from the team indefinitely while dealing with ongoing health concerns, Anthony Slater of ESPN.com reports."
-    },
-    {
-     "team_id": "9",
-     "team": "Golden State Warriors",
-     "athlete_id": "5175737",
-     "name": "Yaxel Lendeborg",
-     "position": "F",
-     "status": "Day-To-Day",
-     "injury": "Foot",
-     "return_date": "2026-10-28",
-     "updated": "2026-10-27T20:33Z",
-     "comment": "Lendeborg (foot) is questionable for Wednesday's game against Minnesota."
     },
     {
      "team_id": "9",
@@ -13413,8 +13377,8 @@
      "status": "Out",
      "injury": "Right Oblique Strain",
      "return_date": "2026-10-28",
-     "updated": "2026-10-27T23:42Z",
-     "comment": "The Lakers recalled Carr (oblique) from the G League's Coachella Valley Lakers on Tuesday, Mark Medina of TheSportingTribune.com reports."
+     "updated": "2026-10-28T17:27Z",
+     "comment": "Carr (oblique) was assigned Wednesday to the G League's Coachella Valley Lakers, Thuc Nhi Nguyen of the Los Angeles Times reports"
     },
     {
      "team_id": "13",
@@ -13700,7 +13664,7 @@
   "venue": "Mortgage Matchup Center",
   "date_kst": "2026-10-31T11:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": null,
    "spread": null,
    "over_under": 233.5
@@ -14264,7 +14228,7 @@
     "spread": null,
     "over_under": 233.5,
     "over_prob": 0.502,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  }
