@@ -69,3 +69,5 @@ td.win { font-weight: 700; } td.loss { color: var(--muted); }
 th.sort { cursor: pointer; text-align: right; } th.sort.active { color: var(--text); font-weight: 700; }
 td.sorted { font-weight: 700; }
 ul { padding-left: 20px; }
+input.odds { width: 72px; padding: 4px 6px; border: 1px solid var(--line); border-radius: 6px; background: var(--panel); color: var(--text); font: inherit; text-align: right; }
+.filters input[type=number] { width: 90px; padding: 6px 8px; border: 1px solid var(--line); border-radius: 6px; background: var(--panel); color: var(--text); font: inherit; }

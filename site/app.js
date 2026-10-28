@@ -57,7 +57,7 @@ async function viewGames() {
   for (const [day, list] of Object.entries(byDay)) {
     html += `<h2>${esc(day)}</h2><div class="cards">`;
     for (const g of list) {
-      const p = g.prediction;
+      const p = g.prediction || g.pre_game_prediction;
       const fav = p && (p.home_margin >= 0 ? g.home : g.away);
       html += `<a class="card game" href="#/game/${g.id}">
         <div class="when">${kst(g.date, false)} · ${SEASON_TYPE[g.season_type] || ""}${g.state === "in" ? ' · <b class="live">진행 중</b>' : ""}</div>
@@ -67,7 +67,7 @@ async function viewGames() {
           <div class="side">${logo(teams[g.home.id])}<b>${esc(ko(g.home.abbr))}</b><span class="muted">${esc(g.home.standing?.wins ?? 0)}-${esc(g.home.standing?.losses ?? 0)}</span></div>
         </div>
         ${p ? `${probBar(p.home_win_prob, g.home.abbr, g.away.abbr)}
-        <div class="pred">예상 점수 <b>${Math.round(p.away_points)} : ${Math.round(p.home_points)}</b> · ${esc(ko(fav.abbr))} ${num(Math.abs(p.home_margin))}점 차 우세</div>` : `<div class="muted">예측 준비 중</div>`}
+        <div class="pred">예상 점수 <b>${Math.round(p.away_points)} : ${Math.round(p.home_points)}</b> · ${esc(ko(fav.abbr))} ${num(Math.abs(p.home_margin))}점 차 우세${p.total != null ? ` · 총점 ${num(p.total)}` : ""}</div>` : `<div class="muted">예측 준비 중</div>`}
       </a>`;
     }
     html += `</div>`;
@@ -101,7 +101,7 @@ async function viewGame(id) {
     app.innerHTML = `<p>경기를 찾을 수 없어요. 이미 끝난 경기일 수 있어요.</p><p><a href="#/">경기 목록으로</a></p>`;
     return;
   }
-  const p = g.prediction, H = g.home, A = g.away;
+  const p = g.prediction || g.pre_game_prediction, H = g.home, A = g.away;
   let html = `<p><a href="#/">← 경기 목록</a></p>
   <h1>${esc(ko(A.abbr))} @ ${esc(ko(H.abbr))}</h1>
   <p class="muted">${kst(g.date)} (한국 시간) · ${esc(g.venue || "")}${g.neutral ? " · 중립 경기장" : ""}</p>`;
@@ -109,24 +109,88 @@ async function viewGame(id) {
     html += `<section class="panel">
       <h2>예측</h2>
       <div class="matchup big">
-        <div class="side">${logo(teams[A.id])}<b>${esc(ko(A.abbr))}</b><span class="score">${Math.round(p.away_points)}</span><span>${pct(p.away_win_prob)}</span></div>
+        <div class="side">${logo(teams[A.id])}<b>${esc(ko(A.abbr))}</b><span class="score">${Math.round(p.away_points)}</span><span>${pct(1 - p.home_win_prob)}</span></div>
         <div class="at">vs</div>
         <div class="side">${logo(teams[H.id])}<b>${esc(ko(H.abbr))}</b><span class="score">${Math.round(p.home_points)}</span><span>${pct(p.home_win_prob)}</span></div>
       </div>
       ${probBar(p.home_win_prob, H.abbr, A.abbr)}
       <p>예상 점수차: <b>${esc(ko(p.home_margin >= 0 ? H.abbr : A.abbr))} ${num(Math.abs(p.home_margin))}점 차</b>.
       경기 10번 중 8번은 점수차가 <b>${rangeText(p, H, A)}</b> 안에 들어올 것으로 봅니다.</p>
-      <h3>왜 이렇게 예측했나 <small>(${esc(ko(H.abbr))} 기준 점수)</small></h3>
+      ${p.factors ? `<h3>왜 이렇게 예측했나 <small>(${esc(ko(H.abbr))} 기준 점수)</small></h3>
       <table class="factors">${factorLines(g).map(([k, v, why]) => `<tr><td>${esc(k)}</td><td class="num ${v >= 0 ? "pos" : "neg"}">${signed(v)}</td><td class="muted">${esc(why)}</td></tr>`).join("")}
-      <tr class="total"><td>합계 (예상 점수차)</td><td class="num">${signed(p.home_margin)}</td><td></td></tr></table>
+      <tr class="total"><td>합계 (예상 점수차)</td><td class="num">${signed(p.home_margin)}</td><td></td></tr></table>` : `<p class="muted">경기 시작 전 마지막 예측이에요.</p>`}
       ${g.odds?.details ? `<p class="muted">참고: 배팅 업체(${esc(g.odds.provider)}) 기준선 ${esc(g.odds.details)}</p>` : ""}
     </section>`;
   }
+  if (p && p.total != null && p.sigma) html += linePanel(g);
   html += `<section class="panel"><h2>팀 비교</h2>${compareTable(g)}</section>`;
   html += `<section class="panel"><h2>상대전적 <small>(최근 시즌들)</small></h2>${h2hBlock(g)}</section>`;
-  html += `<div class="two">${[A, H].map((t) => `<section class="panel"><h2>${esc(ko(t.abbr))} 부상자</h2>${injuryTable(t, p && p.injury_impact[t === H ? "home" : "away"])}</section>`).join("")}</div>`;
+  html += `<div class="two">${[A, H].map((t) => `<section class="panel"><h2>${esc(ko(t.abbr))} 부상자</h2>${injuryTable(t, p && p.injury_impact && p.injury_impact[t === H ? "home" : "away"])}</section>`).join("")}</div>`;
   html += `<div class="two">${[A, H].map((t) => `<section class="panel"><h2>${esc(ko(t.abbr))} 주요 선수</h2>${topPlayers(t)}</section>`).join("")}</div>`;
   app.innerHTML = html;
+}
+
+// 표준정규분포 누적확률 (Abramowitz-Stegun 근사)
+function normCdf(x) {
+  const t = 1 / (1 + 0.3275911 * Math.abs(x) / Math.SQRT2);
+  const y = 1 - (((((1.061405429 * t - 1.453152027) * t) + 1.421413741) * t - 0.284496736) * t + 0.254829592) * t * Math.exp(-x * x / 2);
+  return x >= 0 ? (1 + y) / 2 : (1 - y) / 2;
+}
+
+function linePanel(g) {
+  const p = g.prediction, H = ko(g.home.abbr), A = ko(g.away.abbr);
+  const short = (abbr) => ko(abbr).split(" ").pop();  // 표가 좁은 화면에서도 읽히도록 "셀틱스"처럼 줄임
+  const h = short(g.home.abbr), a = short(g.away.abbr);
+  const vl = p.vs_line || {};
+  const spread = vl.spread ?? Math.round(-p.home_margin * 2) / 2 + 0.5;
+  const ou = vl.over_under ?? Math.round(p.total) + 0.5;
+  // [id, 기준선 설명, 선택, 확률 계산]
+  const rows = [
+    ["ml-h", () => "승패", () => `${h} 승`, () => p.home_win_prob],
+    ["ml-a", () => "", () => `${a} 승`, () => 1 - p.home_win_prob],
+    ["sp-h", () => "핸디캡", (sp) => `${h} ${sp > 0 ? "+" : ""}${sp}`, (sp) => normCdf((p.home_margin + sp) / p.sigma)],
+    ["sp-a", () => "", (sp) => `${a} ${sp > 0 ? "−" : "+"}${Math.abs(sp)}`, (sp) => 1 - normCdf((p.home_margin + sp) / p.sigma)],
+    ["ou-o", () => "언오버", (sp, o) => `오버 ${o}`, (sp, o) => normCdf((p.total - o) / p.total_sigma)],
+    ["ou-u", () => "", (sp, o) => `언더 ${o}`, (sp, o) => 1 - normCdf((p.total - o) / p.total_sigma)],
+  ];
+  setTimeout(() => {
+    const calc = () => {
+      const sp = parseFloat(document.getElementById("ln-spread").value), o = parseFloat(document.getElementById("ln-ou").value);
+      for (const [id, line, pick, prob] of rows) {
+        const needs = id.startsWith("sp") ? sp : id.startsWith("ou") ? o : 0;
+        const tr = document.getElementById("r-" + id);
+        if (isNaN(needs)) { tr.hidden = true; continue; }
+        tr.hidden = false;
+        const pr = prob(sp, o);
+        tr.querySelector(".l").textContent = line(sp, o);
+        tr.querySelector(".k").textContent = pick(sp, o);
+        tr.querySelector(".p").textContent = pct(pr);
+        const odds = parseFloat(tr.querySelector("input").value);
+        const ev = tr.querySelector(".ev");
+        if (odds > 1) {
+          const v = pr * odds - 1;
+          ev.textContent = `${v >= 0 ? "+" : ""}${Math.round(v * 100)}%`;
+          ev.className = "num ev " + (v >= 0 ? "pos" : "neg");
+        } else { ev.textContent = "-"; ev.className = "num ev"; }
+      }
+    };
+    document.querySelectorAll("#ln-panel input").forEach((el) => el.addEventListener("input", calc));
+    if (document.getElementById("ln-panel")) calc();
+  });
+  return `<section class="panel" id="ln-panel"><h2>언오버 · 핸디캡 <small>(참고용)</small></h2>
+    <p>예상 총점 <b>${num(p.total)}점</b> (10번 중 8번은 ${num(p.total_range80[0], 0)}~${num(p.total_range80[1], 0)}점),
+    예상 점수차 <b>${esc(p.home_margin >= 0 ? H : A)} ${num(Math.abs(p.home_margin))}점</b>.</p>
+    <div class="filters">
+      <label>핸디캡 (${esc(H)} 기준, 예: −5.5) <input id="ln-spread" type="number" step="0.5" value="${spread}"></label>
+      <label>기준 총점 <input id="ln-ou" type="number" step="0.5" value="${ou}"></label>
+    </div>
+    <div class="scroll"><table><thead><tr><th></th><th>선택</th><th class="num">확률</th><th class="num">배당</th><th class="num">기대값</th></tr></thead><tbody>
+    ${rows.map(([id]) => `<tr id="r-${id}"><td class="l"></td><td class="k"></td><td class="num p"></td><td class="num"><input class="odds" type="number" step="0.01" min="1" placeholder="예: 1.85"></td><td class="num ev">-</td></tr>`).join("")}
+    </tbody></table></div>
+    <p class="muted">배당을 넣으면 기대값(모델 확률 × 배당 − 1)이 나와요. 플러스면 모델 기준으로 배당이 후한 편, 마이너스면 불리한 편이에요.
+    ${vl.provider ? `기준선 기본값은 해외 업체(${esc(vl.provider)}) 값이에요. ` : ""}베트맨 기준선과 배당을 넣으면 바로 다시 계산돼요.
+    모델은 기준선을 이긴다고 검증된 적이 없으니, 기대값이 플러스여도 참고만 하세요. 실제 기준선 적중 기록은 '예측 성적' 페이지에 쌓여요.</p>
+  </section>`;
 }
 
 function rangeText(p, H, A) {
@@ -259,6 +323,13 @@ async function viewPlayers() {
 }
 
 // ---------- 예측 성적 ----------
+function lineBox(tr) {
+  const row = (name, r) => r && r.all.games ? `<tr><td>${name}</td><td class="num">${r.all.hits}/${r.all.games}</td><td class="num">${pct(r.all.hit_rate)}</td><td class="num">${r.confident.games ? `${r.confident.hits}/${r.confident.games} (${pct(r.confident.hit_rate)})` : "-"}</td></tr>` : `<tr><td>${name}</td><td colspan="3" class="muted">아직 기록 없음</td></tr>`;
+  return `<h3>기준선 대비 적중 <small>(해외 업체 기준선, 무승부 제외)</small></h3>
+  <table><thead><tr><th></th><th class="num">적중</th><th class="num">적중률</th><th class="num">확신 경기 (60% 이상)</th></tr></thead><tbody>
+  ${row("핸디캡", tr.handicap)}${row("언오버", tr.over_under)}</tbody></table>
+  ${tr.total_mae != null ? `<p class="muted">총점 평균 오차 ${num(tr.total_mae)}점. 참고로 기준선에서 수익을 내려면 보통 52~53% 이상 적중이 필요해요.</p>` : ""}`;
+}
 async function viewModel() {
   const [bt, tr] = await Promise.all([load("model/backtest.json"), load("model/track_record.json")]);
   const box = (m) => m ? `<div class="stats">
@@ -269,10 +340,11 @@ async function viewModel() {
   </div>` : "";
   let html = `<h1>예측 성적</h1>
   <section class="panel"><h2>이번 시즌 실제 예측</h2>
-  ${tr && tr.games ? box(tr) : `<p class="muted">경기 전에 남긴 예측이 끝난 경기와 맞춰지면 여기에 쌓여요.</p>`}</section>`;
+  ${tr && tr.games ? box(tr) + lineBox(tr) : `<p class="muted">경기 전에 남긴 예측이 끝난 경기와 맞춰지면 여기에 쌓여요.</p>`}</section>`;
   if (bt) {
     html += `<section class="panel"><h2>지난 시즌 검증 <small>(${esc(bt.tested_on)}, 모델이 보지 않은 시즌)</small></h2>
     ${box(bt.test)}
+    ${bt.test.total_mae != null ? `<p>총점(언오버) 예측: 평균 오차 <b>${num(bt.test.total_mae)}점</b>, 80% 범위 적중 ${pct(bt.test.total_range80_coverage)}.</p>` : ""}
     <p class="muted">비교: 무조건 홈팀 승리로 찍으면 ${pct(bt.baseline_home_team_wins)}. 정규시즌 ${pct(bt.test_regular_season.win_accuracy)}, 플레이오프 ${pct(bt.test_playoffs.win_accuracy)}.</p>
     <h3>확률은 믿을 만한가</h3>
     <p class="muted">모델이 우세 팀에 준 승률 구간별로, 실제로 우세 팀이 이긴 비율이에요. 두 숫자가 비슷할수록 확률이 정직하다는 뜻이에요.</p>

@@ -14,7 +14,8 @@ from .engine import load_history, replay, win_probability
 
 PARAMS_PATH = Path(__file__).resolve().parent / "params.json"
 TUNE_SEASON, TEST_SEASON = 2025, 2026
-WARMUP_GAMES = 150  # ratings start from zero in the first season
+WARMUP_GAMES = 150
+TOTAL_SIGMA = [None]  # set once tuned; used for total-points range coverage  # ratings start from zero in the first season
 
 GRID = {
     "k": [0.03, 0.045, 0.06, 0.08],
@@ -48,8 +49,13 @@ def metrics(rows, sigma):
         brier += (prob - won) ** 2
         logloss -= math.log(prob if won else 1 - prob)
         inside += abs(a - p) <= 1.2816 * sigma
+    totals = [(pt, at) for _, _, _, pt, at, _ in rows]
+    total_sigma = TOTAL_SIGMA[0] or 1.0
     return {
         "games": n,
+        "total_mae": round(sum(abs(pt - at) for pt, at in totals) / n, 2),
+        "total_bias": round(sum(at - pt for pt, at in totals) / n, 2),
+        "total_range80_coverage": round(sum(abs(at - pt) <= 1.2816 * total_sigma for pt, at in totals) / n, 4),
         "win_accuracy": round(correct / n, 4),
         "margin_mae": round(mae, 2),
         "brier": round(brier / n, 4),
@@ -84,6 +90,7 @@ def main():
     params["sigma"] = round(statistics.pstdev([a - p for _, p, a, *_ in tune_rows]), 2)
     total_resid = [a - p for *_, p, a, _ in [(r[0], r[3], r[4], r[5]) for r in tune_rows]]
     params["total_sigma"] = round(statistics.pstdev(total_resid), 2)
+    TOTAL_SIGMA[0] = params["total_sigma"]
     write_json(PARAMS_PATH, params)
 
     test_rows = collect(games, params, TEST_SEASON)

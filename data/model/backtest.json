@@ -6,12 +6,15 @@
   "injury": 0.2,
   "regress": 0.5,
   "sigma": 14.15,
-  "total_sigma": 18.5
+  "total_sigma": 18.49
  },
  "tuned_on": "2024-25",
  "tested_on": "2025-26",
  "tune": {
   "games": 1171,
+  "total_mae": 14.78,
+  "total_bias": -0.15,
+  "total_range80_coverage": 0.8002,
   "win_accuracy": 0.6857,
   "margin_mae": 10.95,
   "brier": 0.2043,
@@ -20,15 +23,21 @@
  },
  "test": {
   "games": 1322,
-  "win_accuracy": 0.6808,
-  "margin_mae": 11.23,
+  "total_mae": 15.21,
+  "total_bias": 0.26,
+  "total_range80_coverage": 0.7882,
+  "win_accuracy": 0.6823,
+  "margin_mae": 11.22,
   "brier": 0.2037,
   "log_loss": 0.5927,
   "range80_coverage": 0.8033
  },
  "test_regular_season": {
   "games": 1231,
-  "win_accuracy": 0.6864,
+  "total_mae": 15.2,
+  "total_bias": 0.93,
+  "total_range80_coverage": 0.7888,
+  "win_accuracy": 0.6881,
   "margin_mae": 11.12,
   "brier": 0.202,
   "log_loss": 0.5886,
@@ -36,6 +45,9 @@
  },
  "test_playoffs": {
   "games": 91,
+  "total_mae": 15.44,
+  "total_bias": -8.87,
+  "total_range80_coverage": 0.7802,
   "win_accuracy": 0.6044,
   "margin_mae": 12.63,
   "brier": 0.2269,
@@ -46,23 +58,23 @@
  "calibration": [
   {
    "bucket": "50-60%",
-   "games": 447,
-   "favorite_won": 0.541
+   "games": 445,
+   "favorite_won": 0.546
   },
   {
    "bucket": "60-70%",
-   "games": 389,
-   "favorite_won": 0.694
+   "games": 391,
+   "favorite_won": 0.693
   },
   {
    "bucket": "70-80%",
-   "games": 292,
+   "games": 291,
    "favorite_won": 0.753
   },
   {
    "bucket": "80-90%",
-   "games": 157,
-   "favorite_won": 0.847
+   "games": 158,
+   "favorite_won": 0.848
   },
   {
    "bucket": "90-100%",
@@ -195,7 +207,7 @@
    "away": "MIN",
    "pred_margin": -2.0,
    "actual_margin": -4,
-   "home_win_prob": 0.443
+   "home_win_prob": 0.442
   },
   {
    "id": "401809236",
@@ -240,7 +252,7 @@
    "away": "CLE",
    "pred_margin": -6.2,
    "actual_margin": -7,
-   "home_win_prob": 0.331
+   "home_win_prob": 0.33
   },
   {
    "id": "401809945",
@@ -265,7 +277,7 @@
    "date": "2025-10-25T00:00Z",
    "home": "MEM",
    "away": "MIA",
-   "pred_margin": 5.9,
+   "pred_margin": 5.8,
    "actual_margin": -32,
    "home_win_prob": 0.66
   },
@@ -274,9 +286,9 @@
    "date": "2025-10-25T00:00Z",
    "home": "NO",
    "away": "SA",
-   "pred_margin": -5.0,
+   "pred_margin": -5.1,
    "actual_margin": -4,
-   "home_win_prob": 0.361
+   "home_win_prob": 0.36
   },
   {
    "id": "401809950",
@@ -337,9 +349,9 @@
    "date": "2025-10-25T23:30Z",
    "home": "ATL",
    "away": "OKC",
-   "pred_margin": -10.0,
+   "pred_margin": -10.1,
    "actual_margin": -17,
-   "home_win_prob": 0.239
+   "home_win_prob": 0.238
   },
   {
    "id": "401809957",
@@ -348,7 +360,7 @@
    "away": "CHA",
    "pred_margin": 1.2,
    "actual_margin": 4,
-   "home_win_prob": 0.535
+   "home_win_prob": 0.534
   },
   {
    "id": "401809958",
@@ -375,7 +387,7 @@
    "away": "BKN",
    "pred_margin": 8.1,
    "actual_margin": 11,
-   "home_win_prob": 0.716
+   "home_win_prob": 0.717
   },
   {
    "id": "401809961",
@@ -384,7 +396,7 @@
    "away": "BOS",
    "pred_margin": 0.7,
    "actual_margin": 6,
-   "home_win_prob": 0.519
+   "home_win_prob": 0.518
   },
   {
    "id": "401809962",
@@ -393,7 +405,7 @@
    "away": "MIL",
    "pred_margin": 5.2,
    "actual_margin": 5,
-   "home_win_prob": 0.643
+   "home_win_prob": 0.642
   },
   {
    "id": "401809963",
@@ -402,7 +414,7 @@
    "away": "NY",
    "pred_margin": -3.8,
    "actual_margin": 8,
-   "home_win_prob": 0.393
+   "home_win_prob": 0.394
   },
   {
    "id": "401809964",
@@ -411,7 +423,7 @@
    "away": "CHA",
    "pred_margin": 6.2,
    "actual_margin": -26,
-   "home_win_prob": 0.67
+   "home_win_prob": 0.669
   },
   {
    "id": "401809965",
@@ -420,7 +432,7 @@
    "away": "IND",
    "pred_margin": 9.6,
    "actual_margin": 4,
-   "home_win_prob": 0.751
+   "home_win_prob": 0.752
   },
   {
    "id": "401809966",
@@ -454,7 +466,7 @@
    "date": "2025-10-27T23:00Z",
    "home": "DET",
    "away": "CLE",
-   "pred_margin": 1.4,
+   "pred_margin": 1.3,
    "actual_margin": -21,
    "home_win_prob": 0.538
   },
@@ -481,7 +493,7 @@
    "date": "2025-10-28T00:00Z",
    "home": "HOU",
    "away": "BKN",
-   "pred_margin": 14.0,
+   "pred_margin": 14.1,
    "actual_margin": 28,
    "home_win_prob": 0.84
   },
@@ -510,7 +522,7 @@
    "away": "OKC",
    "pred_margin": -13.7,
    "actual_margin": -7,
-   "home_win_prob": 0.167
+   "home_win_prob": 0.166
   },
   {
    "id": "401809975",
@@ -535,9 +547,9 @@
    "date": "2025-10-28T02:00Z",
    "home": "GS",
    "away": "MEM",
-   "pred_margin": 4.3,
+   "pred_margin": 4.4,
    "actual_margin": 13,
-   "home_win_prob": 0.621
+   "home_win_prob": 0.622
   },
   {
    "id": "401809977",
@@ -553,16 +565,16 @@
    "date": "2025-10-28T23:00Z",
    "home": "WSH",
    "away": "PHI",
-   "pred_margin": 1.9,
+   "pred_margin": 1.8,
    "actual_margin": -5,
-   "home_win_prob": 0.552
+   "home_win_prob": 0.55
   },
   {
    "id": "401809979",
    "date": "2025-10-28T23:30Z",
    "home": "MIA",
    "away": "CHA",
-   "pred_margin": 4.4,
+   "pred_margin": 4.3,
    "actual_margin": 27,
    "home_win_prob": 0.621
   },
@@ -582,7 +594,7 @@
    "away": "SAC",
    "pred_margin": 4.7,
    "actual_margin": 6,
-   "home_win_prob": 0.629
+   "home_win_prob": 0.63
   },
   {
    "id": "401809982",
@@ -591,7 +603,7 @@
    "away": "LAC",
    "pred_margin": -0.7,
    "actual_margin": 19,
-   "home_win_prob": 0.48
+   "home_win_prob": 0.479
   },
   {
    "id": "401809986",
@@ -627,7 +639,7 @@
    "away": "ATL",
    "pred_margin": -3.6,
    "actual_margin": -5,
-   "home_win_prob": 0.401
+   "home_win_prob": 0.4
   },
   {
    "id": "401809987",
@@ -645,7 +657,7 @@
    "away": "IND",
    "pred_margin": -2.5,
    "actual_margin": 2,
-   "home_win_prob": 0.43
+   "home_win_prob": 0.431
   },
   {
    "id": "401809989",
@@ -681,7 +693,7 @@
    "away": "MEM",
    "pred_margin": -1.0,
    "actual_margin": -1,
-   "home_win_prob": 0.471
+   "home_win_prob": 0.472
   },
   {
    "id": "401809993",
@@ -690,34 +702,34 @@
    "away": "ORL",
    "pred_margin": 1.4,
    "actual_margin": -16,
-   "home_win_prob": 0.539
+   "home_win_prob": 0.54
   },
   {
    "id": "401809994",
    "date": "2025-10-31T00:00Z",
    "home": "MIL",
    "away": "GS",
-   "pred_margin": -8.2,
+   "pred_margin": -8.1,
    "actual_margin": 10,
-   "home_win_prob": 0.281
+   "home_win_prob": 0.282
   },
   {
    "id": "401809995",
    "date": "2025-10-31T00:00Z",
    "home": "OKC",
    "away": "WSH",
-   "pred_margin": 12.8,
+   "pred_margin": 12.9,
    "actual_margin": 19,
-   "home_win_prob": 0.818
+   "home_win_prob": 0.819
   },
   {
    "id": "401809996",
    "date": "2025-10-31T00:30Z",
    "home": "SA",
    "away": "MIA",
-   "pred_margin": 4.8,
+   "pred_margin": 4.7,
    "actual_margin": 6,
-   "home_win_prob": 0.632
+   "home_win_prob": 0.63
   },
   {
    "id": "401809502",
@@ -726,7 +738,7 @@
    "away": "ATL",
    "pred_margin": 4.7,
    "actual_margin": -20,
-   "home_win_prob": 0.63
+   "home_win_prob": 0.629
   },
   {
    "id": "401809503",
@@ -735,7 +747,7 @@
    "away": "BOS",
    "pred_margin": -6.8,
    "actual_margin": -1,
-   "home_win_prob": 0.314
+   "home_win_prob": 0.315
   },
   {
    "id": "401809504",
@@ -762,7 +774,7 @@
    "away": "LAL",
    "pred_margin": 2.0,
    "actual_margin": -5,
-   "home_win_prob": 0.556
+   "home_win_prob": 0.555
   },
   {
    "id": "401809507",
@@ -798,16 +810,16 @@
    "away": "SAC",
    "pred_margin": 5.9,
    "actual_margin": -2,
-   "home_win_prob": 0.662
+   "home_win_prob": 0.663
   },
   {
    "id": "401809998",
    "date": "2025-11-01T22:00Z",
    "home": "CHA",
    "away": "MIN",
-   "pred_margin": -5.2,
+   "pred_margin": -5.1,
    "actual_margin": -17,
-   "home_win_prob": 0.358
+   "home_win_prob": 0.359
   },
   {
    "id": "401809999",
@@ -816,7 +828,7 @@
    "away": "GS",
    "pred_margin": -7.2,
    "actual_margin": 5,
-   "home_win_prob": 0.306
+   "home_win_prob": 0.307
   },
   {
    "id": "401810000",
@@ -850,7 +862,7 @@
    "date": "2025-11-02T20:30Z",
    "home": "OKC",
    "away": "NO",
-   "pred_margin": 12.0,
+   "pred_margin": 12.1,
    "actual_margin": 31,
    "home_win_prob": 0.803
   },
@@ -861,14 +873,14 @@
    "away": "PHI",
    "pred_margin": 3.3,
    "actual_margin": -24,
-   "home_win_prob": 0.593
+   "home_win_prob": 0.592
   },
   {
    "id": "401810005",
    "date": "2025-11-02T23:00Z",
    "home": "CHA",
    "away": "UTAH",
-   "pred_margin": -4.4,
+   "pred_margin": -4.3,
    "actual_margin": 23,
    "home_win_prob": 0.379
   },
@@ -886,9 +898,9 @@
    "date": "2025-11-02T23:00Z",
    "home": "TOR",
    "away": "MEM",
-   "pred_margin": 0.3,
+   "pred_margin": 0.4,
    "actual_margin": 13,
-   "home_win_prob": 0.51
+   "home_win_prob": 0.511
   },
   {
    "id": "401810008",
@@ -913,9 +925,9 @@
    "date": "2025-11-03T02:30Z",
    "home": "LAL",
    "away": "MIA",
-   "pred_margin": 1.9,
+   "pred_margin": 1.8,
    "actual_margin": 10,
-   "home_win_prob": 0.554
+   "home_win_prob": 0.552
   },
   {
    "id": "401810011",
@@ -924,7 +936,7 @@
    "away": "MIN",
    "pred_margin": -9.9,
    "actual_margin": -16,
-   "home_win_prob": 0.242
+   "home_win_prob": 0.241
   },
   {
    "id": "401810012",
@@ -933,7 +945,7 @@
    "away": "MIL",
    "pred_margin": -0.4,
    "actual_margin": -2,
-   "home_win_prob": 0.489
+   "home_win_prob": 0.488
   },
   {
    "id": "401810013",
@@ -951,7 +963,7 @@
    "away": "WSH",
    "pred_margin": 9.6,
    "actual_margin": 17,
-   "home_win_prob": 0.751
+   "home_win_prob": 0.752
   },
   {
    "id": "401810015",
@@ -996,7 +1008,7 @@
    "away": "MIA",
    "pred_margin": 8.7,
    "actual_margin": -1,
-   "home_win_prob": 0.731
+   "home_win_prob": 0.73
   },
   {
    "id": "401810020",
@@ -1021,9 +1033,9 @@
    "date": "2025-11-05T01:00Z",
    "home": "CHI",
    "away": "PHI",
-   "pred_margin": 6.2,
+   "pred_margin": 6.1,
    "actual_margin": 2,
-   "home_win_prob": 0.669
+   "home_win_prob": 0.668
   },
   {
    "id": "401810023",
@@ -1032,7 +1044,7 @@
    "away": "CHA",
    "pred_margin": -1.1,
    "actual_margin": 4,
-   "home_win_prob": 0.469
+   "home_win_prob": 0.468
   },
   {
    "id": "401810024",
@@ -1041,7 +1053,7 @@
    "away": "PHX",
    "pred_margin": 6.2,
    "actual_margin": 11,
-   "home_win_prob": 0.669
+   "home_win_prob": 0.668
   },
   {
    "id": "401810025",
@@ -1068,7 +1080,7 @@
    "away": "UTAH",
    "pred_margin": 9.7,
    "actual_margin": 11,
-   "home_win_prob": 0.755
+   "home_win_prob": 0.754
   },
   {
    "id": "401810028",
@@ -1086,7 +1098,7 @@
    "away": "WSH",
    "pred_margin": 11.7,
    "actual_margin": 29,
-   "home_win_prob": 0.795
+   "home_win_prob": 0.796
   },
   {
    "id": "401810030",
@@ -1104,7 +1116,7 @@
    "away": "HOU",
    "pred_margin": -2.4,
    "actual_margin": -15,
-   "home_win_prob": 0.433
+   "home_win_prob": 0.432
   },
   {
    "id": "401810032",
@@ -1120,9 +1132,9 @@
    "date": "2025-11-06T02:00Z",
    "home": "DEN",
    "away": "MIA",
-   "pred_margin": 7.3,
+   "pred_margin": 7.2,
    "actual_margin": 10,
-   "home_win_prob": 0.697
+   "home_win_prob": 0.695
   },
   {
    "id": "401810034",
@@ -1140,7 +1152,7 @@
    "away": "OKC",
    "pred_margin": 1.3,
    "actual_margin": 2,
-   "home_win_prob": 0.537
+   "home_win_prob": 0.536
   },
   {
    "id": "401810036",
@@ -1149,7 +1161,7 @@
    "away": "GS",
    "pred_margin": 0.8,
    "actual_margin": 5,
-   "home_win_prob": 0.521
+   "home_win_prob": 0.522
   },
   {
    "id": "401810037",
@@ -1158,7 +1170,7 @@
    "away": "LAC",
    "pred_margin": 4.0,
    "actual_margin": 13,
-   "home_win_prob": 0.612
+   "home_win_prob": 0.611
   },
   {
    "id": "401809510",
@@ -1167,7 +1179,7 @@
    "away": "BOS",
    "pred_margin": -4.0,
    "actual_margin": 13,
-   "home_win_prob": 0.389
+   "home_win_prob": 0.388
   },
   {
    "id": "401809511",
@@ -1176,7 +1188,7 @@
    "away": "CLE",
    "pred_margin": -11.0,
    "actual_margin": -33,
-   "home_win_prob": 0.219
+   "home_win_prob": 0.218
   },
   {
    "id": "401809512",
@@ -1203,16 +1215,16 @@
    "away": "HOU",
    "pred_margin": -4.0,
    "actual_margin": 11,
-   "home_win_prob": 0.388
+   "home_win_prob": 0.389
   },
   {
    "id": "401809775",
    "date": "2025-11-08T01:00Z",
    "home": "MIA",
    "away": "CHA",
-   "pred_margin": 9.7,
+   "pred_margin": 9.8,
    "actual_margin": 18,
-   "home_win_prob": 0.754
+   "home_win_prob": 0.755
   },
   {
    "id": "401809776",
@@ -1248,7 +1260,7 @@
    "away": "GS",
    "pred_margin": 7.0,
    "actual_margin": 25,
-   "home_win_prob": 0.69
+   "home_win_prob": 0.691
   },
   {
    "id": "401809780",
@@ -1266,7 +1278,7 @@
    "away": "DAL",
    "pred_margin": -2.1,
    "actual_margin": -6,
-   "home_win_prob": 0.441
+   "home_win_prob": 0.44
   },
   {
    "id": "401810039",
@@ -1275,7 +1287,7 @@
    "away": "TOR",
    "pred_margin": 1.7,
    "actual_margin": 10,
-   "home_win_prob": 0.546
+   "home_win_prob": 0.547
   },
   {
    "id": "401810040",
@@ -1300,9 +1312,9 @@
    "date": "2025-11-09T01:00Z",
    "home": "MIA",
    "away": "POR",
-   "pred_margin": -3.9,
+   "pred_margin": -3.8,
    "actual_margin": 5,
-   "home_win_prob": 0.392
+   "home_win_prob": 0.394
   },
   {
    "id": "401810043",
@@ -1318,7 +1330,7 @@
    "date": "2025-11-09T02:00Z",
    "home": "DEN",
    "away": "IND",
-   "pred_margin": 3.8,
+   "pred_margin": 3.9,
    "actual_margin": 17,
    "home_win_prob": 0.607
   },
@@ -1329,7 +1341,7 @@
    "away": "PHX",
    "pred_margin": 1.0,
    "actual_margin": -11,
-   "home_win_prob": 0.529
+   "home_win_prob": 0.53
   },
   {
    "id": "401810046",
@@ -1356,7 +1368,7 @@
    "away": "BOS",
    "pred_margin": -2.5,
    "actual_margin": -4,
-   "home_win_prob": 0.431
+   "home_win_prob": 0.43
   },
   {
    "id": "401810049",
@@ -1365,7 +1377,7 @@
    "away": "OKC",
    "pred_margin": -6.9,
    "actual_margin": -14,
-   "home_win_prob": 0.313
+   "home_win_prob": 0.312
   },
   {
    "id": "401810050",
@@ -1374,7 +1386,7 @@
    "away": "DET",
    "pred_margin": -6.6,
    "actual_margin": -3,
-   "home_win_prob": 0.319
+   "home_win_prob": 0.32
   },
   {
    "id": "401810051",
@@ -1401,7 +1413,7 @@
    "away": "LAL",
    "pred_margin": -6.9,
    "actual_margin": -10,
-   "home_win_prob": 0.312
+   "home_win_prob": 0.313
   },
   {
    "id": "401810054",
@@ -1428,7 +1440,7 @@
    "away": "CLE",
    "pred_margin": -3.6,
    "actual_margin": 2,
-   "home_win_prob": 0.398
+   "home_win_prob": 0.4
   },
   {
    "id": "401810057",
@@ -1473,7 +1485,7 @@
    "away": "ATL",
    "pred_margin": 1.9,
    "actual_margin": -3,
-   "home_win_prob": 0.552
+   "home_win_prob": 0.553
   },
   {
    "id": "401810062",
@@ -1482,7 +1494,7 @@
    "away": "TOR",
    "pred_margin": -8.3,
    "actual_margin": -10,
-   "home_win_prob": 0.279
+   "home_win_prob": 0.278
   },
   {
    "id": "401810063",
@@ -1498,18 +1510,18 @@
    "date": "2025-11-12T01:00Z",
    "home": "PHI",
    "away": "BOS",
-   "pred_margin": -6.8,
+   "pred_margin": -6.7,
    "actual_margin": 2,
-   "home_win_prob": 0.316
+   "home_win_prob": 0.317
   },
   {
    "id": "401810065",
    "date": "2025-11-12T01:00Z",
    "home": "OKC",
    "away": "GS",
-   "pred_margin": 9.0,
+   "pred_margin": 9.1,
    "actual_margin": 24,
-   "home_win_prob": 0.738
+   "home_win_prob": 0.739
   },
   {
    "id": "401810066",
@@ -1518,7 +1530,7 @@
    "away": "IND",
    "pred_margin": -4.1,
    "actual_margin": 24,
-   "home_win_prob": 0.385
+   "home_win_prob": 0.386
   },
   {
    "id": "401810067",
@@ -1543,9 +1555,9 @@
    "date": "2025-11-13T00:00Z",
    "home": "DET",
    "away": "CHI",
-   "pred_margin": -0.5,
+   "pred_margin": -0.6,
    "actual_margin": 11,
-   "home_win_prob": 0.485
+   "home_win_prob": 0.484
   },
   {
    "id": "401810070",
@@ -1554,7 +1566,7 @@
    "away": "ORL",
    "pred_margin": 4.1,
    "actual_margin": -17,
-   "home_win_prob": 0.614
+   "home_win_prob": 0.615
   },
   {
    "id": "401810071",
@@ -1563,7 +1575,7 @@
    "away": "MEM",
    "pred_margin": 7.5,
    "actual_margin": 36,
-   "home_win_prob": 0.702
+   "home_win_prob": 0.703
   },
   {
    "id": "401810072",
@@ -1572,7 +1584,7 @@
    "away": "CLE",
    "pred_margin": 6.4,
    "actual_margin": -14,
-   "home_win_prob": 0.674
+   "home_win_prob": 0.675
   },
   {
    "id": "401810073",
@@ -1581,7 +1593,7 @@
    "away": "WSH",
    "pred_margin": 16.9,
    "actual_margin": 23,
-   "home_win_prob": 0.883
+   "home_win_prob": 0.884
   },
   {
    "id": "401810074",
@@ -1599,7 +1611,7 @@
    "away": "GS",
    "pred_margin": 2.3,
    "actual_margin": -5,
-   "home_win_prob": 0.564
+   "home_win_prob": 0.565
   },
   {
    "id": "401810076",
@@ -1651,9 +1663,9 @@
    "date": "2025-11-14T02:00Z",
    "home": "PHX",
    "away": "IND",
-   "pred_margin": -0.0,
+   "pred_margin": 0.0,
    "actual_margin": 35,
-   "home_win_prob": 0.5
+   "home_win_prob": 0.501
   },
   {
    "id": "401810082",
@@ -1662,7 +1674,7 @@
    "away": "ATL",
    "pred_margin": 0.4,
    "actual_margin": -10,
-   "home_win_prob": 0.51
+   "home_win_prob": 0.511
   },
   {
    "id": "401809781",
@@ -1671,7 +1683,7 @@
    "away": "MIA",
    "pred_margin": 2.5,
    "actual_margin": 8,
-   "home_win_prob": 0.571
+   "home_win_prob": 0.569
   },
   {
    "id": "401809782",
@@ -1689,7 +1701,7 @@
    "away": "PHI",
    "pred_margin": -2.6,
    "actual_margin": 9,
-   "home_win_prob": 0.428
+   "home_win_prob": 0.427
   },
   {
    "id": "401809784",
@@ -1734,7 +1746,7 @@
    "away": "LAC",
    "pred_margin": -0.2,
    "actual_margin": -6,
-   "home_win_prob": 0.496
+   "home_win_prob": 0.495
   },
   {
    "id": "401809789",
@@ -1743,14 +1755,14 @@
    "away": "GS",
    "pred_margin": -0.3,
    "actual_margin": -1,
-   "home_win_prob": 0.492
+   "home_win_prob": 0.493
   },
   {
    "id": "401810083",
    "date": "2025-11-15T22:00Z",
    "home": "CLE",
    "away": "MEM",
-   "pred_margin": 7.3,
+   "pred_margin": 7.4,
    "actual_margin": 8,
    "home_win_prob": 0.698
   },
@@ -1761,7 +1773,7 @@
    "away": "OKC",
    "pred_margin": -20.5,
    "actual_margin": -13,
-   "home_win_prob": 0.073
+   "home_win_prob": 0.074
   },
   {
    "id": "401810085",
@@ -1770,7 +1782,7 @@
    "away": "TOR",
    "pred_margin": -3.9,
    "actual_margin": -18,
-   "home_win_prob": 0.391
+   "home_win_prob": 0.39
   },
   {
    "id": "401810086",
@@ -1795,7 +1807,7 @@
    "date": "2025-11-16T20:30Z",
    "home": "BOS",
    "away": "LAC",
-   "pred_margin": 10.5,
+   "pred_margin": 10.4,
    "actual_margin": 3,
    "home_win_prob": 0.77
   },
@@ -1824,7 +1836,7 @@
    "away": "ORL",
    "pred_margin": 10.3,
    "actual_margin": 4,
-   "home_win_prob": 0.766
+   "home_win_prob": 0.767
   },
   {
    "id": "401810092",
@@ -1858,7 +1870,7 @@
    "date": "2025-11-17T01:00Z",
    "home": "UTAH",
    "away": "CHI",
-   "pred_margin": -3.5,
+   "pred_margin": -3.4,
    "actual_margin": 3,
    "home_win_prob": 0.404
   },
@@ -1869,7 +1881,7 @@
    "away": "MIL",
    "pred_margin": 4.6,
    "actual_margin": 12,
-   "home_win_prob": 0.628
+   "home_win_prob": 0.627
   },
   {
    "id": "401810097",
@@ -1878,7 +1890,7 @@
    "away": "IND",
    "pred_margin": 3.1,
    "actual_margin": 15,
-   "home_win_prob": 0.585
+   "home_win_prob": 0.586
   },
   {
    "id": "401810098",
@@ -1887,16 +1899,16 @@
    "away": "LAC",
    "pred_margin": 5.4,
    "actual_margin": 2,
-   "home_win_prob": 0.65
+   "home_win_prob": 0.649
   },
   {
    "id": "401810099",
    "date": "2025-11-18T00:30Z",
    "home": "MIA",
    "away": "NY",
-   "pred_margin": 2.6,
+   "pred_margin": 2.7,
    "actual_margin": 2,
-   "home_win_prob": 0.573
+   "home_win_prob": 0.575
   },
   {
    "id": "401810100",
@@ -1968,7 +1980,7 @@
    "away": "MEM",
    "pred_margin": -0.3,
    "actual_margin": 10,
-   "home_win_prob": 0.492
+   "home_win_prob": 0.493
   },
   {
    "id": "401810108",
@@ -1995,16 +2007,16 @@
    "away": "HOU",
    "pred_margin": -0.4,
    "actual_margin": -10,
-   "home_win_prob": 0.487
+   "home_win_prob": 0.488
   },
   {
    "id": "401810111",
    "date": "2025-11-20T00:00Z",
    "home": "IND",
    "away": "CHA",
-   "pred_margin": 1.7,
+   "pred_margin": 1.6,
    "actual_margin": 9,
-   "home_win_prob": 0.547
+   "home_win_prob": 0.546
   },
   {
    "id": "401810113",
@@ -2013,16 +2025,16 @@
    "away": "TOR",
    "pred_margin": -3.6,
    "actual_margin": -9,
-   "home_win_prob": 0.399
+   "home_win_prob": 0.4
   },
   {
    "id": "401810112",
    "date": "2025-11-20T00:30Z",
    "home": "MIA",
    "away": "GS",
-   "pred_margin": 12.1,
+   "pred_margin": 12.2,
    "actual_margin": 14,
-   "home_win_prob": 0.805
+   "home_win_prob": 0.806
   },
   {
    "id": "401810114",
@@ -2047,7 +2059,7 @@
    "date": "2025-11-20T01:00Z",
    "home": "OKC",
    "away": "SAC",
-   "pred_margin": 19.3,
+   "pred_margin": 19.4,
    "actual_margin": 14,
    "home_win_prob": 0.914
   },
@@ -2058,7 +2070,7 @@
    "away": "NY",
    "pred_margin": -7.2,
    "actual_margin": -2,
-   "home_win_prob": 0.305
+   "home_win_prob": 0.304
   },
   {
    "id": "401810118",
@@ -2074,9 +2086,9 @@
    "date": "2025-11-21T00:00Z",
    "home": "ORL",
    "away": "LAC",
-   "pred_margin": 4.8,
+   "pred_margin": 4.7,
    "actual_margin": 28,
-   "home_win_prob": 0.632
+   "home_win_prob": 0.631
   },
   {
    "id": "401810120",
@@ -2112,7 +2124,7 @@
    "away": "IND",
    "pred_margin": 9.7,
    "actual_margin": 11,
-   "home_win_prob": 0.753
+   "home_win_prob": 0.754
   },
   {
    "id": "401809791",
@@ -2121,7 +2133,7 @@
    "away": "BKN",
    "pred_margin": 14.6,
    "actual_margin": -8,
-   "home_win_prob": 0.848
+   "home_win_prob": 0.849
   },
   {
    "id": "401809792",
@@ -2130,16 +2142,16 @@
    "away": "WSH",
    "pred_margin": 16.5,
    "actual_margin": 30,
-   "home_win_prob": 0.878
+   "home_win_prob": 0.879
   },
   {
    "id": "401809793",
    "date": "2025-11-22T01:00Z",
    "home": "CHI",
    "away": "MIA",
-   "pred_margin": 0.1,
+   "pred_margin": 0.0,
    "actual_margin": -36,
-   "home_win_prob": 0.503
+   "home_win_prob": 0.501
   },
   {
    "id": "401809794",
@@ -2202,7 +2214,7 @@
    "away": "NY",
    "pred_margin": -0.1,
    "actual_margin": 12,
-   "home_win_prob": 0.498
+   "home_win_prob": 0.497
   },
   {
    "id": "401810125",
@@ -2220,7 +2232,7 @@
    "away": "WSH",
    "pred_margin": 14.3,
    "actual_margin": 1,
-   "home_win_prob": 0.843
+   "home_win_prob": 0.844
   },
   {
    "id": "401810127",
@@ -2229,7 +2241,7 @@
    "away": "DET",
    "pred_margin": -6.2,
    "actual_margin": -13,
-   "home_win_prob": 0.331
+   "home_win_prob": 0.332
   },
   {
    "id": "401810128",
@@ -2238,7 +2250,7 @@
    "away": "MEM",
    "pred_margin": -1.5,
    "actual_margin": -6,
-   "home_win_prob": 0.457
+   "home_win_prob": 0.458
   },
   {
    "id": "401810129",
@@ -2346,7 +2358,7 @@
    "away": "NY",
    "pred_margin": -8.9,
    "actual_margin": -13,
-   "home_win_prob": 0.266
+   "home_win_prob": 0.265
   },
   {
    "id": "401810141",
@@ -2355,7 +2367,7 @@
    "away": "DAL",
    "pred_margin": 2.3,
    "actual_margin": 4,
-   "home_win_prob": 0.564
+   "home_win_prob": 0.566
   },
   {
    "id": "401810142",
@@ -2364,7 +2376,7 @@
    "away": "DEN",
    "pred_margin": -2.9,
    "actual_margin": -10,
-   "home_win_prob": 0.42
+   "home_win_prob": 0.419
   },
   {
    "id": "401810143",
@@ -2398,9 +2410,9 @@
    "date": "2025-11-25T03:00Z",
    "home": "GS",
    "away": "UTAH",
-   "pred_margin": 9.9,
+   "pred_margin": 9.8,
    "actual_margin": 17,
-   "home_win_prob": 0.757
+   "home_win_prob": 0.756
   },
   {
    "id": "401810147",
@@ -2427,14 +2439,14 @@
    "away": "ORL",
    "pred_margin": -4.8,
    "actual_margin": -41,
-   "home_win_prob": 0.368
+   "home_win_prob": 0.369
   },
   {
    "id": "401809801",
    "date": "2025-11-26T04:00Z",
    "home": "LAL",
    "away": "LAC",
-   "pred_margin": 5.2,
+   "pred_margin": 5.1,
    "actual_margin": 17,
    "home_win_prob": 0.642
   },
@@ -2452,9 +2464,9 @@
    "date": "2025-11-27T00:00Z",
    "home": "CHA",
    "away": "NY",
-   "pred_margin": -4.1,
+   "pred_margin": -4.0,
    "actual_margin": -28,
-   "home_win_prob": 0.387
+   "home_win_prob": 0.388
   },
   {
    "id": "401809804",
@@ -2463,7 +2475,7 @@
    "away": "MIL",
    "pred_margin": 11.6,
    "actual_margin": 3,
-   "home_win_prob": 0.794
+   "home_win_prob": 0.795
   },
   {
    "id": "401809805",
@@ -2472,7 +2484,7 @@
    "away": "IND",
    "pred_margin": 7.3,
    "actual_margin": 2,
-   "home_win_prob": 0.696
+   "home_win_prob": 0.697
   },
   {
    "id": "401809806",
@@ -2488,7 +2500,7 @@
    "date": "2025-11-27T01:00Z",
    "home": "NO",
    "away": "MEM",
-   "pred_margin": -1.0,
+   "pred_margin": -0.9,
    "actual_margin": -5,
    "home_win_prob": 0.473
   },
@@ -2499,7 +2511,7 @@
    "away": "HOU",
    "pred_margin": -0.8,
    "actual_margin": -4,
-   "home_win_prob": 0.477
+   "home_win_prob": 0.476
   },
   {
    "id": "401809809",
@@ -2535,7 +2547,7 @@
    "away": "PHI",
    "pred_margin": -0.7,
    "actual_margin": -12,
-   "home_win_prob": 0.48
+   "home_win_prob": 0.479
   },
   {
    "id": "401809813",
@@ -2544,7 +2556,7 @@
    "away": "CHI",
    "pred_margin": -2.5,
    "actual_margin": 7,
-   "home_win_prob": 0.43
+   "home_win_prob": 0.431
   },
   {
    "id": "401809814",
@@ -2578,9 +2590,9 @@
    "date": "2025-11-29T02:30Z",
    "home": "OKC",
    "away": "PHX",
-   "pred_margin": 12.4,
+   "pred_margin": 12.5,
    "actual_margin": 4,
-   "home_win_prob": 0.81
+   "home_win_prob": 0.811
   },
   {
    "id": "401809818",
@@ -2616,7 +2628,7 @@
    "away": "MEM",
    "pred_margin": 2.4,
    "actual_margin": -5,
-   "home_win_prob": 0.567
+   "home_win_prob": 0.568
   },
   {
    "id": "401810148",
@@ -2643,16 +2655,16 @@
    "away": "CHI",
    "pred_margin": 4.5,
    "actual_margin": 2,
-   "home_win_prob": 0.625
+   "home_win_prob": 0.624
   },
   {
    "id": "401810151",
    "date": "2025-11-30T01:00Z",
    "home": "MIA",
    "away": "DET",
-   "pred_margin": 7.2,
+   "pred_margin": 7.3,
    "actual_margin": -3,
-   "home_win_prob": 0.696
+   "home_win_prob": 0.697
   },
   {
    "id": "401810152",
@@ -2706,7 +2718,7 @@
    "away": "BOS",
    "pred_margin": 7.3,
    "actual_margin": -2,
-   "home_win_prob": 0.696
+   "home_win_prob": 0.697
   },
   {
    "id": "401810158",
@@ -2724,7 +2736,7 @@
    "away": "ATL",
    "pred_margin": -0.1,
    "actual_margin": -8,
-   "home_win_prob": 0.498
+   "home_win_prob": 0.499
   },
   {
    "id": "401810160",
@@ -2751,7 +2763,7 @@
    "away": "MEM",
    "pred_margin": -4.3,
    "actual_margin": -8,
-   "home_win_prob": 0.381
+   "home_win_prob": 0.382
   },
   {
    "id": "401810163",
@@ -2769,7 +2781,7 @@
    "away": "ATL",
    "pred_margin": 7.5,
    "actual_margin": 1,
-   "home_win_prob": 0.702
+   "home_win_prob": 0.701
   },
   {
    "id": "401810165",
@@ -2778,7 +2790,7 @@
    "away": "CLE",
    "pred_margin": 1.7,
    "actual_margin": -16,
-   "home_win_prob": 0.549
+   "home_win_prob": 0.548
   },
   {
    "id": "401810166",
@@ -2787,7 +2799,7 @@
    "away": "MIL",
    "pred_margin": -11.3,
    "actual_margin": 3,
-   "home_win_prob": 0.213
+   "home_win_prob": 0.212
   },
   {
    "id": "401810167",
@@ -2796,7 +2808,7 @@
    "away": "CHA",
    "pred_margin": 1.2,
    "actual_margin": 13,
-   "home_win_prob": 0.533
+   "home_win_prob": 0.532
   },
   {
    "id": "401810168",
@@ -2814,7 +2826,7 @@
    "away": "CHI",
    "pred_margin": 9.8,
    "actual_margin": 5,
-   "home_win_prob": 0.756
+   "home_win_prob": 0.755
   },
   {
    "id": "401810170",
@@ -2839,7 +2851,7 @@
    "date": "2025-12-02T03:00Z",
    "home": "LAL",
    "away": "PHX",
-   "pred_margin": 2.0,
+   "pred_margin": 2.1,
    "actual_margin": -17,
    "home_win_prob": 0.558
   },
@@ -2850,7 +2862,7 @@
    "away": "WSH",
    "pred_margin": 12.4,
    "actual_margin": 19,
-   "home_win_prob": 0.809
+   "home_win_prob": 0.81
   },
   {
    "id": "401810174",
@@ -2893,9 +2905,9 @@
    "date": "2025-12-03T04:00Z",
    "home": "GS",
    "away": "OKC",
-   "pred_margin": -8.6,
+   "pred_margin": -8.7,
    "actual_margin": -12,
-   "home_win_prob": 0.271
+   "home_win_prob": 0.27
   },
   {
    "id": "401810179",
@@ -2913,7 +2925,7 @@
    "away": "DEN",
    "pred_margin": -4.1,
    "actual_margin": -15,
-   "home_win_prob": 0.387
+   "home_win_prob": 0.386
   },
   {
    "id": "401810181",
@@ -2929,16 +2941,16 @@
    "date": "2025-12-04T00:30Z",
    "home": "ATL",
    "away": "LAC",
-   "pred_margin": 1.1,
+   "pred_margin": 1.0,
    "actual_margin": -23,
-   "home_win_prob": 0.53
+   "home_win_prob": 0.529
   },
   {
    "id": "401810183",
    "date": "2025-12-04T00:30Z",
    "home": "NY",
    "away": "CHA",
-   "pred_margin": 7.8,
+   "pred_margin": 7.7,
    "actual_margin": 15,
    "home_win_prob": 0.708
   },
@@ -2967,7 +2979,7 @@
    "away": "DET",
    "pred_margin": -1.8,
    "actual_margin": 4,
-   "home_win_prob": 0.448
+   "home_win_prob": 0.449
   },
   {
    "id": "401810187",
@@ -2976,7 +2988,7 @@
    "away": "MIA",
    "pred_margin": -2.5,
    "actual_margin": 10,
-   "home_win_prob": 0.43
+   "home_win_prob": 0.429
   },
   {
    "id": "401810188",
@@ -3028,7 +3040,7 @@
    "date": "2025-12-06T00:00Z",
    "home": "BOS",
    "away": "LAL",
-   "pred_margin": 11.3,
+   "pred_margin": 11.2,
    "actual_margin": 21,
    "home_win_prob": 0.787
   },
@@ -3037,9 +3049,9 @@
    "date": "2025-12-06T00:00Z",
    "home": "ORL",
    "away": "MIA",
-   "pred_margin": 5.3,
+   "pred_margin": 5.2,
    "actual_margin": 1,
-   "home_win_prob": 0.645
+   "home_win_prob": 0.644
   },
   {
    "id": "401810195",
@@ -3064,7 +3076,7 @@
    "date": "2025-12-06T00:30Z",
    "home": "DET",
    "away": "POR",
-   "pred_margin": 7.4,
+   "pred_margin": 7.3,
    "actual_margin": 6,
    "home_win_prob": 0.698
   },
@@ -3093,7 +3105,7 @@
    "away": "IND",
    "pred_margin": -0.8,
    "actual_margin": -15,
-   "home_win_prob": 0.477
+   "home_win_prob": 0.478
   },
   {
    "id": "401810201",
@@ -3109,9 +3121,9 @@
    "date": "2025-12-06T01:00Z",
    "home": "MEM",
    "away": "LAC",
-   "pred_margin": 1.5,
+   "pred_margin": 1.4,
    "actual_margin": 9,
-   "home_win_prob": 0.541
+   "home_win_prob": 0.54
   },
   {
    "id": "401810203",
@@ -3129,7 +3141,7 @@
    "away": "DAL",
    "pred_margin": 14.1,
    "actual_margin": 21,
-   "home_win_prob": 0.84
+   "home_win_prob": 0.841
   },
   {
    "id": "401810205",
@@ -3163,7 +3175,7 @@
    "date": "2025-12-07T00:30Z",
    "home": "DET",
    "away": "MIL",
-   "pred_margin": 11.9,
+   "pred_margin": 11.8,
    "actual_margin": 12,
    "home_win_prob": 0.799
   },
@@ -3174,7 +3186,7 @@
    "away": "SAC",
    "pred_margin": 7.0,
    "actual_margin": -16,
-   "home_win_prob": 0.689
+   "home_win_prob": 0.69
   },
   {
    "id": "401810210",
@@ -3183,7 +3195,7 @@
    "away": "LAC",
    "pred_margin": 10.4,
    "actual_margin": 3,
-   "home_win_prob": 0.77
+   "home_win_prob": 0.769
   },
   {
    "id": "401810211",
@@ -3208,7 +3220,7 @@
    "date": "2025-12-07T20:30Z",
    "home": "TOR",
    "away": "BOS",
-   "pred_margin": -5.8,
+   "pred_margin": -5.9,
    "actual_margin": -8,
    "home_win_prob": 0.34
   },
@@ -3217,7 +3229,7 @@
    "date": "2025-12-07T23:00Z",
    "home": "CHA",
    "away": "DEN",
-   "pred_margin": -10.5,
+   "pred_margin": -10.4,
    "actual_margin": -9,
    "home_win_prob": 0.23
   },
@@ -3262,9 +3274,9 @@
    "date": "2025-12-09T00:00Z",
    "home": "IND",
    "away": "SAC",
-   "pred_margin": 7.1,
+   "pred_margin": 7.0,
    "actual_margin": 11,
-   "home_win_prob": 0.691
+   "home_win_prob": 0.69
   },
   {
    "id": "401810220",
@@ -3289,9 +3301,9 @@
    "date": "2025-12-09T23:00Z",
    "home": "ORL",
    "away": "MIA",
-   "pred_margin": 0.6,
+   "pred_margin": 0.5,
    "actual_margin": 9,
-   "home_win_prob": 0.516
+   "home_win_prob": 0.515
   },
   {
    "id": "401809834",
@@ -3300,7 +3312,7 @@
    "away": "NY",
    "pred_margin": -7.4,
    "actual_margin": -16,
-   "home_win_prob": 0.301
+   "home_win_prob": 0.3
   },
   {
    "id": "401809835",
@@ -3318,7 +3330,7 @@
    "away": "SA",
    "pred_margin": 1.4,
    "actual_margin": -13,
-   "home_win_prob": 0.539
+   "home_win_prob": 0.54
   },
   {
    "id": "401836746",
@@ -3336,7 +3348,7 @@
    "away": "BOS",
    "pred_margin": -10.7,
    "actual_margin": 15,
-   "home_win_prob": 0.225
+   "home_win_prob": 0.226
   },
   {
    "id": "401836748",
@@ -3363,7 +3375,7 @@
    "away": "CHI",
    "pred_margin": 0.6,
    "actual_margin": -3,
-   "home_win_prob": 0.517
+   "home_win_prob": 0.518
   },
   {
    "id": "401836751",
@@ -3381,7 +3393,7 @@
    "away": "IND",
    "pred_margin": 0.2,
    "actual_margin": 10,
-   "home_win_prob": 0.505
+   "home_win_prob": 0.506
   },
   {
    "id": "401836753",
@@ -3399,7 +3411,7 @@
    "away": "UTAH",
    "pred_margin": 7.9,
    "actual_margin": -4,
-   "home_win_prob": 0.712
+   "home_win_prob": 0.711
   },
   {
    "id": "401836795",
@@ -3424,7 +3436,7 @@
    "date": "2025-12-13T22:30Z",
    "home": "ORL",
    "away": "NY",
-   "pred_margin": -4.1,
+   "pred_margin": -4.2,
    "actual_margin": -12,
    "home_win_prob": 0.385
   },
@@ -3433,7 +3445,7 @@
    "date": "2025-12-14T02:00Z",
    "home": "OKC",
    "away": "SA",
-   "pred_margin": 10.0,
+   "pred_margin": 10.1,
    "actual_margin": -2,
    "home_win_prob": 0.761
   },
@@ -3453,7 +3465,7 @@
    "away": "CHA",
    "pred_margin": 11.1,
    "actual_margin": -8,
-   "home_win_prob": 0.784
+   "home_win_prob": 0.783
   },
   {
    "id": "401836798",
@@ -3523,9 +3535,9 @@
    "date": "2025-12-16T00:30Z",
    "home": "MIA",
    "away": "TOR",
-   "pred_margin": 4.4,
+   "pred_margin": 4.5,
    "actual_margin": -10,
-   "home_win_prob": 0.623
+   "home_win_prob": 0.624
   },
   {
    "id": "401836805",
@@ -3552,7 +3564,7 @@
    "away": "MEM",
    "pred_margin": 3.0,
    "actual_margin": -18,
-   "home_win_prob": 0.583
+   "home_win_prob": 0.584
   },
   {
    "id": "401809839",
@@ -3597,7 +3609,7 @@
    "away": "NY",
    "pred_margin": -3.5,
    "actual_margin": -1,
-   "home_win_prob": 0.404
+   "home_win_prob": 0.403
   },
   {
    "id": "401810228",
@@ -3606,7 +3618,7 @@
    "away": "MIA",
    "pred_margin": -0.2,
    "actual_margin": -11,
-   "home_win_prob": 0.494
+   "home_win_prob": 0.493
   },
   {
    "id": "401810224",
@@ -3633,7 +3645,7 @@
    "away": "TOR",
    "pred_margin": -2.2,
    "actual_margin": -6,
-   "home_win_prob": 0.439
+   "home_win_prob": 0.44
   },
   {
    "id": "401810230",
@@ -3660,7 +3672,7 @@
    "away": "ORL",
    "pred_margin": 6.9,
    "actual_margin": 11,
-   "home_win_prob": 0.687
+   "home_win_prob": 0.688
   },
   {
    "id": "401810233",
@@ -3759,7 +3771,7 @@
    "away": "BOS",
    "pred_margin": 2.3,
    "actual_margin": -16,
-   "home_win_prob": 0.565
+   "home_win_prob": 0.564
   },
   {
    "id": "401810244",
@@ -3768,7 +3780,7 @@
    "away": "IND",
    "pred_margin": 2.4,
    "actual_margin": 19,
-   "home_win_prob": 0.567
+   "home_win_prob": 0.568
   },
   {
    "id": "401810245",
@@ -3777,16 +3789,16 @@
    "away": "CHA",
    "pred_margin": 11.7,
    "actual_margin": 26,
-   "home_win_prob": 0.797
+   "home_win_prob": 0.796
   },
   {
    "id": "401810246",
    "date": "2025-12-21T01:00Z",
    "home": "MEM",
    "away": "WSH",
-   "pred_margin": 12.7,
+   "pred_margin": 12.6,
    "actual_margin": -8,
-   "home_win_prob": 0.815
+   "home_win_prob": 0.814
   },
   {
    "id": "401810247",
@@ -3795,7 +3807,7 @@
    "away": "PHX",
    "pred_margin": 4.3,
    "actual_margin": 3,
-   "home_win_prob": 0.621
+   "home_win_prob": 0.62
   },
   {
    "id": "401810248",
@@ -3849,7 +3861,7 @@
    "away": "MIA",
    "pred_margin": 8.5,
    "actual_margin": 7,
-   "home_win_prob": 0.727
+   "home_win_prob": 0.726
   },
   {
    "id": "401810254",
@@ -3883,7 +3895,7 @@
    "date": "2025-12-23T00:00Z",
    "home": "CLE",
    "away": "CHA",
-   "pred_margin": 7.1,
+   "pred_margin": 7.0,
    "actual_margin": 7,
    "home_win_prob": 0.691
   },
@@ -3903,7 +3915,7 @@
    "away": "DAL",
    "pred_margin": 0.7,
    "actual_margin": 6,
-   "home_win_prob": 0.52
+   "home_win_prob": 0.519
   },
   {
    "id": "401810260",
@@ -3939,7 +3951,7 @@
    "away": "DET",
    "pred_margin": -6.8,
    "actual_margin": -8,
-   "home_win_prob": 0.314
+   "home_win_prob": 0.315
   },
   {
    "id": "401810264",
@@ -3957,7 +3969,7 @@
    "away": "BKN",
    "pred_margin": 3.3,
    "actual_margin": -8,
-   "home_win_prob": 0.592
+   "home_win_prob": 0.593
   },
   {
    "id": "401810266",
@@ -3975,7 +3987,7 @@
    "away": "NO",
    "pred_margin": 4.4,
    "actual_margin": 23,
-   "home_win_prob": 0.621
+   "home_win_prob": 0.622
   },
   {
    "id": "401810268",
@@ -3984,7 +3996,7 @@
    "away": "MIL",
    "pred_margin": 0.7,
    "actual_margin": -17,
-   "home_win_prob": 0.52
+   "home_win_prob": 0.519
   },
   {
    "id": "401810269",
@@ -3993,7 +4005,7 @@
    "away": "TOR",
    "pred_margin": 4.4,
    "actual_margin": -21,
-   "home_win_prob": 0.622
+   "home_win_prob": 0.623
   },
   {
    "id": "401810270",
@@ -4038,7 +4050,7 @@
    "away": "MEM",
    "pred_margin": -4.2,
    "actual_margin": -9,
-   "home_win_prob": 0.382
+   "home_win_prob": 0.383
   },
   {
    "id": "401810275",
@@ -4092,14 +4104,14 @@
    "away": "DAL",
    "pred_margin": 5.1,
    "actual_margin": 10,
-   "home_win_prob": 0.642
+   "home_win_prob": 0.641
   },
   {
    "id": "401809241",
    "date": "2025-12-26T01:00Z",
    "home": "LAL",
    "away": "HOU",
-   "pred_margin": -2.7,
+   "pred_margin": -2.6,
    "actual_margin": -23,
    "home_win_prob": 0.426
   },
@@ -4126,9 +4138,9 @@
    "date": "2025-12-27T00:00Z",
    "home": "ORL",
    "away": "CHA",
-   "pred_margin": 4.4,
+   "pred_margin": 4.3,
    "actual_margin": -15,
-   "home_win_prob": 0.621
+   "home_win_prob": 0.62
   },
   {
    "id": "401810280",
@@ -4144,9 +4156,9 @@
    "date": "2025-12-27T00:00Z",
    "home": "IND",
    "away": "BOS",
-   "pred_margin": -8.5,
+   "pred_margin": -8.6,
    "actual_margin": -18,
-   "home_win_prob": 0.273
+   "home_win_prob": 0.272
   },
   {
    "id": "401810282",
@@ -4162,7 +4174,7 @@
    "date": "2025-12-27T01:00Z",
    "home": "MEM",
    "away": "MIL",
-   "pred_margin": 5.0,
+   "pred_margin": 4.9,
    "actual_margin": 21,
    "home_win_prob": 0.637
   },
@@ -4191,7 +4203,7 @@
    "away": "LAC",
    "pred_margin": -0.2,
    "actual_margin": -16,
-   "home_win_prob": 0.495
+   "home_win_prob": 0.494
   },
   {
    "id": "401810287",
@@ -4234,9 +4246,9 @@
    "date": "2025-12-28T01:00Z",
    "home": "MIA",
    "away": "IND",
-   "pred_margin": 6.8,
+   "pred_margin": 6.9,
    "actual_margin": 26,
-   "home_win_prob": 0.685
+   "home_win_prob": 0.686
   },
   {
    "id": "401810292",
@@ -4254,7 +4266,7 @@
    "away": "CLE",
    "pred_margin": 3.0,
    "actual_margin": 17,
-   "home_win_prob": 0.585
+   "home_win_prob": 0.584
   },
   {
    "id": "401810294",
@@ -4315,9 +4327,9 @@
    "date": "2025-12-29T02:00Z",
    "home": "LAC",
    "away": "DET",
-   "pred_margin": -5.3,
+   "pred_margin": -5.2,
    "actual_margin": 13,
-   "home_win_prob": 0.355
+   "home_win_prob": 0.356
   },
   {
    "id": "401810301",
@@ -4335,7 +4347,7 @@
    "away": "MIL",
    "pred_margin": -1.3,
    "actual_margin": -10,
-   "home_win_prob": 0.463
+   "home_win_prob": 0.464
   },
   {
    "id": "401810303",
@@ -4351,9 +4363,9 @@
    "date": "2025-12-30T00:30Z",
    "home": "BKN",
    "away": "GS",
-   "pred_margin": 0.9,
+   "pred_margin": 0.8,
    "actual_margin": -13,
-   "home_win_prob": 0.525
+   "home_win_prob": 0.524
   },
   {
    "id": "401810305",
@@ -4369,9 +4381,9 @@
    "date": "2025-12-30T00:30Z",
    "home": "TOR",
    "away": "ORL",
-   "pred_margin": -2.9,
+   "pred_margin": -3.0,
    "actual_margin": 1,
-   "home_win_prob": 0.418
+   "home_win_prob": 0.417
   },
   {
    "id": "401810307",
@@ -4389,7 +4401,7 @@
    "away": "IND",
    "pred_margin": 12.8,
    "actual_margin": 7,
-   "home_win_prob": 0.817
+   "home_win_prob": 0.818
   },
   {
    "id": "401810309",
@@ -4405,7 +4417,7 @@
    "date": "2025-12-30T01:00Z",
    "home": "OKC",
    "away": "ATL",
-   "pred_margin": 20.1,
+   "pred_margin": 20.2,
    "actual_margin": 11,
    "home_win_prob": 0.923
   },
@@ -4486,7 +4498,7 @@
    "date": "2025-12-31T20:00Z",
    "home": "IND",
    "away": "ORL",
-   "pred_margin": -4.5,
+   "pred_margin": -4.6,
    "actual_margin": -2,
    "home_win_prob": 0.374
   },
@@ -4522,9 +4534,9 @@
    "date": "2026-01-01T00:30Z",
    "home": "TOR",
    "away": "DEN",
-   "pred_margin": 1.5,
+   "pred_margin": 1.4,
    "actual_margin": -3,
-   "home_win_prob": 0.541
+   "home_win_prob": 0.54
   },
   {
    "id": "401810324",
@@ -4558,9 +4570,9 @@
    "date": "2026-01-02T00:00Z",
    "home": "DET",
    "away": "MIA",
-   "pred_margin": 5.3,
+   "pred_margin": 5.2,
    "actual_margin": -6,
-   "home_win_prob": 0.645
+   "home_win_prob": 0.644
   },
   {
    "id": "401810328",
@@ -4596,7 +4608,7 @@
    "away": "SA",
    "pred_margin": -5.1,
    "actual_margin": -10,
-   "home_win_prob": 0.36
+   "home_win_prob": 0.359
   },
   {
    "id": "401810332",
@@ -4605,7 +4617,7 @@
    "away": "BKN",
    "pred_margin": 4.8,
    "actual_margin": 20,
-   "home_win_prob": 0.632
+   "home_win_prob": 0.633
   },
   {
    "id": "401810333",
@@ -4632,7 +4644,7 @@
    "away": "ORL",
    "pred_margin": -5.2,
    "actual_margin": 7,
-   "home_win_prob": 0.357
+   "home_win_prob": 0.358
   },
   {
    "id": "401810336",
@@ -4641,7 +4653,7 @@
    "away": "CHA",
    "pred_margin": 4.2,
    "actual_margin": 1,
-   "home_win_prob": 0.618
+   "home_win_prob": 0.617
   },
   {
    "id": "401810337",
@@ -4677,7 +4689,7 @@
    "away": "MEM",
    "pred_margin": 0.8,
    "actual_margin": 7,
-   "home_win_prob": 0.521
+   "home_win_prob": 0.522
   },
   {
    "id": "401810341",
@@ -4693,7 +4705,7 @@
    "date": "2026-01-04T00:30Z",
    "home": "NY",
    "away": "PHI",
-   "pred_margin": 1.2,
+   "pred_margin": 1.1,
    "actual_margin": -11,
    "home_win_prob": 0.532
   },
@@ -4702,18 +4714,18 @@
    "date": "2026-01-04T00:30Z",
    "home": "TOR",
    "away": "ATL",
-   "pred_margin": 7.4,
+   "pred_margin": 7.3,
    "actual_margin": 17,
-   "home_win_prob": 0.699
+   "home_win_prob": 0.698
   },
   {
    "id": "401810344",
    "date": "2026-01-04T01:00Z",
    "home": "CHI",
    "away": "CHA",
-   "pred_margin": -0.5,
+   "pred_margin": -0.6,
    "actual_margin": -13,
-   "home_win_prob": 0.485
+   "home_win_prob": 0.484
   },
   {
    "id": "401810345",
@@ -4749,7 +4761,7 @@
    "away": "BOS",
    "pred_margin": 0.3,
    "actual_margin": -31,
-   "home_win_prob": 0.507
+   "home_win_prob": 0.508
   },
   {
    "id": "401810349",
@@ -4846,9 +4858,9 @@
    "date": "2026-01-06T00:30Z",
    "home": "TOR",
    "away": "ATL",
-   "pred_margin": 3.1,
+   "pred_margin": 3.0,
    "actual_margin": 18,
-   "home_win_prob": 0.586
+   "home_win_prob": 0.585
   },
   {
    "id": "401810360",
@@ -4864,7 +4876,7 @@
    "date": "2026-01-06T01:00Z",
    "home": "OKC",
    "away": "CHA",
-   "pred_margin": 13.0,
+   "pred_margin": 12.9,
    "actual_margin": -27,
    "home_win_prob": 0.82
   },
@@ -4884,7 +4896,7 @@
    "away": "GS",
    "pred_margin": -0.9,
    "actual_margin": 1,
-   "home_win_prob": 0.473
+   "home_win_prob": 0.474
   },
   {
    "id": "401810364",
@@ -4900,9 +4912,9 @@
    "date": "2026-01-07T00:00Z",
    "home": "IND",
    "away": "CLE",
-   "pred_margin": -4.9,
+   "pred_margin": -5.0,
    "actual_margin": -4,
-   "home_win_prob": 0.364
+   "home_win_prob": 0.363
   },
   {
    "id": "401810366",
@@ -4911,7 +4923,7 @@
    "away": "ORL",
    "pred_margin": -7.9,
    "actual_margin": 8,
-   "home_win_prob": 0.287
+   "home_win_prob": 0.288
   },
   {
    "id": "401810367",
@@ -4927,7 +4939,7 @@
    "date": "2026-01-07T01:00Z",
    "home": "MIN",
    "away": "MIA",
-   "pred_margin": 3.2,
+   "pred_margin": 3.1,
    "actual_margin": 28,
    "home_win_prob": 0.588
   },
@@ -4956,7 +4968,7 @@
    "away": "TOR",
    "pred_margin": 0.6,
    "actual_margin": -1,
-   "home_win_prob": 0.517
+   "home_win_prob": 0.518
   },
   {
    "id": "401810372",
@@ -4981,7 +4993,7 @@
    "date": "2026-01-08T00:00Z",
    "home": "BOS",
    "away": "DEN",
-   "pred_margin": 9.9,
+   "pred_margin": 9.8,
    "actual_margin": -4,
    "home_win_prob": 0.757
   },
@@ -5010,7 +5022,7 @@
    "away": "LAC",
    "pred_margin": 1.6,
    "actual_margin": 12,
-   "home_win_prob": 0.545
+   "home_win_prob": 0.544
   },
   {
    "id": "401810379",
@@ -5064,7 +5076,7 @@
    "away": "IND",
    "pred_margin": 7.2,
    "actual_margin": -2,
-   "home_win_prob": 0.694
+   "home_win_prob": 0.695
   },
   {
    "id": "401810385",
@@ -5118,7 +5130,7 @@
    "away": "LAC",
    "pred_margin": -2.6,
    "actual_margin": -16,
-   "home_win_prob": 0.428
+   "home_win_prob": 0.427
   },
   {
    "id": "401810391",
@@ -5127,7 +5139,7 @@
    "away": "OKC",
    "pred_margin": -2.8,
    "actual_margin": -1,
-   "home_win_prob": 0.422
+   "home_win_prob": 0.421
   },
   {
    "id": "401810392",
@@ -5154,7 +5166,7 @@
    "away": "SAC",
    "pred_margin": 13.6,
    "actual_margin": 34,
-   "home_win_prob": 0.831
+   "home_win_prob": 0.832
   },
   {
    "id": "401810395",
@@ -5190,14 +5202,14 @@
    "away": "MIA",
    "pred_margin": -8.3,
    "actual_margin": 24,
-   "home_win_prob": 0.28
+   "home_win_prob": 0.279
   },
   {
    "id": "401810399",
    "date": "2026-01-11T00:30Z",
    "home": "DET",
    "away": "LAC",
-   "pred_margin": 3.1,
+   "pred_margin": 3.0,
    "actual_margin": -6,
    "home_win_prob": 0.585
   },
@@ -5251,9 +5263,9 @@
    "date": "2026-01-11T23:00Z",
    "home": "TOR",
    "away": "PHI",
-   "pred_margin": -0.1,
+   "pred_margin": -0.2,
    "actual_margin": 1,
-   "home_win_prob": 0.496
+   "home_win_prob": 0.495
   },
   {
    "id": "401810406",
@@ -5280,7 +5292,7 @@
    "away": "MIA",
    "pred_margin": 14.3,
    "actual_margin": 12,
-   "home_win_prob": 0.844
+   "home_win_prob": 0.843
   },
   {
    "id": "401810409",
@@ -5325,7 +5337,7 @@
    "away": "UTAH",
    "pred_margin": 12.0,
    "actual_margin": -11,
-   "home_win_prob": 0.802
+   "home_win_prob": 0.801
   },
   {
    "id": "401810414",
@@ -5343,7 +5355,7 @@
    "away": "PHI",
    "pred_margin": -1.8,
    "actual_margin": -13,
-   "home_win_prob": 0.451
+   "home_win_prob": 0.45
   },
   {
    "id": "401810416",
@@ -5370,7 +5382,7 @@
    "away": "CHA",
    "pred_margin": 3.9,
    "actual_margin": 8,
-   "home_win_prob": 0.608
+   "home_win_prob": 0.609
   },
   {
    "id": "401810419",
@@ -5424,7 +5436,7 @@
    "away": "ATL",
    "pred_margin": -0.3,
    "actual_margin": 25,
-   "home_win_prob": 0.492
+   "home_win_prob": 0.491
   },
   {
    "id": "401810425",
@@ -5433,7 +5445,7 @@
    "away": "POR",
    "pred_margin": 8.4,
    "actual_margin": 22,
-   "home_win_prob": 0.722
+   "home_win_prob": 0.723
   },
   {
    "id": "401810426",
@@ -5496,7 +5508,7 @@
    "away": "WSH",
    "pred_margin": 9.7,
    "actual_margin": 14,
-   "home_win_prob": 0.753
+   "home_win_prob": 0.754
   },
   {
    "id": "401810433",
@@ -5523,7 +5535,7 @@
    "away": "BOS",
    "pred_margin": -2.8,
    "actual_margin": -5,
-   "home_win_prob": 0.422
+   "home_win_prob": 0.423
   },
   {
    "id": "401810436",
@@ -5611,9 +5623,9 @@
    "date": "2026-01-17T00:30Z",
    "home": "TOR",
    "away": "LAC",
-   "pred_margin": 2.8,
+   "pred_margin": 2.7,
    "actual_margin": -4,
-   "home_win_prob": 0.578
+   "home_win_prob": 0.577
   },
   {
    "id": "401810446",
@@ -5694,7 +5706,7 @@
    "away": "CHA",
    "pred_margin": 1.3,
    "actual_margin": 20,
-   "home_win_prob": 0.537
+   "home_win_prob": 0.536
   },
   {
    "id": "401810455",
@@ -5748,7 +5760,7 @@
    "away": "CHA",
    "pred_margin": -1.3,
    "actual_margin": -23,
-   "home_win_prob": 0.463
+   "home_win_prob": 0.462
   },
   {
    "id": "401810461",
@@ -5764,9 +5776,9 @@
    "date": "2026-01-19T02:30Z",
    "home": "LAL",
    "away": "TOR",
-   "pred_margin": 0.0,
+   "pred_margin": 0.1,
    "actual_margin": 17,
-   "home_win_prob": 0.501
+   "home_win_prob": 0.502
   },
   {
    "id": "401809247",
@@ -5793,7 +5805,7 @@
    "away": "LAC",
    "pred_margin": -6.5,
    "actual_margin": -4,
-   "home_win_prob": 0.324
+   "home_win_prob": 0.323
   },
   {
    "id": "401809249",
@@ -5865,7 +5877,7 @@
    "away": "LAC",
    "pred_margin": 2.1,
    "actual_margin": 28,
-   "home_win_prob": 0.56
+   "home_win_prob": 0.559
   },
   {
    "id": "401810470",
@@ -5890,7 +5902,7 @@
    "date": "2026-01-21T03:00Z",
    "home": "DEN",
    "away": "LAL",
-   "pred_margin": 4.7,
+   "pred_margin": 4.6,
    "actual_margin": -8,
    "home_win_prob": 0.629
   },
@@ -5901,7 +5913,7 @@
    "away": "TOR",
    "pred_margin": 3.6,
    "actual_margin": -18,
-   "home_win_prob": 0.599
+   "home_win_prob": 0.6
   },
   {
    "id": "401810474",
@@ -5910,14 +5922,14 @@
    "away": "MIA",
    "pred_margin": -0.7,
    "actual_margin": -13,
-   "home_win_prob": 0.48
+   "home_win_prob": 0.479
   },
   {
    "id": "401810475",
    "date": "2026-01-22T00:00Z",
    "home": "CHA",
    "away": "CLE",
-   "pred_margin": 4.9,
+   "pred_margin": 5.0,
    "actual_margin": -7,
    "home_win_prob": 0.637
   },
@@ -5935,7 +5947,7 @@
    "date": "2026-01-22T00:30Z",
    "home": "NY",
    "away": "BKN",
-   "pred_margin": 8.0,
+   "pred_margin": 8.1,
    "actual_margin": 54,
    "home_win_prob": 0.715
   },
@@ -5973,7 +5985,7 @@
    "away": "TOR",
    "pred_margin": -4.7,
    "actual_margin": -13,
-   "home_win_prob": 0.369
+   "home_win_prob": 0.37
   },
   {
    "id": "401810482",
@@ -5982,7 +5994,7 @@
    "away": "CHA",
    "pred_margin": 0.2,
    "actual_margin": -27,
-   "home_win_prob": 0.506
+   "home_win_prob": 0.505
   },
   {
    "id": "401810483",
@@ -6072,7 +6084,7 @@
    "away": "BOS",
    "pred_margin": -8.3,
    "actual_margin": -4,
-   "home_win_prob": 0.278
+   "home_win_prob": 0.279
   },
   {
    "id": "401810493",
@@ -6081,7 +6093,7 @@
    "away": "SAC",
    "pred_margin": 9.7,
    "actual_margin": 5,
-   "home_win_prob": 0.754
+   "home_win_prob": 0.753
   },
   {
    "id": "401810494",
@@ -6162,7 +6174,7 @@
    "away": "LAL",
    "pred_margin": -1.3,
    "actual_margin": -6,
-   "home_win_prob": 0.463
+   "home_win_prob": 0.462
   },
   {
    "id": "401810504",
@@ -6223,7 +6235,7 @@
    "date": "2026-01-26T02:00Z",
    "home": "LAC",
    "away": "BKN",
-   "pred_margin": 11.1,
+   "pred_margin": 11.2,
    "actual_margin": 37,
    "home_win_prob": 0.785
   },
@@ -6261,7 +6273,7 @@
    "away": "POR",
    "pred_margin": 9.4,
    "actual_margin": 8,
-   "home_win_prob": 0.748
+   "home_win_prob": 0.747
   },
   {
    "id": "401810516",
@@ -6270,7 +6282,7 @@
    "away": "LAL",
    "pred_margin": -0.8,
    "actual_margin": -11,
-   "home_win_prob": 0.477
+   "home_win_prob": 0.476
   },
   {
    "id": "401810517",
@@ -6288,7 +6300,7 @@
    "away": "GS",
    "pred_margin": 4.9,
    "actual_margin": 25,
-   "home_win_prob": 0.635
+   "home_win_prob": 0.636
   },
   {
    "id": "401810519",
@@ -6360,16 +6372,16 @@
    "away": "LAL",
    "pred_margin": 0.1,
    "actual_margin": 30,
-   "home_win_prob": 0.503
+   "home_win_prob": 0.502
   },
   {
    "id": "401810527",
    "date": "2026-01-29T00:00Z",
    "home": "IND",
    "away": "CHI",
-   "pred_margin": -0.9,
+   "pred_margin": -1.0,
    "actual_margin": 3,
-   "home_win_prob": 0.474
+   "home_win_prob": 0.473
   },
   {
    "id": "401810528",
@@ -6385,9 +6397,9 @@
    "date": "2026-01-29T00:30Z",
    "home": "MIA",
    "away": "ORL",
-   "pred_margin": 8.0,
+   "pred_margin": 8.1,
    "actual_margin": -9,
-   "home_win_prob": 0.715
+   "home_win_prob": 0.716
   },
   {
    "id": "401810530",
@@ -6405,7 +6417,7 @@
    "away": "CHA",
    "pred_margin": -5.0,
    "actual_margin": -15,
-   "home_win_prob": 0.362
+   "home_win_prob": 0.361
   },
   {
    "id": "401810532",
@@ -6423,7 +6435,7 @@
    "away": "GS",
    "pred_margin": -9.3,
    "actual_margin": -16,
-   "home_win_prob": 0.254
+   "home_win_prob": 0.255
   },
   {
    "id": "401810534",
@@ -6477,7 +6489,7 @@
    "away": "CHA",
    "pred_margin": -6.4,
    "actual_margin": -2,
-   "home_win_prob": 0.326
+   "home_win_prob": 0.325
   },
   {
    "id": "401810539",
@@ -6531,7 +6543,7 @@
    "away": "SAC",
    "pred_margin": 17.0,
    "actual_margin": 19,
-   "home_win_prob": 0.886
+   "home_win_prob": 0.885
   },
   {
    "id": "401810545",
@@ -6567,7 +6579,7 @@
    "away": "LAC",
    "pred_margin": -3.5,
    "actual_margin": 13,
-   "home_win_prob": 0.403
+   "home_win_prob": 0.402
   },
   {
    "id": "401810549",
@@ -6585,7 +6597,7 @@
    "away": "DET",
    "pred_margin": 1.1,
    "actual_margin": -7,
-   "home_win_prob": 0.532
+   "home_win_prob": 0.531
   },
   {
    "id": "401810552",
@@ -6594,7 +6606,7 @@
    "away": "SA",
    "pred_margin": 1.5,
    "actual_margin": 5,
-   "home_win_prob": 0.541
+   "home_win_prob": 0.542
   },
   {
    "id": "401810553",
@@ -6630,7 +6642,7 @@
    "away": "MIN",
    "pred_margin": -12.1,
    "actual_margin": -17,
-   "home_win_prob": 0.197
+   "home_win_prob": 0.196
   },
   {
    "id": "401810556",
@@ -6648,7 +6660,7 @@
    "away": "MIL",
    "pred_margin": 16.3,
    "actual_margin": 28,
-   "home_win_prob": 0.876
+   "home_win_prob": 0.875
   },
   {
    "id": "401810559",
@@ -6673,7 +6685,7 @@
    "date": "2026-02-01T23:00Z",
    "home": "TOR",
    "away": "UTAH",
-   "pred_margin": 12.1,
+   "pred_margin": 12.0,
    "actual_margin": 7,
    "home_win_prob": 0.803
   },
@@ -6738,7 +6750,7 @@
    "away": "NO",
    "pred_margin": 9.6,
    "actual_margin": 7,
-   "home_win_prob": 0.751
+   "home_win_prob": 0.752
   },
   {
    "id": "401810568",
@@ -6808,9 +6820,9 @@
    "date": "2026-02-04T00:30Z",
    "home": "MIA",
    "away": "ATL",
-   "pred_margin": 2.5,
+   "pred_margin": 2.6,
    "actual_margin": -12,
-   "home_win_prob": 0.571
+   "home_win_prob": 0.572
   },
   {
    "id": "401810576",
@@ -6819,7 +6831,7 @@
    "away": "BOS",
    "pred_margin": -4.3,
    "actual_margin": -10,
-   "home_win_prob": 0.38
+   "home_win_prob": 0.381
   },
   {
    "id": "401810577",
@@ -6837,7 +6849,7 @@
    "away": "ORL",
    "pred_margin": 13.1,
    "actual_margin": 36,
-   "home_win_prob": 0.822
+   "home_win_prob": 0.823
   },
   {
    "id": "401810579",
@@ -6871,16 +6883,16 @@
    "date": "2026-02-05T00:30Z",
    "home": "TOR",
    "away": "MIN",
-   "pred_margin": -2.9,
+   "pred_margin": -3.0,
    "actual_margin": -2,
-   "home_win_prob": 0.418
+   "home_win_prob": 0.417
   },
   {
    "id": "401810583",
    "date": "2026-02-05T01:00Z",
    "home": "HOU",
    "away": "BOS",
-   "pred_margin": 8.3,
+   "pred_margin": 8.4,
    "actual_margin": -21,
    "home_win_prob": 0.722
   },
@@ -6898,7 +6910,7 @@
    "date": "2026-02-05T02:30Z",
    "home": "SA",
    "away": "OKC",
-   "pred_margin": 8.5,
+   "pred_margin": 8.4,
    "actual_margin": 10,
    "home_win_prob": 0.725
   },
@@ -6918,7 +6930,7 @@
    "away": "CLE",
    "pred_margin": 0.1,
    "actual_margin": -33,
-   "home_win_prob": 0.502
+   "home_win_prob": 0.503
   },
   {
    "id": "401810588",
@@ -6936,7 +6948,7 @@
    "away": "BKN",
    "pred_margin": 6.2,
    "actual_margin": 20,
-   "home_win_prob": 0.669
+   "home_win_prob": 0.668
   },
   {
    "id": "401810590",
@@ -6963,7 +6975,7 @@
    "away": "CHA",
    "pred_margin": -2.7,
    "actual_margin": -10,
-   "home_win_prob": 0.424
+   "home_win_prob": 0.423
   },
   {
    "id": "401810593",
@@ -6972,7 +6984,7 @@
    "away": "SA",
    "pred_margin": -0.9,
    "actual_margin": -12,
-   "home_win_prob": 0.473
+   "home_win_prob": 0.474
   },
   {
    "id": "401810594",
@@ -7017,7 +7029,7 @@
    "away": "IND",
    "pred_margin": -0.5,
    "actual_margin": 6,
-   "home_win_prob": 0.485
+   "home_win_prob": 0.486
   },
   {
    "id": "401810599",
@@ -7026,7 +7038,7 @@
    "away": "NO",
    "pred_margin": 10.3,
    "actual_margin": -4,
-   "home_win_prob": 0.766
+   "home_win_prob": 0.767
   },
   {
    "id": "401810600",
@@ -7042,9 +7054,9 @@
    "date": "2026-02-07T03:00Z",
    "home": "SAC",
    "away": "LAC",
-   "pred_margin": -4.7,
+   "pred_margin": -4.8,
    "actual_margin": -3,
-   "home_win_prob": 0.369
+   "home_win_prob": 0.368
   },
   {
    "id": "401810602",
@@ -7053,7 +7065,7 @@
    "away": "WSH",
    "pred_margin": 6.5,
    "actual_margin": 14,
-   "home_win_prob": 0.677
+   "home_win_prob": 0.678
   },
   {
    "id": "401810603",
@@ -7087,7 +7099,7 @@
    "date": "2026-02-08T00:30Z",
    "home": "ATL",
    "away": "CHA",
-   "pred_margin": -1.9,
+   "pred_margin": -2.0,
    "actual_margin": -7,
    "home_win_prob": 0.445
   },
@@ -7107,7 +7119,7 @@
    "away": "GS",
    "pred_margin": 1.0,
    "actual_margin": 6,
-   "home_win_prob": 0.528
+   "home_win_prob": 0.529
   },
   {
    "id": "401810609",
@@ -7179,7 +7191,7 @@
    "away": "DET",
    "pred_margin": -1.2,
    "actual_margin": -6,
-   "home_win_prob": 0.466
+   "home_win_prob": 0.467
   },
   {
    "id": "401810617",
@@ -7197,7 +7209,7 @@
    "away": "UTAH",
    "pred_margin": 9.9,
    "actual_margin": -4,
-   "home_win_prob": 0.758
+   "home_win_prob": 0.759
   },
   {
    "id": "401810619",
@@ -7206,7 +7218,7 @@
    "away": "MIL",
    "pred_margin": 7.5,
    "actual_margin": 19,
-   "home_win_prob": 0.702
+   "home_win_prob": 0.701
   },
   {
    "id": "401810620",
@@ -7231,7 +7243,7 @@
    "date": "2026-02-10T02:00Z",
    "home": "DEN",
    "away": "CLE",
-   "pred_margin": -1.5,
+   "pred_margin": -1.4,
    "actual_margin": -2,
    "home_win_prob": 0.459
   },
@@ -7278,7 +7290,7 @@
    "away": "LAC",
    "pred_margin": 3.5,
    "actual_margin": 7,
-   "home_win_prob": 0.598
+   "home_win_prob": 0.597
   },
   {
    "id": "401810628",
@@ -7305,7 +7317,7 @@
    "away": "ATL",
    "pred_margin": 4.9,
    "actual_margin": 3,
-   "home_win_prob": 0.634
+   "home_win_prob": 0.635
   },
   {
    "id": "401810631",
@@ -7350,7 +7362,7 @@
    "away": "NY",
    "pred_margin": -1.6,
    "actual_margin": -49,
-   "home_win_prob": 0.455
+   "home_win_prob": 0.456
   },
   {
    "id": "401810636",
@@ -7359,14 +7371,14 @@
    "away": "DET",
    "pred_margin": -4.0,
    "actual_margin": -18,
-   "home_win_prob": 0.39
+   "home_win_prob": 0.389
   },
   {
    "id": "401810637",
    "date": "2026-02-12T01:00Z",
    "home": "HOU",
    "away": "LAC",
-   "pred_margin": 4.1,
+   "pred_margin": 4.0,
    "actual_margin": -3,
    "home_win_prob": 0.613
   },
@@ -7386,7 +7398,7 @@
    "away": "MIA",
    "pred_margin": 0.1,
    "actual_margin": -12,
-   "home_win_prob": 0.503
+   "home_win_prob": 0.502
   },
   {
    "id": "401810640",
@@ -7420,7 +7432,7 @@
    "date": "2026-02-12T03:00Z",
    "home": "GS",
    "away": "SA",
-   "pred_margin": -3.5,
+   "pred_margin": -3.6,
    "actual_margin": -13,
    "home_win_prob": 0.401
   },
@@ -7429,7 +7441,7 @@
    "date": "2026-02-13T00:30Z",
    "home": "OKC",
    "away": "MIL",
-   "pred_margin": 15.1,
+   "pred_margin": 15.0,
    "actual_margin": -17,
    "home_win_prob": 0.856
   },
@@ -7456,9 +7468,9 @@
    "date": "2026-02-20T00:00Z",
    "home": "CHA",
    "away": "HOU",
-   "pred_margin": 1.1,
+   "pred_margin": 1.2,
    "actual_margin": -4,
-   "home_win_prob": 0.532
+   "home_win_prob": 0.533
   },
   {
    "id": "401810648",
@@ -7467,7 +7479,7 @@
    "away": "BKN",
    "pred_margin": 18.0,
    "actual_margin": 28,
-   "home_win_prob": 0.899
+   "home_win_prob": 0.898
   },
   {
    "id": "401810649",
@@ -7485,7 +7497,7 @@
    "away": "IND",
    "pred_margin": -1.5,
    "actual_margin": 7,
-   "home_win_prob": 0.459
+   "home_win_prob": 0.458
   },
   {
    "id": "401810651",
@@ -7494,7 +7506,7 @@
    "away": "DET",
    "pred_margin": 3.3,
    "actual_margin": -15,
-   "home_win_prob": 0.593
+   "home_win_prob": 0.592
   },
   {
    "id": "401810652",
@@ -7530,7 +7542,7 @@
    "away": "ORL",
    "pred_margin": -6.8,
    "actual_margin": -37,
-   "home_win_prob": 0.315
+   "home_win_prob": 0.314
   },
   {
    "id": "401810656",
@@ -7548,7 +7560,7 @@
    "away": "CLE",
    "pred_margin": -1.5,
    "actual_margin": -5,
-   "home_win_prob": 0.457
+   "home_win_prob": 0.458
   },
   {
    "id": "401810658",
@@ -7593,7 +7605,7 @@
    "away": "MIL",
    "pred_margin": 3.0,
    "actual_margin": -21,
-   "home_win_prob": 0.585
+   "home_win_prob": 0.583
   },
   {
    "id": "401810663",
@@ -7638,7 +7650,7 @@
    "away": "PHI",
    "pred_margin": -1.7,
    "actual_margin": 15,
-   "home_win_prob": 0.453
+   "home_win_prob": 0.452
   },
   {
    "id": "401810668",
@@ -7674,7 +7686,7 @@
    "away": "HOU",
    "pred_margin": 5.2,
    "actual_margin": 2,
-   "home_win_prob": 0.644
+   "home_win_prob": 0.643
   },
   {
    "id": "401810672",
@@ -7683,7 +7695,7 @@
    "away": "CLE",
    "pred_margin": -1.0,
    "actual_margin": 8,
-   "home_win_prob": 0.472
+   "home_win_prob": 0.473
   },
   {
    "id": "401810673",
@@ -7701,7 +7713,7 @@
    "away": "TOR",
    "pred_margin": 0.2,
    "actual_margin": -28,
-   "home_win_prob": 0.506
+   "home_win_prob": 0.507
   },
   {
    "id": "401810675",
@@ -7710,7 +7722,7 @@
    "away": "DEN",
    "pred_margin": -4.8,
    "actual_margin": 11,
-   "home_win_prob": 0.368
+   "home_win_prob": 0.367
   },
   {
    "id": "401810676",
@@ -7746,7 +7758,7 @@
    "away": "PHI",
    "pred_margin": 13.0,
    "actual_margin": -27,
-   "home_win_prob": 0.82
+   "home_win_prob": 0.821
   },
   {
    "id": "401810680",
@@ -7809,7 +7821,7 @@
    "away": "PHI",
    "pred_margin": -5.7,
    "actual_margin": -21,
-   "home_win_prob": 0.344
+   "home_win_prob": 0.345
   },
   {
    "id": "401810687",
@@ -7863,7 +7875,7 @@
    "away": "MIA",
    "pred_margin": -5.4,
    "actual_margin": 11,
-   "home_win_prob": 0.351
+   "home_win_prob": 0.352
   },
   {
    "id": "401810693",
@@ -7888,9 +7900,9 @@
    "date": "2026-02-25T03:00Z",
    "home": "POR",
    "away": "MIN",
-   "pred_margin": -7.8,
+   "pred_margin": -7.9,
    "actual_margin": -3,
-   "home_win_prob": 0.29
+   "home_win_prob": 0.289
   },
   {
    "id": "401810695",
@@ -7942,18 +7954,18 @@
    "date": "2026-02-26T01:00Z",
    "home": "MIL",
    "away": "CLE",
-   "pred_margin": -0.0,
+   "pred_margin": 0.0,
    "actual_margin": 2,
-   "home_win_prob": 0.5
+   "home_win_prob": 0.501
   },
   {
    "id": "401810702",
    "date": "2026-02-26T03:00Z",
    "home": "DEN",
    "away": "BOS",
-   "pred_margin": 1.5,
+   "pred_margin": 1.6,
    "actual_margin": 19,
-   "home_win_prob": 0.543
+   "home_win_prob": 0.544
   },
   {
    "id": "401810703",
@@ -7962,7 +7974,7 @@
    "away": "CHA",
    "pred_margin": -12.5,
    "actual_margin": -24,
-   "home_win_prob": 0.189
+   "home_win_prob": 0.188
   },
   {
    "id": "401810704",
@@ -7971,7 +7983,7 @@
    "away": "MIA",
    "pred_margin": -1.3,
    "actual_margin": 7,
-   "home_win_prob": 0.463
+   "home_win_prob": 0.462
   },
   {
    "id": "401810705",
@@ -8007,14 +8019,14 @@
    "away": "POR",
    "pred_margin": 3.3,
    "actual_margin": -9,
-   "home_win_prob": 0.591
+   "home_win_prob": 0.593
   },
   {
    "id": "401810709",
    "date": "2026-02-27T01:30Z",
    "home": "DAL",
    "away": "SAC",
-   "pred_margin": 15.1,
+   "pred_margin": 15.2,
    "actual_margin": -9,
    "home_win_prob": 0.858
   },
@@ -8061,7 +8073,7 @@
    "away": "BKN",
    "pred_margin": 20.5,
    "actual_margin": 37,
-   "home_win_prob": 0.927
+   "home_win_prob": 0.926
   },
   {
    "id": "401810715",
@@ -8070,7 +8082,7 @@
    "away": "NY",
    "pred_margin": -5.9,
    "actual_margin": -29,
-   "home_win_prob": 0.337
+   "home_win_prob": 0.339
   },
   {
    "id": "401810716",
@@ -8086,9 +8098,9 @@
    "date": "2026-02-28T02:47Z",
    "home": "OKC",
    "away": "DEN",
-   "pred_margin": 6.6,
+   "pred_margin": 6.5,
    "actual_margin": 6,
-   "home_win_prob": 0.679
+   "home_win_prob": 0.678
   },
   {
    "id": "401810718",
@@ -8097,14 +8109,14 @@
    "away": "POR",
    "pred_margin": 13.5,
    "actual_margin": 16,
-   "home_win_prob": 0.83
+   "home_win_prob": 0.831
   },
   {
    "id": "401810719",
    "date": "2026-02-28T20:30Z",
    "home": "MIA",
    "away": "HOU",
-   "pred_margin": 2.4,
+   "pred_margin": 2.5,
    "actual_margin": 10,
    "home_win_prob": 0.569
   },
@@ -8131,18 +8143,18 @@
    "date": "2026-03-01T02:30Z",
    "home": "UTAH",
    "away": "NO",
-   "pred_margin": -3.4,
+   "pred_margin": -3.3,
    "actual_margin": -10,
-   "home_win_prob": 0.406
+   "home_win_prob": 0.407
   },
   {
    "id": "401810723",
    "date": "2026-03-01T18:00Z",
    "home": "NY",
    "away": "SA",
-   "pred_margin": 2.2,
+   "pred_margin": 2.1,
    "actual_margin": 25,
-   "home_win_prob": 0.561
+   "home_win_prob": 0.56
   },
   {
    "id": "401810724",
@@ -8158,9 +8170,9 @@
    "date": "2026-03-01T20:30Z",
    "home": "CHI",
    "away": "MIL",
-   "pred_margin": -3.3,
+   "pred_margin": -3.4,
    "actual_margin": 23,
-   "home_win_prob": 0.407
+   "home_win_prob": 0.406
   },
   {
    "id": "401810726",
@@ -8185,7 +8197,7 @@
    "date": "2026-03-01T23:00Z",
    "home": "ATL",
    "away": "POR",
-   "pred_margin": 11.7,
+   "pred_margin": 11.8,
    "actual_margin": 34,
    "home_win_prob": 0.797
   },
@@ -8223,7 +8235,7 @@
    "away": "NO",
    "pred_margin": 11.0,
    "actual_margin": 20,
-   "home_win_prob": 0.781
+   "home_win_prob": 0.782
   },
   {
    "id": "401810733",
@@ -8259,7 +8271,7 @@
    "away": "DEN",
    "pred_margin": -10.9,
    "actual_margin": -3,
-   "home_win_prob": 0.221
+   "home_win_prob": 0.22
   },
   {
    "id": "401810737",
@@ -8268,7 +8280,7 @@
    "away": "LAC",
    "pred_margin": 2.8,
    "actual_margin": -13,
-   "home_win_prob": 0.578
+   "home_win_prob": 0.577
   },
   {
    "id": "401810738",
@@ -8286,7 +8298,7 @@
    "away": "DET",
    "pred_margin": -1.8,
    "actual_margin": 4,
-   "home_win_prob": 0.449
+   "home_win_prob": 0.448
   },
   {
    "id": "401810740",
@@ -8304,7 +8316,7 @@
    "away": "BKN",
    "pred_margin": 14.5,
    "actual_margin": 26,
-   "home_win_prob": 0.847
+   "home_win_prob": 0.848
   },
   {
    "id": "401810742",
@@ -8313,7 +8325,7 @@
    "away": "NY",
    "pred_margin": -6.6,
    "actual_margin": -16,
-   "home_win_prob": 0.319
+   "home_win_prob": 0.32
   },
   {
    "id": "401810743",
@@ -8349,7 +8361,7 @@
    "away": "NO",
    "pred_margin": 7.1,
    "actual_margin": 9,
-   "home_win_prob": 0.692
+   "home_win_prob": 0.693
   },
   {
    "id": "401810747",
@@ -8358,7 +8370,7 @@
    "away": "PHX",
    "pred_margin": -9.8,
    "actual_margin": -11,
-   "home_win_prob": 0.245
+   "home_win_prob": 0.244
   },
   {
    "id": "401810748",
@@ -8367,7 +8379,7 @@
    "away": "OKC",
    "pred_margin": 1.1,
    "actual_margin": -3,
-   "home_win_prob": 0.532
+   "home_win_prob": 0.531
   },
   {
    "id": "401810749",
@@ -8392,18 +8404,18 @@
    "date": "2026-03-05T01:00Z",
    "home": "MEM",
    "away": "POR",
-   "pred_margin": 1.5,
+   "pred_margin": 1.6,
    "actual_margin": -8,
-   "home_win_prob": 0.543
+   "home_win_prob": 0.544
   },
   {
    "id": "401810752",
    "date": "2026-03-05T02:30Z",
    "home": "MIL",
    "away": "ATL",
-   "pred_margin": -4.8,
+   "pred_margin": -4.7,
    "actual_margin": -18,
-   "home_win_prob": 0.368
+   "home_win_prob": 0.369
   },
   {
    "id": "401810753",
@@ -8457,7 +8469,7 @@
    "away": "TOR",
    "pred_margin": 5.2,
    "actual_margin": 8,
-   "home_win_prob": 0.643
+   "home_win_prob": 0.644
   },
   {
    "id": "401810759",
@@ -8475,7 +8487,7 @@
    "away": "CHI",
    "pred_margin": 8.4,
    "actual_margin": -2,
-   "home_win_prob": 0.723
+   "home_win_prob": 0.724
   },
   {
    "id": "401810761",
@@ -8484,7 +8496,7 @@
    "away": "LAL",
    "pred_margin": 2.6,
    "actual_margin": 7,
-   "home_win_prob": 0.572
+   "home_win_prob": 0.573
   },
   {
    "id": "401810762",
@@ -8493,7 +8505,7 @@
    "away": "NO",
    "pred_margin": -5.2,
    "actual_margin": -10,
-   "home_win_prob": 0.357
+   "home_win_prob": 0.358
   },
   {
    "id": "401810763",
@@ -8518,9 +8530,9 @@
    "date": "2026-03-07T01:00Z",
    "home": "HOU",
    "away": "POR",
-   "pred_margin": 5.4,
+   "pred_margin": 5.5,
    "actual_margin": 7,
-   "home_win_prob": 0.65
+   "home_win_prob": 0.651
   },
   {
    "id": "401810766",
@@ -8529,7 +8541,7 @@
    "away": "NY",
    "pred_margin": -4.0,
    "actual_margin": -39,
-   "home_win_prob": 0.388
+   "home_win_prob": 0.389
   },
   {
    "id": "401810767",
@@ -8538,7 +8550,7 @@
    "away": "NO",
    "pred_margin": 1.2,
    "actual_margin": 2,
-   "home_win_prob": 0.534
+   "home_win_prob": 0.535
   },
   {
    "id": "401810768",
@@ -8592,7 +8604,7 @@
    "away": "LAC",
    "pred_margin": 0.4,
    "actual_margin": -3,
-   "home_win_prob": 0.512
+   "home_win_prob": 0.511
   },
   {
    "id": "401810774",
@@ -8601,7 +8613,7 @@
    "away": "UTAH",
    "pred_margin": 8.6,
    "actual_margin": 14,
-   "home_win_prob": 0.727
+   "home_win_prob": 0.728
   },
   {
    "id": "401810775",
@@ -8617,7 +8629,7 @@
    "date": "2026-03-08T17:00Z",
    "home": "CLE",
    "away": "BOS",
-   "pred_margin": 1.0,
+   "pred_margin": 0.9,
    "actual_margin": -11,
    "home_win_prob": 0.527
   },
@@ -8628,7 +8640,7 @@
    "away": "NY",
    "pred_margin": -8.7,
    "actual_margin": 13,
-   "home_win_prob": 0.269
+   "home_win_prob": 0.27
   },
   {
    "id": "401810778",
@@ -8682,7 +8694,7 @@
    "away": "IND",
    "pred_margin": 8.0,
    "actual_margin": 20,
-   "home_win_prob": 0.715
+   "home_win_prob": 0.714
   },
   {
    "id": "401810785",
@@ -8718,7 +8730,7 @@
    "away": "MEM",
    "pred_margin": -4.3,
    "actual_margin": 11,
-   "home_win_prob": 0.381
+   "home_win_prob": 0.38
   },
   {
    "id": "401810788",
@@ -8745,7 +8757,7 @@
    "away": "NY",
    "pred_margin": -1.2,
    "actual_margin": 8,
-   "home_win_prob": 0.466
+   "home_win_prob": 0.467
   },
   {
    "id": "401810791",
@@ -8788,9 +8800,9 @@
    "date": "2026-03-11T00:00Z",
    "home": "HOU",
    "away": "TOR",
-   "pred_margin": 4.8,
+   "pred_margin": 4.7,
    "actual_margin": 14,
-   "home_win_prob": 0.632
+   "home_win_prob": 0.631
   },
   {
    "id": "401810796",
@@ -8826,7 +8838,7 @@
    "away": "CHA",
    "pred_margin": -4.8,
    "actual_margin": -2,
-   "home_win_prob": 0.369
+   "home_win_prob": 0.367
   },
   {
    "id": "401810800",
@@ -8860,9 +8872,9 @@
    "date": "2026-03-12T00:00Z",
    "home": "NO",
    "away": "TOR",
-   "pred_margin": 2.2,
+   "pred_margin": 2.1,
    "actual_margin": 11,
-   "home_win_prob": 0.561
+   "home_win_prob": 0.56
   },
   {
    "id": "401810804",
@@ -8871,7 +8883,7 @@
    "away": "NY",
    "pred_margin": -17.8,
    "actual_margin": -17,
-   "home_win_prob": 0.104
+   "home_win_prob": 0.105
   },
   {
    "id": "401810805",
@@ -8880,7 +8892,7 @@
    "away": "HOU",
    "pred_margin": 6.6,
    "actual_margin": 36,
-   "home_win_prob": 0.679
+   "home_win_prob": 0.68
   },
   {
    "id": "401810806",
@@ -9006,7 +9018,7 @@
    "away": "PHX",
    "pred_margin": 5.6,
    "actual_margin": 7,
-   "home_win_prob": 0.654
+   "home_win_prob": 0.653
   },
   {
    "id": "401810820",
@@ -9033,14 +9045,14 @@
    "away": "MIN",
    "pred_margin": 1.0,
    "actual_margin": -10,
-   "home_win_prob": 0.527
+   "home_win_prob": 0.528
   },
   {
    "id": "401810822",
    "date": "2026-03-14T02:00Z",
    "home": "POR",
    "away": "UTAH",
-   "pred_margin": 9.3,
+   "pred_margin": 9.2,
    "actual_margin": 10,
    "home_win_prob": 0.743
   },
@@ -9114,7 +9126,7 @@
    "away": "SAC",
    "pred_margin": 13.5,
    "actual_margin": -9,
-   "home_win_prob": 0.829
+   "home_win_prob": 0.83
   },
   {
    "id": "401810831",
@@ -9123,7 +9135,7 @@
    "away": "MIN",
    "pred_margin": 11.8,
    "actual_margin": 13,
-   "home_win_prob": 0.798
+   "home_win_prob": 0.799
   },
   {
    "id": "401810832",
@@ -9157,9 +9169,9 @@
    "date": "2026-03-15T22:00Z",
    "home": "PHI",
    "away": "POR",
-   "pred_margin": -8.3,
+   "pred_margin": -8.2,
    "actual_margin": 6,
-   "home_win_prob": 0.279
+   "home_win_prob": 0.28
   },
   {
    "id": "401810836",
@@ -9168,7 +9180,7 @@
    "away": "GS",
    "pred_margin": 15.7,
    "actual_margin": 3,
-   "home_win_prob": 0.867
+   "home_win_prob": 0.866
   },
   {
    "id": "401810837",
@@ -9240,7 +9252,7 @@
    "away": "LAL",
    "pred_margin": -2.5,
    "actual_margin": -8,
-   "home_win_prob": 0.43
+   "home_win_prob": 0.429
   },
   {
    "id": "401810845",
@@ -9283,7 +9295,7 @@
    "date": "2026-03-17T23:30Z",
    "home": "NY",
    "away": "IND",
-   "pred_margin": 21.9,
+   "pred_margin": 21.8,
    "actual_margin": 26,
    "home_win_prob": 0.939
   },
@@ -9294,7 +9306,7 @@
    "away": "CLE",
    "pred_margin": -12.7,
    "actual_margin": -7,
-   "home_win_prob": 0.184
+   "home_win_prob": 0.185
   },
   {
    "id": "401810851",
@@ -9303,7 +9315,7 @@
    "away": "PHX",
    "pred_margin": 4.0,
    "actual_margin": 12,
-   "home_win_prob": 0.612
+   "home_win_prob": 0.611
   },
   {
    "id": "401810852",
@@ -9346,9 +9358,9 @@
    "date": "2026-03-18T23:30Z",
    "home": "IND",
    "away": "POR",
-   "pred_margin": -14.8,
+   "pred_margin": -14.7,
    "actual_margin": -8,
-   "home_win_prob": 0.148
+   "home_win_prob": 0.149
   },
   {
    "id": "401810857",
@@ -9364,7 +9376,7 @@
    "date": "2026-03-19T00:00Z",
    "home": "MIN",
    "away": "UTAH",
-   "pred_margin": 6.4,
+   "pred_margin": 6.3,
    "actual_margin": 36,
    "home_win_prob": 0.673
   },
@@ -9375,7 +9387,7 @@
    "away": "LAC",
    "pred_margin": -2.1,
    "actual_margin": 15,
-   "home_win_prob": 0.441
+   "home_win_prob": 0.44
   },
   {
    "id": "401810861",
@@ -9411,7 +9423,7 @@
    "away": "ORL",
    "pred_margin": 7.7,
    "actual_margin": 19,
-   "home_win_prob": 0.707
+   "home_win_prob": 0.708
   },
   {
    "id": "401810864",
@@ -9429,7 +9441,7 @@
    "away": "LAL",
    "pred_margin": 2.4,
    "actual_margin": -8,
-   "home_win_prob": 0.566
+   "home_win_prob": 0.567
   },
   {
    "id": "401810866",
@@ -9447,7 +9459,7 @@
    "away": "LAC",
    "pred_margin": 3.2,
    "actual_margin": 6,
-   "home_win_prob": 0.59
+   "home_win_prob": 0.589
   },
   {
    "id": "401810868",
@@ -9463,9 +9475,9 @@
    "date": "2026-03-20T01:00Z",
    "home": "UTAH",
    "away": "MIL",
-   "pred_margin": -0.5,
+   "pred_margin": -0.6,
    "actual_margin": 32,
-   "home_win_prob": 0.485
+   "home_win_prob": 0.484
   },
   {
    "id": "401810870",
@@ -9499,7 +9511,7 @@
    "date": "2026-03-21T00:00Z",
    "home": "HOU",
    "away": "ATL",
-   "pred_margin": 0.5,
+   "pred_margin": 0.4,
    "actual_margin": 22,
    "home_win_prob": 0.513
   },
@@ -9510,7 +9522,7 @@
    "away": "BOS",
    "pred_margin": -11.6,
    "actual_margin": -5,
-   "home_win_prob": 0.206
+   "home_win_prob": 0.205
   },
   {
    "id": "401810875",
@@ -9528,7 +9540,7 @@
    "away": "TOR",
    "pred_margin": 6.1,
    "actual_margin": 6,
-   "home_win_prob": 0.666
+   "home_win_prob": 0.667
   },
   {
    "id": "401810877",
@@ -9564,14 +9576,14 @@
    "away": "CLE",
    "pred_margin": -1.8,
    "actual_margin": -5,
-   "home_win_prob": 0.451
+   "home_win_prob": 0.45
   },
   {
    "id": "401810881",
    "date": "2026-03-22T00:00Z",
    "home": "ATL",
    "away": "GS",
-   "pred_margin": 6.4,
+   "pred_margin": 6.5,
    "actual_margin": 16,
    "home_win_prob": 0.676
   },
@@ -9625,7 +9637,7 @@
    "date": "2026-03-22T21:00Z",
    "home": "DEN",
    "away": "POR",
-   "pred_margin": 10.7,
+   "pred_margin": 10.8,
    "actual_margin": 16,
    "home_win_prob": 0.776
   },
@@ -9652,7 +9664,7 @@
    "date": "2026-03-23T00:00Z",
    "home": "BOS",
    "away": "MIN",
-   "pred_margin": 9.0,
+   "pred_margin": 9.1,
    "actual_margin": -10,
    "home_win_prob": 0.739
   },
@@ -9697,7 +9709,7 @@
    "date": "2026-03-23T23:00Z",
    "home": "MIA",
    "away": "SA",
-   "pred_margin": -2.7,
+   "pred_margin": -2.8,
    "actual_margin": -25,
    "home_win_prob": 0.423
   },
@@ -9735,7 +9747,7 @@
    "away": "GS",
    "pred_margin": -3.2,
    "actual_margin": -6,
-   "home_win_prob": 0.41
+   "home_win_prob": 0.411
   },
   {
    "id": "401810900",
@@ -9832,7 +9844,7 @@
    "date": "2026-03-25T23:30Z",
    "home": "CLE",
    "away": "MIA",
-   "pred_margin": -2.3,
+   "pred_margin": -2.4,
    "actual_margin": -17,
    "home_win_prob": 0.434
   },
@@ -9841,7 +9853,7 @@
    "date": "2026-03-26T00:00Z",
    "home": "MEM",
    "away": "SA",
-   "pred_margin": -15.1,
+   "pred_margin": -15.2,
    "actual_margin": -25,
    "home_win_prob": 0.142
   },
@@ -9888,7 +9900,7 @@
    "away": "MIL",
    "pred_margin": 18.0,
    "actual_margin": 31,
-   "home_win_prob": 0.899
+   "home_win_prob": 0.898
   },
   {
    "id": "401810917",
@@ -9906,7 +9918,7 @@
    "away": "NY",
    "pred_margin": 2.9,
    "actual_margin": 11,
-   "home_win_prob": 0.581
+   "home_win_prob": 0.582
   },
   {
    "id": "401810919",
@@ -9933,7 +9945,7 @@
    "away": "LAC",
    "pred_margin": -12.3,
    "actual_margin": -1,
-   "home_win_prob": 0.193
+   "home_win_prob": 0.192
   },
   {
    "id": "401810922",
@@ -9951,7 +9963,7 @@
    "away": "MIA",
    "pred_margin": 3.1,
    "actual_margin": 21,
-   "home_win_prob": 0.587
+   "home_win_prob": 0.586
   },
   {
    "id": "401810924",
@@ -9960,7 +9972,7 @@
    "away": "HOU",
    "pred_margin": -8.6,
    "actual_margin": -10,
-   "home_win_prob": 0.272
+   "home_win_prob": 0.273
   },
   {
    "id": "401810925",
@@ -9978,7 +9990,7 @@
    "away": "NO",
    "pred_margin": 10.0,
    "actual_margin": 13,
-   "home_win_prob": 0.759
+   "home_win_prob": 0.76
   },
   {
    "id": "401810927",
@@ -10003,9 +10015,9 @@
    "date": "2026-03-28T02:00Z",
    "home": "POR",
    "away": "DAL",
-   "pred_margin": 8.8,
+   "pred_margin": 8.7,
    "actual_margin": -7,
-   "home_win_prob": 0.732
+   "home_win_prob": 0.731
   },
   {
    "id": "401810930",
@@ -10032,7 +10044,7 @@
    "away": "DET",
    "pred_margin": -4.7,
    "actual_margin": -22,
-   "home_win_prob": 0.37
+   "home_win_prob": 0.369
   },
   {
    "id": "401810932",
@@ -10041,7 +10053,7 @@
    "away": "PHI",
    "pred_margin": 9.3,
    "actual_margin": -4,
-   "home_win_prob": 0.744
+   "home_win_prob": 0.745
   },
   {
    "id": "401810933",
@@ -10122,7 +10134,7 @@
    "away": "WSH",
    "pred_margin": 10.6,
    "actual_margin": 35,
-   "home_win_prob": 0.774
+   "home_win_prob": 0.773
   },
   {
    "id": "401810943",
@@ -10140,7 +10152,7 @@
    "away": "NY",
    "pred_margin": 6.0,
    "actual_margin": 11,
-   "home_win_prob": 0.664
+   "home_win_prob": 0.665
   },
   {
    "id": "401810945",
@@ -10192,9 +10204,9 @@
    "date": "2026-03-31T00:30Z",
    "home": "DAL",
    "away": "MIN",
-   "pred_margin": -7.6,
+   "pred_margin": -7.5,
    "actual_margin": -30,
-   "home_win_prob": 0.296
+   "home_win_prob": 0.297
   },
   {
    "id": "401810951",
@@ -10203,7 +10215,7 @@
    "away": "CLE",
    "pred_margin": -11.6,
    "actual_margin": -9,
-   "home_win_prob": 0.206
+   "home_win_prob": 0.207
   },
   {
    "id": "401810952",
@@ -10284,7 +10296,7 @@
    "away": "POR",
    "pred_margin": 6.2,
    "actual_margin": -10,
-   "home_win_prob": 0.668
+   "home_win_prob": 0.67
   },
   {
    "id": "401810960",
@@ -10293,7 +10305,7 @@
    "away": "PHI",
    "pred_margin": -9.0,
    "actual_margin": -22,
-   "home_win_prob": 0.261
+   "home_win_prob": 0.262
   },
   {
    "id": "401810962",
@@ -10320,7 +10332,7 @@
    "away": "NY",
    "pred_margin": -7.0,
    "actual_margin": -11,
-   "home_win_prob": 0.309
+   "home_win_prob": 0.31
   },
   {
    "id": "401810963",
@@ -10374,7 +10386,7 @@
    "away": "PHX",
    "pred_margin": 6.9,
    "actual_margin": 20,
-   "home_win_prob": 0.688
+   "home_win_prob": 0.687
   },
   {
    "id": "401810970",
@@ -10383,7 +10395,7 @@
    "away": "MIN",
    "pred_margin": 8.7,
    "actual_margin": 5,
-   "home_win_prob": 0.73
+   "home_win_prob": 0.731
   },
   {
    "id": "401810971",
@@ -10392,7 +10404,7 @@
    "away": "LAL",
    "pred_margin": 8.1,
    "actual_margin": 43,
-   "home_win_prob": 0.715
+   "home_win_prob": 0.716
   },
   {
    "id": "401810972",
@@ -10410,7 +10422,7 @@
    "away": "NO",
    "pred_margin": 4.8,
    "actual_margin": 12,
-   "home_win_prob": 0.634
+   "home_win_prob": 0.633
   },
   {
    "id": "401810974",
@@ -10471,7 +10483,7 @@
    "date": "2026-04-04T00:00Z",
    "home": "MEM",
    "away": "TOR",
-   "pred_margin": -12.0,
+   "pred_margin": -11.9,
    "actual_margin": -32,
    "home_win_prob": 0.199
   },
@@ -10489,7 +10501,7 @@
    "date": "2026-04-04T00:30Z",
    "home": "DAL",
    "away": "ORL",
-   "pred_margin": -5.5,
+   "pred_margin": -5.4,
    "actual_margin": -11,
    "home_win_prob": 0.35
   },
@@ -10500,7 +10512,7 @@
    "away": "NO",
    "pred_margin": -1.3,
    "actual_margin": 4,
-   "home_win_prob": 0.463
+   "home_win_prob": 0.464
   },
   {
    "id": "401810984",
@@ -10525,9 +10537,9 @@
    "date": "2026-04-04T23:00Z",
    "home": "PHI",
    "away": "DET",
-   "pred_margin": -8.6,
+   "pred_margin": -8.7,
    "actual_margin": -23,
-   "home_win_prob": 0.271
+   "home_win_prob": 0.27
   },
   {
    "id": "401810987",
@@ -10536,7 +10548,7 @@
    "away": "TOR",
    "pred_margin": 8.4,
    "actual_margin": 14,
-   "home_win_prob": 0.723
+   "home_win_prob": 0.724
   },
   {
    "id": "401810988",
@@ -10552,7 +10564,7 @@
    "date": "2026-04-05T19:30Z",
    "home": "CHI",
    "away": "PHX",
-   "pred_margin": -11.8,
+   "pred_margin": -11.9,
    "actual_margin": -10,
    "home_win_prob": 0.201
   },
@@ -10590,7 +10602,7 @@
    "away": "ORL",
    "pred_margin": -3.3,
    "actual_margin": -4,
-   "home_win_prob": 0.408
+   "home_win_prob": 0.407
   },
   {
    "id": "401810994",
@@ -10669,9 +10681,9 @@
    "date": "2026-04-07T01:00Z",
    "home": "DEN",
    "away": "POR",
-   "pred_margin": 7.1,
+   "pred_margin": 7.2,
    "actual_margin": 5,
-   "home_win_prob": 0.692
+   "home_win_prob": 0.693
   },
   {
    "id": "401811003",
@@ -10696,7 +10708,7 @@
    "date": "2026-04-07T23:30Z",
    "home": "BKN",
    "away": "MIL",
-   "pred_margin": 1.8,
+   "pred_margin": 1.7,
    "actual_margin": 6,
    "home_win_prob": 0.549
   },
@@ -10734,7 +10746,7 @@
    "away": "SAC",
    "pred_margin": 9.3,
    "actual_margin": 5,
-   "home_win_prob": 0.746
+   "home_win_prob": 0.745
   },
   {
    "id": "401811010",
@@ -10804,9 +10816,9 @@
    "date": "2026-04-09T01:30Z",
    "home": "SA",
    "away": "POR",
-   "pred_margin": 6.2,
+   "pred_margin": 6.3,
    "actual_margin": 11,
-   "home_win_prob": 0.67
+   "home_win_prob": 0.672
   },
   {
    "id": "401811018",
@@ -10815,14 +10827,14 @@
    "away": "OKC",
    "pred_margin": -11.5,
    "actual_margin": -18,
-   "home_win_prob": 0.207
+   "home_win_prob": 0.208
   },
   {
    "id": "401811019",
    "date": "2026-04-09T02:00Z",
    "home": "PHX",
    "away": "DAL",
-   "pred_margin": 13.7,
+   "pred_margin": 13.6,
    "actual_margin": 5,
    "home_win_prob": 0.833
   },
@@ -10842,7 +10854,7 @@
    "away": "CHI",
    "pred_margin": -0.9,
    "actual_margin": -11,
-   "home_win_prob": 0.476
+   "home_win_prob": 0.474
   },
   {
    "id": "401811022",
@@ -10896,7 +10908,7 @@
    "away": "MIA",
    "pred_margin": -8.7,
    "actual_margin": -23,
-   "home_win_prob": 0.27
+   "home_win_prob": 0.269
   },
   {
    "id": "401811028",
@@ -10912,7 +10924,7 @@
    "date": "2026-04-10T23:30Z",
    "home": "BOS",
    "away": "NO",
-   "pred_margin": 17.1,
+   "pred_margin": 17.2,
    "actual_margin": 26,
    "home_win_prob": 0.887
   },
@@ -10921,7 +10933,7 @@
    "date": "2026-04-10T23:30Z",
    "home": "IND",
    "away": "PHI",
-   "pred_margin": -6.5,
+   "pred_margin": -6.4,
    "actual_margin": -11,
    "home_win_prob": 0.324
   },
@@ -10941,7 +10953,7 @@
    "away": "ORL",
    "pred_margin": -10.1,
    "actual_margin": -24,
-   "home_win_prob": 0.237
+   "home_win_prob": 0.238
   },
   {
    "id": "401811034",
@@ -10966,7 +10978,7 @@
    "date": "2026-04-11T01:00Z",
    "home": "DEN",
    "away": "OKC",
-   "pred_margin": -8.1,
+   "pred_margin": -8.0,
    "actual_margin": 20,
    "home_win_prob": 0.285
   },
@@ -10986,16 +10998,16 @@
    "away": "MEM",
    "pred_margin": 8.3,
    "actual_margin": 46,
-   "home_win_prob": 0.721
+   "home_win_prob": 0.722
   },
   {
    "id": "401811038",
    "date": "2026-04-11T02:00Z",
    "home": "POR",
    "away": "LAC",
-   "pred_margin": -0.2,
+   "pred_margin": -0.3,
    "actual_margin": 19,
-   "home_win_prob": 0.494
+   "home_win_prob": 0.493
   },
   {
    "id": "401811039",
@@ -11058,16 +11070,16 @@
    "away": "CHA",
    "pred_margin": -8.5,
    "actual_margin": -14,
-   "home_win_prob": 0.275
+   "home_win_prob": 0.274
   },
   {
    "id": "401811046",
    "date": "2026-04-12T22:00Z",
    "home": "PHI",
    "away": "MIL",
-   "pred_margin": 10.9,
+   "pred_margin": 10.8,
    "actual_margin": 20,
-   "home_win_prob": 0.779
+   "home_win_prob": 0.778
   },
   {
    "id": "401811047",
@@ -11101,7 +11113,7 @@
    "date": "2026-04-13T00:30Z",
    "home": "MIN",
    "away": "NO",
-   "pred_margin": 7.0,
+   "pred_margin": 7.1,
    "actual_margin": 6,
    "home_win_prob": 0.691
   },
@@ -11110,7 +11122,7 @@
    "date": "2026-04-13T00:30Z",
    "home": "OKC",
    "away": "PHX",
-   "pred_margin": 13.1,
+   "pred_margin": 13.0,
    "actual_margin": -32,
    "home_win_prob": 0.822
   },
@@ -11139,7 +11151,7 @@
    "away": "GS",
    "pred_margin": 4.4,
    "actual_margin": 5,
-   "home_win_prob": 0.621
+   "home_win_prob": 0.622
   },
   {
    "id": "401811055",
@@ -11164,9 +11176,9 @@
    "date": "2026-04-15T02:00Z",
    "home": "PHX",
    "away": "POR",
-   "pred_margin": 0.0,
+   "pred_margin": 0.1,
    "actual_margin": -4,
-   "home_win_prob": 0.501
+   "home_win_prob": 0.502
   },
   {
    "id": "401866757",
@@ -11200,7 +11212,7 @@
    "date": "2026-04-18T02:00Z",
    "home": "PHX",
    "away": "GS",
-   "pred_margin": 3.6,
+   "pred_margin": 3.7,
    "actual_margin": 15,
    "home_win_prob": 0.602
   },
@@ -11236,9 +11248,9 @@
    "date": "2026-04-19T00:30Z",
    "home": "LAL",
    "away": "HOU",
-   "pred_margin": -1.7,
+   "pred_margin": -1.6,
    "actual_margin": 9,
-   "home_win_prob": 0.453
+   "home_win_prob": 0.454
   },
   {
    "id": "401869191",
@@ -11272,9 +11284,9 @@
    "date": "2026-04-20T01:00Z",
    "home": "SA",
    "away": "POR",
-   "pred_margin": 9.7,
+   "pred_margin": 9.8,
    "actual_margin": 13,
-   "home_win_prob": 0.754
+   "home_win_prob": 0.755
   },
   {
    "id": "401869369",
@@ -11317,9 +11329,9 @@
    "date": "2026-04-22T00:00Z",
    "home": "SA",
    "away": "POR",
-   "pred_margin": 10.0,
+   "pred_margin": 10.1,
    "actual_margin": -3,
-   "home_win_prob": 0.76
+   "home_win_prob": 0.761
   },
   {
    "id": "401869397",
@@ -11344,7 +11356,7 @@
    "date": "2026-04-23T01:30Z",
    "home": "OKC",
    "away": "PHX",
-   "pred_margin": 15.4,
+   "pred_margin": 15.3,
    "actual_margin": 13,
    "home_win_prob": 0.861
   },
@@ -11400,7 +11412,7 @@
    "away": "SA",
    "pred_margin": -0.8,
    "actual_margin": -12,
-   "home_win_prob": 0.478
+   "home_win_prob": 0.477
   },
   {
    "id": "401869414",
@@ -11490,7 +11502,7 @@
    "away": "OKC",
    "pred_margin": -8.6,
    "actual_margin": -9,
-   "home_win_prob": 0.272
+   "home_win_prob": 0.273
   },
   {
    "id": "401869401",
@@ -11517,7 +11529,7 @@
    "away": "ATL",
    "pred_margin": 6.0,
    "actual_margin": 29,
-   "home_win_prob": 0.664
+   "home_win_prob": 0.663
   },
   {
    "id": "401869386",
@@ -11562,7 +11574,7 @@
    "away": "NY",
    "pred_margin": -3.8,
    "actual_margin": -51,
-   "home_win_prob": 0.393
+   "home_win_prob": 0.394
   },
   {
    "id": "401869410",
@@ -11571,7 +11583,7 @@
    "away": "BOS",
    "pred_margin": -4.5,
    "actual_margin": 13,
-   "home_win_prob": 0.376
+   "home_win_prob": 0.375
   },
   {
    "id": "401869402",
@@ -11605,9 +11617,9 @@
    "date": "2026-05-02T01:30Z",
    "home": "HOU",
    "away": "LAL",
-   "pred_margin": 2.6,
+   "pred_margin": 2.5,
    "actual_margin": -20,
-   "home_win_prob": 0.572
+   "home_win_prob": 0.571
   },
   {
    "id": "401869412",
@@ -11670,7 +11682,7 @@
    "away": "LAL",
    "pred_margin": 5.9,
    "actual_margin": 18,
-   "home_win_prob": 0.663
+   "home_win_prob": 0.662
   },
   {
    "id": "401871160",
@@ -11733,7 +11745,7 @@
    "away": "DET",
    "pred_margin": -2.3,
    "actual_margin": 7,
-   "home_win_prob": 0.437
+   "home_win_prob": 0.436
   },
   {
    "id": "401871328",
@@ -11742,7 +11754,7 @@
    "away": "OKC",
    "pred_margin": -4.0,
    "actual_margin": -23,
-   "home_win_prob": 0.388
+   "home_win_prob": 0.389
   },
   {
    "id": "401871162",
@@ -11850,14 +11862,14 @@
    "away": "SA",
    "pred_margin": 3.2,
    "actual_margin": 9,
-   "home_win_prob": 0.589
+   "home_win_prob": 0.588
   },
   {
    "id": "401873342",
    "date": "2026-05-22T00:00Z",
    "home": "NY",
    "away": "CLE",
-   "pred_margin": 9.1,
+   "pred_margin": 9.2,
    "actual_margin": 16,
    "home_win_prob": 0.741
   },
@@ -11875,7 +11887,7 @@
    "date": "2026-05-24T00:00Z",
    "home": "CLE",
    "away": "NY",
-   "pred_margin": -5.7,
+   "pred_margin": -5.8,
    "actual_margin": -13,
    "home_win_prob": 0.342
   },
@@ -11884,7 +11896,7 @@
    "date": "2026-05-25T00:00Z",
    "home": "SA",
    "away": "OKC",
-   "pred_margin": 3.2,
+   "pred_margin": 3.3,
    "actual_margin": 21,
    "home_win_prob": 0.591
   },
@@ -11895,7 +11907,7 @@
    "away": "NY",
    "pred_margin": -6.4,
    "actual_margin": -37,
-   "home_win_prob": 0.326
+   "home_win_prob": 0.325
   },
   {
    "id": "401873201",
@@ -11904,16 +11916,16 @@
    "away": "SA",
    "pred_margin": -0.8,
    "actual_margin": 13,
-   "home_win_prob": 0.477
+   "home_win_prob": 0.478
   },
   {
    "id": "401873202",
    "date": "2026-05-29T00:30Z",
    "home": "SA",
    "away": "OKC",
-   "pred_margin": 1.8,
+   "pred_margin": 1.7,
    "actual_margin": 27,
-   "home_win_prob": 0.549
+   "home_win_prob": 0.548
   },
   {
    "id": "401873203",
@@ -11922,16 +11934,16 @@
    "away": "SA",
    "pred_margin": -1.8,
    "actual_margin": -8,
-   "home_win_prob": 0.448
+   "home_win_prob": 0.449
   },
   {
    "id": "401859963",
    "date": "2026-06-04T00:30Z",
    "home": "SA",
    "away": "NY",
-   "pred_margin": 0.6,
+   "pred_margin": 0.5,
    "actual_margin": -10,
-   "home_win_prob": 0.517
+   "home_win_prob": 0.515
   },
   {
    "id": "401859964",
@@ -11940,16 +11952,16 @@
    "away": "NY",
    "pred_margin": -0.4,
    "actual_margin": -1,
-   "home_win_prob": 0.49
+   "home_win_prob": 0.489
   },
   {
    "id": "401859965",
    "date": "2026-06-09T00:30Z",
    "home": "NY",
    "away": "SA",
-   "pred_margin": 4.4,
+   "pred_margin": 4.5,
    "actual_margin": -4,
-   "home_win_prob": 0.623
+   "home_win_prob": 0.624
   },
   {
    "id": "401859966",
@@ -11958,16 +11970,16 @@
    "away": "SA",
    "pred_margin": 3.7,
    "actual_margin": 1,
-   "home_win_prob": 0.602
+   "home_win_prob": 0.603
   },
   {
    "id": "401859967",
    "date": "2026-06-14T00:30Z",
    "home": "SA",
    "away": "NY",
-   "pred_margin": 0.6,
+   "pred_margin": 0.5,
    "actual_margin": -4,
-   "home_win_prob": 0.516
+   "home_win_prob": 0.515
   }
  ]
 }

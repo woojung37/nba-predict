@@ -103,7 +103,14 @@ class Ratings:
         self.D[away] += k * eh
         self.O[away] += k * ea
         self.D[home] += k * ea
-        self.league += 0.01 * ((actual[0] + actual[1]) / 2 - self.league)
+        self.league += 0.01 * (eh + ea) / 2
+        # keep the league-wide scoring level in L, not spread across team ratings,
+        # so regressing ratings between seasons does not drag predicted totals down
+        for ratings in (self.O, self.D):
+            mean = sum(ratings.values()) / len(ratings)
+            self.league += mean
+            for t in ratings:
+                ratings[t] -= mean
         self.last_day[home] = self.last_day[away] = day
 
 
