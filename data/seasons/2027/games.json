@@ -1096,20 +1096,20 @@
   "date": "2026-10-27T23:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "TD Garden",
   "home": {
    "id": "2",
    "abbr": "BOS",
-   "score": 54
+   "score": 125
   },
   "away": {
    "id": "17",
    "abbr": "BKN",
-   "score": 59
+   "score": 124
   }
  },
  {
@@ -1125,12 +1125,12 @@
   "home": {
    "id": "18",
    "abbr": "NY",
-   "score": 20
+   "score": 103
   },
   "away": {
    "id": "8",
    "abbr": "DET",
-   "score": 27
+   "score": 86
   }
  },
  {
@@ -1138,20 +1138,20 @@
   "date": "2026-10-28T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Frost Bank Center",
   "home": {
    "id": "24",
    "abbr": "SA",
-   "score": 39
+   "score": 130
   },
   "away": {
    "id": "23",
    "abbr": "SAC",
-   "score": 29
+   "score": 103
   }
  },
  {
