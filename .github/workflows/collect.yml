@@ -2,12 +2,17 @@ name: Collect NBA data
 
 on:
   schedule:
-    # 06:00 UTC = 15:00 KST: last night's US games are final, next games are listed
-    - cron: "0 6 * * *"
-    # 12:00 UTC = 21:00 KST: evening refresh for bets placed the night before
-    - cron: "0 12 * * *"
-    # 21:30 UTC = 06:30 KST: refresh injuries and predictions before tip-off
-    - cron: "30 21 * * *"
+    # GitHub runs scheduled jobs late, worst on the hour, so each slot gets two
+    # off-the-hour runs; one usually lands within ~10-20 min of the target.
+    # Target 15:00 KST (06:00 UTC): last night's US games final, next games listed
+    - cron: "43 5 * * *"
+    - cron: "7 6 * * *"
+    # Target 21:00 KST (12:00 UTC): evening refresh for bets placed the night before
+    - cron: "43 11 * * *"
+    - cron: "7 12 * * *"
+    # Target 06:30 KST (21:30 UTC): injuries and predictions before tip-off
+    - cron: "13 21 * * *"
+    - cron: "37 21 * * *"
   workflow_dispatch:
 
 permissions:
