@@ -39,13 +39,19 @@ def predict_game(g, ratings, players, injuries, params):
     sigma = params["sigma"]
     prob = win_probability(margin, sigma)
     hca = 0.0 if g["neutral"] else params["hca"]
-    return {
+    total = home_pts + away_pts
+    total_sigma = params["total_sigma"]
+    out = {
         "home_points": round(home_pts, 1),
         "away_points": round(away_pts, 1),
         "home_margin": round(margin, 1),
         "home_win_prob": round(prob, 3),
         "away_win_prob": round(1 - prob, 3),
         "margin_range80": [round(margin - RANGE_Z * sigma, 1), round(margin + RANGE_Z * sigma, 1)],
+        "total": round(total, 1),
+        "total_range80": [round(total - RANGE_Z * total_sigma, 1), round(total + RANGE_Z * total_sigma, 1)],
+        "sigma": sigma,
+        "total_sigma": total_sigma,
         # these add up to home_margin
         "factors": {
             "team_strength": round((ratings.O[h] - ratings.D[h]) - (ratings.O[a] - ratings.D[a]), 1),
@@ -58,6 +64,22 @@ def predict_game(g, ratings, players, injuries, params):
         "ratings": {side: {"offense": round(ratings.O[t], 1), "defense": round(ratings.D[t], 1)}
                     for side, t in (("home", h), ("away", a))},
     }
+    odds = g.get("odds") or {}
+    if odds.get("spread") is not None or odds.get("over_under") is not None:
+        out["vs_line"] = line_probabilities(margin, total, odds.get("spread"), odds.get("over_under"),
+                                            sigma, total_sigma)
+        out["vs_line"]["provider"] = odds.get("provider")
+    return out
+
+
+def line_probabilities(margin, total, spread, over_under, sigma, total_sigma):
+    """Chance the home team covers `spread` (home line, negative = favored) and the game goes over."""
+    res = {"spread": spread, "over_under": over_under}
+    if spread is not None:
+        res["home_cover_prob"] = round(win_probability(margin + spread, sigma), 3)
+    if over_under is not None:
+        res["over_prob"] = round(win_probability(total - over_under, total_sigma), 3)
+    return res
 
 
 def track_record(log):
@@ -68,8 +90,37 @@ def track_record(log):
     mae = sum(abs(e["prediction"]["home_margin"] - e["result"]["home_margin"]) for e in done) / len(done)
     inside = sum(e["prediction"]["margin_range80"][0] <= e["result"]["home_margin"]
                  <= e["prediction"]["margin_range80"][1] for e in done)
-    return {"games": len(done), "correct": correct, "win_accuracy": round(correct / len(done), 4),
-            "margin_mae": round(mae, 2), "range80_coverage": round(inside / len(done), 4)}
+    out = {"games": len(done), "correct": correct, "win_accuracy": round(correct / len(done), 4),
+           "margin_mae": round(mae, 2), "range80_coverage": round(inside / len(done), 4)}
+    totals = [e for e in done if "total" in e["prediction"]]
+    if totals:
+        actual = lambda e: e["result"]["home_score"] + e["result"]["away_score"]
+        out["total_mae"] = round(sum(abs(e["prediction"]["total"] - actual(e)) for e in totals) / len(totals), 2)
+    out["handicap"] = line_record(done, "home_cover_prob", "spread",
+                                  lambda e, line: e["result"]["home_margin"] + line)
+    out["over_under"] = line_record(done, "over_prob", "over_under",
+                                    lambda e, line: e["result"]["home_score"] + e["result"]["away_score"] - line)
+    return out
+
+
+def line_record(done, prob_key, line_key, outcome):
+    """Hit rate of picking the side the model gives over 50%, pushes excluded."""
+    stats = {"all": [0, 0], "confident": [0, 0]}  # [hits, decided games]
+    for e in done:
+        line = e.get("line") or {}
+        if line.get(prob_key) is None or line.get(line_key) is None:
+            continue
+        diff = outcome(e, line[line_key])
+        if diff == 0:
+            continue
+        prob = line[prob_key]
+        hit = (prob > 0.5) == (diff > 0)
+        buckets = ["all"] + (["confident"] if abs(prob - 0.5) >= 0.1 else [])
+        for b in buckets:
+            stats[b][0] += hit
+            stats[b][1] += 1
+    return {b: {"hits": h, "games": n, "hit_rate": round(h / n, 4) if n else None}
+            for b, (h, n) in stats.items()}
 
 
 def write_predictions(data, season):
@@ -88,13 +139,17 @@ def write_predictions(data, season):
     now = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
     for entry in upcoming:
         g = games.get(entry["id"])
+        if g and g["state"] != "pre" and g["id"] in log:
+            entry["pre_game_prediction"] = log[g["id"]]["prediction"]
         if not g or g["state"] != "pre":
             continue
         entry["prediction"] = predict_game(g, ratings, players, injuries, params)
         log[g["id"]] = {"date": g["date"], "home": g["home"]["abbr"], "away": g["away"]["abbr"],
                         "predicted_at": now, "prediction": {k: entry["prediction"][k] for k in (
                             "home_points", "away_points", "home_margin", "home_win_prob",
-                            "margin_range80")}}
+                            "margin_range80", "total")}}
+        if "vs_line" in entry["prediction"]:
+            log[g["id"]]["line"] = entry["prediction"]["vs_line"]
     # attach final scores to logged predictions
     for gid, e in log.items():
         g = games.get(gid)

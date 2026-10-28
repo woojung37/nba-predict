@@ -37,7 +37,9 @@ GitHub Actions(`.github/workflows/collect.yml`)가 매일 한국 시간 15:00과
 python -m model.train   # 2024-25로 설정값을 고르고 2025-26으로 검증 → model/params.json, data/model/backtest.json
 ```
 
-2025-26 검증 결과(모델이 보지 않은 시즌, 1,322경기): 승패 적중률 68%, 점수차 평균 오차 11.2점, 80% 범위 적중 80%.
+2025-26 검증 결과(모델이 보지 않은 시즌, 1,322경기): 승패 적중률 68%, 점수차 평균 오차 11.2점, 80% 범위 적중 80%, 총점 평균 오차 15.2점.
+
+부가로 예상 총점(언오버)과 기준선 대비 확률(핸디캡·언오버)을 냅니다. 경기 페이지에서 기준선과 배당을 입력하면 확률과 기대값을 계산합니다. 기준선 대비 실제 적중 기록은 `data/model/track_record.json`에 쌓입니다.
 `collector.collect daily`가 돌 때마다 예정 경기 예측이 `data/derived/upcoming.json`에 들어가고, 경기 전 예측은 `data/model/predictions_log.json`에 남아 실제 결과와 비교됩니다.
 
 ## 웹사이트 (`site/`)
