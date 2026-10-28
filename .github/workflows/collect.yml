@@ -4,6 +4,8 @@ on:
   schedule:
     # 06:00 UTC = 15:00 KST: last night's US games are final, next games are listed
     - cron: "0 6 * * *"
+    # 12:00 UTC = 21:00 KST: evening refresh for bets placed the night before
+    - cron: "0 12 * * *"
     # 21:30 UTC = 06:30 KST: refresh injuries and predictions before tip-off
     - cron: "30 21 * * *"
   workflow_dispatch:
