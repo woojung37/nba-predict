@@ -106,9 +106,10 @@ def main():
         "calibration": calibration(test_rows, params["sigma"]),
         "test_games": [{
             "id": g["id"], "date": g["date"], "home": g["home"]["abbr"], "away": g["away"]["abbr"],
-            "pred_margin": round(p, 1), "actual_margin": a,
+            "pred_home": round((pt + p) / 2, 1), "pred_away": round((pt - p) / 2, 1),
+            "home_score": g["home"]["score"], "away_score": g["away"]["score"],
             "home_win_prob": round(win_probability(p, params["sigma"]), 3),
-        } for g, p, a, *_ in test_rows],
+        } for g, p, a, pt, *_ in test_rows],
     }
     write_json(DATA / "model" / "backtest.json", report)
     print(json.dumps({k: v for k, v in report.items() if k != "test_games"}, indent=1))
