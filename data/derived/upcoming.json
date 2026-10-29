@@ -2782,6 +2782,18 @@
     {
      "team_id": "18",
      "team": "New York Knicks",
+     "athlete_id": "3914044",
+     "name": "Landry Shamet",
+     "position": "G",
+     "status": "Day-To-Day",
+     "injury": "Right Ankle",
+     "return_date": "2026-10-28",
+     "updated": "2026-10-29T00:55Z",
+     "comment": "Shamet (ankle) exited Wednesday's game against the Bulls, Brett Siegel of ClutchPoints.com reports."
+    },
+    {
+     "team_id": "18",
+     "team": "New York Knicks",
      "athlete_id": "4277869",
      "name": "Jose Alvarado",
      "position": "G",
@@ -2896,7 +2908,7 @@
      "fg_pct": 37.0,
      "fg3_pct": 42.1,
      "ft_pct": 66.7,
-     "injury_status": null
+     "injury_status": "Day-To-Day"
     }
    ]
   },
@@ -4458,7 +4470,7 @@
   "venue": "Delta Center",
   "date_kst": "2026-10-29T10:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "SA -13.5",
    "spread": 13.5,
    "over_under": 232.5
@@ -5010,7 +5022,7 @@
     "over_under": 232.5,
     "home_cover_prob": 0.606,
     "over_prob": 0.491,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -5023,7 +5035,7 @@
   "venue": "American Airlines Center",
   "date_kst": "2026-10-29T10:30:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "OKC -5.5",
    "spread": 5.5,
    "over_under": 228.5
@@ -5666,7 +5678,7 @@
     "over_under": 228.5,
     "home_cover_prob": 0.549,
     "over_prob": 0.467,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -5679,7 +5691,7 @@
   "venue": "Intuit Dome",
   "date_kst": "2026-10-29T11:30:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "LAC -1.5",
    "spread": -1.5,
    "over_under": 224.5
@@ -5737,6 +5749,30 @@
     {
      "team_id": "12",
      "team": "LA Clippers",
+     "athlete_id": "4065778",
+     "name": "Max Strus",
+     "position": "G",
+     "status": "Out",
+     "injury": "Right Foot Plantar Fasciitis",
+     "return_date": "2026-11-08",
+     "updated": "2026-10-29T01:03Z",
+     "comment": "Strus (foot) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports."
+    },
+    {
+     "team_id": "12",
+     "team": "LA Clippers",
+     "athlete_id": "3913176",
+     "name": "Brandon Ingram",
+     "position": "F",
+     "status": "Out",
+     "injury": "Right Achilles Surgery",
+     "return_date": "2026-11-08",
+     "updated": "2026-10-29T01:00Z",
+     "comment": "Ingram (Achilles) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports."
+    },
+    {
+     "team_id": "12",
+     "team": "LA Clippers",
      "athlete_id": "4066648",
      "name": "Rui Hachimura",
      "position": "F",
@@ -5761,18 +5797,6 @@
     {
      "team_id": "12",
      "team": "LA Clippers",
-     "athlete_id": "4065778",
-     "name": "Max Strus",
-     "position": "G",
-     "status": "Out",
-     "injury": "Right Foot Plantar Fasciitis",
-     "return_date": "2026-11-08",
-     "updated": "2026-10-05T22:21Z",
-     "comment": "Strus has been diagnosed with a partially torn plantar fascia in his right foot and he will be re-evaluated in four weeks, Ohm Youngmisuk of ESPN.com reports."
-    },
-    {
-     "team_id": "12",
-     "team": "LA Clippers",
      "athlete_id": "5108024",
      "name": "Yanic Konan Niederhauser",
      "position": "C",
@@ -5781,18 +5805,6 @@
      "return_date": "2026-11-08",
      "updated": "2026-09-28T18:07Z",
      "comment": "Niederhauser (foot) won't be ready for the start of the season, Law Murray of The Athletic reports."
-    },
-    {
-     "team_id": "12",
-     "team": "LA Clippers",
-     "athlete_id": "3913176",
-     "name": "Brandon Ingram",
-     "position": "F",
-     "status": "Out",
-     "injury": "Right Achilles Surgery",
-     "return_date": "2026-11-08",
-     "updated": "2026-09-28T18:01Z",
-     "comment": "Ingram won't be ready for the start of the season due to a partially torn Achilles, per Joey Linn of SI.com."
     },
     {
      "team_id": "12",
@@ -6292,7 +6304,7 @@
     "over_under": 224.5,
     "home_cover_prob": 0.654,
     "over_prob": 0.437,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -6795,7 +6807,7 @@
   "venue": "Smoothie King Center",
   "date_kst": "2026-10-30T09:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "NO -5.5",
    "spread": -5.5,
    "over_under": 237.5
@@ -7348,7 +7360,7 @@
     "over_under": 237.5,
     "home_cover_prob": 0.573,
     "over_prob": 0.536,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -7361,7 +7373,7 @@
   "venue": "Moda Center",
   "date_kst": "2026-10-30T11:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "POR -6.5",
    "spread": -6.5,
    "over_under": 232.5
@@ -7858,7 +7870,7 @@
     "over_under": 232.5,
     "home_cover_prob": 0.521,
     "over_prob": 0.565,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -9782,6 +9794,18 @@
     {
      "team_id": "18",
      "team": "New York Knicks",
+     "athlete_id": "3914044",
+     "name": "Landry Shamet",
+     "position": "G",
+     "status": "Day-To-Day",
+     "injury": "Right Ankle",
+     "return_date": "2026-10-28",
+     "updated": "2026-10-29T00:55Z",
+     "comment": "Shamet (ankle) exited Wednesday's game against the Bulls, Brett Siegel of ClutchPoints.com reports."
+    },
+    {
+     "team_id": "18",
+     "team": "New York Knicks",
      "athlete_id": "4277869",
      "name": "Jose Alvarado",
      "position": "G",
@@ -9896,7 +9920,7 @@
      "fg_pct": 37.0,
      "fg3_pct": 42.1,
      "ft_pct": 66.7,
-     "injury_status": null
+     "injury_status": "Day-To-Day"
     }
    ]
   },
@@ -10002,8 +10026,8 @@
    "home_points": 110.3,
    "away_points": 113.0,
    "home_margin": -2.7,
-   "home_win_prob": 0.423,
-   "away_win_prob": 0.577,
+   "home_win_prob": 0.424,
+   "away_win_prob": 0.576,
    "margin_range80": [
     -20.9,
     15.4
@@ -10019,7 +10043,7 @@
     "team_strength": -4.7,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": -0.0
+    "injuries": 0.0
    },
    "back_to_back": {
     "home": false,
@@ -10027,7 +10051,14 @@
    },
    "injury_impact": {
     "home": [],
-    "away": []
+    "away": [
+     {
+      "athlete_id": "3914044",
+      "name": "Landry Shamet",
+      "status": "Day-To-Day",
+      "impact": -0.0
+     }
+    ]
    },
    "ratings": {
     "home": {
@@ -12010,6 +12041,30 @@
     {
      "team_id": "12",
      "team": "LA Clippers",
+     "athlete_id": "4065778",
+     "name": "Max Strus",
+     "position": "G",
+     "status": "Out",
+     "injury": "Right Foot Plantar Fasciitis",
+     "return_date": "2026-11-08",
+     "updated": "2026-10-29T01:03Z",
+     "comment": "Strus (foot) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports."
+    },
+    {
+     "team_id": "12",
+     "team": "LA Clippers",
+     "athlete_id": "3913176",
+     "name": "Brandon Ingram",
+     "position": "F",
+     "status": "Out",
+     "injury": "Right Achilles Surgery",
+     "return_date": "2026-11-08",
+     "updated": "2026-10-29T01:00Z",
+     "comment": "Ingram (Achilles) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports."
+    },
+    {
+     "team_id": "12",
+     "team": "LA Clippers",
      "athlete_id": "4066648",
      "name": "Rui Hachimura",
      "position": "F",
@@ -12034,18 +12089,6 @@
     {
      "team_id": "12",
      "team": "LA Clippers",
-     "athlete_id": "4065778",
-     "name": "Max Strus",
-     "position": "G",
-     "status": "Out",
-     "injury": "Right Foot Plantar Fasciitis",
-     "return_date": "2026-11-08",
-     "updated": "2026-10-05T22:21Z",
-     "comment": "Strus has been diagnosed with a partially torn plantar fascia in his right foot and he will be re-evaluated in four weeks, Ohm Youngmisuk of ESPN.com reports."
-    },
-    {
-     "team_id": "12",
-     "team": "LA Clippers",
      "athlete_id": "5108024",
      "name": "Yanic Konan Niederhauser",
      "position": "C",
@@ -12054,18 +12097,6 @@
      "return_date": "2026-11-08",
      "updated": "2026-09-28T18:07Z",
      "comment": "Niederhauser (foot) won't be ready for the start of the season, Law Murray of The Athletic reports."
-    },
-    {
-     "team_id": "12",
-     "team": "LA Clippers",
-     "athlete_id": "3913176",
-     "name": "Brandon Ingram",
-     "position": "F",
-     "status": "Out",
-     "injury": "Right Achilles Surgery",
-     "return_date": "2026-11-08",
-     "updated": "2026-09-28T18:01Z",
-     "comment": "Ingram won't be ready for the start of the season due to a partially torn Achilles, per Joey Linn of SI.com."
     },
     {
      "team_id": "12",
@@ -12947,7 +12978,7 @@
   "venue": "Mortgage Matchup Center",
   "date_kst": "2026-10-31T11:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": null,
    "spread": null,
    "over_under": 233.5
@@ -13511,7 +13542,7 @@
     "spread": null,
     "over_under": 233.5,
     "over_prob": 0.484,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  }

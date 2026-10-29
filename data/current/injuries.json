@@ -422,6 +422,30 @@
  {
   "team_id": "12",
   "team": "LA Clippers",
+  "athlete_id": "4065778",
+  "name": "Max Strus",
+  "position": "G",
+  "status": "Out",
+  "injury": "Right Foot Plantar Fasciitis",
+  "return_date": "2026-11-08",
+  "updated": "2026-10-29T01:03Z",
+  "comment": "Strus (foot) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports."
+ },
+ {
+  "team_id": "12",
+  "team": "LA Clippers",
+  "athlete_id": "3913176",
+  "name": "Brandon Ingram",
+  "position": "F",
+  "status": "Out",
+  "injury": "Right Achilles Surgery",
+  "return_date": "2026-11-08",
+  "updated": "2026-10-29T01:00Z",
+  "comment": "Ingram (Achilles) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports."
+ },
+ {
+  "team_id": "12",
+  "team": "LA Clippers",
   "athlete_id": "4066648",
   "name": "Rui Hachimura",
   "position": "F",
@@ -446,18 +470,6 @@
  {
   "team_id": "12",
   "team": "LA Clippers",
-  "athlete_id": "4065778",
-  "name": "Max Strus",
-  "position": "G",
-  "status": "Out",
-  "injury": "Right Foot Plantar Fasciitis",
-  "return_date": "2026-11-08",
-  "updated": "2026-10-05T22:21Z",
-  "comment": "Strus has been diagnosed with a partially torn plantar fascia in his right foot and he will be re-evaluated in four weeks, Ohm Youngmisuk of ESPN.com reports."
- },
- {
-  "team_id": "12",
-  "team": "LA Clippers",
   "athlete_id": "5108024",
   "name": "Yanic Konan Niederhauser",
   "position": "C",
@@ -466,18 +478,6 @@
   "return_date": "2026-11-08",
   "updated": "2026-09-28T18:07Z",
   "comment": "Niederhauser (foot) won't be ready for the start of the season, Law Murray of The Athletic reports."
- },
- {
-  "team_id": "12",
-  "team": "LA Clippers",
-  "athlete_id": "3913176",
-  "name": "Brandon Ingram",
-  "position": "F",
-  "status": "Out",
-  "injury": "Right Achilles Surgery",
-  "return_date": "2026-11-08",
-  "updated": "2026-09-28T18:01Z",
-  "comment": "Ingram won't be ready for the start of the season due to a partially torn Achilles, per Joey Linn of SI.com."
  },
  {
   "team_id": "12",
@@ -586,6 +586,18 @@
   "return_date": "2026-11-02",
   "updated": "2026-10-24T22:17Z",
   "comment": "Missi has been diagnosed with a left knee bone bruise and he will miss an extended period of time, Brett Siegel of ClutchPoints.com reports."
+ },
+ {
+  "team_id": "18",
+  "team": "New York Knicks",
+  "athlete_id": "3914044",
+  "name": "Landry Shamet",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Right Ankle",
+  "return_date": "2026-10-28",
+  "updated": "2026-10-29T00:55Z",
+  "comment": "Shamet (ankle) exited Wednesday's game against the Bulls, Brett Siegel of ClutchPoints.com reports."
  },
  {
   "team_id": "18",

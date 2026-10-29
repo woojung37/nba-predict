@@ -1188,12 +1188,12 @@
   "home": {
    "id": "1",
    "abbr": "ATL",
-   "score": 85
+   "score": 110
   },
   "away": {
    "id": "14",
    "abbr": "MIA",
-   "score": 99
+   "score": 118
   }
  },
  {
@@ -1209,12 +1209,12 @@
   "home": {
    "id": "5",
    "abbr": "CLE",
-   "score": 90
+   "score": 104
   },
   "away": {
    "id": "27",
    "abbr": "WSH",
-   "score": 92
+   "score": 103
   }
  },
  {
@@ -1230,12 +1230,12 @@
   "home": {
    "id": "8",
    "abbr": "DET",
-   "score": 67
+   "score": 80
   },
   "away": {
    "id": "30",
    "abbr": "CHA",
-   "score": 63
+   "score": 70
   }
  },
  {
@@ -1245,18 +1245,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "status": "STATUS_END_PERIOD",
   "neutral": false,
   "venue": "Gainbridge Fieldhouse",
   "home": {
    "id": "11",
    "abbr": "IND",
-   "score": 69
+   "score": 88
   },
   "away": {
    "id": "20",
    "abbr": "PHI",
-   "score": 62
+   "score": 75
   }
  },
  {
@@ -1266,18 +1266,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_HALFTIME",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Scotiabank Arena",
   "home": {
    "id": "28",
    "abbr": "TOR",
-   "score": 69
+   "score": 82
   },
   "away": {
    "id": "19",
    "abbr": "ORL",
-   "score": 53
+   "score": 56
   }
  },
  {
@@ -1293,12 +1293,12 @@
   "home": {
    "id": "4",
    "abbr": "CHI",
-   "score": 44
+   "score": 56
   },
   "away": {
    "id": "18",
    "abbr": "NY",
-   "score": 41
+   "score": 55
   }
  },
  {
@@ -1308,18 +1308,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "status": "STATUS_HALFTIME",
   "neutral": false,
   "venue": "Fiserv Forum",
   "home": {
    "id": "15",
    "abbr": "MIL",
-   "score": 24
+   "score": 35
   },
   "away": {
    "id": "10",
    "abbr": "HOU",
-   "score": 36
+   "score": 57
   }
  },
  {
@@ -1335,12 +1335,12 @@
   "home": {
    "id": "16",
    "abbr": "MIN",
-   "score": 31
+   "score": 46
   },
   "away": {
    "id": "9",
    "abbr": "GS",
-   "score": 36
+   "score": 60
   }
  },
  {
@@ -1350,18 +1350,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "status": "STATUS_HALFTIME",
   "neutral": false,
   "venue": "Smoothie King Center",
   "home": {
    "id": "3",
    "abbr": "NO",
-   "score": 30
+   "score": 45
   },
   "away": {
    "id": "7",
    "abbr": "DEN",
-   "score": 46
+   "score": 57
   }
  },
  {
@@ -1385,7 +1385,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "SA -13.5",
    "spread": 13.5,
    "over_under": 232.5
@@ -1412,7 +1412,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "OKC -5.5",
    "spread": 5.5,
    "over_under": 228.5
@@ -1439,7 +1439,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "LAC -1.5",
    "spread": -1.5,
    "over_under": 224.5
@@ -1487,7 +1487,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "NO -5.5",
    "spread": -5.5,
    "over_under": 237.5
@@ -1514,7 +1514,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "POR -6.5",
    "spread": -6.5,
    "over_under": 232.5
@@ -1730,7 +1730,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": null,
    "spread": null,
    "over_under": 233.5
