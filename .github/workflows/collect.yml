@@ -4,15 +4,15 @@ on:
   schedule:
     # GitHub runs scheduled jobs late, worst on the hour, so each slot gets two
     # off-the-hour runs; one usually lands within ~10-20 min of the target.
-    # Target 15:00 KST (06:00 UTC): last night's US games final, next games listed
+    # Target 06:00 KST (21:00 UTC): injuries and predictions before tip-off
+    - cron: "43 20 * * *"
+    - cron: "7 21 * * *"
+    # Target 12:00 KST (03:00 UTC): most US games are final by now
+    - cron: "43 2 * * *"
+    - cron: "7 3 * * *"
+    # Target 15:00 KST (06:00 UTC): late finals, injuries and next games listed
     - cron: "43 5 * * *"
     - cron: "7 6 * * *"
-    # Target 21:00 KST (12:00 UTC): evening refresh for bets placed the night before
-    - cron: "43 11 * * *"
-    - cron: "7 12 * * *"
-    # Target 06:30 KST (21:30 UTC): injuries and predictions before tip-off
-    - cron: "13 21 * * *"
-    - cron: "37 21 * * *"
   workflow_dispatch:
 
 permissions:
