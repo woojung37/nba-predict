@@ -1180,26 +1180,20 @@
   "date": "2026-10-28T23:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "State Farm Arena",
   "home": {
    "id": "1",
    "abbr": "ATL",
-   "score": null
+   "score": 85
   },
   "away": {
    "id": "14",
    "abbr": "MIA",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "ATL -1.5",
-   "spread": -1.5,
-   "over_under": 241.5
+   "score": 99
   }
  },
  {
@@ -1207,26 +1201,20 @@
   "date": "2026-10-28T23:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Rocket Arena",
   "home": {
    "id": "5",
    "abbr": "CLE",
-   "score": null
+   "score": 90
   },
   "away": {
    "id": "27",
    "abbr": "WSH",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "CLE -10.5",
-   "spread": -10.5,
-   "over_under": 239.5
+   "score": 92
   }
  },
  {
@@ -1234,26 +1222,20 @@
   "date": "2026-10-28T23:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Little Caesars Arena",
   "home": {
    "id": "8",
    "abbr": "DET",
-   "score": null
+   "score": 67
   },
   "away": {
    "id": "30",
    "abbr": "CHA",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "DET -7.5",
-   "spread": -7.5,
-   "over_under": 212.5
+   "score": 63
   }
  },
  {
@@ -1261,26 +1243,20 @@
   "date": "2026-10-28T23:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Gainbridge Fieldhouse",
   "home": {
    "id": "11",
    "abbr": "IND",
-   "score": null
+   "score": 69
   },
   "away": {
    "id": "20",
    "abbr": "PHI",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "PHI -7.5",
-   "spread": 7.5,
-   "over_under": 234.5
+   "score": 62
   }
  },
  {
@@ -1288,26 +1264,20 @@
   "date": "2026-10-28T23:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_HALFTIME",
   "neutral": false,
   "venue": "Scotiabank Arena",
   "home": {
    "id": "28",
    "abbr": "TOR",
-   "score": null
+   "score": 69
   },
   "away": {
    "id": "19",
    "abbr": "ORL",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "TOR -4.5",
-   "spread": -4.5,
-   "over_under": 223.5
+   "score": 53
   }
  },
  {
@@ -1315,26 +1285,20 @@
   "date": "2026-10-29T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "United Center",
   "home": {
    "id": "4",
    "abbr": "CHI",
-   "score": null
+   "score": 44
   },
   "away": {
    "id": "18",
    "abbr": "NY",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "NY -6.5",
-   "spread": 6.5,
-   "over_under": 232.5
+   "score": 41
   }
  },
  {
@@ -1342,26 +1306,20 @@
   "date": "2026-10-29T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Fiserv Forum",
   "home": {
    "id": "15",
    "abbr": "MIL",
-   "score": null
+   "score": 24
   },
   "away": {
    "id": "10",
    "abbr": "HOU",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "HOU -8.5",
-   "spread": 8.5,
-   "over_under": 226.5
+   "score": 36
   }
  },
  {
@@ -1369,26 +1327,20 @@
   "date": "2026-10-29T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Target Center",
   "home": {
    "id": "16",
    "abbr": "MIN",
-   "score": null
+   "score": 31
   },
   "away": {
    "id": "9",
    "abbr": "GS",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "MIN -3.5",
-   "spread": -3.5,
-   "over_under": 227.5
+   "score": 36
   }
  },
  {
@@ -1396,26 +1348,20 @@
   "date": "2026-10-29T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Smoothie King Center",
   "home": {
    "id": "3",
    "abbr": "NO",
-   "score": null
+   "score": 30
   },
   "away": {
    "id": "7",
    "abbr": "DEN",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "DEN -4.5",
-   "spread": 4.5,
-   "over_under": 240.5
+   "score": 46
   }
  },
  {
@@ -1439,10 +1385,10 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "SA -13.5",
    "spread": 13.5,
-   "over_under": 233.5
+   "over_under": 232.5
   }
  },
  {
@@ -1466,10 +1412,10 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "OKC -5.5",
    "spread": 5.5,
-   "over_under": 227.5
+   "over_under": 228.5
   }
  },
  {
@@ -1493,10 +1439,10 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
-   "details": "LAL -4.5",
-   "spread": 4.5,
-   "over_under": 229.5
+   "provider": "Draft Kings",
+   "details": "LAC -1.5",
+   "spread": -1.5,
+   "over_under": 224.5
   }
  },
  {
@@ -1539,6 +1485,12 @@
    "id": "23",
    "abbr": "SAC",
    "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "NO -5.5",
+   "spread": -5.5,
+   "over_under": 237.5
   }
  },
  {
@@ -1560,6 +1512,12 @@
    "id": "29",
    "abbr": "MEM",
    "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "POR -6.5",
+   "spread": -6.5,
+   "over_under": 232.5
   }
  },
  {
@@ -1772,7 +1730,7 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": null,
    "spread": null,
    "over_under": 233.5
