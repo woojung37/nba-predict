@@ -7242,5 +7242,564 @@
     "provider": "DraftKings"
    }
   }
+ },
+ {
+  "id": "401909896",
+  "date": "2026-10-31T19:00Z",
+  "season_type": 2,
+  "state": "pre",
+  "neutral": false,
+  "venue": "Delta Center",
+  "date_kst": "2026-11-01T04:00:00+09:00",
+  "home": {
+   "id": "26",
+   "abbr": "UTAH",
+   "name": "Utah Jazz",
+   "standing": {
+    "team_id": "26",
+    "abbr": "UTAH",
+    "conference": "Western Conference",
+    "seed": 13,
+    "wins": 1,
+    "losses": 4,
+    "win_pct": 0.2,
+    "games_behind": "4",
+    "home": "1-3",
+    "road": "0-1",
+    "last10": "1-4",
+    "streak": "L3",
+    "ppg": 112.4,
+    "opp_ppg": 120.2
+   },
+   "stats": {
+    "gp": 5,
+    "record": [
+     1,
+     4
+    ],
+    "home_record": [
+     1,
+     3
+    ],
+    "away_record": [
+     0,
+     1
+    ],
+    "ppg": 112.4,
+    "opp_ppg": 120.2,
+    "avg_margin": -7.8,
+    "last10_record": [
+     1,
+     4
+    ],
+    "last10_margin": -7.8,
+    "last_game": "2026-10-29T01:00Z",
+    "pace": 104.1,
+    "ortg": 108.0,
+    "drtg": 115.5,
+    "net_rtg": -7.5
+   },
+   "rest_days": 2,
+   "injuries": [
+    {
+     "team_id": "26",
+     "team": "Utah Jazz",
+     "athlete_id": "4066336",
+     "name": "Lauri Markkanen",
+     "position": "F",
+     "status": "Day-To-Day",
+     "injury": "Right Wrist Not Specified",
+     "return_date": "2026-10-31",
+     "updated": "2026-10-29T04:39Z",
+     "comment": "Markkanen (wrist) is out for Wednesday's tilt against the Spurs."
+    },
+    {
+     "team_id": "26",
+     "team": "Utah Jazz",
+     "athlete_id": "4277961",
+     "name": "Jaren Jackson Jr.",
+     "position": "F",
+     "status": "Out",
+     "injury": "Right Knee Not Specified",
+     "return_date": "2026-12-14",
+     "updated": "2026-10-27T19:25Z",
+     "comment": "Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN."
+    },
+    {
+     "team_id": "26",
+     "team": "Utah Jazz",
+     "athlete_id": "4433268",
+     "name": "Trey Alexander",
+     "position": "G",
+     "status": "Out",
+     "injury": "Left Knee Bruise",
+     "return_date": "2026-11-06",
+     "updated": "2026-10-24T23:18Z",
+     "comment": "Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise."
+    },
+    {
+     "team_id": "26",
+     "team": "Utah Jazz",
+     "athlete_id": "3102530",
+     "name": "Jusuf Nurkic",
+     "position": "C",
+     "status": "Out",
+     "injury": "Right Foot Strain",
+     "return_date": "2026-11-04",
+     "updated": "2026-10-07T23:07Z",
+     "comment": "Nurkic will miss at least the next four weeks due to a partial plantar plate tear of second toe in right foot, Chris Haynes of NBA TV reports."
+    }
+   ],
+   "top_players": [
+    {
+     "athlete_id": "4433627",
+     "name": "Keyonte George",
+     "position": "G",
+     "team_id": "26",
+     "gp": 5,
+     "gs": 5,
+     "last_game": "2026-10-29",
+     "min": 32.8,
+     "pts": 24.4,
+     "reb": 4.0,
+     "ast": 6.8,
+     "stl": 0.6,
+     "blk": 0.0,
+     "tov": 4.2,
+     "plus_minus": -3.4,
+     "fg_pct": 49.4,
+     "fg3_pct": 41.2,
+     "ft_pct": 77.8,
+     "injury_status": null
+    },
+    {
+     "athlete_id": "4277961",
+     "name": "Jaren Jackson Jr.",
+     "position": "F",
+     "team_id": "26",
+     "gp": 4,
+     "gs": 4,
+     "last_game": "2026-10-27",
+     "min": 26.0,
+     "pts": 16.2,
+     "reb": 5.0,
+     "ast": 2.0,
+     "stl": 0.2,
+     "blk": 1.2,
+     "tov": 3.0,
+     "plus_minus": -9.2,
+     "fg_pct": 50.0,
+     "fg3_pct": 35.7,
+     "ft_pct": 76.2,
+     "injury_status": "Out"
+    },
+    {
+     "athlete_id": "4066336",
+     "name": "Lauri Markkanen",
+     "position": "F",
+     "team_id": "26",
+     "gp": 4,
+     "gs": 4,
+     "last_game": "2026-10-27",
+     "min": 28.5,
+     "pts": 16.0,
+     "reb": 5.5,
+     "ast": 1.8,
+     "stl": 0.2,
+     "blk": 0.2,
+     "tov": 1.2,
+     "plus_minus": -3.0,
+     "fg_pct": 39.6,
+     "fg3_pct": 35.7,
+     "ft_pct": 88.9,
+     "injury_status": "Day-To-Day"
+    },
+    {
+     "athlete_id": "4873138",
+     "name": "Ace Bailey",
+     "position": "G",
+     "team_id": "26",
+     "gp": 5,
+     "gs": 4,
+     "last_game": "2026-10-29",
+     "min": 29.8,
+     "pts": 14.2,
+     "reb": 8.0,
+     "ast": 2.4,
+     "stl": 0.0,
+     "blk": 1.6,
+     "tov": 1.6,
+     "plus_minus": -1.2,
+     "fg_pct": 51.7,
+     "fg3_pct": 32.0,
+     "ft_pct": 75.0,
+     "injury_status": null
+    },
+    {
+     "athlete_id": "5041955",
+     "name": "Darryn Peterson",
+     "position": "G",
+     "team_id": "26",
+     "gp": 5,
+     "gs": 5,
+     "last_game": "2026-10-29",
+     "min": 28.6,
+     "pts": 12.8,
+     "reb": 4.4,
+     "ast": 2.6,
+     "stl": 1.0,
+     "blk": 0.2,
+     "tov": 0.8,
+     "plus_minus": -4.6,
+     "fg_pct": 34.9,
+     "fg3_pct": 35.0,
+     "ft_pct": 92.9,
+     "injury_status": null
+    }
+   ]
+  },
+  "away": {
+   "id": "22",
+   "abbr": "POR",
+   "name": "Portland Trail Blazers",
+   "standing": {
+    "team_id": "22",
+    "abbr": "POR",
+    "conference": "Western Conference",
+    "seed": 3,
+    "wins": 3,
+    "losses": 0,
+    "win_pct": 1.0,
+    "games_behind": "1",
+    "home": "1-0",
+    "road": "2-0",
+    "last10": "3-0",
+    "streak": "W3",
+    "ppg": 129.33333,
+    "opp_ppg": 110.666664
+   },
+   "stats": {
+    "gp": 3,
+    "record": [
+     3,
+     0
+    ],
+    "home_record": [
+     1,
+     0
+    ],
+    "away_record": [
+     2,
+     0
+    ],
+    "ppg": 129.3,
+    "opp_ppg": 110.7,
+    "avg_margin": 18.7,
+    "last10_record": [
+     3,
+     0
+    ],
+    "last10_margin": 18.7,
+    "last_game": "2026-10-28T03:00Z",
+    "pace": 103.3,
+    "ortg": 125.2,
+    "drtg": 107.2,
+    "net_rtg": 18.0
+   },
+   "rest_days": 1,
+   "injuries": [
+    {
+     "team_id": "22",
+     "team": "Portland Trail Blazers",
+     "athlete_id": "4706557",
+     "name": "Chris Youngblood",
+     "position": "G",
+     "status": "Out",
+     "injury": "Left Ankle Soreness",
+     "return_date": "2026-10-29",
+     "updated": "2026-10-27T04:58Z",
+     "comment": "Youngblood (ankle/two-way player) is out for Tuesday's game against the Lakers."
+    },
+    {
+     "team_id": "22",
+     "team": "Portland Trail Blazers",
+     "athlete_id": "4914336",
+     "name": "Shaedon Sharpe",
+     "position": "G",
+     "status": "Out",
+     "injury": "Right Knee Surgery",
+     "return_date": "2027-03-02",
+     "updated": "2026-08-24T20:23Z",
+     "comment": "Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN."
+    }
+   ],
+   "top_players": [
+    {
+     "athlete_id": "4683021",
+     "name": "Deni Avdija",
+     "position": "F",
+     "team_id": "22",
+     "gp": 3,
+     "gs": 3,
+     "last_game": "2026-10-28",
+     "min": 31.3,
+     "pts": 22.3,
+     "reb": 7.0,
+     "ast": 6.3,
+     "stl": 1.3,
+     "blk": 0.0,
+     "tov": 2.7,
+     "plus_minus": 15.0,
+     "fg_pct": 48.9,
+     "fg3_pct": 43.8,
+     "ft_pct": 60.9,
+     "injury_status": null
+    },
+    {
+     "athlete_id": "6606",
+     "name": "Damian Lillard",
+     "position": "G",
+     "team_id": "22",
+     "gp": 3,
+     "gs": 3,
+     "last_game": "2026-10-28",
+     "min": 29.3,
+     "pts": 21.7,
+     "reb": 4.3,
+     "ast": 4.0,
+     "stl": 1.0,
+     "blk": 0.0,
+     "tov": 1.7,
+     "plus_minus": 13.7,
+     "fg_pct": 45.2,
+     "fg3_pct": 42.9,
+     "ft_pct": 78.9,
+     "injury_status": null
+    },
+    {
+     "athlete_id": "4431736",
+     "name": "Toumani Camara",
+     "position": "F",
+     "team_id": "22",
+     "gp": 3,
+     "gs": 3,
+     "last_game": "2026-10-28",
+     "min": 24.7,
+     "pts": 16.3,
+     "reb": 2.0,
+     "ast": 1.7,
+     "stl": 1.0,
+     "blk": 0.0,
+     "tov": 0.3,
+     "plus_minus": 9.3,
+     "fg_pct": 65.4,
+     "fg3_pct": 59.1,
+     "ft_pct": 100.0,
+     "injury_status": null
+    },
+    {
+     "athlete_id": "4279888",
+     "name": "Ja Morant",
+     "position": "G",
+     "team_id": "22",
+     "gp": 3,
+     "gs": 3,
+     "last_game": "2026-10-28",
+     "min": 27.0,
+     "pts": 16.3,
+     "reb": 2.7,
+     "ast": 6.3,
+     "stl": 1.3,
+     "blk": 0.0,
+     "tov": 1.3,
+     "plus_minus": 16.0,
+     "fg_pct": 58.8,
+     "fg3_pct": 44.4,
+     "ft_pct": 83.3,
+     "injury_status": null
+    },
+    {
+     "athlete_id": "3995",
+     "name": "Jrue Holiday",
+     "position": "G",
+     "team_id": "22",
+     "gp": 3,
+     "gs": 0,
+     "last_game": "2026-10-28",
+     "min": 25.7,
+     "pts": 14.0,
+     "reb": 3.0,
+     "ast": 4.0,
+     "stl": 1.3,
+     "blk": 0.3,
+     "tov": 0.3,
+     "plus_minus": 13.7,
+     "fg_pct": 50.0,
+     "fg3_pct": 27.8,
+     "ft_pct": 75.0,
+     "injury_status": null
+    }
+   ]
+  },
+  "head_to_head": {
+   "games": 12,
+   "wins": 5,
+   "losses": 7,
+   "avg_margin": 0.8,
+   "recent": [
+    {
+     "id": "401810822",
+     "date": "2026-03-14T02:00Z",
+     "season": 2026,
+     "home": "POR",
+     "away": "UTAH",
+     "home_score": 124,
+     "away_score": 114
+    },
+    {
+     "id": "401810645",
+     "date": "2026-02-13T02:00Z",
+     "season": 2026,
+     "home": "UTAH",
+     "away": "POR",
+     "home_score": 119,
+     "away_score": 135
+    },
+    {
+     "id": "401810364",
+     "date": "2026-01-06T03:00Z",
+     "season": 2026,
+     "home": "POR",
+     "away": "UTAH",
+     "home_score": 137,
+     "away_score": 117
+    },
+    {
+     "id": "401809990",
+     "date": "2025-10-30T01:00Z",
+     "season": 2026,
+     "home": "UTAH",
+     "away": "POR",
+     "home_score": 134,
+     "away_score": 136
+    },
+    {
+     "id": "401705728",
+     "date": "2025-04-10T01:00Z",
+     "season": 2025,
+     "home": "UTAH",
+     "away": "POR",
+     "home_score": 133,
+     "away_score": 126
+    },
+    {
+     "id": "401705393",
+     "date": "2025-02-25T02:00Z",
+     "season": 2025,
+     "home": "UTAH",
+     "away": "POR",
+     "home_score": 112,
+     "away_score": 114
+    },
+    {
+     "id": "401704983",
+     "date": "2024-12-27T03:00Z",
+     "season": 2025,
+     "home": "POR",
+     "away": "UTAH",
+     "home_score": 122,
+     "away_score": 120
+    },
+    {
+     "id": "401704905",
+     "date": "2024-12-07T03:00Z",
+     "season": 2025,
+     "home": "POR",
+     "away": "UTAH",
+     "home_score": 99,
+     "away_score": 141
+    },
+    {
+     "id": "401584951",
+     "date": "2023-12-15T03:00Z",
+     "season": 2024,
+     "home": "POR",
+     "away": "UTAH",
+     "home_score": 114,
+     "away_score": 122
+    },
+    {
+     "id": "401584917",
+     "date": "2023-12-03T02:30Z",
+     "season": 2024,
+     "home": "UTAH",
+     "away": "POR",
+     "home_score": 118,
+     "away_score": 113
+    }
+   ]
+  },
+  "prediction": {
+   "home_points": 114.7,
+   "away_points": 121.4,
+   "home_margin": -6.7,
+   "home_win_prob": 0.318,
+   "away_win_prob": 0.682,
+   "margin_range80": [
+    -24.8,
+    11.4
+   ],
+   "total": 236.1,
+   "total_range80": [
+    212.4,
+    259.8
+   ],
+   "sigma": 14.15,
+   "total_sigma": 18.49,
+   "factors": {
+    "team_strength": -6.6,
+    "home_court": 2.0,
+    "rest": -0.0,
+    "injuries": -2.1
+   },
+   "back_to_back": {
+    "home": false,
+    "away": false
+   },
+   "injury_impact": {
+    "home": [
+     {
+      "athlete_id": "4277961",
+      "name": "Jaren Jackson Jr.",
+      "status": "Out",
+      "impact": -1.9
+     },
+     {
+      "athlete_id": "4066336",
+      "name": "Lauri Markkanen",
+      "status": "Day-To-Day",
+      "impact": -0.8
+     }
+    ],
+    "away": [
+     {
+      "athlete_id": "4914336",
+      "name": "Shaedon Sharpe",
+      "status": "Out",
+      "impact": -0.5
+     }
+    ]
+   },
+   "ratings": {
+    "home": {
+     "offense": 2.3,
+     "defense": 6.3
+    },
+    "away": {
+     "offense": 0.2,
+     "defense": -2.3
+    }
+   }
+  }
  }
 ]
