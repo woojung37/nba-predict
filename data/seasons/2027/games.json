@@ -1369,20 +1369,20 @@
   "date": "2026-10-29T01:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Delta Center",
   "home": {
    "id": "26",
    "abbr": "UTAH",
-   "score": 96
+   "score": 111
   },
   "away": {
    "id": "24",
    "abbr": "SA",
-   "score": 97
+   "score": 117
   }
  },
  {
@@ -1390,20 +1390,20 @@
   "date": "2026-10-29T01:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "American Airlines Center",
   "home": {
    "id": "6",
    "abbr": "DAL",
-   "score": 70
+   "score": 120
   },
   "away": {
    "id": "25",
    "abbr": "OKC",
-   "score": 61
+   "score": 96
   }
  },
  {
@@ -1419,12 +1419,12 @@
   "home": {
    "id": "12",
    "abbr": "LAC",
-   "score": 22
+   "score": 78
   },
   "away": {
    "id": "13",
    "abbr": "LAL",
-   "score": 25
+   "score": 96
   }
  },
  {
@@ -1478,7 +1478,7 @@
    "provider": "Draft Kings",
    "details": "NO -5.5",
    "spread": -5.5,
-   "over_under": 238.5
+   "over_under": 237.5
   }
  },
  {
@@ -1505,7 +1505,7 @@
    "provider": "Draft Kings",
    "details": "POR -7.5",
    "spread": -7.5,
-   "over_under": 233.5
+   "over_under": 234.5
   }
  },
  {
