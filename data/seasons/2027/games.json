@@ -1411,20 +1411,20 @@
   "date": "2026-10-29T02:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Intuit Dome",
   "home": {
    "id": "12",
    "abbr": "LAC",
-   "score": 78
+   "score": 87
   },
   "away": {
    "id": "13",
    "abbr": "LAL",
-   "score": 96
+   "score": 103
   }
  },
  {
@@ -1448,7 +1448,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "ATL -1.5",
    "spread": -1.5,
    "over_under": 239.5
@@ -1475,7 +1475,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "NO -5.5",
    "spread": -5.5,
    "over_under": 237.5
@@ -1502,7 +1502,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "POR -7.5",
    "spread": -7.5,
    "over_under": 234.5
@@ -1718,7 +1718,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": null,
    "spread": null,
    "over_under": 233.5
