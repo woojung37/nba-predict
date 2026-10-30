@@ -52,6 +52,9 @@ td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; white-sp
 .factors .total td { font-weight: 700; border-bottom: none; }
 .pos { color: var(--pos); } .neg { color: var(--neg); }
 td.win { font-weight: 700; } td.loss { color: var(--muted); }
+.seg { display: inline-flex; gap: 4px; margin-left: 8px; vertical-align: middle; }
+.seg button { font: inherit; font-size: 13px; font-weight: 400; padding: 2px 10px; border: 1px solid var(--line, #ccc); border-radius: 999px; background: none; color: var(--muted); cursor: pointer; }
+.seg button.on { background: var(--text); color: var(--bg); border-color: var(--text); }
 .two { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 14px; }
 .two .panel { margin-bottom: 0; } .two { margin-bottom: 14px; }
 .team { display: inline-flex; align-items: center; gap: 6px; color: var(--text); }
