@@ -8,7 +8,7 @@
   "venue": "Capital One Arena",
   "date_kst": "2026-10-31T08:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "WSH -1.5",
    "spread": -1.5,
    "over_under": 219.5
@@ -621,7 +621,7 @@
     "over_under": 219.5,
     "home_cover_prob": 0.386,
     "over_prob": 0.684,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -634,7 +634,7 @@
   "venue": "TD Garden",
   "date_kst": "2026-10-31T08:30:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "BOS -15.5",
    "spread": -15.5,
    "over_under": 235.5
@@ -1174,7 +1174,7 @@
     "over_under": 235.5,
     "home_cover_prob": 0.415,
     "over_prob": 0.511,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -1187,9 +1187,9 @@
   "venue": "Barclays Center",
   "date_kst": "2026-10-31T08:30:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
-   "details": "DET -7.5",
-   "spread": 7.5,
+   "provider": "DraftKings",
+   "details": "DET -8.5",
+   "spread": 8.5,
    "over_under": 222.5
   },
   "home": {
@@ -1712,11 +1712,11 @@
     }
    },
    "vs_line": {
-    "spread": 7.5,
+    "spread": 8.5,
     "over_under": 222.5,
-    "home_cover_prob": 0.474,
+    "home_cover_prob": 0.502,
     "over_prob": 0.516,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -1729,9 +1729,9 @@
   "venue": "Xfinity Mobile Arena",
   "date_kst": "2026-10-31T08:30:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
-   "details": "NY -1.5",
-   "spread": 1.5,
+   "provider": "DraftKings",
+   "details": "NY -2.5",
+   "spread": 2.5,
    "over_under": 227.5
   },
   "home": {
@@ -2271,11 +2271,11 @@
     }
    },
    "vs_line": {
-    "spread": 1.5,
+    "spread": 2.5,
     "over_under": 227.5,
-    "home_cover_prob": 0.446,
+    "home_cover_prob": 0.474,
     "over_prob": 0.41,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -2288,7 +2288,7 @@
   "venue": "Scotiabank Arena",
   "date_kst": "2026-10-31T08:30:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "TOR -5.5",
    "spread": -5.5,
    "over_under": 226.5
@@ -2859,7 +2859,7 @@
     "over_under": 226.5,
     "home_cover_prob": 0.556,
     "over_prob": 0.344,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -2872,7 +2872,7 @@
   "venue": "Kaseya Center",
   "date_kst": "2026-10-31T09:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "MIA -8.5",
    "spread": -8.5,
    "over_under": 236.5
@@ -3473,7 +3473,7 @@
     "over_under": 236.5,
     "home_cover_prob": 0.478,
     "over_prob": 0.534,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -3486,7 +3486,7 @@
   "venue": "American Airlines Center",
   "date_kst": "2026-10-31T09:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "HOU -6.5",
    "spread": 6.5,
    "over_under": 225.5
@@ -4093,7 +4093,7 @@
     "over_under": 225.5,
     "home_cover_prob": 0.641,
     "over_prob": 0.581,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -4106,7 +4106,7 @@
   "venue": "Target Center",
   "date_kst": "2026-10-31T09:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "MIN -6.5",
    "spread": -6.5,
    "over_under": 223.5
@@ -4689,7 +4689,7 @@
     "over_under": 223.5,
     "home_cover_prob": 0.47,
     "over_prob": 0.518,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -4702,10 +4702,10 @@
   "venue": "Chase Center",
   "date_kst": "2026-10-31T11:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "LAL -2.5",
    "spread": 2.5,
-   "over_under": 233.5
+   "over_under": 234.5
   },
   "home": {
    "id": "9",
@@ -5270,10 +5270,10 @@
    },
    "vs_line": {
     "spread": 2.5,
-    "over_under": 233.5,
+    "over_under": 234.5,
     "home_cover_prob": 0.471,
-    "over_prob": 0.49,
-    "provider": "Draft Kings"
+    "over_prob": 0.469,
+    "provider": "DraftKings"
    }
   }
  },
@@ -5286,7 +5286,7 @@
   "venue": "Mortgage Matchup Center",
   "date_kst": "2026-10-31T11:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "DEN -4.5",
    "spread": 4.5,
    "over_under": 231.5
@@ -5851,7 +5851,7 @@
     "over_under": 231.5,
     "home_cover_prob": 0.585,
     "over_prob": 0.475,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
