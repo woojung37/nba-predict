@@ -1061,11 +1061,11 @@
      "athlete_id": "4066211",
      "name": "Robert Williams III",
      "position": "C",
-     "status": "Day-To-Day",
+     "status": "Out",
      "injury": "Left Knee",
-     "return_date": "2026-10-29",
-     "updated": "2026-10-29T18:57Z",
-     "comment": "Williams (knee) is doubtful for Thursday's game against Memphis due to left knee injury management, according to the Trail Blazers."
+     "return_date": "2026-10-31",
+     "updated": "2026-10-30T00:32Z",
+     "comment": "Williams (knee) has been ruled out for Thursday's game against Memphis, Casey Holdahl of the Trail Blazers' official site reports."
     },
     {
      "team_id": "22",
@@ -1075,7 +1075,7 @@
      "position": "G",
      "status": "Out",
      "injury": "Left Ankle Soreness",
-     "return_date": "2026-10-29",
+     "return_date": "2026-10-31",
      "updated": "2026-10-27T04:58Z",
      "comment": "Youngblood (ankle/two-way player) is out for Tuesday's game against the Lakers."
     },
@@ -1457,19 +1457,19 @@
    ]
   },
   "prediction": {
-   "home_points": 120.7,
+   "home_points": 120.0,
    "away_points": 113.8,
-   "home_margin": 6.9,
-   "home_win_prob": 0.687,
-   "away_win_prob": 0.313,
+   "home_margin": 6.2,
+   "home_win_prob": 0.67,
+   "away_win_prob": 0.33,
    "margin_range80": [
-    -11.2,
-    25.0
+    -11.9,
+    24.4
    ],
-   "total": 234.5,
+   "total": 233.9,
    "total_range80": [
-    210.8,
-    258.2
+    210.2,
+    257.6
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -1477,7 +1477,7 @@
     "team_strength": 5.8,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": -0.9
+    "injuries": -1.5
    },
    "back_to_back": {
     "home": false,
@@ -1486,16 +1486,16 @@
    "injury_impact": {
     "home": [
      {
+      "athlete_id": "4066211",
+      "name": "Robert Williams III",
+      "status": "Out",
+      "impact": -1.0
+     },
+     {
       "athlete_id": "4914336",
       "name": "Shaedon Sharpe",
       "status": "Out",
       "impact": -0.5
-     },
-     {
-      "athlete_id": "4066211",
-      "name": "Robert Williams III",
-      "status": "Day-To-Day",
-      "impact": -0.4
      }
     ],
     "away": []
@@ -1513,8 +1513,8 @@
    "vs_line": {
     "spread": -7.5,
     "over_under": 232.5,
-    "home_cover_prob": 0.483,
-    "over_prob": 0.544,
+    "home_cover_prob": 0.464,
+    "over_prob": 0.529,
     "provider": "DraftKings"
    }
   }
@@ -6870,8 +6870,8 @@
      "status": "Day-To-Day",
      "injury": "Not Specified Oblique Strain",
      "return_date": "2026-10-30",
-     "updated": "2026-10-28T00:23Z",
-     "comment": "Ighodaro (oblique) is feeling better and considered day-to-day ahead of Friday's game against the Nuggets, John Gambadoro of Arizona Sports 98.7 FM reports."
+     "updated": "2026-10-30T00:20Z",
+     "comment": "Ighodaro (oblique) is listed as questionable for Friday's game against Denver."
     },
     {
      "team_id": "21",
@@ -7646,11 +7646,11 @@
      "athlete_id": "4066211",
      "name": "Robert Williams III",
      "position": "C",
-     "status": "Day-To-Day",
+     "status": "Out",
      "injury": "Left Knee",
-     "return_date": "2026-10-29",
-     "updated": "2026-10-29T18:57Z",
-     "comment": "Williams (knee) is doubtful for Thursday's game against Memphis due to left knee injury management, according to the Trail Blazers."
+     "return_date": "2026-10-31",
+     "updated": "2026-10-30T00:32Z",
+     "comment": "Williams (knee) has been ruled out for Thursday's game against Memphis, Casey Holdahl of the Trail Blazers' official site reports."
     },
     {
      "team_id": "22",
@@ -7660,7 +7660,7 @@
      "position": "G",
      "status": "Out",
      "injury": "Left Ankle Soreness",
-     "return_date": "2026-10-29",
+     "return_date": "2026-10-31",
      "updated": "2026-10-27T04:58Z",
      "comment": "Youngblood (ankle/two-way player) is out for Tuesday's game against the Lakers."
     },
@@ -7885,18 +7885,18 @@
   },
   "prediction": {
    "home_points": 114.7,
-   "away_points": 121.1,
-   "home_margin": -6.4,
-   "home_win_prob": 0.327,
-   "away_win_prob": 0.673,
+   "away_points": 120.4,
+   "home_margin": -5.7,
+   "home_win_prob": 0.344,
+   "away_win_prob": 0.656,
    "margin_range80": [
-    -24.5,
-    11.8
+    -23.8,
+    12.4
    ],
-   "total": 235.8,
+   "total": 235.1,
    "total_range80": [
-    212.1,
-    259.5
+    211.4,
+    258.8
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -7904,7 +7904,7 @@
     "team_strength": -6.6,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": -1.8
+    "injuries": -1.1
    },
    "back_to_back": {
     "home": false,
@@ -7927,16 +7927,16 @@
     ],
     "away": [
      {
+      "athlete_id": "4066211",
+      "name": "Robert Williams III",
+      "status": "Out",
+      "impact": -1.0
+     },
+     {
       "athlete_id": "4914336",
       "name": "Shaedon Sharpe",
       "status": "Out",
       "impact": -0.5
-     },
-     {
-      "athlete_id": "4066211",
-      "name": "Robert Williams III",
-      "status": "Day-To-Day",
-      "impact": -0.4
      }
     ]
    },
