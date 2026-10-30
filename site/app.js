@@ -118,7 +118,7 @@ function factorLines(g) {
 }
 
 async function viewGame(id) {
-  const [games, teams] = await Promise.all([load("derived/upcoming.json"), teamsById()]);
+  const [games, teams, fin] = await Promise.all([load("derived/upcoming.json"), teamsById(), finishedGames()]);
   const g = (games || []).find((x) => x.id === id);
   if (!g) {
     app.innerHTML = `<p>경기를 찾을 수 없어요. 이미 끝난 경기일 수 있어요.</p><p><a href="#/">경기 목록으로</a></p>`;
@@ -147,6 +147,8 @@ async function viewGame(id) {
   }
   if (p && p.total != null && p.sigma) html += linePanel(g);
   html += `<section class="panel"><h2>팀 비교</h2>${compareTable(g)}</section>`;
+  html += `<section class="panel"><h2>최근 경기 <span class="seg"><button data-n="5" class="on" onclick="setRecent(5)">5경기</button><button data-n="10" onclick="setRecent(10)">10경기</button></span></h2>
+    <div class="two">${[A, H].map((t) => `<div><h3>${esc(ko(t.abbr))}</h3>${[5, 10].map((n) => `<div data-recent="${n}"${n === 5 ? "" : " hidden"}>${recentTable(fin, t.id, n)}</div>`).join("")}</div>`).join("")}</div></section>`;
   html += `<section class="panel"><h2>상대전적 <small>(최근 시즌들)</small></h2>${h2hBlock(g)}</section>`;
   html += `<div class="two">${[A, H].map((t) => `<section class="panel"><h2>${esc(ko(t.abbr))} 부상자</h2>${injuryTable(t, p && p.injury_impact && p.injury_impact[t === H ? "home" : "away"])}</section>`).join("")}</div>`;
   html += `<div class="two">${[A, H].map((t) => `<section class="panel"><h2>${esc(ko(t.abbr))} 주요 선수</h2>${topPlayers(t)}</section>`).join("")}</div>`;
@@ -241,6 +243,34 @@ function compareTable(g) {
 }
 const restText = (d) => (d == null ? "-" : d === 0 ? "백투백" : `${d}일`);
 
+// 이번 시즌과 지난 시즌의 끝난 경기, 날짜는 한국 시간 (시즌 초에도 최근 10경기를 채우려고 지난 시즌까지 봄)
+async function finishedGames() {
+  const meta = await load("meta.json");
+  const season = meta?.season;
+  const [cur, prev] = await Promise.all([load(`seasons/${season}/games.json`), load(`seasons/${season - 1}/games.json`)]);
+  return { season, games: [...(prev || []), ...(cur || [])].filter((g) => g.completed).sort((a, b) => a.date.localeCompare(b.date)) };
+}
+
+function recentTable(fin, id, n) {
+  const list = fin.games.filter((g) => g.home.id === id || g.away.id === id).slice(-n).reverse();
+  if (!list.length) return `<p class="muted">끝난 경기가 없어요.</p>`;
+  let w = 0, pf = 0, pa = 0;
+  const rows = list.map((g) => {
+    const home = g.home.id === id, me = home ? g.home : g.away, op = home ? g.away : g.home, win = me.score > op.score;
+    w += win; pf += me.score; pa += op.score;
+    return `<tr><td>${esc(kstDate(g.date).slice(5).replace("-", "/"))}${g.season !== fin.season ? ` <small class="muted">지난 시즌</small>` : ""}</td><td>${home ? "vs" : "@"} ${esc(ko(op.abbr))}</td><td class="${win ? "win" : "loss"}">${win ? "승" : "패"} ${me.score}-${op.score}</td><td class="num muted">${signed(me.score - op.score)}</td></tr>`;
+  });
+  const k = list.length;
+  return `<p><b>${w}승 ${k - w}패</b> · 평균 ${num(pf / k)}점 득점, ${num(pa / k)}점 실점 (득실차 ${signed((pf - pa) / k)})</p>
+  <table><tbody>${rows.join("")}</tbody></table>`;
+}
+
+// 경기 페이지 최근 5/10경기 전환
+function setRecent(n) {
+  document.querySelectorAll("[data-recent]").forEach((el) => { el.hidden = el.dataset.recent !== String(n); });
+  document.querySelectorAll(".seg button").forEach((b) => b.classList.toggle("on", b.dataset.n === String(n)));
+}
+
 function h2hBlock(g) {
   const h = g.head_to_head;
   if (!h || !h.games) return `<p class="muted">저장된 시즌에서 맞대결 기록이 없어요.</p>`;
@@ -290,6 +320,7 @@ async function viewTeam(id) {
     load("current/injuries.json"), load("current/standings.json"), load("derived/upcoming.json")]);
   const meta = await load("meta.json");
   const games = (await load(`seasons/${meta?.season}/games.json`)) || [];
+  const fin = await finishedGames();
   const t = teams[id];
   if (!t) { app.innerHTML = `<p>팀을 찾을 수 없어요.</p>`; return; }
   const s = (tstats || {})[id] || {};
@@ -298,12 +329,7 @@ async function viewTeam(id) {
   const inj = Object.fromEntries((injuries || []).filter((i) => i.team_id === id).map((i) => [i.athlete_id, i]));
   const roster = (rosters || []).filter((r) => r.team_id === id).sort((a, b) => (avg[b.athlete_id]?.pts ?? -1) - (avg[a.athlete_id]?.pts ?? -1));
   const mine = games.filter((g) => g.home.id === id || g.away.id === id);
-  const done = mine.filter((g) => g.completed).slice(-10).reverse();
   const next = mine.filter((g) => g.state === "pre").slice(0, 5);
-  const resultRow = (g) => {
-    const home = g.home.id === id, me = home ? g.home : g.away, op = home ? g.away : g.home;
-    return `<tr><td>${esc(g.date.slice(0, 10))}</td><td>${home ? "vs" : "@"} ${esc(ko(op.abbr))}</td><td class="${me.score > op.score ? "win" : "loss"}">${me.score > op.score ? "승" : "패"} ${me.score}-${op.score}</td></tr>`;
-  };
   app.innerHTML = `<h1>${logo(t)} ${esc(ko(t.abbr))} <small>${esc(t.name)}</small></h1>
   <p>${standing.conference ? (standing.conference.includes("East") ? "동부" : "서부") : ""} ${standing.seed ? standing.seed + "위" : ""} · ${rec(s.record)} · 최근 10경기 ${rec(s.last10_record)}</p>
   <div class="stats">
@@ -316,7 +342,7 @@ async function viewTeam(id) {
       return `<tr><td>${esc(r.jersey || "")}</td><td>${r.headshot ? `<img class="head" src="${esc(r.headshot)}" alt="">` : ""}${esc(r.name)}</td><td>${esc(r.position || "")}</td><td class="num">${esc(r.age ?? "")}</td><td>${esc(r.height || "")}</td><td class="num">${a.gp ?? 0}</td><td class="num">${num(a.min)}</td><td class="num">${num(a.pts)}</td><td class="num">${num(a.reb)}</td><td class="num">${num(a.ast)}</td><td class="num">${num(a.fg_pct)}</td><td class="num">${num(a.fg3_pct)}</td><td>${i ? `<span class="tag ${esc(i.status)}" title="${esc(i.injury || "")}">${esc(statusKo(i.status))}</span>` : ""}</td></tr>`; }).join("")}
   </tbody></table></div></section>
   <div class="two">
-    <section class="panel"><h2>최근 경기</h2>${done.length ? `<table><tbody>${done.map(resultRow).join("")}</tbody></table>` : `<p class="muted">아직 경기가 없어요.</p>`}</section>
+    <section class="panel"><h2>최근 10경기</h2>${recentTable(fin, id, 10)}</section>
     <section class="panel"><h2>다음 경기</h2><table><tbody>${next.map((g) => { const home = g.home.id === id, op = home ? g.away : g.home;
       const up = (upcoming || []).find((u) => u.id === g.id);
       return `<tr><td>${kst(g.date)}</td><td>${home ? "vs" : "@"} ${esc(ko(op.abbr))}</td><td>${up?.prediction ? `<a href="#/game/${g.id}">승률 ${pct(home ? up.prediction.home_win_prob : up.prediction.away_win_prob)}</a>` : ""}</td></tr>`; }).join("")}</tbody></table></section>
