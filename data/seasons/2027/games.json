@@ -1474,20 +1474,20 @@
   "date": "2026-10-30T02:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Moda Center",
   "home": {
    "id": "22",
    "abbr": "POR",
-   "score": 51
+   "score": 103
   },
   "away": {
    "id": "29",
    "abbr": "MEM",
-   "score": 48
+   "score": 124
   }
  },
  {
