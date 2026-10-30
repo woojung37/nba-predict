@@ -1432,20 +1432,20 @@
   "date": "2026-10-30T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "State Farm Arena",
   "home": {
    "id": "1",
    "abbr": "ATL",
-   "score": 26
+   "score": 114
   },
   "away": {
    "id": "5",
    "abbr": "CLE",
-   "score": 35
+   "score": 111
   }
  },
  {
@@ -1453,20 +1453,20 @@
   "date": "2026-10-30T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Smoothie King Center",
   "home": {
    "id": "3",
    "abbr": "NO",
-   "score": 38
+   "score": 132
   },
   "away": {
    "id": "23",
    "abbr": "SAC",
-   "score": 34
+   "score": 120
   }
  },
  {
@@ -1474,26 +1474,20 @@
   "date": "2026-10-30T02:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Moda Center",
   "home": {
    "id": "22",
    "abbr": "POR",
-   "score": null
+   "score": 51
   },
   "away": {
    "id": "29",
    "abbr": "MEM",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "POR -7.5",
-   "spread": -7.5,
-   "over_under": 232.5
+   "score": 48
   }
  },
  {
@@ -1520,7 +1514,7 @@
    "provider": "DraftKings",
    "details": "WSH -1.5",
    "spread": -1.5,
-   "over_under": 222.5
+   "over_under": 220.5
   }
  },
  {
@@ -1547,7 +1541,7 @@
    "provider": "DraftKings",
    "details": "BOS -15.5",
    "spread": -15.5,
-   "over_under": 234.5
+   "over_under": 235.5
   }
  },
  {
@@ -1628,7 +1622,7 @@
    "provider": "DraftKings",
    "details": "TOR -5.5",
    "spread": -5.5,
-   "over_under": 224.5
+   "over_under": 225.5
   }
  },
  {
@@ -1655,7 +1649,7 @@
    "provider": "DraftKings",
    "details": "MIA -7.5",
    "spread": -7.5,
-   "over_under": 238.5
+   "over_under": 236.5
   }
  },
  {
@@ -1682,7 +1676,7 @@
    "provider": "DraftKings",
    "details": "HOU -5.5",
    "spread": 5.5,
-   "over_under": 227.5
+   "over_under": 226.5
   }
  },
  {
@@ -1709,7 +1703,7 @@
    "provider": "DraftKings",
    "details": "MIN -7.5",
    "spread": -7.5,
-   "over_under": 221.5
+   "over_under": 222.5
   }
  },
  {
