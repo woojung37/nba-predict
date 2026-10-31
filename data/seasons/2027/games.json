@@ -1705,20 +1705,20 @@
   "date": "2026-10-31T19:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Delta Center",
   "home": {
    "id": "26",
    "abbr": "UTAH",
-   "score": 66
+   "score": 90
   },
   "away": {
    "id": "22",
    "abbr": "POR",
-   "score": 92
+   "score": 112
   }
  },
  {
@@ -1726,26 +1726,20 @@
   "date": "2026-10-31T22:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Spectrum Center",
   "home": {
    "id": "30",
    "abbr": "CHA",
-   "score": null
+   "score": 73
   },
   "away": {
    "id": "20",
    "abbr": "PHI",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "PHI -1.5",
-   "spread": 1.5,
-   "over_under": 211.5
+   "score": 67
   }
  },
  {
@@ -1753,26 +1747,20 @@
   "date": "2026-10-31T23:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Smoothie King Center",
   "home": {
    "id": "3",
    "abbr": "NO",
-   "score": null
+   "score": 37
   },
   "away": {
    "id": "1",
    "abbr": "ATL",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "ATL -4.5",
-   "spread": 4.5,
-   "over_under": 241.5
+   "score": 22
   }
  },
  {
@@ -1797,8 +1785,8 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "MEM -8.5",
-   "spread": -8.5,
+   "details": "MEM -7.5",
+   "spread": -7.5,
    "over_under": 229.5
   }
  },
@@ -1853,7 +1841,7 @@
    "provider": "DraftKings",
    "details": "SA -12.5",
    "spread": -12.5,
-   "over_under": 228.5
+   "over_under": 230.5
   }
  },
  {

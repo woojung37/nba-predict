@@ -50,6 +50,18 @@
  {
   "team_id": "17",
   "team": "Brooklyn Nets",
+  "athlete_id": "5101761",
+  "name": "Mikel Brown Jr.",
+  "position": "G",
+  "status": "Out",
+  "injury": "Rest",
+  "return_date": "2026-11-02",
+  "updated": "2026-10-31T20:58Z",
+  "comment": "Brown (rest) is out for Sunday's game in Indiana."
+ },
+ {
+  "team_id": "17",
+  "team": "Brooklyn Nets",
   "athlete_id": "5175643",
   "name": "Egor Demin",
   "position": "G",
@@ -142,18 +154,6 @@
   "return_date": "2026-11-04",
   "updated": "2026-10-26T22:20Z",
   "comment": "Claxton (hamstring) participated in individual drills Monday morning and hopes to join the team for practice next week, Joe Cowley of the Chicago Sun-Times reports."
- },
- {
-  "team_id": "5",
-  "team": "Cleveland Cavaliers",
-  "athlete_id": "5041951",
-  "name": "Meleek Thomas",
-  "position": "G",
-  "status": "Day-To-Day",
-  "injury": "Foot",
-  "return_date": "2026-10-31",
-  "updated": "2026-10-31T18:22Z",
-  "comment": "Thomas (foot) has been upgraded to probable ahead of Saturday's meeting in Milwaukee."
  },
  {
   "team_id": "5",
@@ -386,14 +386,38 @@
  {
   "team_id": "11",
   "team": "Indiana Pacers",
+  "athlete_id": "4017837",
+  "name": "Ivica Zubac",
+  "position": "C",
+  "status": "Out",
+  "injury": "Left Ankle Sprain",
+  "return_date": "2026-11-02",
+  "updated": "2026-10-31T21:14Z",
+  "comment": "Zubac (ankle) will remain on the inactive list for Sunday's game against the Nets."
+ },
+ {
+  "team_id": "11",
+  "team": "Indiana Pacers",
+  "athlete_id": "4396909",
+  "name": "Aaron Nesmith",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Left Hamstring Strain",
+  "return_date": "2026-11-01",
+  "updated": "2026-10-31T21:13Z",
+  "comment": "Nesmith (hamstring) is listed as probable for Sunday's game against Brooklyn."
+ },
+ {
+  "team_id": "11",
+  "team": "Indiana Pacers",
   "athlete_id": "4278355",
   "name": "Obi Toppin",
   "position": "F",
   "status": "Day-To-Day",
   "injury": "Back Soreness",
   "return_date": "2026-11-01",
-  "updated": "2026-10-31T05:01Z",
-  "comment": "Toppin (back) has been ruled out for Friday's game against Miami."
+  "updated": "2026-10-31T21:10Z",
+  "comment": "Toppin (back) is questionable for Sunday's game against the Nets."
  },
  {
   "team_id": "11",
@@ -418,18 +442,6 @@
   "return_date": "2027-01-02",
   "updated": "2026-10-30T19:06Z",
   "comment": "Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.com."
- },
- {
-  "team_id": "11",
-  "team": "Indiana Pacers",
-  "athlete_id": "4017837",
-  "name": "Ivica Zubac",
-  "position": "C",
-  "status": "Out",
-  "injury": "Left Ankle Sprain",
-  "return_date": "2026-11-01",
-  "updated": "2026-10-29T21:04Z",
-  "comment": "Zubac (ankle) is out for Friday's game against the Heat."
  },
  {
   "team_id": "11",
@@ -542,26 +554,26 @@
  {
   "team_id": "29",
   "team": "Memphis Grizzlies",
-  "athlete_id": "4431785",
-  "name": "Scotty Pippen Jr.",
+  "athlete_id": "4065733",
+  "name": "Ty Jerome",
   "position": "G",
-  "status": "Day-To-Day",
+  "status": "Out",
   "injury": "Back Soreness",
-  "return_date": "2026-10-31",
-  "updated": "2026-10-30T22:35Z",
-  "comment": "Pippen (back) is listed as questionable for Saturday's game against the Kings."
+  "return_date": "2026-11-02",
+  "updated": "2026-10-31T23:23Z",
+  "comment": "Jerome (back) won't play in Saturday's game versus Sacramento, Chris Herrington of The Daily Memphian."
  },
  {
   "team_id": "29",
   "team": "Memphis Grizzlies",
-  "athlete_id": "4065733",
-  "name": "Ty Jerome",
+  "athlete_id": "4431785",
+  "name": "Scotty Pippen Jr.",
   "position": "G",
-  "status": "Day-To-Day",
+  "status": "Out",
   "injury": "Back Soreness",
-  "return_date": "2026-10-31",
-  "updated": "2026-10-30T22:29Z",
-  "comment": "Jerome (back) is listed as questionable for Saturday's game against the Kings."
+  "return_date": "2026-11-02",
+  "updated": "2026-10-31T23:22Z",
+  "comment": "Pippen (back) has been ruled out for Saturday's game against the Kings, Chris Herrington of The Daily Memphian reports."
  },
  {
   "team_id": "29",
@@ -569,11 +581,11 @@
   "athlete_id": "4593016",
   "name": "Quinten Post",
   "position": "C",
-  "status": "Day-To-Day",
+  "status": "Out",
   "injury": "Right Ankle Not Specified",
-  "return_date": "2026-10-31",
-  "updated": "2026-10-30T22:23Z",
-  "comment": "Post (ankle) is doubtful for Friday's game against the Kings."
+  "return_date": "2026-11-02",
+  "updated": "2026-10-31T23:21Z",
+  "comment": "Post (ankle) has been ruled out for Saturday's game versus Sacramento, Chris Herrington of The Daily Memphian reports."
  },
  {
   "team_id": "16",
@@ -581,11 +593,11 @@
   "athlete_id": "3032976",
   "name": "Rudy Gobert",
   "position": "C",
-  "status": "Day-To-Day",
+  "status": "Out",
   "injury": "Back Spasms",
-  "return_date": "2026-10-31",
-  "updated": "2026-10-31T18:03Z",
-  "comment": "Gobert (back) is listed as questionable for Saturday's game at San Antonio."
+  "return_date": "2026-11-02",
+  "updated": "2026-10-31T22:18Z",
+  "comment": "Gobert (back) is out for Saturday's game against the Spurs, Dane Moore of 'The Dane Moore NBA Podcast' reports."
  },
  {
   "team_id": "16",
@@ -610,6 +622,18 @@
   "return_date": "2027-04-02",
   "updated": "2026-10-05T20:53Z",
   "comment": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon Krawczynski of The Athletic reports."
+ },
+ {
+  "team_id": "3",
+  "team": "New Orleans Pelicans",
+  "athlete_id": "3907497",
+  "name": "Dejounte Murray",
+  "position": "G",
+  "status": "Out",
+  "injury": "Personal",
+  "return_date": "2026-11-02",
+  "updated": "2026-10-31T21:24Z",
+  "comment": "Murray (personal) won't play in Saturday's game against the Hawks, Jim Eichenhofer of the Pelicans' official site reports."
  },
  {
   "team_id": "3",
@@ -782,18 +806,6 @@
  {
   "team_id": "20",
   "team": "Philadelphia 76ers",
-  "athlete_id": "4432446",
-  "name": "Jabari Walker",
-  "position": "F",
-  "status": "Out",
-  "injury": "Left Knee Soreness",
-  "return_date": "2026-10-31",
-  "updated": "2026-10-31T17:25Z",
-  "comment": "Walker (knee) is questionable for Saturday's game in Charlotte."
- },
- {
-  "team_id": "20",
-  "team": "Philadelphia 76ers",
   "athlete_id": "1966",
   "name": "LeBron James",
   "position": "F",
@@ -806,18 +818,6 @@
  {
   "team_id": "20",
   "team": "Philadelphia 76ers",
-  "athlete_id": "3904625",
-  "name": "Tacko Fall",
-  "position": "C",
-  "status": "Out",
-  "injury": "Left Quadriceps Strain",
-  "return_date": "2026-10-31",
-  "updated": "2026-10-31T17:14Z",
-  "comment": "Fall (quad) is questionable to face the Hornets on Saturday."
- },
- {
-  "team_id": "20",
-  "team": "Philadelphia 76ers",
   "athlete_id": "3059318",
   "name": "Joel Embiid",
   "position": "C",
@@ -826,18 +826,6 @@
   "return_date": "2026-11-02",
   "updated": "2026-10-31T17:12Z",
   "comment": "Embiid (foot) is out for Saturday's game in Charlotte."
- },
- {
-  "team_id": "20",
-  "team": "Philadelphia 76ers",
-  "athlete_id": "3917376",
-  "name": "Jaylen Brown",
-  "position": "G",
-  "status": "Day-To-Day",
-  "injury": "Left Knee",
-  "return_date": "2026-10-31",
-  "updated": "2026-10-31T17:08Z",
-  "comment": "Brown (knee) is questionable for Saturday's game in Charlotte."
  },
  {
   "team_id": "20",
@@ -946,18 +934,6 @@
   "return_date": "2027-10-01",
   "updated": "2026-10-21T04:22Z",
   "comment": "Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James Ham of ESPN 1320 Sacramento reports."
- },
- {
-  "team_id": "24",
-  "team": "San Antonio Spurs",
-  "athlete_id": "4845367",
-  "name": "Stephon Castle",
-  "position": "G",
-  "status": "Day-To-Day",
-  "injury": "Head Mild",
-  "return_date": "2026-10-31",
-  "updated": "2026-10-31T19:06Z",
-  "comment": "Castle (migraine) is questionable for Saturday's game against the Timberwolves, Paul Garcia of ProjectSpurs.com reports."
  },
  {
   "team_id": "24",

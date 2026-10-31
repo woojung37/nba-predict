@@ -7,14 +7,14 @@
  },
  {
   "team_id": "24",
-  "offense": 1.5,
-  "defense": -4.2,
+  "offense": 1.6,
+  "defense": -4.1,
   "net": 5.7
  },
  {
   "team_id": "18",
-  "offense": -1.3,
-  "defense": -6.8,
+  "offense": -1.2,
+  "defense": -6.7,
   "net": 5.5
  },
  {
@@ -31,13 +31,13 @@
  },
  {
   "team_id": "2",
-  "offense": -0.2,
-  "defense": -4.3,
+  "offense": -0.1,
+  "defense": -4.2,
   "net": 4.1
  },
  {
   "team_id": "10",
-  "offense": -0.0,
+  "offense": 0.0,
   "defense": -3.9,
   "net": 3.9
  },
@@ -49,19 +49,25 @@
  },
  {
   "team_id": "13",
-  "offense": 0.4,
+  "offense": 0.5,
   "defense": -1.7,
   "net": 2.1
  },
  {
   "team_id": "7",
-  "offense": 2.0,
-  "defense": 0.0,
+  "offense": 2.1,
+  "defense": 0.1,
   "net": 2.0
  },
  {
+  "team_id": "22",
+  "offense": -0.8,
+  "defense": -2.6,
+  "net": 1.8
+ },
+ {
   "team_id": "20",
-  "offense": -1.0,
+  "offense": -0.9,
   "defense": -2.6,
   "net": 1.7
  },
@@ -72,15 +78,9 @@
   "net": 1.1
  },
  {
-  "team_id": "22",
-  "offense": -0.5,
-  "defense": -1.7,
-  "net": 1.1
- },
- {
   "team_id": "5",
   "offense": 1.1,
-  "defense": 0.1,
+  "defense": 0.2,
   "net": 0.9
  },
  {
@@ -97,26 +97,26 @@
  },
  {
   "team_id": "30",
-  "offense": -4.7,
+  "offense": -4.6,
   "defense": -4.0,
   "net": -0.6
  },
  {
   "team_id": "19",
   "offense": -1.5,
-  "defense": -1.0,
+  "defense": -0.9,
   "net": -0.6
  },
  {
   "team_id": "6",
-  "offense": 1.2,
-  "defense": 2.0,
+  "offense": 1.3,
+  "defense": 2.1,
   "net": -0.8
  },
  {
   "team_id": "12",
   "offense": -2.2,
-  "defense": -1.0,
+  "defense": -0.9,
   "net": -1.2
  },
  {
@@ -127,13 +127,13 @@
  },
  {
   "team_id": "21",
-  "offense": -1.5,
+  "offense": -1.4,
   "defense": 0.8,
   "net": -2.3
  },
  {
   "team_id": "11",
-  "offense": 1.2,
+  "offense": 1.3,
   "defense": 3.8,
   "net": -2.6
  },
@@ -144,20 +144,20 @@
   "net": -2.6
  },
  {
-  "team_id": "26",
-  "offense": 2.3,
-  "defense": 6.3,
-  "net": -4.0
- },
- {
   "team_id": "27",
-  "offense": -0.3,
+  "offense": -0.2,
   "defense": 4.0,
   "net": -4.3
  },
  {
+  "team_id": "26",
+  "offense": 1.4,
+  "defense": 6.1,
+  "net": -4.7
+ },
+ {
   "team_id": "15",
-  "offense": -1.7,
+  "offense": -1.6,
   "defense": 4.4,
   "net": -6.1
  },
@@ -169,14 +169,14 @@
  },
  {
   "team_id": "23",
-  "offense": -1.3,
-  "defense": 5.4,
+  "offense": -1.2,
+  "defense": 5.5,
   "net": -6.7
  },
  {
   "team_id": "17",
   "offense": -4.5,
-  "defense": 2.5,
+  "defense": 2.6,
   "net": -7.0
  }
 ]
