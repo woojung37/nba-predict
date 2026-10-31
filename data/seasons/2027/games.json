@@ -1705,26 +1705,20 @@
   "date": "2026-10-31T19:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Delta Center",
   "home": {
    "id": "26",
    "abbr": "UTAH",
-   "score": null
+   "score": 66
   },
   "away": {
    "id": "22",
    "abbr": "POR",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "POR -6.5",
-   "spread": 6.5,
-   "over_under": 232.5
+   "score": 92
   }
  },
  {
@@ -1751,7 +1745,7 @@
    "provider": "DraftKings",
    "details": "PHI -1.5",
    "spread": 1.5,
-   "over_under": 215.5
+   "over_under": 211.5
   }
  },
  {
@@ -1803,9 +1797,9 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "MEM -10.5",
-   "spread": -10.5,
-   "over_under": 233.5
+   "details": "MEM -8.5",
+   "spread": -8.5,
+   "over_under": 229.5
   }
  },
  {
@@ -1830,9 +1824,9 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "CLE -8.5",
-   "spread": 8.5,
-   "over_under": 237.5
+   "details": "CLE -9.5",
+   "spread": 9.5,
+   "over_under": 235.5
   }
  },
  {
@@ -1859,7 +1853,7 @@
    "provider": "DraftKings",
    "details": "SA -12.5",
    "spread": -12.5,
-   "over_under": 227.5
+   "over_under": 228.5
   }
  },
  {
@@ -1884,9 +1878,9 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "HOU -3.5",
-   "spread": -3.5,
-   "over_under": 218.5
+   "details": "HOU -2.5",
+   "spread": -2.5,
+   "over_under": 219.5
   }
  },
  {
