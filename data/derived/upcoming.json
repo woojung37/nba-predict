@@ -8,7 +8,7 @@
   "venue": "Delta Center",
   "date_kst": "2026-11-01T04:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "POR -6.5",
    "spread": 6.5,
    "over_under": 232.5
@@ -603,7 +603,7 @@
     "over_under": 232.5,
     "home_cover_prob": 0.595,
     "over_prob": 0.522,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -616,7 +616,7 @@
   "venue": "Spectrum Center",
   "date_kst": "2026-11-01T07:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "PHI -1.5",
    "spread": 1.5,
    "over_under": 215.5
@@ -1211,7 +1211,7 @@
     "over_under": 215.5,
     "home_cover_prob": 0.498,
     "over_prob": 0.415,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -1224,10 +1224,10 @@
   "venue": "Smoothie King Center",
   "date_kst": "2026-11-01T08:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "ATL -4.5",
    "spread": 4.5,
-   "over_under": 240.5
+   "over_under": 241.5
   },
   "home": {
    "id": "3",
@@ -1713,10 +1713,10 @@
    },
    "vs_line": {
     "spread": 4.5,
-    "over_under": 240.5,
+    "over_under": 241.5,
     "home_cover_prob": 0.546,
-    "over_prob": 0.465,
-    "provider": "Draft Kings"
+    "over_prob": 0.444,
+    "provider": "DraftKings"
    }
   }
  },
@@ -1729,7 +1729,7 @@
   "venue": "FedExForum",
   "date_kst": "2026-11-01T09:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "MEM -10.5",
    "spread": -10.5,
    "over_under": 233.5
@@ -2318,7 +2318,7 @@
     "over_under": 233.5,
     "home_cover_prob": 0.453,
     "over_prob": 0.578,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -2331,7 +2331,7 @@
   "venue": "Fiserv Forum",
   "date_kst": "2026-11-01T09:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "CLE -8.5",
    "spread": 8.5,
    "over_under": 237.5
@@ -2821,7 +2821,7 @@
     "over_under": 237.5,
     "home_cover_prob": 0.598,
     "over_prob": 0.477,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -2834,10 +2834,10 @@
   "venue": "Frost Bank Center",
   "date_kst": "2026-11-01T09:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "SA -12.5",
    "spread": -12.5,
-   "over_under": 226.5
+   "over_under": 227.5
   },
   "home": {
    "id": "24",
@@ -3353,10 +3353,10 @@
    },
    "vs_line": {
     "spread": -12.5,
-    "over_under": 226.5,
+    "over_under": 227.5,
     "home_cover_prob": 0.379,
-    "over_prob": 0.432,
-    "provider": "Draft Kings"
+    "over_prob": 0.411,
+    "provider": "DraftKings"
    }
   }
  },
@@ -3369,7 +3369,7 @@
   "venue": "Toyota Center (Houston)",
   "date_kst": "2026-11-01T09:30:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "HOU -3.5",
    "spread": -3.5,
    "over_under": 218.5
@@ -3988,7 +3988,7 @@
     "over_under": 218.5,
     "home_cover_prob": 0.425,
     "over_prob": 0.425,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -6205,6 +6205,558 @@
     "away": {
      "offense": -0.1,
      "defense": -3.6
+    }
+   }
+  }
+ },
+ {
+  "id": "401909907",
+  "date": "2026-11-03T00:00Z",
+  "season_type": 2,
+  "state": "pre",
+  "neutral": false,
+  "venue": "Rocket Arena",
+  "date_kst": "2026-11-03T09:00:00+09:00",
+  "home": {
+   "id": "5",
+   "abbr": "CLE",
+   "name": "Cleveland Cavaliers",
+   "standing": {
+    "team_id": "5",
+    "abbr": "CLE",
+    "conference": "Eastern Conference",
+    "seed": 5,
+    "wins": 3,
+    "losses": 2,
+    "win_pct": 0.6,
+    "games_behind": "1.5",
+    "home": "3-0",
+    "road": "0-2",
+    "last10": "3-2",
+    "streak": "L1",
+    "ppg": 118.0,
+    "opp_ppg": 117.0
+   },
+   "stats": {
+    "gp": 5,
+    "record": [
+     3,
+     2
+    ],
+    "home_record": [
+     3,
+     0
+    ],
+    "away_record": [
+     0,
+     2
+    ],
+    "ppg": 118.0,
+    "opp_ppg": 117.0,
+    "avg_margin": 1.0,
+    "last10_record": [
+     3,
+     2
+    ],
+    "last10_margin": 1.0,
+    "last_game": "2026-10-30T00:00Z",
+    "pace": 106.1,
+    "ortg": 111.2,
+    "drtg": 110.3,
+    "net_rtg": 0.9
+   },
+   "rest_days": 1,
+   "injuries": [
+    {
+     "team_id": "5",
+     "team": "Cleveland Cavaliers",
+     "athlete_id": "4683747",
+     "name": "Jaylon Tyson",
+     "position": "G",
+     "status": "Out",
+     "injury": "Right Ankle Sprain",
+     "return_date": "2026-11-02",
+     "updated": "2026-10-30T20:52Z",
+     "comment": "Tyson (ankle) has been ruled out for Saturday's game against the Bucks."
+    },
+    {
+     "team_id": "5",
+     "team": "Cleveland Cavaliers",
+     "athlete_id": "5041951",
+     "name": "Meleek Thomas",
+     "position": "G",
+     "status": "Day-To-Day",
+     "injury": "Foot",
+     "return_date": "2026-10-31",
+     "updated": "2026-10-30T20:51Z",
+     "comment": "Thomas (foot) is questionable for Saturday's game against the Bucks."
+    }
+   ],
+   "top_players": [
+    {
+     "athlete_id": "3908809",
+     "name": "Donovan Mitchell",
+     "position": "G",
+     "team_id": "5",
+     "gp": 5,
+     "gs": 5,
+     "last_game": "2026-10-30",
+     "min": 34.4,
+     "pts": 24.2,
+     "reb": 5.6,
+     "ast": 4.8,
+     "stl": 1.6,
+     "blk": 0.6,
+     "tov": 3.4,
+     "plus_minus": -0.4,
+     "fg_pct": 47.1,
+     "fg3_pct": 36.4,
+     "ft_pct": 87.1,
+     "injury_status": null
+    },
+    {
+     "athlete_id": "4432158",
+     "name": "Evan Mobley",
+     "position": "C",
+     "team_id": "5",
+     "gp": 5,
+     "gs": 5,
+     "last_game": "2026-10-30",
+     "min": 34.4,
+     "pts": 18.2,
+     "reb": 8.8,
+     "ast": 3.6,
+     "stl": 0.4,
+     "blk": 1.2,
+     "tov": 1.4,
+     "plus_minus": -5.2,
+     "fg_pct": 55.2,
+     "fg3_pct": 57.1,
+     "ft_pct": 62.5,
+     "injury_status": null
+    },
+    {
+     "athlete_id": "3992",
+     "name": "James Harden",
+     "position": "G",
+     "team_id": "5",
+     "gp": 5,
+     "gs": 5,
+     "last_game": "2026-10-30",
+     "min": 35.0,
+     "pts": 17.4,
+     "reb": 4.6,
+     "ast": 6.2,
+     "stl": 0.8,
+     "blk": 0.4,
+     "tov": 3.6,
+     "plus_minus": -3.0,
+     "fg_pct": 36.2,
+     "fg3_pct": 30.8,
+     "ft_pct": 83.3,
+     "injury_status": null
+    },
+    {
+     "athlete_id": "4066328",
+     "name": "Jarrett Allen",
+     "position": "C",
+     "team_id": "5",
+     "gp": 5,
+     "gs": 5,
+     "last_game": "2026-10-30",
+     "min": 28.4,
+     "pts": 13.4,
+     "reb": 8.8,
+     "ast": 1.0,
+     "stl": 0.6,
+     "blk": 2.2,
+     "tov": 1.0,
+     "plus_minus": 2.2,
+     "fg_pct": 61.5,
+     "fg3_pct": 100.0,
+     "ft_pct": 77.3,
+     "injury_status": null
+    },
+    {
+     "athlete_id": "5041951",
+     "name": "Meleek Thomas",
+     "position": "G",
+     "team_id": "5",
+     "gp": 2,
+     "gs": 0,
+     "last_game": "2026-10-28",
+     "min": 19.5,
+     "pts": 13.0,
+     "reb": 3.0,
+     "ast": 0.5,
+     "stl": 1.0,
+     "blk": 0.0,
+     "tov": 1.0,
+     "plus_minus": 6.0,
+     "fg_pct": 58.8,
+     "fg3_pct": 66.7,
+     "ft_pct": 100.0,
+     "injury_status": "Day-To-Day"
+    }
+   ]
+  },
+  "away": {
+   "id": "25",
+   "abbr": "OKC",
+   "name": "Oklahoma City Thunder",
+   "standing": {
+    "team_id": "25",
+    "abbr": "OKC",
+    "conference": "Western Conference",
+    "seed": 3,
+    "wins": 4,
+    "losses": 1,
+    "win_pct": 0.8,
+    "games_behind": "1",
+    "home": "3-0",
+    "road": "1-1",
+    "last10": "4-1",
+    "streak": "L1",
+    "ppg": 108.2,
+    "opp_ppg": 104.6
+   },
+   "stats": {
+    "gp": 5,
+    "record": [
+     4,
+     1
+    ],
+    "home_record": [
+     3,
+     0
+    ],
+    "away_record": [
+     1,
+     1
+    ],
+    "ppg": 108.2,
+    "opp_ppg": 104.6,
+    "avg_margin": 3.6,
+    "last10_record": [
+     4,
+     1
+    ],
+    "last10_margin": 3.6,
+    "last_game": "2026-10-29T01:30Z",
+    "pace": 102.0,
+    "ortg": 106.1,
+    "drtg": 102.5,
+    "net_rtg": 3.6
+   },
+   "rest_days": 1,
+   "injuries": [
+    {
+     "team_id": "25",
+     "team": "Oklahoma City Thunder",
+     "athlete_id": "4683692",
+     "name": "Cason Wallace",
+     "position": "G",
+     "status": "Out",
+     "injury": "Left Shoulder Surgery",
+     "return_date": "2027-03-02",
+     "updated": "2026-10-31T01:16Z",
+     "comment": "Wallace underwent surgery Friday to repair a torn labrum in his left shoulder and will be re-evaluated before the end of the regular season, Clemente Almanza of USA Today reports."
+    },
+    {
+     "team_id": "25",
+     "team": "Oklahoma City Thunder",
+     "athlete_id": "4433255",
+     "name": "Chet Holmgren",
+     "position": "C",
+     "status": "Out",
+     "injury": "Right Knee",
+     "return_date": "2027-01-02",
+     "updated": "2026-10-31T01:02Z",
+     "comment": "Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Slam reports."
+    },
+    {
+     "team_id": "25",
+     "team": "Oklahoma City Thunder",
+     "athlete_id": "4593803",
+     "name": "Jalen Williams",
+     "position": "G",
+     "status": "Out",
+     "injury": "Left Leg Fracture",
+     "return_date": "2027-03-02",
+     "updated": "2026-10-28T23:41Z",
+     "comment": "Williams (leg) underwent successful surgery Wednesday to \"address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation.\" He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports."
+    },
+    {
+     "team_id": "25",
+     "team": "Oklahoma City Thunder",
+     "athlete_id": "2991350",
+     "name": "Alex Caruso",
+     "position": "G",
+     "status": "Out",
+     "injury": "Right Ankle",
+     "return_date": "2026-11-04",
+     "updated": "2026-10-28T18:06Z",
+     "comment": "Caruso (ankle) is expected to miss time due to an ankle sprain, Clemente Almanza of USA Today reports."
+    },
+    {
+     "team_id": "25",
+     "team": "Oklahoma City Thunder",
+     "athlete_id": "5061603",
+     "name": "Thomas Sorber",
+     "position": "C",
+     "status": "Out",
+     "injury": "Knee",
+     "return_date": "2026-11-04",
+     "updated": "2026-10-27T21:43Z",
+     "comment": "Sorber (knee) has been ruled out for Wednesday's game against the Mavericks."
+    },
+    {
+     "team_id": "25",
+     "team": "Oklahoma City Thunder",
+     "athlete_id": "5159925",
+     "name": "Nikola Topic",
+     "position": "G",
+     "status": "Out",
+     "injury": "Back",
+     "return_date": "2026-11-04",
+     "updated": "2026-10-27T21:38Z",
+     "comment": "Topic (back) will remain on the inactive list for Wednesday's game in Dallas."
+    }
+   ],
+   "top_players": [
+    {
+     "athlete_id": "4278073",
+     "name": "Shai Gilgeous-Alexander",
+     "position": "G",
+     "team_id": "25",
+     "gp": 5,
+     "gs": 5,
+     "last_game": "2026-10-29",
+     "min": 33.0,
+     "pts": 26.0,
+     "reb": 4.6,
+     "ast": 3.4,
+     "stl": 1.2,
+     "blk": 1.4,
+     "tov": 1.8,
+     "plus_minus": 6.6,
+     "fg_pct": 45.9,
+     "fg3_pct": 26.5,
+     "ft_pct": 87.5,
+     "injury_status": null
+    },
+    {
+     "athlete_id": "4900671",
+     "name": "Ajay Mitchell",
+     "position": "G",
+     "team_id": "25",
+     "gp": 5,
+     "gs": 2,
+     "last_game": "2026-10-29",
+     "min": 25.4,
+     "pts": 18.6,
+     "reb": 3.4,
+     "ast": 3.6,
+     "stl": 2.0,
+     "blk": 0.6,
+     "tov": 1.8,
+     "plus_minus": 9.4,
+     "fg_pct": 53.6,
+     "fg3_pct": 26.7,
+     "ft_pct": 93.8,
+     "injury_status": null
+    },
+    {
+     "athlete_id": "4593803",
+     "name": "Jalen Williams",
+     "position": "G",
+     "team_id": "25",
+     "gp": 3,
+     "gs": 3,
+     "last_game": "2026-10-25",
+     "min": 31.7,
+     "pts": 13.7,
+     "reb": 4.7,
+     "ast": 3.3,
+     "stl": 1.0,
+     "blk": 0.7,
+     "tov": 1.3,
+     "plus_minus": 0.7,
+     "fg_pct": 38.5,
+     "fg3_pct": 33.3,
+     "ft_pct": 80.0,
+     "injury_status": "Out"
+    },
+    {
+     "athlete_id": "4433255",
+     "name": "Chet Holmgren",
+     "position": "C",
+     "team_id": "25",
+     "gp": 3,
+     "gs": 3,
+     "last_game": "2026-10-25",
+     "min": 30.0,
+     "pts": 12.0,
+     "reb": 9.3,
+     "ast": 1.3,
+     "stl": 0.7,
+     "blk": 3.0,
+     "tov": 1.7,
+     "plus_minus": 1.7,
+     "fg_pct": 40.7,
+     "fg3_pct": 33.3,
+     "ft_pct": 100.0,
+     "injury_status": "Out"
+    },
+    {
+     "athlete_id": "4683778",
+     "name": "Jared McCain",
+     "position": "G",
+     "team_id": "25",
+     "gp": 5,
+     "gs": 2,
+     "last_game": "2026-10-29",
+     "min": 24.0,
+     "pts": 11.0,
+     "reb": 2.0,
+     "ast": 2.2,
+     "stl": 0.6,
+     "blk": 0.2,
+     "tov": 2.0,
+     "plus_minus": 2.0,
+     "fg_pct": 36.0,
+     "fg3_pct": 37.9,
+     "ft_pct": 80.0,
+     "injury_status": null
+    }
+   ]
+  },
+  "head_to_head": {
+   "games": 6,
+   "wins": 1,
+   "losses": 5,
+   "avg_margin": -10.7,
+   "recent": [
+    {
+     "id": "401810672",
+     "date": "2026-02-22T18:00Z",
+     "season": 2026,
+     "home": "OKC",
+     "away": "CLE",
+     "home_score": 121,
+     "away_score": 113
+    },
+    {
+     "id": "401809248",
+     "date": "2026-01-19T19:30Z",
+     "season": 2026,
+     "home": "CLE",
+     "away": "OKC",
+     "home_score": 104,
+     "away_score": 136
+    },
+    {
+     "id": "401705140",
+     "date": "2025-01-17T00:30Z",
+     "season": 2025,
+     "home": "OKC",
+     "away": "CLE",
+     "home_score": 134,
+     "away_score": 114
+    },
+    {
+     "id": "401705075",
+     "date": "2025-01-09T00:00Z",
+     "season": 2025,
+     "home": "CLE",
+     "away": "OKC",
+     "home_score": 129,
+     "away_score": 122
+    },
+    {
+     "id": "401584795",
+     "date": "2023-11-09T01:00Z",
+     "season": 2024,
+     "home": "OKC",
+     "away": "CLE",
+     "home_score": 128,
+     "away_score": 120
+    },
+    {
+     "id": "401584709",
+     "date": "2023-10-27T23:30Z",
+     "season": 2024,
+     "home": "CLE",
+     "away": "OKC",
+     "home_score": 105,
+     "away_score": 108
+    }
+   ]
+  },
+  "prediction": {
+   "home_points": 113.4,
+   "away_points": 111.2,
+   "home_margin": 2.2,
+   "home_win_prob": 0.562,
+   "away_win_prob": 0.438,
+   "margin_range80": [
+    -15.9,
+    20.3
+   ],
+   "total": 224.5,
+   "total_range80": [
+    200.8,
+    248.2
+   ],
+   "sigma": 14.15,
+   "total_sigma": 18.49,
+   "factors": {
+    "team_strength": -5.0,
+    "home_court": 2.0,
+    "rest": -0.0,
+    "injuries": 5.2
+   },
+   "back_to_back": {
+    "home": false,
+    "away": false
+   },
+   "injury_impact": {
+    "home": [],
+    "away": [
+     {
+      "athlete_id": "4433255",
+      "name": "Chet Holmgren",
+      "status": "Out",
+      "impact": -1.8
+     },
+     {
+      "athlete_id": "4593803",
+      "name": "Jalen Williams",
+      "status": "Out",
+      "impact": -1.4
+     },
+     {
+      "athlete_id": "2991350",
+      "name": "Alex Caruso",
+      "status": "Out",
+      "impact": -1.1
+     },
+     {
+      "athlete_id": "4683692",
+      "name": "Cason Wallace",
+      "status": "Out",
+      "impact": -0.9
+     }
+    ]
+   },
+   "ratings": {
+    "home": {
+     "offense": 1.1,
+     "defense": 0.1
+    },
+    "away": {
+     "offense": 0.9,
+     "defense": -5.0
     }
    }
   }
