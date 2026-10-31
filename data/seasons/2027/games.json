@@ -1503,12 +1503,12 @@
   "home": {
    "id": "27",
    "abbr": "WSH",
-   "score": 46
+   "score": 70
   },
   "away": {
    "id": "30",
    "abbr": "CHA",
-   "score": 41
+   "score": 54
   }
  },
  {
@@ -1524,12 +1524,12 @@
   "home": {
    "id": "2",
    "abbr": "BOS",
-   "score": 33
+   "score": 78
   },
   "away": {
    "id": "4",
    "abbr": "CHI",
-   "score": 18
+   "score": 49
   }
  },
  {
@@ -1545,12 +1545,12 @@
   "home": {
    "id": "17",
    "abbr": "BKN",
-   "score": 22
+   "score": 49
   },
   "away": {
    "id": "8",
    "abbr": "DET",
-   "score": 17
+   "score": 51
   }
  },
  {
@@ -1560,18 +1560,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "status": "STATUS_HALFTIME",
   "neutral": false,
   "venue": "Xfinity Mobile Arena",
   "home": {
    "id": "20",
    "abbr": "PHI",
-   "score": 24
+   "score": 53
   },
   "away": {
    "id": "18",
    "abbr": "NY",
-   "score": 19
+   "score": 44
   }
  },
  {
@@ -1587,12 +1587,12 @@
   "home": {
    "id": "28",
    "abbr": "TOR",
-   "score": 13
+   "score": 49
   },
   "away": {
    "id": "19",
    "abbr": "ORL",
-   "score": 20
+   "score": 56
   }
  },
  {
@@ -1600,26 +1600,20 @@
   "date": "2026-10-31T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_END_PERIOD",
   "neutral": false,
   "venue": "Kaseya Center",
   "home": {
    "id": "14",
    "abbr": "MIA",
-   "score": null
+   "score": 36
   },
   "away": {
    "id": "11",
    "abbr": "IND",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "MIA -8.5",
-   "spread": -8.5,
-   "over_under": 237.5
+   "score": 42
   }
  },
  {
@@ -1627,26 +1621,20 @@
   "date": "2026-10-31T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "American Airlines Center",
   "home": {
    "id": "6",
    "abbr": "DAL",
-   "score": null
+   "score": 27
   },
   "away": {
    "id": "10",
    "abbr": "HOU",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "HOU -5.5",
-   "spread": 5.5,
-   "over_under": 223.5
+   "score": 24
   }
  },
  {
@@ -1654,26 +1642,20 @@
   "date": "2026-10-31T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Target Center",
   "home": {
    "id": "16",
    "abbr": "MIN",
-   "score": null
+   "score": 43
   },
   "away": {
    "id": "12",
    "abbr": "LAC",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "MIN -6.5",
-   "spread": -6.5,
-   "over_under": 222.5
+   "score": 31
   }
  },
  {
@@ -1749,6 +1731,12 @@
    "id": "22",
    "abbr": "POR",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "POR -6.5",
+   "spread": 6.5,
+   "over_under": 232.5
   }
  },
  {
@@ -1791,6 +1779,12 @@
    "id": "1",
    "abbr": "ATL",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "ATL -3.5",
+   "spread": 3.5,
+   "over_under": 239.5
   }
  },
  {
@@ -1812,6 +1806,12 @@
    "id": "23",
    "abbr": "SAC",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "MEM -10.5",
+   "spread": -10.5,
+   "over_under": 234.5
   }
  },
  {
