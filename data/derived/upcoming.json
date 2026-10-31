@@ -619,7 +619,7 @@
    "provider": "DraftKings",
    "details": "PHI -1.5",
    "spread": 1.5,
-   "over_under": 216.5
+   "over_under": 215.5
   },
   "home": {
    "id": "30",
@@ -1208,9 +1208,9 @@
    },
    "vs_line": {
     "spread": 1.5,
-    "over_under": 216.5,
+    "over_under": 215.5,
     "home_cover_prob": 0.498,
-    "over_prob": 0.394,
+    "over_prob": 0.415,
     "provider": "DraftKings"
    }
   }
@@ -1227,7 +1227,7 @@
    "provider": "DraftKings",
    "details": "ATL -4.5",
    "spread": 4.5,
-   "over_under": 239.5
+   "over_under": 241.5
   },
   "home": {
    "id": "3",
@@ -1713,9 +1713,9 @@
    },
    "vs_line": {
     "spread": 4.5,
-    "over_under": 239.5,
+    "over_under": 241.5,
     "home_cover_prob": 0.546,
-    "over_prob": 0.487,
+    "over_prob": 0.444,
     "provider": "DraftKings"
    }
   }
@@ -1732,7 +1732,7 @@
    "provider": "DraftKings",
    "details": "MEM -10.5",
    "spread": -10.5,
-   "over_under": 233.5
+   "over_under": 232.5
   },
   "home": {
    "id": "29",
@@ -2315,9 +2315,9 @@
    },
    "vs_line": {
     "spread": -10.5,
-    "over_under": 233.5,
+    "over_under": 232.5,
     "home_cover_prob": 0.453,
-    "over_prob": 0.578,
+    "over_prob": 0.599,
     "provider": "DraftKings"
    }
   }
@@ -3370,8 +3370,8 @@
   "date_kst": "2026-11-01T09:30:00+09:00",
   "odds": {
    "provider": "DraftKings",
-   "details": "HOU -4.5",
-   "spread": -4.5,
+   "details": "HOU -3.5",
+   "spread": -3.5,
    "over_under": 218.5
   },
   "home": {
@@ -3984,9 +3984,9 @@
     }
    },
    "vs_line": {
-    "spread": -4.5,
+    "spread": -3.5,
     "over_under": 218.5,
-    "home_cover_prob": 0.398,
+    "home_cover_prob": 0.425,
     "over_prob": 0.425,
     "provider": "DraftKings"
    }
