@@ -1663,20 +1663,20 @@
   "date": "2026-10-31T02:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Chase Center",
   "home": {
    "id": "9",
    "abbr": "GS",
-   "score": 33
+   "score": 112
   },
   "away": {
    "id": "13",
    "abbr": "LAL",
-   "score": 42
+   "score": 95
   }
  },
  {
@@ -1684,20 +1684,20 @@
   "date": "2026-10-31T02:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Mortgage Matchup Center",
   "home": {
    "id": "21",
    "abbr": "PHX",
-   "score": 68
+   "score": 120
   },
   "away": {
    "id": "7",
    "abbr": "DEN",
-   "score": 70
+   "score": 127
   }
  },
  {
@@ -1832,7 +1832,7 @@
    "provider": "DraftKings",
    "details": "CLE -9.5",
    "spread": 9.5,
-   "over_under": 236.5
+   "over_under": 237.5
   }
  },
  {
@@ -1857,9 +1857,9 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "SA -11.5",
-   "spread": -11.5,
-   "over_under": 227.5
+   "details": "SA -12.5",
+   "spread": -12.5,
+   "over_under": 226.5
   }
  },
  {
@@ -1881,6 +1881,12 @@
    "id": "25",
    "abbr": "OKC",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "HOU -4.5",
+   "spread": -4.5,
+   "over_under": 218.5
   }
  },
  {

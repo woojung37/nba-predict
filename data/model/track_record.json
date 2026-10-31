@@ -1,15 +1,15 @@
 {
- "games": 27,
- "correct": 17,
- "win_accuracy": 0.6296,
- "margin_mae": 11.98,
- "range80_coverage": 0.7407,
- "total_mae": 17.38,
+ "games": 29,
+ "correct": 18,
+ "win_accuracy": 0.6207,
+ "margin_mae": 12.03,
+ "range80_coverage": 0.7241,
+ "total_mae": 17.67,
  "handicap": {
   "all": {
-   "hits": 10,
-   "games": 24,
-   "hit_rate": 0.4167
+   "hits": 11,
+   "games": 26,
+   "hit_rate": 0.4231
   },
   "confident": {
    "hits": 2,
@@ -19,9 +19,9 @@
  },
  "over_under": {
   "all": {
-   "hits": 13,
-   "games": 24,
-   "hit_rate": 0.5417
+   "hits": 14,
+   "games": 26,
+   "hit_rate": 0.5385
   },
   "confident": {
    "hits": 2,

@@ -616,10 +616,10 @@
   "net_rtg": 2.4
  },
  "13": {
-  "gp": 5,
+  "gp": 6,
   "record": [
    4,
-   1
+   2
   ],
   "home_record": [
    2,
@@ -627,49 +627,49 @@
   ],
   "away_record": [
    2,
-   0
-  ],
-  "ppg": 123.2,
-  "opp_ppg": 113.6,
-  "avg_margin": 9.6,
-  "last10_record": [
-   4,
    1
   ],
-  "last10_margin": 9.6,
-  "last_game": "2026-10-29T02:30Z",
-  "pace": 102.6,
-  "ortg": 120.1,
-  "drtg": 110.7,
-  "net_rtg": 9.4
+  "ppg": 118.5,
+  "opp_ppg": 113.3,
+  "avg_margin": 5.2,
+  "last10_record": [
+   4,
+   2
+  ],
+  "last10_margin": 5.2,
+  "last_game": "2026-10-31T02:00Z",
+  "pace": 101.9,
+  "ortg": 116.3,
+  "drtg": 111.2,
+  "net_rtg": 5.1
  },
  "9": {
-  "gp": 5,
+  "gp": 6,
   "record": [
-   2,
+   3,
    3
   ],
   "home_record": [
-   0,
+   1,
    1
   ],
   "away_record": [
    2,
    2
   ],
-  "ppg": 117.6,
-  "opp_ppg": 119.4,
-  "avg_margin": -1.8,
+  "ppg": 116.7,
+  "opp_ppg": 115.3,
+  "avg_margin": 1.3,
   "last10_record": [
-   2,
+   3,
    3
   ],
-  "last10_margin": -1.8,
-  "last_game": "2026-10-29T00:00Z",
-  "pace": 102.8,
-  "ortg": 114.3,
-  "drtg": 116.1,
-  "net_rtg": -1.8
+  "last10_margin": 1.3,
+  "last_game": "2026-10-31T02:00Z",
+  "pace": 102.1,
+  "ortg": 114.2,
+  "drtg": 112.9,
+  "net_rtg": 1.3
  },
  "22": {
   "gp": 4,
@@ -700,32 +700,32 @@
   "net_rtg": 8.4
  },
  "21": {
-  "gp": 3,
+  "gp": 4,
   "record": [
    1,
-   2
+   3
   ],
   "home_record": [
    1,
-   0
+   1
   ],
   "away_record": [
    0,
    2
   ],
-  "ppg": 109.3,
-  "opp_ppg": 123.7,
-  "avg_margin": -14.3,
+  "ppg": 112.0,
+  "opp_ppg": 124.5,
+  "avg_margin": -12.5,
   "last10_record": [
    1,
-   2
+   3
   ],
-  "last10_margin": -14.3,
-  "last_game": "2026-10-27T00:00Z",
-  "pace": 101.9,
-  "ortg": 107.3,
-  "drtg": 121.3,
-  "net_rtg": -14.0
+  "last10_margin": -12.5,
+  "last_game": "2026-10-31T02:00Z",
+  "pace": 101.3,
+  "ortg": 110.5,
+  "drtg": 122.9,
+  "net_rtg": -12.4
  },
  "12": {
   "gp": 5,
@@ -812,9 +812,9 @@
   "net_rtg": 0.9
  },
  "7": {
-  "gp": 4,
+  "gp": 5,
   "record": [
-   2,
+   3,
    2
   ],
   "home_record": [
@@ -822,21 +822,21 @@
    1
   ],
   "away_record": [
-   1,
+   2,
    1
   ],
-  "ppg": 110.8,
-  "opp_ppg": 114.0,
-  "avg_margin": -3.2,
+  "ppg": 114.0,
+  "opp_ppg": 115.2,
+  "avg_margin": -1.2,
   "last10_record": [
-   2,
+   3,
    2
   ],
-  "last10_margin": -3.2,
-  "last_game": "2026-10-29T00:00Z",
-  "pace": 102.7,
-  "ortg": 107.8,
-  "drtg": 111.0,
-  "net_rtg": -3.2
+  "last10_margin": -1.2,
+  "last_game": "2026-10-31T02:00Z",
+  "pace": 102.1,
+  "ortg": 111.7,
+  "drtg": 112.9,
+  "net_rtg": -1.2
  }
 }
