@@ -38,18 +38,6 @@
  {
   "team_id": "17",
   "team": "Brooklyn Nets",
-  "athlete_id": "4712896",
-  "name": "Noah Clowney",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Illness",
-  "return_date": "2026-10-30",
-  "updated": "2026-10-30T14:16Z",
-  "comment": "Clowney (illness) was downgraded to questionable for Friday's game versus Detroit, Erik Slater of ClutchPoints.com reports."
- },
- {
-  "team_id": "17",
-  "team": "Brooklyn Nets",
   "athlete_id": "5175643",
   "name": "Egor Demin",
   "position": "G",
@@ -70,18 +58,6 @@
   "return_date": "2026-11-01",
   "updated": "2026-10-25T17:19Z",
   "comment": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana."
- },
- {
-  "team_id": "30",
-  "team": "Charlotte Hornets",
-  "athlete_id": "3032979",
-  "name": "Dennis Schroder",
-  "position": "G",
-  "status": "Day-To-Day",
-  "injury": "Foot",
-  "return_date": "2026-10-30",
-  "updated": "2026-10-30T15:34Z",
-  "comment": "Schroder (foot) is probable for Friday against the Wizards."
  },
  {
   "team_id": "30",
@@ -137,35 +113,11 @@
   "athlete_id": "4848625",
   "name": "Dailyn Swain",
   "position": "G",
-  "status": "Day-To-Day",
+  "status": "Out",
   "injury": "Back Soreness",
-  "return_date": "2026-10-30",
-  "updated": "2026-10-30T20:38Z",
-  "comment": "Swain is listed as questionable for Friday's game at Boston due to lower-back soreness."
- },
- {
-  "team_id": "4",
-  "team": "Chicago Bulls",
-  "athlete_id": "4397189",
-  "name": "Jalen Smith",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Left Finger",
-  "return_date": "2026-10-30",
-  "updated": "2026-10-29T18:55Z",
-  "comment": "Smith is questionable for Friday's game against Boston with a left finger sprain."
- },
- {
-  "team_id": "4",
-  "team": "Chicago Bulls",
-  "athlete_id": "5105555",
-  "name": "Tobe Awaka",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Ankle",
-  "return_date": "2026-10-30",
-  "updated": "2026-10-29T18:53Z",
-  "comment": "Awaka (ankle) is questionable for Friday's game in Boston."
+  "return_date": "2026-11-02",
+  "updated": "2026-10-30T21:50Z",
+  "comment": "Swain (back) has been ruled out for Friday's game against Boston."
  },
  {
   "team_id": "4",
@@ -206,26 +158,14 @@
  {
   "team_id": "6",
   "team": "Dallas Mavericks",
-  "athlete_id": "4278594",
-  "name": "Naji Marshall",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Illness",
-  "return_date": "2026-10-30",
-  "updated": "2026-10-30T20:24Z",
-  "comment": "Marshall (illness) is probable for Friday's game against the Rockets."
- },
- {
-  "team_id": "6",
-  "team": "Dallas Mavericks",
-  "athlete_id": "5148538",
-  "name": "Tarik Biberovic",
+  "athlete_id": "5279129",
+  "name": "Sergio de Larrea",
   "position": "F",
   "status": "Out",
-  "injury": "Right Heel Inflammation",
-  "return_date": "2026-10-30",
-  "updated": "2026-10-29T22:09Z",
-  "comment": "Biberovic (heel) is listed as doubtful for Friday's game versus the Rockets."
+  "injury": "Right Knee Strain",
+  "return_date": "2026-11-04",
+  "updated": "2026-10-30T22:34Z",
+  "comment": "Head coach Dusty May said Friday that de Larrea (knee) will be re-evaluated next week, Noah Weber of TheSmokingCuban.com reports."
  },
  {
   "team_id": "6",
@@ -235,21 +175,21 @@
   "position": "F",
   "status": "Out",
   "injury": "Right Knee Surgery",
-  "return_date": "2026-10-30",
-  "updated": "2026-10-29T22:07Z",
-  "comment": "Aldama (knee) is listed as doubtful for Friday's game against Houston."
+  "return_date": "2026-11-02",
+  "updated": "2026-10-30T22:16Z",
+  "comment": "Aldama (knee) is listed as out for Friday's game against the Rockets."
  },
  {
   "team_id": "6",
   "team": "Dallas Mavericks",
-  "athlete_id": "5279129",
-  "name": "Sergio de Larrea",
+  "athlete_id": "5148538",
+  "name": "Tarik Biberovic",
   "position": "F",
   "status": "Out",
-  "injury": "Right Knee Strain",
+  "injury": "Right Heel Inflammation",
   "return_date": "2026-11-02",
-  "updated": "2026-10-29T22:06Z",
-  "comment": "De Larrea (knee) is out for Friday's game against the Rockets."
+  "updated": "2026-10-30T22:13Z",
+  "comment": "Biberovic (heel) is out for Friday's game against the Rockets."
  },
  {
   "team_id": "6",
@@ -386,6 +326,18 @@
  {
   "team_id": "10",
   "team": "Houston Rockets",
+  "athlete_id": "4871144",
+  "name": "Alperen Sengun",
+  "position": "C",
+  "status": "Out",
+  "injury": "Back Soreness",
+  "return_date": "2026-10-31",
+  "updated": "2026-10-30T22:39Z",
+  "comment": "Sengun (back) has been ruled out for Friday's game against the Mavericks, Mike Curtis of The Dallas Morning News reports."
+ },
+ {
+  "team_id": "10",
+  "team": "Houston Rockets",
   "athlete_id": "4711272",
   "name": "Reed Sheppard",
   "position": "G",
@@ -394,30 +346,6 @@
   "return_date": "2026-10-31",
   "updated": "2026-10-30T19:19Z",
   "comment": "Houston picked up Sheppard's (back) fourth-year team option Friday, per Lachard Binkley of SI.com."
- },
- {
-  "team_id": "10",
-  "team": "Houston Rockets",
-  "athlete_id": "2990992",
-  "name": "Marcus Smart",
-  "position": "G",
-  "status": "Out",
-  "injury": "Left Forearm Strain",
-  "return_date": "2026-10-30",
-  "updated": "2026-10-29T20:35Z",
-  "comment": "Smart (forearm) is questionable for Friday's game against the Mavericks."
- },
- {
-  "team_id": "10",
-  "team": "Houston Rockets",
-  "athlete_id": "4871144",
-  "name": "Alperen Sengun",
-  "position": "C",
-  "status": "Day-To-Day",
-  "injury": "Back Soreness",
-  "return_date": "2026-10-30",
-  "updated": "2026-10-29T20:34Z",
-  "comment": "Sengun (back) is questionable for Friday's game against the Mavericks."
  },
  {
   "team_id": "10",
@@ -437,11 +365,11 @@
   "athlete_id": "4278355",
   "name": "Obi Toppin",
   "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Back",
-  "return_date": "2026-10-30",
-  "updated": "2026-10-30T20:27Z",
-  "comment": "Toppin (back) is questionable for Friday's game against the Heat."
+  "status": "Out",
+  "injury": "Back Soreness",
+  "return_date": "2026-11-01",
+  "updated": "2026-10-30T22:51Z",
+  "comment": "Toppin (back) has been ruled out for Friday's game against Miami."
  },
  {
   "team_id": "11",
@@ -466,30 +394,6 @@
   "return_date": "2027-01-02",
   "updated": "2026-10-30T19:06Z",
   "comment": "Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.com."
- },
- {
-  "team_id": "11",
-  "team": "Indiana Pacers",
-  "athlete_id": "4395712",
-  "name": "Andrew Nembhard",
-  "position": "G",
-  "status": "Day-To-Day",
-  "injury": "Neck Soreness",
-  "return_date": "2026-10-30",
-  "updated": "2026-10-29T21:08Z",
-  "comment": "Nembhard (neck) is listed as probable for Friday's game against Miami."
- },
- {
-  "team_id": "11",
-  "team": "Indiana Pacers",
-  "athlete_id": "4396909",
-  "name": "Aaron Nesmith",
-  "position": "G",
-  "status": "Day-To-Day",
-  "injury": "Hamstring",
-  "return_date": "2026-10-30",
-  "updated": "2026-10-29T21:07Z",
-  "comment": "Nesmith (hamstring) is probable for Friday's game against the Heat."
  },
  {
   "team_id": "11",
@@ -526,18 +430,6 @@
   "return_date": "2026-11-13",
   "updated": "2026-10-28T21:30Z",
   "comment": "Haliburton (hamstring) will miss at least the next two weeks of action, Shams Charania of ESPN reports."
- },
- {
-  "team_id": "12",
-  "team": "LA Clippers",
-  "athlete_id": "4066648",
-  "name": "Rui Hachimura",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Left Quadriceps Soreness",
-  "return_date": "2026-10-30",
-  "updated": "2026-10-30T18:00Z",
-  "comment": "Hachimura (quadriceps) is probable for Friday's game against Minnesota, per Ohm Youngmisuk of ESPN.com."
  },
  {
   "team_id": "12",
@@ -626,26 +518,38 @@
  {
   "team_id": "29",
   "team": "Memphis Grizzlies",
+  "athlete_id": "4431785",
+  "name": "Scotty Pippen Jr.",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Back Soreness",
+  "return_date": "2026-10-31",
+  "updated": "2026-10-30T22:35Z",
+  "comment": "Pippen (back) is listed as questionable for Saturday's game against the Kings."
+ },
+ {
+  "team_id": "29",
+  "team": "Memphis Grizzlies",
+  "athlete_id": "4065733",
+  "name": "Ty Jerome",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Back Soreness",
+  "return_date": "2026-10-31",
+  "updated": "2026-10-30T22:29Z",
+  "comment": "Jerome (back) is listed as questionable for Saturday's game against the Kings."
+ },
+ {
+  "team_id": "29",
+  "team": "Memphis Grizzlies",
   "athlete_id": "4593016",
   "name": "Quinten Post",
   "position": "C",
   "status": "Day-To-Day",
   "injury": "Right Ankle Not Specified",
   "return_date": "2026-10-31",
-  "updated": "2026-10-30T04:28Z",
-  "comment": "Post (ankle) didn't return to Thursday's game against Portland. He recorded 10 points (3-5 FG, 2-3 3Pt, 2-2 FT) and four rebounds in seven minutes before exiting."
- },
- {
-  "team_id": "14",
-  "team": "Miami Heat",
-  "athlete_id": "3899664",
-  "name": "Simone Fontecchio",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Illness",
-  "return_date": "2026-10-30",
-  "updated": "2026-10-30T20:28Z",
-  "comment": "Fontecchio (illness) is probable for Friday's against the Pacers."
+  "updated": "2026-10-30T22:23Z",
+  "comment": "Post (ankle) is doubtful for Friday's game against the Kings."
  },
  {
   "team_id": "16",
@@ -674,50 +578,26 @@
  {
   "team_id": "3",
   "team": "New Orleans Pelicans",
-  "athlete_id": "4277956",
-  "name": "Jordan Poole",
-  "position": "G",
-  "status": "Day-To-Day",
-  "injury": "Left Ankle",
-  "return_date": "2026-10-31",
-  "updated": "2026-10-30T02:40Z",
-  "comment": "Poole (ankle) has been ruled out for Thursday's game against the Kings."
- },
- {
-  "team_id": "3",
-  "team": "New Orleans Pelicans",
-  "athlete_id": "3907497",
-  "name": "Dejounte Murray",
-  "position": "G",
-  "status": "Day-To-Day",
-  "injury": "Personal",
-  "return_date": "2026-10-31",
-  "updated": "2026-10-30T02:39Z",
-  "comment": "Murray (personal) is out for Thursday's game against the Kings, Jim Eichenhofer of the Pelicans' official site reports."
- },
- {
-  "team_id": "3",
-  "team": "New Orleans Pelicans",
   "athlete_id": "5061589",
   "name": "Yves Missi",
   "position": "C",
   "status": "Out",
   "injury": "Left Knee Bruise",
-  "return_date": "2026-11-02",
-  "updated": "2026-10-24T22:17Z",
-  "comment": "Missi has been diagnosed with a left knee bone bruise and he will miss an extended period of time, Brett Siegel of ClutchPoints.com reports."
+  "return_date": "2026-11-08",
+  "updated": "2026-10-30T21:32Z",
+  "comment": "Missi (knee) won't play in Saturday's game against Atlanta."
  },
  {
-  "team_id": "18",
-  "team": "New York Knicks",
-  "athlete_id": "3136195",
-  "name": "Karl-Anthony Towns",
-  "position": "C",
-  "status": "Day-To-Day",
-  "injury": "Left Wrist Sprain",
-  "return_date": "2026-10-30",
-  "updated": "2026-10-30T20:33Z",
-  "comment": "Towns (wrist) is listed as probable for Friday's game against Philadelphia."
+  "team_id": "3",
+  "team": "New Orleans Pelicans",
+  "athlete_id": "4277956",
+  "name": "Jordan Poole",
+  "position": "G",
+  "status": "Out",
+  "injury": "Left Ankle Sprain",
+  "return_date": "2026-11-02",
+  "updated": "2026-10-30T21:25Z",
+  "comment": "Poole (ankle) has been ruled out for Saturday's game against the Hawks."
  },
  {
   "team_id": "18",
@@ -737,11 +617,11 @@
   "athlete_id": "4433255",
   "name": "Chet Holmgren",
   "position": "C",
-  "status": "Day-To-Day",
+  "status": "Out",
   "injury": "Right Knee",
-  "return_date": "2026-10-31",
-  "updated": "2026-10-29T04:41Z",
-  "comment": "Holmgren (knee) has been ruled out for Wednesday's game against the Mavericks."
+  "return_date": "2026-11-02",
+  "updated": "2026-10-30T22:25Z",
+  "comment": "Holmgren (knee) remains out for Saturday's road game against Houston, Justin Martinez of The Oklahoman reports."
  },
  {
   "team_id": "25",
@@ -869,11 +749,11 @@
   "athlete_id": "3917376",
   "name": "Jaylen Brown",
   "position": "G",
-  "status": "Day-To-Day",
+  "status": "Out",
   "injury": "Knee",
-  "return_date": "2026-10-30",
-  "updated": "2026-10-30T20:23Z",
-  "comment": "Brown (knee) is doubtful for Friday's game against the Knicks."
+  "return_date": "2026-10-31",
+  "updated": "2026-10-30T21:50Z",
+  "comment": "Brown (knee) is out for Friday's game against the Knicks."
  },
  {
   "team_id": "20",
@@ -950,26 +830,14 @@
  {
   "team_id": "22",
   "team": "Portland Trail Blazers",
-  "athlete_id": "4279888",
-  "name": "Ja Morant",
-  "position": "G",
-  "status": "Out",
-  "injury": "Left Hamstring Not Specified",
-  "return_date": "2026-12-01",
-  "updated": "2026-10-30T18:45Z",
-  "comment": "Morant has been diagnosed with a Grade 2 left hamstring strain and is expected to miss four weeks, Portland announced Friday."
- },
- {
-  "team_id": "22",
-  "team": "Portland Trail Blazers",
   "athlete_id": "4066211",
   "name": "Robert Williams III",
   "position": "C",
   "status": "Day-To-Day",
   "injury": "Left Knee",
   "return_date": "2026-10-31",
-  "updated": "2026-10-30T04:23Z",
-  "comment": "Williams (knee) has been ruled out for Thursday's game against Memphis, Casey Holdahl of the Trail Blazers' official site reports."
+  "updated": "2026-10-30T23:11Z",
+  "comment": "Williams (knee) is questionable for Saturday's game against the Jazz."
  },
  {
   "team_id": "22",
@@ -980,8 +848,20 @@
   "status": "Out",
   "injury": "Left Ankle Soreness",
   "return_date": "2026-10-31",
-  "updated": "2026-10-27T04:58Z",
-  "comment": "Youngblood (ankle/two-way player) is out for Tuesday's game against the Lakers."
+  "updated": "2026-10-30T23:09Z",
+  "comment": "Youngblood (ankle) is questionable for Saturday's game against Utah."
+ },
+ {
+  "team_id": "22",
+  "team": "Portland Trail Blazers",
+  "athlete_id": "4279888",
+  "name": "Ja Morant",
+  "position": "G",
+  "status": "Out",
+  "injury": "Left Hamstring Not Specified",
+  "return_date": "2026-12-01",
+  "updated": "2026-10-30T18:45Z",
+  "comment": "Morant has been diagnosed with a Grade 2 left hamstring strain and is expected to miss four weeks, Portland announced Friday."
  },
  {
   "team_id": "22",
@@ -1051,9 +931,9 @@
   "position": "F",
   "status": "Out",
   "injury": "Left Calf Strain",
-  "return_date": "2026-10-31",
-  "updated": "2026-10-28T18:24Z",
-  "comment": "Harris (calf) is out for Wednesday's game against Utah, Paul Garcia of ProjectSpurs.com reports."
+  "return_date": "2026-11-06",
+  "updated": "2026-10-30T21:44Z",
+  "comment": "Harris (calf) is listed as out for Saturday's game against Minnesota."
  },
  {
   "team_id": "24",
@@ -1100,8 +980,8 @@
   "status": "Day-To-Day",
   "injury": "Right Wrist Not Specified",
   "return_date": "2026-10-31",
-  "updated": "2026-10-29T04:39Z",
-  "comment": "Markkanen (wrist) is out for Wednesday's tilt against the Spurs."
+  "updated": "2026-10-30T23:13Z",
+  "comment": "Markkanen (wrist) is listed as questionable for Saturday's game against Portland."
  },
  {
   "team_id": "26",
@@ -1138,18 +1018,6 @@
   "return_date": "2026-11-04",
   "updated": "2026-10-07T23:07Z",
   "comment": "Nurkic will miss at least the next four weeks due to a partial plantar plate tear of second toe in right foot, Chris Haynes of NBA TV reports."
- },
- {
-  "team_id": "27",
-  "team": "Washington Wizards",
-  "athlete_id": "5238230",
-  "name": "Tre Johnson",
-  "position": "G",
-  "status": "Day-To-Day",
-  "injury": "Right Achilles Soreness",
-  "return_date": "2026-10-30",
-  "updated": "2026-10-29T21:10Z",
-  "comment": "Johnson (Achilles) is listed as questionable for Friday's game against Charlotte."
  },
  {
   "team_id": "27",

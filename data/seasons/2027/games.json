@@ -1495,26 +1495,20 @@
   "date": "2026-10-30T23:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Capital One Arena",
   "home": {
    "id": "27",
    "abbr": "WSH",
-   "score": null
+   "score": 46
   },
   "away": {
    "id": "30",
    "abbr": "CHA",
-   "score": null
-  },
-  "odds": {
-   "provider": "Draft Kings",
-   "details": "CHA -1.5",
-   "spread": 1.5,
-   "over_under": 218.5
+   "score": 41
   }
  },
  {
@@ -1522,26 +1516,20 @@
   "date": "2026-10-30T23:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "TD Garden",
   "home": {
    "id": "2",
    "abbr": "BOS",
-   "score": null
+   "score": 33
   },
   "away": {
    "id": "4",
    "abbr": "CHI",
-   "score": null
-  },
-  "odds": {
-   "provider": "Draft Kings",
-   "details": "BOS -14.5",
-   "spread": -14.5,
-   "over_under": 235.5
+   "score": 18
   }
  },
  {
@@ -1549,26 +1537,20 @@
   "date": "2026-10-30T23:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Barclays Center",
   "home": {
    "id": "17",
    "abbr": "BKN",
-   "score": null
+   "score": 22
   },
   "away": {
    "id": "8",
    "abbr": "DET",
-   "score": null
-  },
-  "odds": {
-   "provider": "Draft Kings",
-   "details": "DET -8.5",
-   "spread": 8.5,
-   "over_under": 222.5
+   "score": 17
   }
  },
  {
@@ -1576,26 +1558,20 @@
   "date": "2026-10-30T23:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Xfinity Mobile Arena",
   "home": {
    "id": "20",
    "abbr": "PHI",
-   "score": null
+   "score": 24
   },
   "away": {
    "id": "18",
    "abbr": "NY",
-   "score": null
-  },
-  "odds": {
-   "provider": "Draft Kings",
-   "details": "NY -3.5",
-   "spread": 3.5,
-   "over_under": 225.5
+   "score": 19
   }
  },
  {
@@ -1603,26 +1579,20 @@
   "date": "2026-10-30T23:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Scotiabank Arena",
   "home": {
    "id": "28",
    "abbr": "TOR",
-   "score": null
+   "score": 13
   },
   "away": {
    "id": "19",
    "abbr": "ORL",
-   "score": null
-  },
-  "odds": {
-   "provider": "Draft Kings",
-   "details": "TOR -5.5",
-   "spread": -5.5,
-   "over_under": 227.5
+   "score": 20
   }
  },
  {
@@ -1646,10 +1616,10 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "MIA -8.5",
    "spread": -8.5,
-   "over_under": 236.5
+   "over_under": 237.5
   }
  },
  {
@@ -1673,9 +1643,9 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
-   "details": "HOU -6.5",
-   "spread": 6.5,
+   "provider": "DraftKings",
+   "details": "HOU -5.5",
+   "spread": 5.5,
    "over_under": 223.5
   }
  },
@@ -1700,7 +1670,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "MIN -6.5",
    "spread": -6.5,
    "over_under": 222.5
@@ -1727,7 +1697,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "LAL -3.5",
    "spread": 3.5,
    "over_under": 234.5
@@ -1754,7 +1724,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "DEN -4.5",
    "spread": 4.5,
    "over_under": 231.5
