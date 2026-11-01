@@ -1603,9 +1603,9 @@
   "date_kst": "2026-11-01T09:00:00+09:00",
   "odds": {
    "provider": "DraftKings",
-   "details": "CLE -9.5",
-   "spread": 9.5,
-   "over_under": 235.5
+   "details": "CLE -8.5",
+   "spread": 8.5,
+   "over_under": 234.5
   },
   "home": {
    "id": "15",
@@ -2076,10 +2076,10 @@
     }
    },
    "vs_line": {
-    "spread": 9.5,
-    "over_under": 235.5,
-    "home_cover_prob": 0.625,
-    "over_prob": 0.514,
+    "spread": 8.5,
+    "over_under": 234.5,
+    "home_cover_prob": 0.598,
+    "over_prob": 0.536,
     "provider": "DraftKings"
    }
   }
