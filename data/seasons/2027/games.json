@@ -1852,26 +1852,20 @@
   "date": "2026-11-01T20:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Kia Center",
   "home": {
    "id": "19",
    "abbr": "ORL",
-   "score": null
+   "score": 23
   },
   "away": {
    "id": "2",
    "abbr": "BOS",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "BOS -6.5",
-   "spread": 6.5,
-   "over_under": 220.5
+   "score": 21
   }
  },
  {
@@ -1895,10 +1889,10 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "IND -3.5",
    "spread": -3.5,
-   "over_under": 231.5
+   "over_under": 230.5
   }
  },
  {
@@ -1922,10 +1916,10 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "GS -2.5",
    "spread": -2.5,
-   "over_under": 219.5
+   "over_under": 220.5
   }
  },
  {
@@ -1949,10 +1943,10 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
-   "details": "LAL -4.5",
-   "spread": -4.5,
-   "over_under": 227.5
+   "provider": "Draft Kings",
+   "details": "LAL -2.5",
+   "spread": -2.5,
+   "over_under": 224.5
   }
  },
  {

@@ -3,16 +3,10 @@
   "id": "401909903",
   "date": "2026-11-01T20:30Z",
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "neutral": false,
   "venue": "Kia Center",
   "date_kst": "2026-11-02T05:30:00+09:00",
-  "odds": {
-   "provider": "DraftKings",
-   "details": "BOS -6.5",
-   "spread": 6.5,
-   "over_under": 220.5
-  },
   "home": {
    "id": "19",
    "abbr": "ORL",
@@ -288,11 +282,11 @@
      "athlete_id": "4351852",
      "name": "Mitchell Robinson",
      "position": "C",
-     "status": "Day-To-Day",
-     "injury": "Rest",
-     "return_date": "2026-11-01",
-     "updated": "2026-10-31T20:32Z",
-     "comment": "Robinson (rest) is questionable for Sunday's game in Orlando, Jay King of The Athletic reports."
+     "status": "Out",
+     "injury": "Not Specified Rest Not Specified",
+     "return_date": "2026-11-02",
+     "updated": "2026-11-01T15:05Z",
+     "comment": "Robinson (rest) has been ruled out for Sunday's game against the Magic."
     },
     {
      "team_id": "2",
@@ -513,74 +507,16 @@
     }
    ]
   },
-  "prediction": {
+  "pre_game_prediction": {
    "home_points": 108.3,
    "away_points": 114.1,
    "home_margin": -5.7,
    "home_win_prob": 0.343,
-   "away_win_prob": 0.657,
    "margin_range80": [
     -23.9,
     12.4
    ],
-   "total": 222.4,
-   "total_range80": [
-    198.7,
-    246.1
-   ],
-   "sigma": 14.15,
-   "total_sigma": 18.49,
-   "factors": {
-    "team_strength": -4.6,
-    "home_court": 2.0,
-    "rest": -0.0,
-    "injuries": -3.1
-   },
-   "back_to_back": {
-    "home": false,
-    "away": false
-   },
-   "injury_impact": {
-    "home": [
-     {
-      "athlete_id": "4432573",
-      "name": "Paolo Banchero",
-      "status": "Out",
-      "impact": -2.7
-     },
-     {
-      "athlete_id": "4432165",
-      "name": "Jalen Suggs",
-      "status": "Out",
-      "impact": -0.4
-     }
-    ],
-    "away": [
-     {
-      "athlete_id": "4351852",
-      "name": "Mitchell Robinson",
-      "status": "Day-To-Day",
-      "impact": -0.0
-     }
-    ]
-   },
-   "ratings": {
-    "home": {
-     "offense": -1.5,
-     "defense": -1.0
-    },
-    "away": {
-     "offense": -0.2,
-     "defense": -4.2
-    }
-   },
-   "vs_line": {
-    "spread": 6.5,
-    "over_under": 220.5,
-    "home_cover_prob": 0.522,
-    "over_prob": 0.541,
-    "provider": "DraftKings"
-   }
+   "total": 222.4
   }
  },
  {
@@ -592,10 +528,10 @@
   "venue": "Gainbridge Fieldhouse",
   "date_kst": "2026-11-02T07:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "IND -3.5",
    "spread": -3.5,
-   "over_under": 231.5
+   "over_under": 230.5
   },
   "home": {
    "id": "11",
@@ -650,38 +586,14 @@
     {
      "team_id": "11",
      "team": "Indiana Pacers",
-     "athlete_id": "4017837",
-     "name": "Ivica Zubac",
-     "position": "C",
-     "status": "Out",
-     "injury": "Left Ankle Sprain",
-     "return_date": "2026-11-02",
-     "updated": "2026-10-31T21:14Z",
-     "comment": "Zubac (ankle) will remain on the inactive list for Sunday's game against the Nets."
-    },
-    {
-     "team_id": "11",
-     "team": "Indiana Pacers",
-     "athlete_id": "4396909",
-     "name": "Aaron Nesmith",
-     "position": "G",
-     "status": "Day-To-Day",
-     "injury": "Left Hamstring Strain",
-     "return_date": "2026-11-01",
-     "updated": "2026-10-31T21:13Z",
-     "comment": "Nesmith (hamstring) is listed as probable for Sunday's game against Brooklyn."
-    },
-    {
-     "team_id": "11",
-     "team": "Indiana Pacers",
      "athlete_id": "4278355",
      "name": "Obi Toppin",
      "position": "F",
-     "status": "Day-To-Day",
+     "status": "Out",
      "injury": "Back Soreness",
-     "return_date": "2026-11-01",
-     "updated": "2026-10-31T21:10Z",
-     "comment": "Toppin (back) is questionable for Sunday's game against the Nets."
+     "return_date": "2026-11-02",
+     "updated": "2026-11-01T20:29Z",
+     "comment": "Toppin (back) is out for Sunday's game against the Nets, Alex Golden of SI.com reports."
     },
     {
      "team_id": "11",
@@ -692,8 +604,20 @@
      "status": "Out",
      "injury": "Right Hamstring Strain",
      "return_date": "2026-11-02",
-     "updated": "2026-10-30T19:09Z",
-     "comment": "McConnell (hamstring) is practicing in the G League at Noblesville Boom training camp, per Alex Golden of SI.com."
+     "updated": "2026-11-01T16:26Z",
+     "comment": "Indiana recalled McConnell (hamstring) from the G League's Noblesville Boom on Saturday."
+    },
+    {
+     "team_id": "11",
+     "team": "Indiana Pacers",
+     "athlete_id": "4017837",
+     "name": "Ivica Zubac",
+     "position": "C",
+     "status": "Out",
+     "injury": "Left Ankle Sprain",
+     "return_date": "2026-11-02",
+     "updated": "2026-10-31T21:14Z",
+     "comment": "Zubac (ankle) will remain on the inactive list for Sunday's game against the Nets."
     },
     {
      "team_id": "11",
@@ -815,7 +739,7 @@
      "fg_pct": 53.8,
      "fg3_pct": 40.7,
      "ft_pct": 64.3,
-     "injury_status": "Day-To-Day"
+     "injury_status": "Out"
     },
     {
      "athlete_id": "4396909",
@@ -836,7 +760,7 @@
      "fg_pct": 39.6,
      "fg3_pct": 34.5,
      "ft_pct": 87.5,
-     "injury_status": "Day-To-Day"
+     "injury_status": null
     }
    ]
   },
@@ -1134,19 +1058,19 @@
    ]
   },
   "prediction": {
-   "home_points": 116.4,
+   "home_points": 115.7,
    "away_points": 114.2,
-   "home_margin": 2.2,
-   "home_win_prob": 0.562,
-   "away_win_prob": 0.438,
+   "home_margin": 1.5,
+   "home_win_prob": 0.543,
+   "away_win_prob": 0.457,
    "margin_range80": [
-    -15.9,
-    20.3
+    -16.6,
+    19.7
    ],
-   "total": 230.6,
+   "total": 230.0,
    "total_range80": [
-    206.9,
-    254.3
+    206.3,
+    253.7
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -1154,7 +1078,7 @@
     "team_strength": 4.5,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": -4.3
+    "injuries": -5.0
    },
    "back_to_back": {
     "home": false,
@@ -1169,22 +1093,16 @@
       "impact": -2.4
      },
      {
+      "athlete_id": "4278355",
+      "name": "Obi Toppin",
+      "status": "Out",
+      "impact": -1.6
+     },
+     {
       "athlete_id": "4017837",
       "name": "Ivica Zubac",
       "status": "Out",
       "impact": -1.2
-     },
-     {
-      "athlete_id": "4278355",
-      "name": "Obi Toppin",
-      "status": "Day-To-Day",
-      "impact": -0.6
-     },
-     {
-      "athlete_id": "4396909",
-      "name": "Aaron Nesmith",
-      "status": "Day-To-Day",
-      "impact": -0.4
      },
      {
       "athlete_id": "4433076",
@@ -1220,10 +1138,10 @@
    },
    "vs_line": {
     "spread": -3.5,
-    "over_under": 231.5,
-    "home_cover_prob": 0.463,
-    "over_prob": 0.481,
-    "provider": "DraftKings"
+    "over_under": 230.5,
+    "home_cover_prob": 0.444,
+    "over_prob": 0.488,
+    "provider": "Draft Kings"
    }
   }
  },
@@ -1236,10 +1154,10 @@
   "venue": "Chase Center",
   "date_kst": "2026-11-02T10:30:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "GS -2.5",
    "spread": -2.5,
-   "over_under": 219.5
+   "over_under": 220.5
   },
   "home": {
    "id": "9",
@@ -1531,8 +1449,20 @@
      "status": "Out",
      "injury": "Right Foot Surgery",
      "return_date": "2026-11-08",
-     "updated": "2026-10-29T18:44Z",
+     "updated": "2026-11-01T20:17Z",
      "comment": "Niederhauser (foot) had his third-year team option picked up Thursday by the Clippers, Ohm Youngmisuk of ESPN.com reports."
+    },
+    {
+     "team_id": "12",
+     "team": "LA Clippers",
+     "athlete_id": "3913176",
+     "name": "Brandon Ingram",
+     "position": "F",
+     "status": "Out",
+     "injury": "Right Achilles Surgery",
+     "return_date": "2026-11-08",
+     "updated": "2026-11-01T20:17Z",
+     "comment": "Ingram (Achilles) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports."
     },
     {
      "team_id": "12",
@@ -1545,18 +1475,6 @@
      "return_date": "2026-11-08",
      "updated": "2026-10-29T01:03Z",
      "comment": "Strus (foot) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports."
-    },
-    {
-     "team_id": "12",
-     "team": "LA Clippers",
-     "athlete_id": "3913176",
-     "name": "Brandon Ingram",
-     "position": "F",
-     "status": "Out",
-     "injury": "Right Achilles Surgery",
-     "return_date": "2026-11-08",
-     "updated": "2026-10-29T01:00Z",
-     "comment": "Ingram (Achilles) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports."
     },
     {
      "team_id": "12",
@@ -1864,10 +1782,10 @@
    },
    "vs_line": {
     "spread": -2.5,
-    "over_under": 219.5,
+    "over_under": 220.5,
     "home_cover_prob": 0.404,
-    "over_prob": 0.603,
-    "provider": "DraftKings"
+    "over_prob": 0.582,
+    "provider": "Draft Kings"
    }
   }
  },
@@ -1880,10 +1798,10 @@
   "venue": "crypto.com Arena",
   "date_kst": "2026-11-02T11:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
-   "details": "LAL -4.5",
-   "spread": -4.5,
-   "over_under": 227.5
+   "provider": "Draft Kings",
+   "details": "LAL -2.5",
+   "spread": -2.5,
+   "over_under": 224.5
   },
   "home": {
    "id": "13",
@@ -1938,6 +1856,18 @@
     {
      "team_id": "13",
      "team": "Los Angeles Lakers",
+     "athlete_id": "5060631",
+     "name": "Adou Thiero",
+     "position": "F",
+     "status": "Out",
+     "injury": "Left Knee Inflammation",
+     "return_date": "2026-11-09",
+     "updated": "2026-11-01T15:04Z",
+     "comment": "Thiero (knee) has been ruled out for Sunday's game against the Raptors."
+    },
+    {
+     "team_id": "13",
+     "team": "Los Angeles Lakers",
      "athlete_id": "4433137",
      "name": "Ziaire Williams",
      "position": "F",
@@ -1946,18 +1876,6 @@
      "return_date": "2026-11-01",
      "updated": "2026-11-01T00:04Z",
      "comment": "Williams (foot) is questionable for Sunday's game against the Raptors, Law Murray of The Athletic reports."
-    },
-    {
-     "team_id": "13",
-     "team": "Los Angeles Lakers",
-     "athlete_id": "5060631",
-     "name": "Adou Thiero",
-     "position": "F",
-     "status": "Out",
-     "injury": "Left Knee Inflammation",
-     "return_date": "2026-11-01",
-     "updated": "2026-10-30T00:05Z",
-     "comment": "Thiero (knee) has been ruled out for Friday's game against the Warriors."
     }
    ],
    "top_players": [
@@ -2369,11 +2287,11 @@
     }
    },
    "vs_line": {
-    "spread": -4.5,
-    "over_under": 227.5,
-    "home_cover_prob": 0.462,
-    "over_prob": 0.432,
-    "provider": "DraftKings"
+    "spread": -2.5,
+    "over_under": 224.5,
+    "home_cover_prob": 0.519,
+    "over_prob": 0.497,
+    "provider": "Draft Kings"
    }
   }
  },
@@ -3537,38 +3455,14 @@
     {
      "team_id": "11",
      "team": "Indiana Pacers",
-     "athlete_id": "4017837",
-     "name": "Ivica Zubac",
-     "position": "C",
-     "status": "Out",
-     "injury": "Left Ankle Sprain",
-     "return_date": "2026-11-02",
-     "updated": "2026-10-31T21:14Z",
-     "comment": "Zubac (ankle) will remain on the inactive list for Sunday's game against the Nets."
-    },
-    {
-     "team_id": "11",
-     "team": "Indiana Pacers",
-     "athlete_id": "4396909",
-     "name": "Aaron Nesmith",
-     "position": "G",
-     "status": "Day-To-Day",
-     "injury": "Left Hamstring Strain",
-     "return_date": "2026-11-01",
-     "updated": "2026-10-31T21:13Z",
-     "comment": "Nesmith (hamstring) is listed as probable for Sunday's game against Brooklyn."
-    },
-    {
-     "team_id": "11",
-     "team": "Indiana Pacers",
      "athlete_id": "4278355",
      "name": "Obi Toppin",
      "position": "F",
-     "status": "Day-To-Day",
+     "status": "Out",
      "injury": "Back Soreness",
-     "return_date": "2026-11-01",
-     "updated": "2026-10-31T21:10Z",
-     "comment": "Toppin (back) is questionable for Sunday's game against the Nets."
+     "return_date": "2026-11-02",
+     "updated": "2026-11-01T20:29Z",
+     "comment": "Toppin (back) is out for Sunday's game against the Nets, Alex Golden of SI.com reports."
     },
     {
      "team_id": "11",
@@ -3579,8 +3473,20 @@
      "status": "Out",
      "injury": "Right Hamstring Strain",
      "return_date": "2026-11-02",
-     "updated": "2026-10-30T19:09Z",
-     "comment": "McConnell (hamstring) is practicing in the G League at Noblesville Boom training camp, per Alex Golden of SI.com."
+     "updated": "2026-11-01T16:26Z",
+     "comment": "Indiana recalled McConnell (hamstring) from the G League's Noblesville Boom on Saturday."
+    },
+    {
+     "team_id": "11",
+     "team": "Indiana Pacers",
+     "athlete_id": "4017837",
+     "name": "Ivica Zubac",
+     "position": "C",
+     "status": "Out",
+     "injury": "Left Ankle Sprain",
+     "return_date": "2026-11-02",
+     "updated": "2026-10-31T21:14Z",
+     "comment": "Zubac (ankle) will remain on the inactive list for Sunday's game against the Nets."
     },
     {
      "team_id": "11",
@@ -3702,7 +3608,7 @@
      "fg_pct": 53.8,
      "fg3_pct": 40.7,
      "ft_pct": 64.3,
-     "injury_status": "Day-To-Day"
+     "injury_status": "Out"
     },
     {
      "athlete_id": "4396909",
@@ -3723,7 +3629,7 @@
      "fg_pct": 39.6,
      "fg3_pct": 34.5,
      "ft_pct": 87.5,
-     "injury_status": "Day-To-Day"
+     "injury_status": null
     }
    ]
   },
@@ -4033,19 +3939,19 @@
    ]
   },
   "prediction": {
-   "home_points": 114.5,
+   "home_points": 113.8,
    "away_points": 118.8,
-   "home_margin": -4.3,
-   "home_win_prob": 0.381,
-   "away_win_prob": 0.619,
+   "home_margin": -5.0,
+   "home_win_prob": 0.363,
+   "away_win_prob": 0.637,
    "margin_range80": [
-    -22.4,
-    13.8
+    -23.1,
+    13.2
    ],
-   "total": 233.3,
+   "total": 232.6,
    "total_range80": [
-    209.6,
-    257.0
+    208.9,
+    256.3
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -4053,7 +3959,7 @@
     "team_strength": -2.5,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": -3.8
+    "injuries": -4.5
    },
    "back_to_back": {
     "home": false,
@@ -4068,22 +3974,16 @@
       "impact": -2.4
      },
      {
+      "athlete_id": "4278355",
+      "name": "Obi Toppin",
+      "status": "Out",
+      "impact": -1.6
+     },
+     {
       "athlete_id": "4017837",
       "name": "Ivica Zubac",
       "status": "Out",
       "impact": -1.2
-     },
-     {
-      "athlete_id": "4278355",
-      "name": "Obi Toppin",
-      "status": "Day-To-Day",
-      "impact": -0.6
-     },
-     {
-      "athlete_id": "4396909",
-      "name": "Aaron Nesmith",
-      "status": "Day-To-Day",
-      "impact": -0.4
      },
      {
       "athlete_id": "4433076",
@@ -5504,6 +5404,18 @@
     {
      "team_id": "4",
      "team": "Chicago Bulls",
+     "athlete_id": "4278067",
+     "name": "Nic Claxton",
+     "position": "C",
+     "status": "Out",
+     "injury": "Not Specified Hamstring",
+     "return_date": "2026-11-04",
+     "updated": "2026-11-01T17:15Z",
+     "comment": "Claxton (hamstring) was a full participant in Sunday's practice, K.C. Johnson of Chicago Sports Network."
+    },
+    {
+     "team_id": "4",
+     "team": "Chicago Bulls",
      "athlete_id": "4848625",
      "name": "Dailyn Swain",
      "position": "G",
@@ -5512,18 +5424,6 @@
      "return_date": "2026-11-02",
      "updated": "2026-10-31T04:59Z",
      "comment": "Swain (back) has been ruled out for Friday's game against Boston."
-    },
-    {
-     "team_id": "4",
-     "team": "Chicago Bulls",
-     "athlete_id": "4278067",
-     "name": "Nic Claxton",
-     "position": "C",
-     "status": "Out",
-     "injury": "Not Specified Hamstring",
-     "return_date": "2026-11-04",
-     "updated": "2026-10-26T22:20Z",
-     "comment": "Claxton (hamstring) participated in individual drills Monday morning and hopes to join the team for practice next week, Joe Cowley of the Chicago Sun-Times reports."
     }
    ],
    "top_players": [
@@ -6626,26 +6526,26 @@
     {
      "team_id": "3",
      "team": "New Orleans Pelicans",
-     "athlete_id": "4277956",
-     "name": "Jordan Poole",
-     "position": "G",
+     "athlete_id": "4397688",
+     "name": "Trey Murphy III",
+     "position": "F",
      "status": "Day-To-Day",
-     "injury": "Left Ankle Sprain",
+     "injury": "Not Specified Knee Not Specified",
      "return_date": "2026-11-02",
-     "updated": "2026-11-01T04:53Z",
-     "comment": "Poole (ankle) has been ruled out for Saturday's game against the Hawks."
+     "updated": "2026-11-01T20:19Z",
+     "comment": "Murphy (knee) is listed as probable for Monday's game against the Grizzlies."
     },
     {
      "team_id": "3",
      "team": "New Orleans Pelicans",
-     "athlete_id": "3907497",
-     "name": "Dejounte Murray",
+     "athlete_id": "4277956",
+     "name": "Jordan Poole",
      "position": "G",
-     "status": "Day-To-Day",
-     "injury": "Personal",
-     "return_date": "2026-11-02",
-     "updated": "2026-11-01T04:52Z",
-     "comment": "Murray (personal) won't play in Saturday's game against the Hawks, Jim Eichenhofer of the Pelicans' official site reports."
+     "status": "Out",
+     "injury": "Left Ankle Sprain",
+     "return_date": "2026-11-04",
+     "updated": "2026-11-01T20:11Z",
+     "comment": "Poole (ankle) has been ruled out for Monday's game against the Grizzlies."
     },
     {
      "team_id": "3",
@@ -6701,7 +6601,7 @@
      "fg_pct": 46.8,
      "fg3_pct": 20.0,
      "ft_pct": 90.9,
-     "injury_status": "Day-To-Day"
+     "injury_status": null
     },
     {
      "athlete_id": "4397136",
@@ -6743,7 +6643,7 @@
      "fg_pct": 45.5,
      "fg3_pct": 35.3,
      "ft_pct": 77.8,
-     "injury_status": null
+     "injury_status": "Day-To-Day"
     },
     {
      "athlete_id": "5144091",
@@ -6868,18 +6768,18 @@
   },
   "prediction": {
    "home_points": 121.4,
-   "away_points": 118.3,
-   "home_margin": 3.2,
-   "home_win_prob": 0.589,
-   "away_win_prob": 0.411,
+   "away_points": 118.2,
+   "home_margin": 3.3,
+   "home_win_prob": 0.591,
+   "away_win_prob": 0.409,
    "margin_range80": [
-    -15.0,
-    21.3
+    -14.9,
+    21.4
    ],
-   "total": 239.7,
+   "total": 239.6,
    "total_range80": [
-    216.0,
-    263.4
+    215.9,
+    263.3
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -6887,7 +6787,7 @@
     "team_strength": 0.7,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 0.5
+    "injuries": 0.6
    },
    "back_to_back": {
     "home": false,
@@ -6922,16 +6822,16 @@
       "impact": -0.8
      },
      {
-      "athlete_id": "3907497",
-      "name": "Dejounte Murray",
+      "athlete_id": "4397688",
+      "name": "Trey Murphy III",
       "status": "Day-To-Day",
-      "impact": -0.7
+      "impact": -0.6
      },
      {
       "athlete_id": "4277956",
       "name": "Jordan Poole",
-      "status": "Day-To-Day",
-      "impact": -0.1
+      "status": "Out",
+      "impact": -0.3
      }
     ]
    },
@@ -7487,14 +7387,14 @@
     {
      "team_id": "10",
      "team": "Houston Rockets",
-     "athlete_id": "2991230",
-     "name": "Fred VanVleet",
-     "position": "G",
+     "athlete_id": "3102529",
+     "name": "Clint Capela",
+     "position": "C",
      "status": "Day-To-Day",
-     "injury": "Right Knee",
+     "injury": "Right Ankle Sprain",
      "return_date": "2026-11-02",
-     "updated": "2026-11-01T04:56Z",
-     "comment": "VanVleet (knee) won't play Saturday against the Thunder."
+     "updated": "2026-11-01T20:46Z",
+     "comment": "Capela (ankle) is questionable to play in Monday's game against the Celtics."
     },
     {
      "team_id": "10",
@@ -7505,8 +7405,8 @@
      "status": "Day-To-Day",
      "injury": "Back",
      "return_date": "2026-11-02",
-     "updated": "2026-11-01T04:56Z",
-     "comment": "Sheppard (back) is out for Saturday's game against the Thunder."
+     "updated": "2026-11-01T20:41Z",
+     "comment": "Sheppard (back) is questionable for Monday's game against the Celtics."
     },
     {
      "team_id": "10",
@@ -7516,7 +7416,7 @@
      "position": "C",
      "status": "Out",
      "injury": "Right Calf Strain",
-     "return_date": "2026-11-02",
+     "return_date": "2026-11-09",
      "updated": "2026-10-26T22:52Z",
      "comment": "Head coach Ime Udoka said Monday that Adams could be out \"a week or two\" due to his right soleus strain, Lachard Binkley of SI.com reports."
     }
@@ -7625,7 +7525,7 @@
      "fg_pct": 37.5,
      "fg3_pct": 33.3,
      "ft_pct": 84.6,
-     "injury_status": "Day-To-Day"
+     "injury_status": null
     }
    ]
   },
@@ -7685,11 +7585,11 @@
      "athlete_id": "4351852",
      "name": "Mitchell Robinson",
      "position": "C",
-     "status": "Day-To-Day",
-     "injury": "Rest",
-     "return_date": "2026-11-01",
-     "updated": "2026-10-31T20:32Z",
-     "comment": "Robinson (rest) is questionable for Sunday's game in Orlando, Jay King of The Athletic reports."
+     "status": "Out",
+     "injury": "Not Specified Rest Not Specified",
+     "return_date": "2026-11-02",
+     "updated": "2026-11-01T15:05Z",
+     "comment": "Robinson (rest) has been ruled out for Sunday's game against the Magic."
     },
     {
      "team_id": "2",
@@ -7875,19 +7775,19 @@
    ]
   },
   "prediction": {
-   "home_points": 112.5,
-   "away_points": 110.7,
-   "home_margin": 1.8,
-   "home_win_prob": 0.552,
-   "away_win_prob": 0.448,
+   "home_points": 113.1,
+   "away_points": 110.6,
+   "home_margin": 2.4,
+   "home_win_prob": 0.568,
+   "away_win_prob": 0.432,
    "margin_range80": [
-    -16.3,
-    20.0
+    -15.7,
+    20.6
    ],
-   "total": 223.2,
+   "total": 223.7,
    "total_range80": [
-    199.5,
-    246.9
+    200.0,
+    247.4
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -7895,7 +7795,7 @@
     "team_strength": 0.8,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": -1.0
+    "injuries": -0.4
    },
    "back_to_back": {
     "home": false,
@@ -7903,12 +7803,6 @@
    },
    "injury_impact": {
     "home": [
-     {
-      "athlete_id": "2991230",
-      "name": "Fred VanVleet",
-      "status": "Day-To-Day",
-      "impact": -0.5
-     },
      {
       "athlete_id": "2991235",
       "name": "Steven Adams",
@@ -7926,8 +7820,8 @@
      {
       "athlete_id": "4351852",
       "name": "Mitchell Robinson",
-      "status": "Day-To-Day",
-      "impact": -0.0
+      "status": "Out",
+      "impact": -0.1
      }
     ]
    },
@@ -9674,8 +9568,20 @@
      "status": "Out",
      "injury": "Right Foot Surgery",
      "return_date": "2026-11-08",
-     "updated": "2026-10-29T18:44Z",
+     "updated": "2026-11-01T20:17Z",
      "comment": "Niederhauser (foot) had his third-year team option picked up Thursday by the Clippers, Ohm Youngmisuk of ESPN.com reports."
+    },
+    {
+     "team_id": "12",
+     "team": "LA Clippers",
+     "athlete_id": "3913176",
+     "name": "Brandon Ingram",
+     "position": "F",
+     "status": "Out",
+     "injury": "Right Achilles Surgery",
+     "return_date": "2026-11-08",
+     "updated": "2026-11-01T20:17Z",
+     "comment": "Ingram (Achilles) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports."
     },
     {
      "team_id": "12",
@@ -9688,18 +9594,6 @@
      "return_date": "2026-11-08",
      "updated": "2026-10-29T01:03Z",
      "comment": "Strus (foot) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports."
-    },
-    {
-     "team_id": "12",
-     "team": "LA Clippers",
-     "athlete_id": "3913176",
-     "name": "Brandon Ingram",
-     "position": "F",
-     "status": "Out",
-     "injury": "Right Achilles Surgery",
-     "return_date": "2026-11-08",
-     "updated": "2026-10-29T01:00Z",
-     "comment": "Ingram (Achilles) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports."
     },
     {
      "team_id": "12",
@@ -10197,6 +10091,18 @@
     {
      "team_id": "13",
      "team": "Los Angeles Lakers",
+     "athlete_id": "5060631",
+     "name": "Adou Thiero",
+     "position": "F",
+     "status": "Out",
+     "injury": "Left Knee Inflammation",
+     "return_date": "2026-11-09",
+     "updated": "2026-11-01T15:04Z",
+     "comment": "Thiero (knee) has been ruled out for Sunday's game against the Raptors."
+    },
+    {
+     "team_id": "13",
+     "team": "Los Angeles Lakers",
      "athlete_id": "4433137",
      "name": "Ziaire Williams",
      "position": "F",
@@ -10205,18 +10111,6 @@
      "return_date": "2026-11-01",
      "updated": "2026-11-01T00:04Z",
      "comment": "Williams (foot) is questionable for Sunday's game against the Raptors, Law Murray of The Athletic reports."
-    },
-    {
-     "team_id": "13",
-     "team": "Los Angeles Lakers",
-     "athlete_id": "5060631",
-     "name": "Adou Thiero",
-     "position": "F",
-     "status": "Out",
-     "injury": "Left Knee Inflammation",
-     "return_date": "2026-11-01",
-     "updated": "2026-10-30T00:05Z",
-     "comment": "Thiero (knee) has been ruled out for Friday's game against the Warriors."
     }
    ],
    "top_players": [
