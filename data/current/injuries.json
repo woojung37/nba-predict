@@ -2,6 +2,18 @@
  {
   "team_id": "1",
   "team": "Atlanta Hawks",
+  "athlete_id": "5149077",
+  "name": "Kingston Flemings",
+  "position": "G",
+  "status": "Suspension",
+  "injury": "Suspension",
+  "return_date": "2026-11-04",
+  "updated": "2026-11-02T02:02Z",
+  "comment": "Flemings (suspension) won't play in Monday's game against Indiana, Andrew Schlecht of The Athletic reports."
+ },
+ {
+  "team_id": "1",
+  "team": "Atlanta Hawks",
   "athlete_id": "4701230",
   "name": "Jalen Johnson",
   "position": "F",
@@ -77,10 +89,10 @@
   "athlete_id": "5101761",
   "name": "Mikel Brown Jr.",
   "position": "G",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Rest",
   "return_date": "2026-11-02",
-  "updated": "2026-10-31T20:58Z",
+  "updated": "2026-11-02T01:51Z",
   "comment": "Brown (rest) is out for Sunday's game in Indiana."
  },
  {
@@ -326,18 +338,6 @@
  {
   "team_id": "9",
   "team": "Golden State Warriors",
-  "athlete_id": "4997536",
-  "name": "Gui Santos",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Left Knee",
-  "return_date": "2026-11-01",
-  "updated": "2026-10-31T19:54Z",
-  "comment": "Santos (knee) is probable for Sunday's game against the Clippers."
- },
- {
-  "team_id": "9",
-  "team": "Golden State Warriors",
   "athlete_id": "6589",
   "name": "Draymond Green",
   "position": "F",
@@ -437,10 +437,10 @@
   "athlete_id": "4278355",
   "name": "Obi Toppin",
   "position": "F",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Back Soreness",
   "return_date": "2026-11-02",
-  "updated": "2026-11-01T20:29Z",
+  "updated": "2026-11-02T01:51Z",
   "comment": "Toppin (back) is out for Sunday's game against the Nets, Alex Golden of SI.com reports."
  },
  {
@@ -506,6 +506,18 @@
  {
   "team_id": "12",
   "team": "LA Clippers",
+  "athlete_id": "4065778",
+  "name": "Max Strus",
+  "position": "G",
+  "status": "Out",
+  "injury": "Right Foot Plantar Fasciitis",
+  "return_date": "2026-11-08",
+  "updated": "2026-11-02T00:45Z",
+  "comment": "Strus (foot) practiced and participated in 5-on-5 with the San Diego Clippers on Saturday, Los Angeles Clippers sideline reporter/host Ohm Youngmisuk reports."
+ },
+ {
+  "team_id": "12",
+  "team": "LA Clippers",
   "athlete_id": "5108024",
   "name": "Yanic Konan Niederhauser",
   "position": "C",
@@ -526,18 +538,6 @@
   "return_date": "2026-11-08",
   "updated": "2026-11-01T20:17Z",
   "comment": "Ingram (Achilles) is making progress but is set to miss at least one more week, Ohm Youngmisuk of ESPN.com reports."
- },
- {
-  "team_id": "12",
-  "team": "LA Clippers",
-  "athlete_id": "4065778",
-  "name": "Max Strus",
-  "position": "G",
-  "status": "Out",
-  "injury": "Right Foot Plantar Fasciitis",
-  "return_date": "2026-11-08",
-  "updated": "2026-11-01T15:42Z",
-  "comment": "Los Angeles assigned Strus (foot) to the G League's San Diego Clippers on Friday."
  },
  {
   "team_id": "12",
@@ -620,8 +620,8 @@
   "status": "Day-To-Day",
   "injury": "Personal",
   "return_date": "2026-11-02",
-  "updated": "2026-11-02T00:22Z",
-  "comment": "Hardaway provided 14 points (6-10 FG, 2-3 3Pt), two rebounds, one assist and two blocks across 22 minutes during Wednesday's 129-117 victory over the Hawks."
+  "updated": "2026-11-02T00:24Z",
+  "comment": "Hardaway (personal) is listed as questionable for Monday's game against the Lakers."
  },
  {
   "team_id": "16",
@@ -698,6 +698,18 @@
  {
   "team_id": "25",
   "team": "Oklahoma City Thunder",
+  "athlete_id": "5061603",
+  "name": "Thomas Sorber",
+  "position": "C",
+  "status": "Out",
+  "injury": "Knee",
+  "return_date": "2026-11-04",
+  "updated": "2026-11-02T00:54Z",
+  "comment": "Oklahoma City exercised the third-year team option on Sorber (knee) on Sunday, Clemente Almanza of USA Today reports."
+ },
+ {
+  "team_id": "25",
+  "team": "Oklahoma City Thunder",
   "athlete_id": "4683692",
   "name": "Cason Wallace",
   "position": "G",
@@ -742,18 +754,6 @@
   "return_date": "2026-11-04",
   "updated": "2026-10-28T18:06Z",
   "comment": "Caruso (ankle) is expected to miss time due to an ankle sprain, Clemente Almanza of USA Today reports."
- },
- {
-  "team_id": "25",
-  "team": "Oklahoma City Thunder",
-  "athlete_id": "5061603",
-  "name": "Thomas Sorber",
-  "position": "C",
-  "status": "Out",
-  "injury": "Knee",
-  "return_date": "2026-11-04",
-  "updated": "2026-10-27T21:43Z",
-  "comment": "Sorber (knee) has been ruled out for Wednesday's game against the Mavericks."
  },
  {
   "team_id": "25",
@@ -982,6 +982,18 @@
   "return_date": "2026-12-03",
   "updated": "2026-10-05T21:43Z",
   "comment": "Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports."
+ },
+ {
+  "team_id": "28",
+  "team": "Toronto Raptors",
+  "athlete_id": "3134908",
+  "name": "Jakob Poeltl",
+  "position": "C",
+  "status": "Out",
+  "injury": "Left Shoulder Inflammation",
+  "return_date": "2026-11-02",
+  "updated": "2026-11-02T01:44Z",
+  "comment": "Poeltl (shoulder) won't play in Sunday's game against the Lakers, Vivek Jacob of the Raptors' official site reports."
  },
  {
   "team_id": "28",
