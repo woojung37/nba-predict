@@ -552,7 +552,7 @@
   "venue": "Chase Center",
   "date_kst": "2026-11-02T10:30:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "GS -1.5",
    "spread": -1.5,
    "over_under": 220.5
@@ -1183,7 +1183,7 @@
     "over_under": 220.5,
     "home_cover_prob": 0.432,
     "over_prob": 0.579,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },
@@ -1196,9 +1196,9 @@
   "venue": "crypto.com Arena",
   "date_kst": "2026-11-02T11:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
-   "details": "LAL -2.5",
-   "spread": -2.5,
+   "provider": "Draft Kings",
+   "details": "LAL -3.5",
+   "spread": -3.5,
    "over_under": 224.5
   },
   "home": {
@@ -1685,11 +1685,11 @@
     }
    },
    "vs_line": {
-    "spread": -2.5,
+    "spread": -3.5,
     "over_under": 224.5,
-    "home_cover_prob": 0.501,
+    "home_cover_prob": 0.473,
     "over_prob": 0.48,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },
@@ -1702,7 +1702,7 @@
   "venue": "Rocket Arena",
   "date_kst": "2026-11-03T09:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "CLE -4.5",
    "spread": -4.5,
    "over_under": 227.5
@@ -2261,7 +2261,7 @@
     "over_under": 227.5,
     "home_cover_prob": 0.476,
     "over_prob": 0.441,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },
@@ -2274,7 +2274,7 @@
   "venue": "Spectrum Center",
   "date_kst": "2026-11-03T09:30:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "DET -4.5",
    "spread": 4.5,
    "over_under": 209.5
@@ -2803,7 +2803,7 @@
     "over_under": 209.5,
     "home_cover_prob": 0.527,
     "over_prob": 0.607,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },
@@ -3441,7 +3441,7 @@
   "venue": "Madison Square Garden",
   "date_kst": "2026-11-03T09:30:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "NY -14.5",
    "spread": -14.5,
    "over_under": 222.5
@@ -3969,7 +3969,7 @@
     "over_under": 222.5,
     "home_cover_prob": 0.51,
     "over_prob": 0.489,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },
@@ -3982,7 +3982,7 @@
   "venue": "Kia Center",
   "date_kst": "2026-11-03T09:30:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "ORL -1.5",
    "spread": -1.5,
    "over_under": 226.5
@@ -4607,7 +4607,7 @@
     "over_under": 226.5,
     "home_cover_prob": 0.502,
     "over_prob": 0.455,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },
@@ -4620,7 +4620,7 @@
   "venue": "Xfinity Mobile Arena",
   "date_kst": "2026-11-03T09:30:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "PHI -11.5",
    "spread": -11.5,
    "over_under": 238.5
@@ -5185,7 +5185,7 @@
     "over_under": 238.5,
     "home_cover_prob": 0.447,
     "over_prob": 0.442,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },
@@ -5817,7 +5817,7 @@
   "venue": "FedExForum",
   "date_kst": "2026-11-03T10:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "MEM -6.5",
    "spread": -6.5,
    "over_under": 235.5
@@ -6376,7 +6376,7 @@
     "over_under": 235.5,
     "home_cover_prob": 0.432,
     "over_prob": 0.602,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },
@@ -6389,7 +6389,7 @@
   "venue": "Target Center",
   "date_kst": "2026-11-03T10:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "MIN -11.5",
    "spread": -11.5,
    "over_under": 233.5
@@ -6850,7 +6850,7 @@
     "over_under": 233.5,
     "home_cover_prob": 0.497,
     "over_prob": 0.479,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },
@@ -6862,6 +6862,12 @@
   "neutral": false,
   "venue": "Toyota Center (Houston)",
   "date_kst": "2026-11-03T10:30:00+09:00",
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "HOU -5.5",
+   "spread": -5.5,
+   "over_under": 218.5
+  },
   "home": {
    "id": "10",
    "abbr": "HOU",
@@ -7362,6 +7368,13 @@
      "offense": -0.4,
      "defense": -4.7
     }
+   },
+   "vs_line": {
+    "spread": -5.5,
+    "over_under": 218.5,
+    "home_cover_prob": 0.491,
+    "over_prob": 0.527,
+    "provider": "Draft Kings"
    }
   }
  },
@@ -7374,7 +7387,7 @@
   "venue": "Frost Bank Center",
   "date_kst": "2026-11-03T10:30:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "SA -15.5",
    "spread": -15.5,
    "over_under": 229.5
@@ -7908,7 +7921,7 @@
     "over_under": 229.5,
     "home_cover_prob": 0.467,
     "over_prob": 0.629,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },
@@ -7921,10 +7934,10 @@
   "venue": "Ball Arena",
   "date_kst": "2026-11-03T11:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "DEN -4.5",
    "spread": -4.5,
-   "over_under": 231.5
+   "over_under": 229.5
   },
   "home": {
    "id": "7",
@@ -7979,26 +7992,26 @@
     {
      "team_id": "7",
      "team": "Denver Nuggets",
-     "athlete_id": "4065813",
-     "name": "Alpha Diallo",
-     "position": "F",
-     "status": "Out",
-     "injury": "Right Personal",
-     "return_date": "2026-11-02",
-     "updated": "2026-10-31T00:42Z",
-     "comment": "Diallo (personal/wrist) has been ruled out for Friday's game against Phoenix, Vic Lombardi of Altitude Sports reports."
-    },
-    {
-     "team_id": "7",
-     "team": "Denver Nuggets",
      "athlete_id": "4592427",
      "name": "Spencer Jones",
      "position": "F",
      "status": "Out",
      "injury": "Not Specified Hamstring Not Specified",
+     "return_date": "2026-11-04",
+     "updated": "2026-11-01T23:56Z",
+     "comment": "Jones (hamstring) is listed as out for Monday's game against the Trail Blazers."
+    },
+    {
+     "team_id": "7",
+     "team": "Denver Nuggets",
+     "athlete_id": "4065813",
+     "name": "Alpha Diallo",
+     "position": "F",
+     "status": "Out",
+     "injury": "Right Wrist Sprain",
      "return_date": "2026-11-02",
-     "updated": "2026-10-27T22:35Z",
-     "comment": "Jones (hamstring) has been ruled out for Wednesday's game against New Orleans."
+     "updated": "2026-11-01T23:52Z",
+     "comment": "Diallo (wrist) is listed as questionable for Monday's game versus Portland."
     },
     {
      "team_id": "7",
@@ -8465,10 +8478,10 @@
    },
    "vs_line": {
     "spread": -4.5,
-    "over_under": 231.5,
+    "over_under": 229.5,
     "home_cover_prob": 0.501,
-    "over_prob": 0.435,
-    "provider": "DraftKings"
+    "over_prob": 0.478,
+    "provider": "Draft Kings"
    }
   }
  },
@@ -9824,7 +9837,20 @@
     "net_rtg": -3.0
    },
    "rest_days": 2,
-   "injuries": [],
+   "injuries": [
+    {
+     "team_id": "14",
+     "team": "Miami Heat",
+     "athlete_id": "2528210",
+     "name": "Tim Hardaway Jr.",
+     "position": "G",
+     "status": "Day-To-Day",
+     "injury": "Personal",
+     "return_date": "2026-11-02",
+     "updated": "2026-11-02T00:22Z",
+     "comment": "Hardaway provided 14 points (6-10 FG, 2-3 3Pt), two rebounds, one assist and two blocks across 22 minutes during Wednesday's 129-117 victory over the Hawks."
+    }
+   ],
    "top_players": [
     {
      "athlete_id": "3032977",
@@ -9999,10 +10025,10 @@
    "home_points": 120.8,
    "away_points": 117.2,
    "home_margin": 3.6,
-   "home_win_prob": 0.6,
-   "away_win_prob": 0.4,
+   "home_win_prob": 0.601,
+   "away_win_prob": 0.399,
    "margin_range80": [
-    -14.6,
+    -14.5,
     21.7
    ],
    "total": 238.0,
@@ -10031,7 +10057,14 @@
       "impact": -0.9
      }
     ],
-    "away": []
+    "away": [
+     {
+      "athlete_id": "2528210",
+      "name": "Tim Hardaway Jr.",
+      "status": "Day-To-Day",
+      "impact": -0.0
+     }
+    ]
    },
    "ratings": {
     "home": {

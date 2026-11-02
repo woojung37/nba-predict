@@ -1881,12 +1881,12 @@
   "home": {
    "id": "11",
    "abbr": "IND",
-   "score": 56
+   "score": 90
   },
   "away": {
    "id": "17",
    "abbr": "BKN",
-   "score": 63
+   "score": 97
   }
  },
  {
@@ -1910,7 +1910,7 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "GS -1.5",
    "spread": -1.5,
    "over_under": 220.5
@@ -1937,9 +1937,9 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
-   "details": "LAL -2.5",
-   "spread": -2.5,
+   "provider": "Draft Kings",
+   "details": "LAL -3.5",
+   "spread": -3.5,
    "over_under": 224.5
   }
  },
@@ -1964,7 +1964,7 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "CLE -4.5",
    "spread": -4.5,
    "over_under": 227.5
@@ -1991,7 +1991,7 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "DET -4.5",
    "spread": 4.5,
    "over_under": 209.5
@@ -2039,7 +2039,7 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "NY -14.5",
    "spread": -14.5,
    "over_under": 222.5
@@ -2066,7 +2066,7 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "ORL -1.5",
    "spread": -1.5,
    "over_under": 226.5
@@ -2093,7 +2093,7 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "PHI -11.5",
    "spread": -11.5,
    "over_under": 238.5
@@ -2141,7 +2141,7 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "MEM -6.5",
    "spread": -6.5,
    "over_under": 235.5
@@ -2168,7 +2168,7 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "MIN -11.5",
    "spread": -11.5,
    "over_under": 233.5
@@ -2193,6 +2193,12 @@
    "id": "2",
    "abbr": "BOS",
    "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "HOU -5.5",
+   "spread": -5.5,
+   "over_under": 218.5
   }
  },
  {
@@ -2216,7 +2222,7 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "SA -15.5",
    "spread": -15.5,
    "over_under": 229.5
@@ -2243,10 +2249,10 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "DEN -4.5",
    "spread": -4.5,
-   "over_under": 231.5
+   "over_under": 229.5
   }
  },
  {
