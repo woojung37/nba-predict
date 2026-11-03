@@ -2,38 +2,26 @@
  {
   "team_id": "1",
   "team": "Atlanta Hawks",
-  "athlete_id": "4701230",
-  "name": "Jalen Johnson",
-  "position": "F",
-  "status": "Out",
-  "injury": "Left Ankle",
-  "return_date": "2026-11-04",
-  "updated": "2026-11-02T22:58Z",
-  "comment": "Johnson (ankle) has been ruled out for Monday's game versus Indiana."
- },
- {
-  "team_id": "1",
-  "team": "Atlanta Hawks",
-  "athlete_id": "5149077",
-  "name": "Kingston Flemings",
-  "position": "G",
-  "status": "Suspension",
-  "injury": "Suspension",
-  "return_date": "2026-11-04",
-  "updated": "2026-11-02T02:02Z",
-  "comment": "Flemings (suspension) won't play in Monday's game against Indiana, Andrew Schlecht of The Athletic reports."
- },
- {
-  "team_id": "1",
-  "team": "Atlanta Hawks",
   "athlete_id": "3146557",
   "name": "Jock Landale",
   "position": "C",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Left Hip",
   "return_date": "2026-11-04",
-  "updated": "2026-11-01T22:22Z",
+  "updated": "2026-11-03T05:48Z",
   "comment": "Landale (hip) has been ruled out for Monday's game against Indiana."
+ },
+ {
+  "team_id": "1",
+  "team": "Atlanta Hawks",
+  "athlete_id": "4701230",
+  "name": "Jalen Johnson",
+  "position": "F",
+  "status": "Day-To-Day",
+  "injury": "Left Ankle",
+  "return_date": "2026-11-04",
+  "updated": "2026-11-03T05:48Z",
+  "comment": "Johnson (ankle) has been ruled out for Monday's game versus Indiana."
  },
  {
   "team_id": "1",
@@ -149,10 +137,10 @@
   "athlete_id": "4576087",
   "name": "Peyton Watson",
   "position": "G",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Right Hamstring Soreness",
   "return_date": "2026-11-04",
-  "updated": "2026-11-02T23:17Z",
+  "updated": "2026-11-03T05:29Z",
   "comment": "Watson (hamstring) is out for Monday's game against the Thunder, Chris Fedor of The Cleveland Plain Dealer reports."
  },
  {
@@ -161,10 +149,10 @@
   "athlete_id": "4683747",
   "name": "Jaylon Tyson",
   "position": "G",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Right Ankle Sprain",
   "return_date": "2026-11-04",
-  "updated": "2026-11-01T21:50Z",
+  "updated": "2026-11-03T05:29Z",
   "comment": "Tyson (ankle) has been ruled out for Monday's game against Oklahoma City."
  },
  {
@@ -386,13 +374,49 @@
  {
   "team_id": "11",
   "team": "Indiana Pacers",
+  "athlete_id": "3149673",
+  "name": "Pascal Siakam",
+  "position": "F",
+  "status": "Day-To-Day",
+  "injury": "Rest",
+  "return_date": "2026-11-04",
+  "updated": "2026-11-03T05:50Z",
+  "comment": "Siakam will be rested against the Hawks on Monday."
+ },
+ {
+  "team_id": "11",
+  "team": "Indiana Pacers",
+  "athlete_id": "4396909",
+  "name": "Aaron Nesmith",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Rest",
+  "return_date": "2026-11-04",
+  "updated": "2026-11-03T05:50Z",
+  "comment": "Nesmith (rest) is sitting out Monday against Atlanta."
+ },
+ {
+  "team_id": "11",
+  "team": "Indiana Pacers",
+  "athlete_id": "4395712",
+  "name": "Andrew Nembhard",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Neck",
+  "return_date": "2026-11-04",
+  "updated": "2026-11-03T05:50Z",
+  "comment": "Nembhard (cervical strain) is out for Monday's game against Atlanta."
+ },
+ {
+  "team_id": "11",
+  "team": "Indiana Pacers",
   "athlete_id": "3133603",
   "name": "Kelly Oubre Jr.",
   "position": "G",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Left Knee Bruise",
   "return_date": "2026-11-04",
-  "updated": "2026-11-03T00:33Z",
+  "updated": "2026-11-03T05:49Z",
   "comment": "Oubre (knee) has been ruled out for Monday's game against the Hawks."
  },
  {
@@ -401,10 +425,10 @@
   "athlete_id": "2580365",
   "name": "Larry Nance Jr.",
   "position": "F",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Illness",
   "return_date": "2026-11-04",
-  "updated": "2026-11-02T23:10Z",
+  "updated": "2026-11-03T05:49Z",
   "comment": "Nance (illness) has been ruled out for Monday's game against the Hawks."
  },
  {
@@ -442,42 +466,6 @@
   "return_date": "2026-11-09",
   "updated": "2026-11-02T18:19Z",
   "comment": "Zubac (ankle) has been ruled out for Monday's game against the Hawks."
- },
- {
-  "team_id": "11",
-  "team": "Indiana Pacers",
-  "athlete_id": "4396909",
-  "name": "Aaron Nesmith",
-  "position": "G",
-  "status": "Out",
-  "injury": "Rest",
-  "return_date": "2026-11-04",
-  "updated": "2026-11-02T18:13Z",
-  "comment": "Nesmith (rest) is sitting out Monday against Atlanta."
- },
- {
-  "team_id": "11",
-  "team": "Indiana Pacers",
-  "athlete_id": "4395712",
-  "name": "Andrew Nembhard",
-  "position": "G",
-  "status": "Out",
-  "injury": "Neck",
-  "return_date": "2026-11-04",
-  "updated": "2026-11-02T18:09Z",
-  "comment": "Nembhard (cervical strain) is out for Monday's game against Atlanta."
- },
- {
-  "team_id": "11",
-  "team": "Indiana Pacers",
-  "athlete_id": "3149673",
-  "name": "Pascal Siakam",
-  "position": "F",
-  "status": "Out",
-  "injury": "Rest",
-  "return_date": "2026-11-04",
-  "updated": "2026-11-02T18:06Z",
-  "comment": "Siakam will be rested against the Hawks on Monday."
  },
  {
   "team_id": "11",
@@ -763,7 +751,7 @@
   "position": "G",
   "status": "Out",
   "injury": "Back",
-  "return_date": "2026-11-04",
+  "return_date": "2026-11-06",
   "updated": "2026-10-27T21:38Z",
   "comment": "Topic (back) will remain on the inactive list for Wednesday's game in Dallas."
  },
@@ -773,10 +761,10 @@
   "athlete_id": "4712849",
   "name": "Anthony Black",
   "position": "G",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Rest",
   "return_date": "2026-11-05",
-  "updated": "2026-11-02T17:05Z",
+  "updated": "2026-11-03T05:35Z",
   "comment": "Black will be rested Monday against the Wizards."
  },
  {
@@ -862,6 +850,18 @@
   "return_date": "2027-10-01",
   "updated": "2026-10-06T19:17Z",
   "comment": "Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN."
+ },
+ {
+  "team_id": "21",
+  "team": "Phoenix Suns",
+  "athlete_id": "4278402",
+  "name": "Jordan Goodwin",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Left Calf Not Specified",
+  "return_date": "2026-11-04",
+  "updated": "2026-11-03T04:33Z",
+  "comment": "Goodwin won't return to Monday's game against the Warriors due to a left calf injury, Duane Rankin of The Arizona Republic reports. He recorded four points (2-3 FG, 0-1 3Pt), two rebounds, two assists and one steal in 10 minutes before exiting."
  },
  {
   "team_id": "21",
@@ -1046,6 +1046,30 @@
  {
   "team_id": "27",
   "team": "Washington Wizards",
+  "athlete_id": "5160992",
+  "name": "Alex Sarr",
+  "position": "C",
+  "status": "Day-To-Day",
+  "injury": "Left Knee Soreness",
+  "return_date": "2026-11-04",
+  "updated": "2026-11-03T05:34Z",
+  "comment": "Sarr (knee) is out for Monday's game against Orlando."
+ },
+ {
+  "team_id": "27",
+  "team": "Washington Wizards",
+  "athlete_id": "2581184",
+  "name": "Anthony Gill",
+  "position": "F",
+  "status": "Day-To-Day",
+  "injury": "Back Spasms",
+  "return_date": "2026-11-04",
+  "updated": "2026-11-03T05:34Z",
+  "comment": "Gill (back) is out for Monday's game against the Magic."
+ },
+ {
+  "team_id": "27",
+  "team": "Washington Wizards",
   "athlete_id": "4432187",
   "name": "Reece Beekman",
   "position": "G",
@@ -1054,30 +1078,6 @@
   "return_date": "2026-12-03",
   "updated": "2026-11-02T18:22Z",
   "comment": "The Wizards announced Monday that Beekman sustained a right acromioclavicular joint injury and will be re-evaluated in approximately three weeks."
- },
- {
-  "team_id": "27",
-  "team": "Washington Wizards",
-  "athlete_id": "2581184",
-  "name": "Anthony Gill",
-  "position": "F",
-  "status": "Out",
-  "injury": "Back Spasms",
-  "return_date": "2026-11-04",
-  "updated": "2026-11-02T18:18Z",
-  "comment": "Gill (back) is out for Monday's game against the Magic."
- },
- {
-  "team_id": "27",
-  "team": "Washington Wizards",
-  "athlete_id": "5160992",
-  "name": "Alex Sarr",
-  "position": "C",
-  "status": "Out",
-  "injury": "Left Knee Soreness",
-  "return_date": "2026-11-04",
-  "updated": "2026-11-02T18:03Z",
-  "comment": "Sarr (knee) is out for Monday's game against Orlando."
  },
  {
   "team_id": "27",
