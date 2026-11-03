@@ -53,10 +53,10 @@
   "athlete_id": "4251",
   "name": "Paul George",
   "position": "F",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Rest",
   "return_date": "2026-11-04",
-  "updated": "2026-11-02T19:06Z",
+  "updated": "2026-11-03T06:08Z",
   "comment": "George will be rested Monday against Houston."
  },
  {
@@ -158,6 +158,18 @@
  {
   "team_id": "6",
   "team": "Dallas Mavericks",
+  "athlete_id": "6442",
+  "name": "Kyrie Irving",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Left Knee",
+  "return_date": "2026-11-04",
+  "updated": "2026-11-03T06:03Z",
+  "comment": "Irving (knee) has been ruled out for Monday's game against the Kings."
+ },
+ {
+  "team_id": "6",
+  "team": "Dallas Mavericks",
   "athlete_id": "4432582",
   "name": "Max Christie",
   "position": "G",
@@ -166,18 +178,6 @@
   "return_date": "2026-11-04",
   "updated": "2026-11-03T02:30Z",
   "comment": "Christie has been ruled out for the rest of Monday's game against the Kings due to a right hip injury, Mike Curtis of The Dallas Morning News reports. He'll end the night with no points (0-5 FG, 0-5 3Pt), two rebounds and one steal in eight minutes."
- },
- {
-  "team_id": "6",
-  "team": "Dallas Mavericks",
-  "athlete_id": "6442",
-  "name": "Kyrie Irving",
-  "position": "G",
-  "status": "Out",
-  "injury": "Left Knee",
-  "return_date": "2026-11-04",
-  "updated": "2026-11-02T23:13Z",
-  "comment": "Irving (knee) has been ruled out for Monday's game against the Kings."
  },
  {
   "team_id": "6",
@@ -281,23 +281,11 @@
   "athlete_id": "4397040",
   "name": "Brandon Williams",
   "position": "G",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Left Quadriceps Bruise",
   "return_date": "2026-11-05",
-  "updated": "2026-11-03T01:33Z",
+  "updated": "2026-11-03T06:12Z",
   "comment": "Williams (quadriceps) has been ruled out for Monday's game against the Suns."
- },
- {
-  "team_id": "9",
-  "team": "Golden State Warriors",
-  "athlete_id": "3213",
-  "name": "Al Horford",
-  "position": "C",
-  "status": "Out",
-  "injury": "Rest",
-  "return_date": "2026-11-05",
-  "updated": "2026-11-02T21:07Z",
-  "comment": "Horford will be rested Monday against the Suns."
  },
  {
   "team_id": "9",
@@ -305,11 +293,23 @@
   "athlete_id": "4997536",
   "name": "Gui Santos",
   "position": "F",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Knee",
   "return_date": "2026-11-05",
-  "updated": "2026-11-02T14:20Z",
+  "updated": "2026-11-03T06:12Z",
   "comment": "Santos did not play in the second half of Sunday's 124-112 win over the Clippers due to a knee injury and will not play against the Suns on Monday, Danny Emerman of SFStandard.com reports."
+ },
+ {
+  "team_id": "9",
+  "team": "Golden State Warriors",
+  "athlete_id": "3213",
+  "name": "Al Horford",
+  "position": "C",
+  "status": "Day-To-Day",
+  "injury": "Rest",
+  "return_date": "2026-11-05",
+  "updated": "2026-11-03T06:11Z",
+  "comment": "Horford will be rested Monday against the Suns."
  },
  {
   "team_id": "9",
@@ -506,26 +506,26 @@
  {
   "team_id": "12",
   "team": "LA Clippers",
-  "athlete_id": "4066648",
-  "name": "Rui Hachimura",
+  "athlete_id": "3936099",
+  "name": "Derrick Jones Jr.",
   "position": "F",
-  "status": "Out",
-  "injury": "Left Quadriceps Bruise",
+  "status": "Day-To-Day",
+  "injury": "Right Knee Soreness",
   "return_date": "2026-11-04",
-  "updated": "2026-11-02T21:19Z",
-  "comment": "Hachimura (quadriceps) has been ruled out for Monday's game against the Raptors."
+  "updated": "2026-11-03T06:11Z",
+  "comment": "Jones (knee) has been ruled out for Monday's game against the Raptors."
  },
  {
   "team_id": "12",
   "team": "LA Clippers",
-  "athlete_id": "3936099",
-  "name": "Derrick Jones Jr.",
+  "athlete_id": "4066648",
+  "name": "Rui Hachimura",
   "position": "F",
-  "status": "Out",
-  "injury": "Right Knee Soreness",
+  "status": "Day-To-Day",
+  "injury": "Left Quadriceps Bruise",
   "return_date": "2026-11-04",
-  "updated": "2026-11-02T21:12Z",
-  "comment": "Jones (knee) has been ruled out for Monday's game against the Raptors."
+  "updated": "2026-11-03T06:11Z",
+  "comment": "Hachimura (quadriceps) has been ruled out for Monday's game against the Raptors."
  },
  {
   "team_id": "12",
@@ -590,26 +590,26 @@
  {
   "team_id": "29",
   "team": "Memphis Grizzlies",
-  "athlete_id": "4431785",
-  "name": "Scotty Pippen Jr.",
-  "position": "G",
-  "status": "Out",
-  "injury": "Back Soreness",
+  "athlete_id": "4593016",
+  "name": "Quinten Post",
+  "position": "C",
+  "status": "Day-To-Day",
+  "injury": "Right Ankle Not Specified",
   "return_date": "2026-11-04",
-  "updated": "2026-11-03T00:14Z",
-  "comment": "Pippen (back) has been ruled out for Monday's game against the Pelicans."
+  "updated": "2026-11-03T06:02Z",
+  "comment": "Post (ankle) has been downgraded to out for Monday's game against the Pelicans."
  },
  {
   "team_id": "29",
   "team": "Memphis Grizzlies",
-  "athlete_id": "4593016",
-  "name": "Quinten Post",
-  "position": "C",
-  "status": "Out",
-  "injury": "Right Ankle Not Specified",
+  "athlete_id": "4431785",
+  "name": "Scotty Pippen Jr.",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Back Soreness",
   "return_date": "2026-11-04",
-  "updated": "2026-11-03T00:12Z",
-  "comment": "Post (ankle) has been downgraded to out for Monday's game against the Pelicans."
+  "updated": "2026-11-03T06:02Z",
+  "comment": "Pippen (back) has been ruled out for Monday's game against the Pelicans."
  },
  {
   "team_id": "16",
@@ -617,10 +617,10 @@
   "athlete_id": "4432847",
   "name": "Terrence Shannon Jr.",
   "position": "G",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Left Hip Bruise",
   "return_date": "2026-11-04",
-  "updated": "2026-11-02T23:22Z",
+  "updated": "2026-11-03T05:52Z",
   "comment": "Shannon (hip) has been ruled out for Monday's game against the Bucks, Jon Krawczynski of The Athletic reports."
  },
  {
@@ -977,10 +977,10 @@
   "athlete_id": "3134908",
   "name": "Jakob Poeltl",
   "position": "C",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Left Shoulder Inflammation",
   "return_date": "2026-11-04",
-  "updated": "2026-11-03T02:27Z",
+  "updated": "2026-11-03T06:10Z",
   "comment": "Poeltl (shoulder) has been ruled out for Monday's game against the Clippers, Zulfi Sheikh reports."
  },
  {
