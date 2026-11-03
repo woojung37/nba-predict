@@ -46,3 +46,12 @@ python -m model.train   # 2024-25로 설정값을 고르고 2025-26으로 검증
 
 정적 사이트(HTML/JS)로 `data/`의 JSON을 읽습니다. GitHub Actions가 데이터 갱신 후 GitHub Pages로 배포합니다.
 로컬 확인: `site/`와 `data/`를 한 폴더에 모아 `python -m http.server`.
+
+## KBL · V리그 (korea/)
+
+- 데이터: API-Sports (api-basketball / api-volleyball), 무료 플랜. 저장소 시크릿 `API_SPORTS_KEY` 필요.
+  무료 플랜은 2024-25 시즌까지와 어제·오늘·내일 경기만 열려 있어서, 이번 시즌은 2026-11-02부터 매일 쌓습니다.
+- `python -m korea.collect backfill` — 2023-24, 2024-25 시즌 (요청 6회)
+- `python -m korea.collect daily` — 어제·오늘·내일 경기 수집 후 예측 (요청 6회, 50분 안에 다시 부르면 건너뜀)
+- `python -m korea.train` — 2023-24로 맞추고 2024-25로 검증, `korea/params.json`과 `data/kr/*/backtest.json` 작성
+- KBL: NBA와 같은 공격·수비 지수 모델. V리그: 랠리 승률 지수 → 세트 점수 분포 → 3:0/3:1/3:2, 세트 핸디, 총점.

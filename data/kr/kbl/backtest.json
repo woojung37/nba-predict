@@ -1,0 +1,33 @@
+{
+ "league": "kbl",
+ "tuned_on": "2023-24",
+ "tested_on": "2024-25",
+ "params": {
+  "k": 0.05,
+  "hca": 1.0,
+  "b2b": 3.0,
+  "regress": 0.5,
+  "sigma": 13.15,
+  "total_sigma": 15.99
+ },
+ "tune": {
+  "games": 231,
+  "win_accuracy": 0.645,
+  "margin_mae": 10.45,
+  "total_mae": 12.62,
+  "brier": 0.2237,
+  "log_loss": 0.6401,
+  "range80_coverage": 0.8009,
+  "home_team_won": 0.5671
+ },
+ "test": {
+  "games": 292,
+  "win_accuracy": 0.6473,
+  "margin_mae": 9.77,
+  "total_mae": 12.79,
+  "brier": 0.2285,
+  "log_loss": 0.65,
+  "range80_coverage": 0.8116,
+  "home_team_won": 0.5308
+ }
+}

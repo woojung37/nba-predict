@@ -37,6 +37,12 @@ jobs:
         run: python -m collector.collect daily
       - name: Validate
         run: python -m collector.validate
+      - name: Collect KBL and V-League
+        # a problem here (API down, daily limit) must not block the NBA update
+        continue-on-error: true
+        env:
+          API_SPORTS_KEY: ${{ secrets.API_SPORTS_KEY }}
+        run: python -m korea.collect daily
       - name: Commit data
         run: |
           git config user.name "github-actions[bot]"
@@ -52,7 +58,7 @@ jobs:
           cp -r site/. _site/
           cp -r data _site/data
           # version asset URLs so browsers pick up a new deploy instead of a cached script
-          sed -i -E "s/(app\.js|teams_ko\.js|style\.css)\"/\1?v=${GITHUB_SHA::7}\"/g" _site/index.html
+          sed -i -E "s/(app\.js|kr\.js|teams_ko\.js|style\.css)\"/\1?v=${GITHUB_SHA::7}\"/g" _site/index.html
       - uses: actions/upload-pages-artifact@v3
 
   deploy:

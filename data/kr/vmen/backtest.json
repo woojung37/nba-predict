@@ -1,0 +1,33 @@
+{
+ "league": "vmen",
+ "tuned_on": "2023-24",
+ "tested_on": "2024-25",
+ "params": {
+  "k": 0.3,
+  "hca": 0.0,
+  "tau": 0.3,
+  "regress": 0.5,
+  "total_sigma": 33.26,
+  "total_bias": 6.46
+ },
+ "tune": {
+  "games": 107,
+  "win_accuracy": 0.6075,
+  "log_loss": 0.6554,
+  "set_score_log_loss": 1.751,
+  "set_score_exact": 0.2336,
+  "handicap_1_5_accuracy": 0.6262,
+  "total_points_mae": 31.01,
+  "home_team_won": 0.486
+ },
+ "test": {
+  "games": 132,
+  "win_accuracy": 0.7121,
+  "log_loss": 0.6048,
+  "set_score_log_loss": 1.6963,
+  "set_score_exact": 0.3106,
+  "handicap_1_5_accuracy": 0.5303,
+  "total_points_mae": 29.14,
+  "home_team_won": 0.4773
+ }
+}

@@ -1,0 +1,88 @@
+[
+ {
+  "id": "213398",
+  "date": "2026-11-03T10:00:00+00:00",
+  "status": "NS",
+  "home": {
+   "id": 1182,
+   "name": "IBK W",
+   "ko": "IBK기업은행"
+  },
+  "away": {
+   "id": 1181,
+   "name": "Hyundai E&C Hillstate W",
+   "ko": "현대건설"
+  },
+  "prediction": {
+   "home_win_prob": 0.536,
+   "scores": {
+    "3-0": 0.141,
+    "0-3": 0.11,
+    "3-1": 0.203,
+    "1-3": 0.172,
+    "3-2": 0.193,
+    "2-3": 0.181
+   },
+   "set_win_prob": 0.52,
+   "expected_sets": 4.12,
+   "total": 175.7,
+   "total_range80": [
+    136.8,
+    214.6
+   ],
+   "total_sigma": 30.34,
+   "home_minus_1_5": 0.343,
+   "away_minus_1_5": 0.283,
+   "full_five_sets": 0.374,
+   "edge": 0.017
+  },
+  "data_games": {
+   "home": 0,
+   "away": 0
+  },
+  "low_confidence": true
+ },
+ {
+  "id": "213399",
+  "date": "2026-11-04T10:00:00+00:00",
+  "status": "NS",
+  "home": {
+   "id": 1180,
+   "name": "Hungkuk W",
+   "ko": "흥국생명"
+  },
+  "away": {
+   "id": 3820,
+   "name": "Daejeon JKJ W",
+   "ko": "정관장"
+  },
+  "prediction": {
+   "home_win_prob": 0.608,
+   "scores": {
+    "3-0": 0.176,
+    "0-3": 0.085,
+    "3-1": 0.232,
+    "1-3": 0.143,
+    "3-2": 0.2,
+    "2-3": 0.164
+   },
+   "set_win_prob": 0.56,
+   "expected_sets": 4.1,
+   "total": 174.9,
+   "total_range80": [
+    136.0,
+    213.7
+   ],
+   "total_sigma": 30.34,
+   "home_minus_1_5": 0.408,
+   "away_minus_1_5": 0.228,
+   "full_five_sets": 0.364,
+   "edge": 0.05
+  },
+  "data_games": {
+   "home": 0,
+   "away": 0
+  },
+  "low_confidence": true
+ }
+]

@@ -493,8 +493,10 @@ async function viewModel() {
 
 // ---------- 라우터 ----------
 async function route() {
-  const [, page, id] = (location.hash || "#/").split("/");
-  document.querySelectorAll("nav a").forEach((a) => a.classList.toggle("active", a.getAttribute("href") === `#/${page || ""}`));
+  const [, page, id, sub, subId] = (location.hash || "#/").split("/");
+  const krCode = page === "kr" ? (id === "vwomen" ? "vmen" : id) : null;  // V리그 남녀는 한 메뉴
+  document.querySelectorAll("nav a").forEach((a) => a.classList.toggle("active",
+    a.getAttribute("href") === (krCode ? `#/kr/${krCode}` : `#/${page || ""}`)));
   window.scrollTo(0, 0);
   try {
     if (page === "game") await viewGame(id);
@@ -502,6 +504,7 @@ async function route() {
     else if (page === "standings") await viewStandings();
     else if (page === "players") await viewPlayers();
     else if (page === "model") await viewModel();
+    else if (page === "kr") await viewKr(id, sub, subId);
     else await viewGames();
   } catch (e) {
     console.error(e);
