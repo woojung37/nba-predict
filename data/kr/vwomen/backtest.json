@@ -1,0 +1,33 @@
+{
+ "league": "vwomen",
+ "tuned_on": "2023-24",
+ "tested_on": "2024-25",
+ "params": {
+  "k": 0.1,
+  "hca": 0.04,
+  "tau": 0.15,
+  "regress": 0.5,
+  "total_sigma": 30.34,
+  "total_bias": 0.42
+ },
+ "tune": {
+  "games": 107,
+  "win_accuracy": 0.6729,
+  "log_loss": 0.6023,
+  "set_score_log_loss": 1.6895,
+  "set_score_exact": 0.2617,
+  "handicap_1_5_accuracy": 0.5514,
+  "total_points_mae": 26.83,
+  "home_team_won": 0.5701
+ },
+ "test": {
+  "games": 134,
+  "win_accuracy": 0.6194,
+  "log_loss": 0.6417,
+  "set_score_log_loss": 1.7206,
+  "set_score_exact": 0.2313,
+  "handicap_1_5_accuracy": 0.6045,
+  "total_points_mae": 29.68,
+  "home_team_won": 0.5149
+ }
+}
