@@ -1,46 +1,5 @@
 [
  {
-  "id": "512089",
-  "date": "2026-11-03T10:00:00+00:00",
-  "status": "Q1",
-  "home": {
-   "id": 1105,
-   "name": "KCC Egis",
-   "ko": "KCC"
-  },
-  "away": {
-   "id": 1103,
-   "name": "Goyang Sono",
-   "ko": "소노"
-  },
-  "prediction": {
-   "home_points": 78.4,
-   "away_points": 78.2,
-   "home_margin": 0.3,
-   "home_win_prob": 0.508,
-   "total": 156.6,
-   "margin_range80": [
-    -16.6,
-    17.1
-   ],
-   "total_range80": [
-    136.1,
-    177.1
-   ],
-   "sigma": 13.15,
-   "total_sigma": 15.99,
-   "factors": {
-    "team_strength": -0.7,
-    "home_court": 1.0,
-    "rest": -0.0
-   },
-   "back_to_back": {
-    "home": false,
-    "away": false
-   }
-  }
- },
- {
   "id": "512090",
   "date": "2026-11-04T10:00:00+00:00",
   "status": "NS",
@@ -55,18 +14,18 @@
    "ko": "가스공사"
   },
   "prediction": {
-   "home_points": 76.2,
-   "away_points": 74.3,
+   "home_points": 76.4,
+   "away_points": 74.6,
    "home_margin": 1.8,
    "home_win_prob": 0.556,
-   "total": 150.5,
+   "total": 151.0,
    "margin_range80": [
     -15.0,
     18.7
    ],
    "total_range80": [
-    130.0,
-    171.0
+    130.5,
+    171.5
    ],
    "sigma": 13.15,
    "total_sigma": 15.99,

@@ -10,6 +10,16 @@
   "rating": 0.5
  },
  {
+  "id": 1105,
+  "name": "KCC Egis",
+  "ko": "KCC",
+  "wins": 1,
+  "losses": 0,
+  "points_for": 105,
+  "points_against": 102,
+  "rating": -1.1
+ },
+ {
   "id": 1108,
   "name": "Seoul Knights",
   "ko": "SK",
@@ -64,10 +74,10 @@
   "name": "Goyang Sono",
   "ko": "소노",
   "wins": 0,
-  "losses": 0,
-  "points_for": 0,
-  "points_against": 0,
-  "rating": -0.4
+  "losses": 1,
+  "points_for": 102,
+  "points_against": 105,
+  "rating": -0.5
  },
  {
   "id": 1111,
@@ -78,16 +88,6 @@
   "points_for": 0,
   "points_against": 0,
   "rating": -0.7
- },
- {
-  "id": 1105,
-  "name": "KCC Egis",
-  "ko": "KCC",
-  "wins": 0,
-  "losses": 0,
-  "points_for": 0,
-  "points_against": 0,
-  "rating": -1.2
  },
  {
   "id": 1109,

@@ -29,26 +29,32 @@
     "home": false,
     "away": false
    }
+  },
+  "result": {
+   "home_score": 105,
+   "away_score": 102,
+   "home_margin": 3,
+   "total": 207
   }
  },
  "512090": {
   "date": "2026-11-04T10:00:00+00:00",
   "home": "SK",
   "away": "가스공사",
-  "predicted_at": "2026-11-03T10:43:41+00:00",
+  "predicted_at": "2026-11-03T13:00:14+00:00",
   "prediction": {
-   "home_points": 76.2,
-   "away_points": 74.3,
+   "home_points": 76.4,
+   "away_points": 74.6,
    "home_margin": 1.8,
    "home_win_prob": 0.556,
-   "total": 150.5,
+   "total": 151.0,
    "margin_range80": [
     -15.0,
     18.7
    ],
    "total_range80": [
-    130.0,
-    171.0
+    130.5,
+    171.5
    ],
    "sigma": 13.15,
    "total_sigma": 15.99,

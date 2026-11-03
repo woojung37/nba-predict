@@ -1,5 +1,15 @@
 [
  {
+  "id": 1176,
+  "name": "Woori",
+  "ko": "우리카드",
+  "wins": 1,
+  "losses": 0,
+  "points_for": 75,
+  "points_against": 63,
+  "rating": 0.051
+ },
+ {
   "id": 1170,
   "name": "Hyundai Skywalkers",
   "ko": "현대캐피탈",
@@ -18,16 +28,6 @@
   "points_for": 0,
   "points_against": 0,
   "rating": 0.018
- },
- {
-  "id": 1176,
-  "name": "Woori",
-  "ko": "우리카드",
-  "wins": 0,
-  "losses": 0,
-  "points_for": 0,
-  "points_against": 0,
-  "rating": 0.006
  },
  {
   "id": 1175,
@@ -50,16 +50,6 @@
   "rating": -0.01
  },
  {
-  "id": 1173,
-  "name": "Kepco",
-  "ko": "한국전력",
-  "wins": 0,
-  "losses": 0,
-  "points_for": 0,
-  "points_against": 0,
-  "rating": -0.02
- },
- {
   "id": 2100,
   "name": "Busan OK",
   "ko": "OK저축은행",
@@ -68,5 +58,15 @@
   "points_for": 0,
   "points_against": 0,
   "rating": -0.024
+ },
+ {
+  "id": 1173,
+  "name": "Kepco",
+  "ko": "한국전력",
+  "wins": 0,
+  "losses": 1,
+  "points_for": 63,
+  "points_against": 75,
+  "rating": -0.064
  }
 ]

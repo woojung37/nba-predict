@@ -9123,8 +9123,8 @@
   "id": "213272",
   "date": "2026-11-03T10:00:00+00:00",
   "season": 2026,
-  "status": "S1",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 1173,
    "name": "Kepco",
@@ -9133,12 +9133,20 @@
   "away": {
    "id": 1176,
    "name": "Woori",
-   "score": 0
+   "score": 3
   },
   "sets": [
    [
-    2,
-    4
+    19,
+    25
+   ],
+   [
+    23,
+    25
+   ],
+   [
+    21,
+    25
    ]
   ]
  },

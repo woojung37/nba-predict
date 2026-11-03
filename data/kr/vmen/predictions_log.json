@@ -26,13 +26,33 @@
    "away_minus_1_5": 0.348,
    "full_five_sets": 0.373,
    "edge": -0.026
+  },
+  "result": {
+   "home_score": 0,
+   "away_score": 3,
+   "home_margin": -3,
+   "total": 138,
+   "sets": [
+    [
+     19,
+     25
+    ],
+    [
+     23,
+     25
+    ],
+    [
+     21,
+     25
+    ]
+   ]
   }
  },
  "213273": {
   "date": "2026-11-04T10:00:00+00:00",
   "home": "KB손해보험",
   "away": "OK저축은행",
-  "predicted_at": "2026-11-03T10:43:41+00:00",
+  "predicted_at": "2026-11-03T13:00:14+00:00",
   "prediction": {
    "home_win_prob": 0.522,
    "scores": {

@@ -1,5 +1,48 @@
 [
  {
+  "id": "512089",
+  "date": "2026-11-03T10:00:00+00:00",
+  "home": {
+   "id": 1105,
+   "name": "KCC Egis",
+   "ko": "KCC"
+  },
+  "away": {
+   "id": 1103,
+   "name": "Goyang Sono",
+   "ko": "소노"
+  },
+  "home_score": 105,
+  "away_score": 102,
+  "sets": null,
+  "pre_game_prediction": {
+   "home_points": 78.4,
+   "away_points": 78.2,
+   "home_margin": 0.3,
+   "home_win_prob": 0.508,
+   "total": 156.6,
+   "margin_range80": [
+    -16.6,
+    17.1
+   ],
+   "total_range80": [
+    136.1,
+    177.1
+   ],
+   "sigma": 13.15,
+   "total_sigma": 15.99,
+   "factors": {
+    "team_strength": -0.7,
+    "home_court": 1.0,
+    "rest": -0.0
+   },
+   "back_to_back": {
+    "home": false,
+    "away": false
+   }
+  }
+ },
+ {
   "id": "512088",
   "date": "2026-11-02T10:00:00+00:00",
   "home": {

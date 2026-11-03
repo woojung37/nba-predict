@@ -9221,12 +9221,12 @@
   "id": "213398",
   "date": "2026-11-03T10:00:00+00:00",
   "season": 2026,
-  "status": "S1",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 1182,
    "name": "IBK W",
-   "score": 0
+   "score": 3
   },
   "away": {
    "id": 1181,
@@ -9235,8 +9235,16 @@
   },
   "sets": [
    [
-    4,
-    1
+    25,
+    23
+   ],
+   [
+    25,
+    23
+   ],
+   [
+    25,
+    20
    ]
   ]
  },
