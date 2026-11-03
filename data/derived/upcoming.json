@@ -7738,5 +7738,564 @@
     }
    }
   }
+ },
+ {
+  "id": "401909936",
+  "date": "2026-11-06T02:00Z",
+  "season_type": 2,
+  "state": "pre",
+  "neutral": false,
+  "venue": "Mortgage Matchup Center",
+  "date_kst": "2026-11-06T11:00:00+09:00",
+  "home": {
+   "id": "21",
+   "abbr": "PHX",
+   "name": "Phoenix Suns",
+   "standing": {
+    "team_id": "21",
+    "abbr": "PHX",
+    "conference": "Western Conference",
+    "seed": 12,
+    "wins": 1,
+    "losses": 4,
+    "win_pct": 0.2,
+    "games_behind": "4.5",
+    "home": "1-1",
+    "road": "0-3",
+    "last10": "1-4",
+    "streak": "L3",
+    "ppg": 112.2,
+    "opp_ppg": 122.8
+   },
+   "stats": {
+    "gp": 5,
+    "record": [
+     1,
+     4
+    ],
+    "home_record": [
+     1,
+     1
+    ],
+    "away_record": [
+     0,
+     3
+    ],
+    "ppg": 112.2,
+    "opp_ppg": 122.8,
+    "avg_margin": -10.6,
+    "last10_record": [
+     1,
+     4
+    ],
+    "last10_margin": -10.6,
+    "last_game": "2026-11-03T03:00Z",
+    "pace": 101.6,
+    "ortg": 110.4,
+    "drtg": 120.9,
+    "net_rtg": -10.5
+   },
+   "rest_days": 0,
+   "injuries": [
+    {
+     "team_id": "21",
+     "team": "Phoenix Suns",
+     "athlete_id": "4278402",
+     "name": "Jordan Goodwin",
+     "position": "G",
+     "status": "Day-To-Day",
+     "injury": "Left Calf Not Specified",
+     "return_date": "2026-11-04",
+     "updated": "2026-11-03T04:33Z",
+     "comment": "Goodwin won't return to Monday's game against the Warriors due to a left calf injury, Duane Rankin of The Arizona Republic reports. He recorded four points (2-3 FG, 0-1 3Pt), two rebounds, two assists and one steal in 10 minutes before exiting."
+    },
+    {
+     "team_id": "21",
+     "team": "Phoenix Suns",
+     "athlete_id": "4701232",
+     "name": "Mark Williams",
+     "position": "C",
+     "status": "Out",
+     "injury": "Left Shoulder Surgery",
+     "return_date": "2027-02-03",
+     "updated": "2026-09-11T16:03Z",
+     "comment": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports."
+    }
+   ],
+   "top_players": [
+    {
+     "athlete_id": "3136193",
+     "name": "Devin Booker",
+     "position": "G",
+     "team_id": "21",
+     "gp": 5,
+     "gs": 5,
+     "last_game": "2026-11-03",
+     "min": 34.6,
+     "pts": 23.0,
+     "reb": 3.6,
+     "ast": 5.2,
+     "stl": 0.6,
+     "blk": 0.4,
+     "tov": 2.4,
+     "plus_minus": -16.8,
+     "fg_pct": 48.8,
+     "fg3_pct": 35.0,
+     "ft_pct": 93.3,
+     "injury_status": null
+    },
+    {
+     "athlete_id": "4066383",
+     "name": "Miles Bridges",
+     "position": "F",
+     "team_id": "21",
+     "gp": 5,
+     "gs": 5,
+     "last_game": "2026-11-03",
+     "min": 33.2,
+     "pts": 17.2,
+     "reb": 7.0,
+     "ast": 2.4,
+     "stl": 1.4,
+     "blk": 1.0,
+     "tov": 1.0,
+     "plus_minus": -10.2,
+     "fg_pct": 45.8,
+     "fg3_pct": 28.1,
+     "ft_pct": 84.6,
+     "injury_status": null
+    },
+    {
+     "athlete_id": "3155526",
+     "name": "Dillon Brooks",
+     "position": "F",
+     "team_id": "21",
+     "gp": 5,
+     "gs": 5,
+     "last_game": "2026-11-03",
+     "min": 29.8,
+     "pts": 16.8,
+     "reb": 4.0,
+     "ast": 3.2,
+     "stl": 0.8,
+     "blk": 0.2,
+     "tov": 1.8,
+     "plus_minus": -14.0,
+     "fg_pct": 49.1,
+     "fg3_pct": 47.8,
+     "ft_pct": 73.9,
+     "injury_status": null
+    },
+    {
+     "athlete_id": "4437244",
+     "name": "Jalen Green",
+     "position": "G",
+     "team_id": "21",
+     "gp": 5,
+     "gs": 5,
+     "last_game": "2026-11-03",
+     "min": 28.6,
+     "pts": 11.0,
+     "reb": 3.6,
+     "ast": 3.6,
+     "stl": 0.6,
+     "blk": 0.8,
+     "tov": 2.4,
+     "plus_minus": -10.8,
+     "fg_pct": 41.8,
+     "fg3_pct": 22.2,
+     "ft_pct": 45.5,
+     "injury_status": null
+    },
+    {
+     "athlete_id": "3913174",
+     "name": "Luke Kennard",
+     "position": "G",
+     "team_id": "21",
+     "gp": 4,
+     "gs": 0,
+     "last_game": "2026-11-03",
+     "min": 16.0,
+     "pts": 8.8,
+     "reb": 2.0,
+     "ast": 1.5,
+     "stl": 0.2,
+     "blk": 0.0,
+     "tov": 0.0,
+     "plus_minus": 7.8,
+     "fg_pct": 52.4,
+     "fg3_pct": 47.4,
+     "ft_pct": 100.0,
+     "injury_status": null
+    }
+   ]
+  },
+  "away": {
+   "id": "19",
+   "abbr": "ORL",
+   "name": "Orlando Magic",
+   "standing": {
+    "team_id": "19",
+    "abbr": "ORL",
+    "conference": "Eastern Conference",
+    "seed": 11,
+    "wins": 2,
+    "losses": 5,
+    "win_pct": 0.2857143,
+    "games_behind": "4.5",
+    "home": "0-4",
+    "road": "2-1",
+    "last10": "2-5",
+    "streak": "L2",
+    "ppg": 105.71429,
+    "opp_ppg": 114.71429
+   },
+   "stats": {
+    "gp": 7,
+    "record": [
+     2,
+     5
+    ],
+    "home_record": [
+     0,
+     4
+    ],
+    "away_record": [
+     2,
+     1
+    ],
+    "ppg": 105.7,
+    "opp_ppg": 114.7,
+    "avg_margin": -9.0,
+    "last10_record": [
+     2,
+     5
+    ],
+    "last10_margin": -9.0,
+    "last_game": "2026-11-03T00:30Z",
+    "pace": 100.8,
+    "ortg": 104.9,
+    "drtg": 113.8,
+    "net_rtg": -8.9
+   },
+   "rest_days": 2,
+   "injuries": [
+    {
+     "team_id": "19",
+     "team": "Orlando Magic",
+     "athlete_id": "4712849",
+     "name": "Anthony Black",
+     "position": "G",
+     "status": "Day-To-Day",
+     "injury": "Rest",
+     "return_date": "2026-11-05",
+     "updated": "2026-11-03T05:35Z",
+     "comment": "Black will be rested Monday against the Wizards."
+    },
+    {
+     "team_id": "19",
+     "team": "Orlando Magic",
+     "athlete_id": "4065654",
+     "name": "Jonathan Isaac",
+     "position": "F",
+     "status": "Out",
+     "injury": "Left Knee Not Specified",
+     "return_date": "2026-11-10",
+     "updated": "2026-11-02T15:22Z",
+     "comment": "Orlando recalled Isaac (knee) from the G League's Osceola Magic on Sunday."
+    },
+    {
+     "team_id": "19",
+     "team": "Orlando Magic",
+     "athlete_id": "4432165",
+     "name": "Jalen Suggs",
+     "position": "G",
+     "status": "Out",
+     "injury": "Right Knee",
+     "return_date": "2026-11-10",
+     "updated": "2026-10-26T18:44Z",
+     "comment": "Suggs has been diagnosed with a mild bone bruise in his right knee and will be re-evaluated in two weeks, Shams Charania of ESPN reports."
+    },
+    {
+     "team_id": "19",
+     "team": "Orlando Magic",
+     "athlete_id": "4432573",
+     "name": "Paolo Banchero",
+     "position": "F",
+     "status": "Out",
+     "injury": "Right Ankle Sprain",
+     "return_date": "2026-11-22",
+     "updated": "2026-10-24T16:47Z",
+     "comment": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-ankle sprain, Shams Charania of ESPN reports."
+    },
+    {
+     "team_id": "19",
+     "team": "Orlando Magic",
+     "athlete_id": "5214637",
+     "name": "Noah Penda",
+     "position": "F",
+     "status": "Out",
+     "injury": "Right Hamstring Strain",
+     "return_date": "2026-11-18",
+     "updated": "2026-10-17T22:19Z",
+     "comment": "Penda was diagnosed with a partially torn right hamstring Saturday, Jason Beede of the Orlando Sentinel reports."
+    },
+    {
+     "team_id": "19",
+     "team": "Orlando Magic",
+     "athlete_id": "5107251",
+     "name": "Izaiyah Nelson",
+     "position": "F",
+     "status": "Out",
+     "injury": "Left Ankle Surgery",
+     "return_date": "2026-11-18",
+     "updated": "2026-09-28T21:33Z",
+     "comment": "Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com."
+    }
+   ],
+   "top_players": [
+    {
+     "athlete_id": "4432573",
+     "name": "Paolo Banchero",
+     "position": "F",
+     "team_id": "19",
+     "gp": 2,
+     "gs": 2,
+     "last_game": "2026-10-23",
+     "min": 33.5,
+     "pts": 24.5,
+     "reb": 6.5,
+     "ast": 7.5,
+     "stl": 1.0,
+     "blk": 0.0,
+     "tov": 4.0,
+     "plus_minus": -10.0,
+     "fg_pct": 69.6,
+     "fg3_pct": 50.0,
+     "ft_pct": 70.0,
+     "injury_status": "Out"
+    },
+    {
+     "athlete_id": "4566434",
+     "name": "Franz Wagner",
+     "position": "F",
+     "team_id": "19",
+     "gp": 7,
+     "gs": 7,
+     "last_game": "2026-11-03",
+     "min": 35.7,
+     "pts": 20.3,
+     "reb": 6.1,
+     "ast": 7.6,
+     "stl": 0.9,
+     "blk": 0.0,
+     "tov": 4.1,
+     "plus_minus": -4.7,
+     "fg_pct": 41.9,
+     "fg3_pct": 20.0,
+     "ft_pct": 79.5,
+     "injury_status": null
+    },
+    {
+     "athlete_id": "4066320",
+     "name": "Desmond Bane",
+     "position": "G",
+     "team_id": "19",
+     "gp": 7,
+     "gs": 7,
+     "last_game": "2026-11-03",
+     "min": 34.9,
+     "pts": 17.9,
+     "reb": 3.6,
+     "ast": 2.6,
+     "stl": 1.0,
+     "blk": 0.9,
+     "tov": 2.7,
+     "plus_minus": -3.7,
+     "fg_pct": 38.6,
+     "fg3_pct": 37.3,
+     "ft_pct": 84.6,
+     "injury_status": null
+    },
+    {
+     "athlete_id": "4712849",
+     "name": "Anthony Black",
+     "position": "G",
+     "team_id": "19",
+     "gp": 4,
+     "gs": 3,
+     "last_game": "2026-11-01",
+     "min": 28.0,
+     "pts": 16.5,
+     "reb": 4.8,
+     "ast": 4.8,
+     "stl": 1.2,
+     "blk": 0.5,
+     "tov": 2.2,
+     "plus_minus": -3.2,
+     "fg_pct": 52.5,
+     "fg3_pct": 47.4,
+     "ft_pct": 78.9,
+     "injury_status": "Day-To-Day"
+    },
+    {
+     "athlete_id": "4702382",
+     "name": "Tristan da Silva",
+     "position": "F",
+     "team_id": "19",
+     "gp": 7,
+     "gs": 0,
+     "last_game": "2026-11-03",
+     "min": 29.3,
+     "pts": 14.1,
+     "reb": 3.4,
+     "ast": 1.7,
+     "stl": 0.3,
+     "blk": 0.4,
+     "tov": 1.3,
+     "plus_minus": -3.0,
+     "fg_pct": 50.0,
+     "fg3_pct": 44.2,
+     "ft_pct": 0.0,
+     "injury_status": null
+    }
+   ]
+  },
+  "head_to_head": {
+   "games": 6,
+   "wins": 2,
+   "losses": 4,
+   "avg_margin": -4.3,
+   "recent": [
+    {
+     "id": "401810954",
+     "date": "2026-03-31T23:00Z",
+     "season": 2026,
+     "home": "ORL",
+     "away": "PHX",
+     "home_score": 115,
+     "away_score": 111
+    },
+    {
+     "id": "401810666",
+     "date": "2026-02-21T22:00Z",
+     "season": 2026,
+     "home": "PHX",
+     "away": "ORL",
+     "home_score": 113,
+     "away_score": 110
+    },
+    {
+     "id": "401704918",
+     "date": "2024-12-08T23:30Z",
+     "season": 2025,
+     "home": "ORL",
+     "away": "PHX",
+     "home_score": 115,
+     "away_score": 110
+    },
+    {
+     "id": "401704815",
+     "date": "2024-11-19T02:00Z",
+     "season": 2025,
+     "home": "PHX",
+     "away": "ORL",
+     "home_score": 99,
+     "away_score": 109
+    },
+    {
+     "id": "401585283",
+     "date": "2024-01-28T23:00Z",
+     "season": 2024,
+     "home": "ORL",
+     "away": "PHX",
+     "home_score": 113,
+     "away_score": 98
+    },
+    {
+     "id": "401585078",
+     "date": "2024-01-01T01:00Z",
+     "season": 2024,
+     "home": "PHX",
+     "away": "ORL",
+     "home_score": 112,
+     "away_score": 107
+    }
+   ]
+  },
+  "prediction": {
+   "home_points": 113.0,
+   "away_points": 109.8,
+   "home_margin": 3.2,
+   "home_win_prob": 0.589,
+   "away_win_prob": 0.411,
+   "margin_range80": [
+    -15.0,
+    21.3
+   ],
+   "total": 222.8,
+   "total_range80": [
+    199.1,
+    246.5
+   ],
+   "sigma": 14.15,
+   "total_sigma": 18.49,
+   "factors": {
+    "team_strength": -1.1,
+    "home_court": 2.0,
+    "rest": -0.0,
+    "injuries": 2.3
+   },
+   "back_to_back": {
+    "home": false,
+    "away": false
+   },
+   "injury_impact": {
+    "home": [
+     {
+      "athlete_id": "4701232",
+      "name": "Mark Williams",
+      "status": "Out",
+      "impact": -0.8
+     },
+     {
+      "athlete_id": "4278402",
+      "name": "Jordan Goodwin",
+      "status": "Day-To-Day",
+      "impact": -0.3
+     }
+    ],
+    "away": [
+     {
+      "athlete_id": "4432573",
+      "name": "Paolo Banchero",
+      "status": "Out",
+      "impact": -2.7
+     },
+     {
+      "athlete_id": "4432165",
+      "name": "Jalen Suggs",
+      "status": "Out",
+      "impact": -0.4
+     },
+     {
+      "athlete_id": "4712849",
+      "name": "Anthony Black",
+      "status": "Day-To-Day",
+      "impact": -0.3
+     }
+    ]
+   },
+   "ratings": {
+    "home": {
+     "offense": -1.4,
+     "defense": 1.0
+    },
+    "away": {
+     "offense": -2.8,
+     "defense": -1.5
+    }
+   }
+  }
  }
 ]
