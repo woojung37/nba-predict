@@ -1,5 +1,11 @@
 [
  {
+  "team_id": "8",
+  "offense": -0.5,
+  "defense": -6.8,
+  "net": 6.4
+ },
+ {
   "team_id": "24",
   "offense": 1.8,
   "defense": -3.9,
@@ -24,12 +30,6 @@
   "net": 4.9
  },
  {
-  "team_id": "8",
-  "offense": -1.3,
-  "defense": -6.2,
-  "net": 4.9
- },
- {
   "team_id": "16",
   "offense": 1.8,
   "defense": -2.7,
@@ -48,6 +48,12 @@
   "net": 3.4
  },
  {
+  "team_id": "20",
+  "offense": -0.5,
+  "defense": -2.9,
+  "net": 2.4
+ },
+ {
   "team_id": "13",
   "offense": 1.3,
   "defense": -0.9,
@@ -57,12 +63,6 @@
   "team_id": "7",
   "offense": 2.1,
   "defense": 0.1,
-  "net": 2.0
- },
- {
-  "team_id": "20",
-  "offense": -0.6,
-  "defense": -2.6,
   "net": 2.0
  },
  {
@@ -84,16 +84,16 @@
   "net": 0.7
  },
  {
-  "team_id": "1",
-  "offense": 0.6,
-  "defense": 0.7,
-  "net": -0.1
- },
- {
   "team_id": "14",
   "offense": 3.8,
   "defense": 4.2,
   "net": -0.4
+ },
+ {
+  "team_id": "1",
+  "offense": 0.2,
+  "defense": 0.7,
+  "net": -0.5
  },
  {
   "team_id": "29",
@@ -106,12 +106,6 @@
   "offense": 1.3,
   "defense": 2.1,
   "net": -0.8
- },
- {
-  "team_id": "30",
-  "offense": -4.6,
-  "defense": -3.7,
-  "net": -1.0
  },
  {
   "team_id": "19",
@@ -138,10 +132,16 @@
   "net": -2.3
  },
  {
+  "team_id": "30",
+  "offense": -5.3,
+  "defense": -2.9,
+  "net": -2.4
+ },
+ {
   "team_id": "11",
   "offense": 0.2,
-  "defense": 3.3,
-  "net": -3.2
+  "defense": 3.0,
+  "net": -2.8
  },
  {
   "team_id": "27",
@@ -156,20 +156,20 @@
   "net": -4.7
  },
  {
-  "team_id": "4",
-  "offense": 0.9,
-  "defense": 7.1,
-  "net": -6.2
- },
- {
   "team_id": "17",
   "offense": -5.0,
   "defense": 1.4,
   "net": -6.4
  },
  {
+  "team_id": "4",
+  "offense": 0.7,
+  "defense": 7.2,
+  "net": -6.5
+ },
+ {
   "team_id": "15",
-  "offense": -1.8,
+  "offense": -1.7,
   "defense": 5.1,
   "net": -6.9
  },
