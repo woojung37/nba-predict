@@ -1,46 +1,5 @@
 [
  {
-  "id": "512090",
-  "date": "2026-11-04T10:00:00+00:00",
-  "status": "Q2",
-  "home": {
-   "id": 1108,
-   "name": "Seoul Knights",
-   "ko": "SK"
-  },
-  "away": {
-   "id": 3081,
-   "name": "KoGas",
-   "ko": "가스공사"
-  },
-  "prediction": {
-   "home_points": 76.4,
-   "away_points": 74.6,
-   "home_margin": 1.8,
-   "home_win_prob": 0.556,
-   "total": 151.0,
-   "margin_range80": [
-    -15.0,
-    18.7
-   ],
-   "total_range80": [
-    130.5,
-    171.5
-   ],
-   "sigma": 13.15,
-   "total_sigma": 15.99,
-   "factors": {
-    "team_strength": 0.8,
-    "home_court": 1.0,
-    "rest": -0.0
-   },
-   "back_to_back": {
-    "home": false,
-    "away": false
-   }
-  }
- },
- {
   "id": "512091",
   "date": "2026-11-05T10:00:00+00:00",
   "status": "NS",
@@ -56,17 +15,17 @@
   },
   "prediction": {
    "home_points": 79.1,
-   "away_points": 75.7,
+   "away_points": 75.8,
    "home_margin": 3.3,
    "home_win_prob": 0.6,
-   "total": 154.8,
+   "total": 154.9,
    "margin_range80": [
     -13.5,
     20.2
    ],
    "total_range80": [
-    134.3,
-    175.3
+    134.4,
+    175.4
    ],
    "sigma": 13.15,
    "total_sigma": 15.99,

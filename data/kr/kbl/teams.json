@@ -20,14 +20,14 @@
   "rating": -1.1
  },
  {
-  "id": 1108,
-  "name": "Seoul Knights",
-  "ko": "SK",
-  "wins": 0,
-  "losses": 0,
-  "points_for": 0,
-  "points_against": 0,
-  "rating": 1.1
+  "id": 3081,
+  "name": "KoGas",
+  "ko": "가스공사",
+  "wins": 1,
+  "losses": 1,
+  "points_for": 153,
+  "points_against": 153,
+  "rating": 0.6
  },
  {
   "id": 1106,
@@ -50,6 +50,16 @@
   "rating": 0.8
  },
  {
+  "id": 1108,
+  "name": "Seoul Knights",
+  "ko": "SK",
+  "wins": 0,
+  "losses": 1,
+  "points_for": 76,
+  "points_against": 82,
+  "rating": 0.7
+ },
+ {
   "id": 3173,
   "name": "Suwon KT",
   "ko": "KT",
@@ -58,16 +68,6 @@
   "points_for": 0,
   "points_against": 0,
   "rating": 0.3
- },
- {
-  "id": 3081,
-  "name": "KoGas",
-  "ko": "가스공사",
-  "wins": 0,
-  "losses": 1,
-  "points_for": 71,
-  "points_against": 77,
-  "rating": 0.2
  },
  {
   "id": 1103,

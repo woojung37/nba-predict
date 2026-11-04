@@ -9252,12 +9252,12 @@
   "id": "213399",
   "date": "2026-11-04T10:00:00+00:00",
   "season": 2026,
-  "status": "S2",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 1180,
    "name": "Hungkuk W",
-   "score": 1
+   "score": 3
   },
   "away": {
    "id": 3820,
@@ -9270,8 +9270,12 @@
     20
    ],
    [
-    10,
-    11
+    29,
+    27
+   ],
+   [
+    25,
+    19
    ]
   ]
  },

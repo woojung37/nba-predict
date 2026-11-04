@@ -10,6 +10,16 @@
   "rating": 0.051
  },
  {
+  "id": 2100,
+  "name": "Busan OK",
+  "ko": "OK저축은행",
+  "wins": 1,
+  "losses": 0,
+  "points_for": 97,
+  "points_against": 87,
+  "rating": 0.013
+ },
+ {
   "id": 1170,
   "name": "Hyundai Skywalkers",
   "ko": "현대캐피탈",
@@ -44,20 +54,10 @@
   "name": "KB Stars",
   "ko": "KB손해보험",
   "wins": 0,
-  "losses": 0,
-  "points_for": 0,
-  "points_against": 0,
-  "rating": -0.01
- },
- {
-  "id": 2100,
-  "name": "Busan OK",
-  "ko": "OK저축은행",
-  "wins": 0,
-  "losses": 0,
-  "points_for": 0,
-  "points_against": 0,
-  "rating": -0.024
+  "losses": 1,
+  "points_for": 87,
+  "points_against": 97,
+  "rating": -0.047
  },
  {
   "id": 1173,
