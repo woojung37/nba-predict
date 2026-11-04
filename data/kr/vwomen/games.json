@@ -9252,19 +9252,28 @@
   "id": "213399",
   "date": "2026-11-04T10:00:00+00:00",
   "season": 2026,
-  "status": "NS",
+  "status": "S2",
   "completed": false,
   "home": {
    "id": 1180,
    "name": "Hungkuk W",
-   "score": null
+   "score": 1
   },
   "away": {
    "id": 3820,
    "name": "Daejeon JKJ W",
-   "score": null
+   "score": 0
   },
-  "sets": []
+  "sets": [
+   [
+    25,
+    20
+   ],
+   [
+    10,
+    11
+   ]
+  ]
  },
  {
   "id": "213400",
