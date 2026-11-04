@@ -544,8 +544,8 @@
   "date_kst": "2026-11-05T09:00:00+09:00",
   "odds": {
    "provider": "Draft Kings",
-   "details": "ATL -1.5",
-   "spread": 1.5,
+   "details": "ATL -2.5",
+   "spread": 2.5,
    "over_under": 232.5
   },
   "home": {
@@ -1164,9 +1164,9 @@
     }
    },
    "vs_line": {
-    "spread": 1.5,
+    "spread": 2.5,
     "over_under": 232.5,
-    "home_cover_prob": 0.472,
+    "home_cover_prob": 0.5,
     "over_prob": 0.497,
     "provider": "Draft Kings"
    }
@@ -1712,7 +1712,7 @@
    "provider": "Draft Kings",
    "details": "CHA -3.5",
    "spread": 3.5,
-   "over_under": 214.5
+   "over_under": 213.5
   },
   "home": {
    "id": "17",
@@ -2253,9 +2253,9 @@
    },
    "vs_line": {
     "spread": 3.5,
-    "over_under": 214.5,
+    "over_under": 213.5,
     "home_cover_prob": 0.578,
-    "over_prob": 0.576,
+    "over_prob": 0.597,
     "provider": "Draft Kings"
    }
   }
@@ -3992,9 +3992,9 @@
   "date_kst": "2026-11-05T10:00:00+09:00",
   "odds": {
    "provider": "Draft Kings",
-   "details": "OKC -2.5",
-   "spread": -2.5,
-   "over_under": 228.5
+   "details": "OKC -3.5",
+   "spread": -3.5,
+   "over_under": 227.5
   },
   "home": {
    "id": "25",
@@ -4549,10 +4549,10 @@
     }
    },
    "vs_line": {
-    "spread": -2.5,
-    "over_under": 228.5,
-    "home_cover_prob": 0.505,
-    "over_prob": 0.438,
+    "spread": -3.5,
+    "over_under": 227.5,
+    "home_cover_prob": 0.477,
+    "over_prob": 0.459,
     "provider": "Draft Kings"
    }
   }
@@ -4567,8 +4567,8 @@
   "date_kst": "2026-11-05T10:30:00+09:00",
   "odds": {
    "provider": "Draft Kings",
-   "details": "HOU -8.5",
-   "spread": -8.5,
+   "details": "HOU -7.5",
+   "spread": -7.5,
    "over_under": 220.5
   },
   "home": {
@@ -5109,9 +5109,9 @@
     }
    },
    "vs_line": {
-    "spread": -8.5,
+    "spread": -7.5,
     "over_under": 220.5,
-    "home_cover_prob": 0.393,
+    "home_cover_prob": 0.42,
     "over_prob": 0.562,
     "provider": "Draft Kings"
    }
@@ -5681,8 +5681,8 @@
   "date_kst": "2026-11-05T11:00:00+09:00",
   "odds": {
    "provider": "Draft Kings",
-   "details": "POR -2.5",
-   "spread": 2.5,
+   "details": "POR -3.5",
+   "spread": 3.5,
    "over_under": 227.5
   },
   "home": {
@@ -6229,9 +6229,9 @@
     }
    },
    "vs_line": {
-    "spread": 2.5,
+    "spread": 3.5,
     "over_under": 227.5,
-    "home_cover_prob": 0.528,
+    "home_cover_prob": 0.556,
     "over_prob": 0.442,
     "provider": "Draft Kings"
    }
@@ -6249,7 +6249,7 @@
    "provider": "Draft Kings",
    "details": "SA -11.5",
    "spread": -11.5,
-   "over_under": 226.5
+   "over_under": 227.5
   },
   "home": {
    "id": "24",
@@ -6801,9 +6801,9 @@
    },
    "vs_line": {
     "spread": -11.5,
-    "over_under": 226.5,
+    "over_under": 227.5,
     "home_cover_prob": 0.459,
-    "over_prob": 0.608,
+    "over_prob": 0.587,
     "provider": "Draft Kings"
    }
   }
