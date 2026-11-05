@@ -2524,20 +2524,20 @@
   "date": "2026-11-05T03:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Intuit Dome",
   "home": {
    "id": "12",
    "abbr": "LAC",
-   "score": 107
+   "score": 116
   },
   "away": {
    "id": "14",
    "abbr": "MIA",
-   "score": 107
+   "score": 117
   }
  },
  {
@@ -2564,7 +2564,7 @@
    "provider": "DraftKings",
    "details": "PHX -1.5",
    "spread": -1.5,
-   "over_under": 224.5
+   "over_under": 223.5
   }
  },
  {
@@ -2589,9 +2589,9 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "GS -4.5",
-   "spread": -4.5,
-   "over_under": 238.5
+   "details": "GS -7.5",
+   "spread": -7.5,
+   "over_under": 235.5
   }
  },
  {
