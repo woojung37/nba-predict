@@ -8,8 +8,8 @@
   "status": "Day-To-Day",
   "injury": "Left Toe",
   "return_date": "2026-11-06",
-  "updated": "2026-11-05T01:17Z",
-  "comment": "Atlanta exercised Newell's third-year option Sunday, Brad Rowland of the Locked On Podcast Network reports."
+  "updated": "2026-11-05T01:19Z",
+  "comment": "Newell won't return to Wednesday's game against the Wizards due to a left great toe hyperextension, Brad Rowland of the Locked On Podcast Network reports. He'll finish with two points (1-1 FG), three rebounds and three assists across 10 minutes."
  },
  {
   "team_id": "1",
@@ -62,6 +62,18 @@
  {
   "team_id": "2",
   "team": "Boston Celtics",
+  "athlete_id": "4066354",
+  "name": "Payton Pritchard",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Right Eye Abrasion",
+  "return_date": "2026-11-06",
+  "updated": "2026-11-05T02:25Z",
+  "comment": "Pritchard is questionable to return to Wednesday's game against the Bucks due to a right eye abrasion."
+ },
+ {
+  "team_id": "2",
+  "team": "Boston Celtics",
   "athlete_id": "4433188",
   "name": "Devin Carter",
   "position": "G",
@@ -82,6 +94,30 @@
   "return_date": "2026-11-06",
   "updated": "2026-11-04T17:48Z",
   "comment": "Tatum will be rested Wednesday against the Bucks, Jack Simone of BostonSportsJournal.com reports."
+ },
+ {
+  "team_id": "17",
+  "team": "Brooklyn Nets",
+  "athlete_id": "4432194",
+  "name": "Day'Ron Sharpe",
+  "position": "C",
+  "status": "Day-To-Day",
+  "injury": "Undisclosed",
+  "return_date": "2026-11-04",
+  "updated": "2026-11-05T02:29Z",
+  "comment": "Sharpe registered 15 points (5-7 FG, 1-1 3Pt, 4-5 FT), 13 rebounds and four assists across 26 minutes in Sunday's 98-90 win over the Pacers."
+ },
+ {
+  "team_id": "17",
+  "team": "Brooklyn Nets",
+  "athlete_id": "4712896",
+  "name": "Noah Clowney",
+  "position": "F",
+  "status": "Day-To-Day",
+  "injury": "Right Knee Soreness",
+  "return_date": "2026-11-07",
+  "updated": "2026-11-05T02:13Z",
+  "comment": "Clowney won't return to Wednesday's game against the Hornets due to right knee soreness. He'll finish with seven points (3-6 FG, 1-4 3Pt), one rebound and one assist across 17 minutes."
  },
  {
   "team_id": "17",
@@ -114,10 +150,10 @@
   "name": "Kon Knueppel",
   "position": "G",
   "status": "Out",
-  "injury": "Left Hamstring",
-  "return_date": "2026-11-04",
-  "updated": "2026-11-05T01:00Z",
-  "comment": "Knueppel (hamstring) exited to the locker room in the first quarter of Wednesday's game against the Nets, Brian Lewis of the New York Post reports."
+  "injury": "Left Leg Soreness",
+  "return_date": "2026-11-06",
+  "updated": "2026-11-05T01:54Z",
+  "comment": "Knueppel exited Wednesday's game against the Nets after experiencing soreness in his left leg and he will not return, Brett Siegel of ClutchPoints.com reports."
  },
  {
   "team_id": "30",
@@ -134,6 +170,18 @@
  {
   "team_id": "4",
   "team": "Chicago Bulls",
+  "athlete_id": "4397189",
+  "name": "Jalen Smith",
+  "position": "F",
+  "status": "Day-To-Day",
+  "injury": "Left Hand",
+  "return_date": "2026-11-08",
+  "updated": "2026-11-05T01:35Z",
+  "comment": "Smith (hand) won't return to Wednesday's game against the Knicks."
+ },
+ {
+  "team_id": "4",
+  "team": "Chicago Bulls",
   "athlete_id": "4278067",
   "name": "Nic Claxton",
   "position": "C",
@@ -142,6 +190,18 @@
   "return_date": "2026-11-08",
   "updated": "2026-11-04T22:34Z",
   "comment": "Claxton (hamstring) is listed as out for Wednesday's game against New York."
+ },
+ {
+  "team_id": "5",
+  "team": "Cleveland Cavaliers",
+  "athlete_id": "4066328",
+  "name": "Jarrett Allen",
+  "position": "C",
+  "status": "Day-To-Day",
+  "injury": "Right Knee",
+  "return_date": "2026-11-04",
+  "updated": "2026-11-05T01:54Z",
+  "comment": "Allen (knee) is doubtful to return to Wednesday's game against the Thunder, Brett Siegel of ClutchPoints.com reports."
  },
  {
   "team_id": "5",
@@ -230,26 +290,14 @@
  {
   "team_id": "7",
   "team": "Denver Nuggets",
-  "athlete_id": "3138196",
-  "name": "Cameron Johnson",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": null,
-  "return_date": null,
-  "updated": "2026-11-03T23:57Z",
-  "comment": "Johnson (lower body injury management) is listed as probable for Wednesday's game against Toronto."
- },
- {
-  "team_id": "7",
-  "team": "Denver Nuggets",
-  "athlete_id": "4065813",
-  "name": "Alpha Diallo",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Right Wrist",
-  "return_date": "2026-11-04",
-  "updated": "2026-11-03T23:51Z",
-  "comment": "Diallo (wrist) is probable for Wednesday's game against the Raptors."
+  "athlete_id": "3978",
+  "name": "DeMar DeRozan",
+  "position": "G",
+  "status": "Out",
+  "injury": "Back Spasms",
+  "return_date": "2026-11-07",
+  "updated": "2026-11-05T02:05Z",
+  "comment": "DeRozan has been ruled out for Wednesday's game against the Raptors due to lower-back spasms."
  },
  {
   "team_id": "7",
@@ -434,18 +482,6 @@
  {
   "team_id": "12",
   "team": "LA Clippers",
-  "athlete_id": "4432170",
-  "name": "Isaiah Jackson",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Groin",
-  "return_date": "2026-11-04",
-  "updated": "2026-11-04T20:11Z",
-  "comment": "Jackson is questionable for Wednesday's game against the Heat with left groin soreness, per Law Murray of The Athletic."
- },
- {
-  "team_id": "12",
-  "team": "LA Clippers",
   "athlete_id": "5108024",
   "name": "Yanic Konan Niederhauser",
   "position": "C",
@@ -506,6 +542,18 @@
  {
   "team_id": "29",
   "team": "Memphis Grizzlies",
+  "athlete_id": "4432810",
+  "name": "Isaiah Stewart",
+  "position": "C",
+  "status": "Day-To-Day",
+  "injury": "Right Knee",
+  "return_date": "2026-11-04",
+  "updated": "2026-11-05T02:30Z",
+  "comment": "Stewart is doubtful to return to Wednesday's game against the Pacers due to a right knee injury."
+ },
+ {
+  "team_id": "29",
+  "team": "Memphis Grizzlies",
   "athlete_id": "4431785",
   "name": "Scotty Pippen Jr.",
   "position": "G",
@@ -514,18 +562,6 @@
   "return_date": "2026-11-06",
   "updated": "2026-11-03T23:19Z",
   "comment": "Pippen (back) won't play Wednesday against the Pacers."
- },
- {
-  "team_id": "14",
-  "team": "Miami Heat",
-  "athlete_id": "3032977",
-  "name": "Giannis Antetokounmpo",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Right Wrist Sprain",
-  "return_date": "2026-11-04",
-  "updated": "2026-11-04T01:05Z",
-  "comment": "Antetokounmpo is probable to play Wednesday against the Clippers due to a sprained right wrist."
  },
  {
   "team_id": "15",
@@ -746,6 +782,18 @@
  {
   "team_id": "20",
   "team": "Philadelphia 76ers",
+  "athlete_id": "5105637",
+  "name": "Adem Bona",
+  "position": "C",
+  "status": "Day-To-Day",
+  "injury": "Head",
+  "return_date": "2026-11-04",
+  "updated": "2026-11-05T02:23Z",
+  "comment": "Bona exited to the locker room in the fourth quarter of Wednesday's game against Detroit due to an apparent head injury, Kris Rhim of ESPN reports."
+ },
+ {
+  "team_id": "20",
+  "team": "Philadelphia 76ers",
   "athlete_id": "4870562",
   "name": "Dominick Barlow",
   "position": "F",
@@ -910,18 +958,6 @@
   "return_date": "2026-11-23",
   "updated": "2026-11-04T00:14Z",
   "comment": "Leonard has completed treatment to reduce swelling in his left knee and he will be re-evaluated in one week, Brett Siegel of ClutchPoints.com reports."
- },
- {
-  "team_id": "28",
-  "team": "Toronto Raptors",
-  "athlete_id": "3134908",
-  "name": "Jakob Poeltl",
-  "position": "C",
-  "status": "Day-To-Day",
-  "injury": "Left Shoulder Inflammation",
-  "return_date": "2026-11-04",
-  "updated": "2026-11-03T23:28Z",
-  "comment": "Poeltl is questionable for Wednesday's game against the Nuggets due to left shoulder bursitis, Blake Murphy of Sportsnet.ca reports."
  },
  {
   "team_id": "28",
