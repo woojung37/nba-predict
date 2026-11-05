@@ -20,6 +20,16 @@
   "rating": -1.1
  },
  {
+  "id": 1109,
+  "name": "Seoul Thunders",
+  "ko": "삼성",
+  "wins": 1,
+  "losses": 0,
+  "points_for": 81,
+  "points_against": 76,
+  "rating": -1.1
+ },
+ {
   "id": 3081,
   "name": "KoGas",
   "ko": "가스공사",
@@ -40,16 +50,6 @@
   "rating": 0.9
  },
  {
-  "id": 1107,
-  "name": "Mobis Phoebus",
-  "ko": "현대모비스",
-  "wins": 0,
-  "losses": 0,
-  "points_for": 0,
-  "points_against": 0,
-  "rating": 0.8
- },
- {
   "id": 1108,
   "name": "Seoul Knights",
   "ko": "SK",
@@ -58,6 +58,16 @@
   "points_for": 76,
   "points_against": 82,
   "rating": 0.7
+ },
+ {
+  "id": 1107,
+  "name": "Mobis Phoebus",
+  "ko": "현대모비스",
+  "wins": 0,
+  "losses": 1,
+  "points_for": 76,
+  "points_against": 81,
+  "rating": 0.4
  },
  {
   "id": 3173,
@@ -88,15 +98,5 @@
   "points_for": 0,
   "points_against": 0,
   "rating": -0.7
- },
- {
-  "id": 1109,
-  "name": "Seoul Thunders",
-  "ko": "삼성",
-  "wins": 0,
-  "losses": 0,
-  "points_for": 0,
-  "points_against": 0,
-  "rating": -1.5
  }
 ]

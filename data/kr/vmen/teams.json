@@ -10,6 +10,16 @@
   "rating": 0.051
  },
  {
+  "id": 1170,
+  "name": "Hyundai Skywalkers",
+  "ko": "현대캐피탈",
+  "wins": 1,
+  "losses": 0,
+  "points_for": 96,
+  "points_against": 89,
+  "rating": 0.046
+ },
+ {
   "id": 2100,
   "name": "Busan OK",
   "ko": "OK저축은행",
@@ -18,16 +28,6 @@
   "points_for": 97,
   "points_against": 87,
   "rating": 0.013
- },
- {
-  "id": 1170,
-  "name": "Hyundai Skywalkers",
-  "ko": "현대캐피탈",
-  "wins": 0,
-  "losses": 0,
-  "points_for": 0,
-  "points_against": 0,
-  "rating": 0.036
  },
  {
   "id": 1171,
@@ -44,10 +44,10 @@
   "name": "Samsung Blue Fangs",
   "ko": "삼성화재",
   "wins": 0,
-  "losses": 0,
-  "points_for": 0,
-  "points_against": 0,
-  "rating": -0.007
+  "losses": 1,
+  "points_for": 89,
+  "points_against": 96,
+  "rating": -0.017
  },
  {
   "id": 1172,

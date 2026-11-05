@@ -124,13 +124,37 @@
    "away_minus_1_5": 0.241,
    "full_five_sets": 0.367,
    "edge": 0.038
+  },
+  "result": {
+   "home_score": 1,
+   "away_score": 3,
+   "home_margin": -2,
+   "total": 177,
+   "sets": [
+    [
+     19,
+     25
+    ],
+    [
+     22,
+     25
+    ],
+    [
+     25,
+     17
+    ],
+    [
+     19,
+     25
+    ]
+   ]
   }
  },
  "213401": {
   "date": "2026-11-06T10:00:00+00:00",
   "home": "IBK기업은행",
   "away": "GS칼텍스",
-  "predicted_at": "2026-11-05T10:45:02+00:00",
+  "predicted_at": "2026-11-05T13:29:50+00:00",
   "prediction": {
    "home_win_prob": 0.573,
    "scores": {
