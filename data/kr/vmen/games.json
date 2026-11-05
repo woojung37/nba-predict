@@ -9189,19 +9189,28 @@
   "id": "213274",
   "date": "2026-11-05T10:00:00+00:00",
   "season": 2026,
-  "status": "NS",
+  "status": "S2",
   "completed": false,
   "home": {
    "id": 1175,
    "name": "Samsung Blue Fangs",
-   "score": null
+   "score": 0
   },
   "away": {
    "id": 1170,
    "name": "Hyundai Skywalkers",
-   "score": null
+   "score": 1
   },
-  "sets": []
+  "sets": [
+   [
+    25,
+    27
+   ],
+   [
+    7,
+    3
+   ]
+  ]
  },
  {
   "id": "213275",
