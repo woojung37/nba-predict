@@ -74,24 +74,12 @@
  {
   "team_id": "2",
   "team": "Boston Celtics",
-  "athlete_id": "4066354",
-  "name": "Payton Pritchard",
-  "position": "G",
-  "status": "Day-To-Day",
-  "injury": "Right Eye Abrasion",
-  "return_date": "2026-11-06",
-  "updated": "2026-11-05T21:09Z",
-  "comment": "Pritchard (eye) is questionable for Friday against Charlotte, Taylor Snow of the Celtics' official site reports."
- },
- {
-  "team_id": "2",
-  "team": "Boston Celtics",
   "athlete_id": "4433188",
   "name": "Devin Carter",
   "position": "G",
   "status": "Out",
   "injury": "Illness",
-  "return_date": "2026-11-08",
+  "return_date": "2026-11-06",
   "updated": "2026-11-04T23:58Z",
   "comment": "Carter (illness) practiced with the G League's Maine Celtics on Wednesday."
  },
@@ -149,11 +137,11 @@
   "athlete_id": "3032979",
   "name": "Dennis Schroder",
   "position": "G",
-  "status": "Day-To-Day",
+  "status": "Out",
   "injury": "Thigh",
-  "return_date": "2026-11-06",
-  "updated": "2026-11-05T22:11Z",
-  "comment": "Schroder (thigh) is questionable for Friday's game against the Celtics."
+  "return_date": "2026-11-09",
+  "updated": "2026-11-06T18:09Z",
+  "comment": "Schroder (thigh) is out for Friday's game versus Boston."
  },
  {
   "team_id": "30",
@@ -161,11 +149,11 @@
   "athlete_id": "4433249",
   "name": "Moussa Diabate",
   "position": "F",
-  "status": "Day-To-Day",
+  "status": "Out",
   "injury": "Quadriceps",
-  "return_date": "2026-11-06",
-  "updated": "2026-11-05T22:08Z",
-  "comment": "Diabate (quadriceps) is questionable for Friday's game against the Celtics."
+  "return_date": "2026-11-09",
+  "updated": "2026-11-06T18:08Z",
+  "comment": "Diabate (quadriceps) has been ruled out for Friday's game against Boston, according to the Hornets' official injury report."
  },
  {
   "team_id": "30",
@@ -194,26 +182,26 @@
  {
   "team_id": "4",
   "team": "Chicago Bulls",
+  "athlete_id": "4066650",
+  "name": "Zach Collins",
+  "position": "F",
+  "status": "Day-To-Day",
+  "injury": "Illness",
+  "return_date": "2026-11-08",
+  "updated": "2026-11-06T19:19Z",
+  "comment": "Collins didn't practice Friday due to an illness, per K.C. Johnson of Chicago Sports Network."
+ },
+ {
+  "team_id": "4",
+  "team": "Chicago Bulls",
   "athlete_id": "4278067",
   "name": "Nic Claxton",
   "position": "C",
   "status": "Out",
   "injury": "Left Hamstring Strain",
   "return_date": "2026-11-08",
-  "updated": "2026-11-05T23:39Z",
-  "comment": "Claxton (hamstring) was recalled from the G League's Windy City Bulls on Thursday."
- },
- {
-  "team_id": "4",
-  "team": "Chicago Bulls",
-  "athlete_id": "4066650",
-  "name": "Zach Collins",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Undisclosed",
-  "return_date": "2026-11-08",
-  "updated": "2026-11-05T03:04Z",
-  "comment": "Collins (undisclosed) exited to the locker room in the fourth quarter of Wednesday's 135-105 loss to the Knicks, finishing with three points (1-4 FG, 0-2 3Pt, 1-1 FT), three assists, one rebound and one steal across 14 minutes."
+  "updated": "2026-11-06T18:21Z",
+  "comment": "Head coach Tiago Splittler said Friday that Claxton (hamstring) is expected to make his season debut Sunday against the 76ers, per Joel Lorenzi of The Athletic."
  },
  {
   "team_id": "4",
@@ -274,6 +262,18 @@
   "return_date": "2026-11-06",
   "updated": "2026-11-05T22:13Z",
   "comment": "Allen (knee) is questionable for Friday's game against Philadelphia."
+ },
+ {
+  "team_id": "6",
+  "team": "Dallas Mavericks",
+  "athlete_id": "6442",
+  "name": "Kyrie Irving",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Illness",
+  "return_date": "2026-11-06",
+  "updated": "2026-11-06T19:05Z",
+  "comment": "Irving (illness) is probable for Friday's game against Utah."
  },
  {
   "team_id": "6",
@@ -404,8 +404,8 @@
   "status": "Day-To-Day",
   "injury": "Knee",
   "return_date": "2026-11-07",
-  "updated": "2026-11-06T05:46Z",
-  "comment": "Santos (knee) has been ruled out for Thursday's game against the Heat."
+  "updated": "2026-11-06T20:49Z",
+  "comment": "Santos (knee) is questionable for Saturday's game versus Orlando, per Nick Friedell of The Athletic."
  },
  {
   "team_id": "9",
@@ -449,11 +449,11 @@
   "athlete_id": "3102529",
   "name": "Clint Capela",
   "position": "C",
-  "status": "Day-To-Day",
+  "status": "Out",
   "injury": "Right Ankle Sprain",
-  "return_date": "2026-11-07",
-  "updated": "2026-11-05T15:04Z",
-  "comment": "Capela (ankle) is out for Wednesday's game against the Timberwolves."
+  "return_date": "2026-11-09",
+  "updated": "2026-11-06T20:32Z",
+  "comment": "Capela (ankle) is out for Saturday's game against the Suns."
  },
  {
   "team_id": "10",
@@ -530,6 +530,18 @@
  {
   "team_id": "12",
   "team": "LA Clippers",
+  "athlete_id": "3913176",
+  "name": "Brandon Ingram",
+  "position": "F",
+  "status": "Out",
+  "injury": "Right Achilles Surgery",
+  "return_date": "2026-11-08",
+  "updated": "2026-11-06T20:20Z",
+  "comment": "Ingram (Achilles) has progressed to full contact basketball activities, per NBA writer Justin Russo."
+ },
+ {
+  "team_id": "12",
+  "team": "LA Clippers",
   "athlete_id": "5108024",
   "name": "Yanic Konan Niederhauser",
   "position": "C",
@@ -538,18 +550,6 @@
   "return_date": "2026-11-08",
   "updated": "2026-11-02T16:12Z",
   "comment": "The Clippers recalled Niederhauser (foot) from the G League's San Diego Clippers on Sunday."
- },
- {
-  "team_id": "12",
-  "team": "LA Clippers",
-  "athlete_id": "3913176",
-  "name": "Brandon Ingram",
-  "position": "F",
-  "status": "Out",
-  "injury": "Right Achilles Surgery",
-  "return_date": "2026-11-08",
-  "updated": "2026-11-02T16:01Z",
-  "comment": "The Clippers recalled Ingram (Achilles) from the G League's San Diego Clippers on Sunday."
  },
  {
   "team_id": "12",
@@ -617,10 +617,10 @@
   "athlete_id": "4697268",
   "name": "Kam Jones",
   "position": "G",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Right Ankle",
-  "return_date": "2026-11-08",
-  "updated": "2026-11-06T00:26Z",
+  "return_date": "2026-11-06",
+  "updated": "2026-11-06T15:08Z",
   "comment": "Jones (ankle/two-way player) is out for Friday's game against Toronto."
  },
  {
@@ -629,11 +629,11 @@
   "athlete_id": "4432847",
   "name": "Terrence Shannon Jr.",
   "position": "G",
-  "status": "Day-To-Day",
+  "status": "Out",
   "injury": "Left Hip Bruise",
-  "return_date": "2026-11-06",
-  "updated": "2026-11-05T22:58Z",
-  "comment": "Shannon (hip) is questionable for Friday's game against New Orleans."
+  "return_date": "2026-11-08",
+  "updated": "2026-11-06T18:06Z",
+  "comment": "Shannon (hip) has been ruled out for Friday's game against New Orleans."
  },
  {
   "team_id": "16",
@@ -670,18 +670,6 @@
   "return_date": "2026-11-09",
   "updated": "2026-11-05T20:47Z",
   "comment": "Missi (knee) is out for Friday's game against Minnesota."
- },
- {
-  "team_id": "3",
-  "team": "New Orleans Pelicans",
-  "athlete_id": "4397688",
-  "name": "Trey Murphy III",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Knee",
-  "return_date": "2026-11-06",
-  "updated": "2026-11-05T20:19Z",
-  "comment": "Murphy (knee) is probable for Friday's game against Minnesota."
  },
  {
   "team_id": "18",
@@ -998,14 +986,50 @@
  {
   "team_id": "28",
   "team": "Toronto Raptors",
+  "athlete_id": "3134908",
+  "name": "Jakob Poeltl",
+  "position": "C",
+  "status": "Day-To-Day",
+  "injury": "Left Shoulder",
+  "return_date": "2026-11-06",
+  "updated": "2026-11-06T18:03Z",
+  "comment": "Poeltl (shoulder) is listed as probable for Friday's game against Milwaukee."
+ },
+ {
+  "team_id": "28",
+  "team": "Toronto Raptors",
+  "athlete_id": "4395724",
+  "name": "Immanuel Quickley",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Right Hamstring",
+  "return_date": "2026-11-06",
+  "updated": "2026-11-06T17:59Z",
+  "comment": "Quickley (hamstring) is questionable for Friday against the Bucks."
+ },
+ {
+  "team_id": "28",
+  "team": "Toronto Raptors",
   "athlete_id": "4433134",
   "name": "Scottie Barnes",
   "position": "F",
   "status": "Day-To-Day",
   "injury": "Left Groin Soreness",
   "return_date": "2026-11-06",
-  "updated": "2026-11-06T01:26Z",
-  "comment": "Barnes (groin) is questionable to play Friday's game against the Bucks."
+  "updated": "2026-11-06T17:47Z",
+  "comment": "Barnes (adductor) was not present at the morning shootaround, Michael Grange of Sportsnet.careports."
+ },
+ {
+  "team_id": "28",
+  "team": "Toronto Raptors",
+  "athlete_id": "2993874",
+  "name": "Kyle Anderson",
+  "position": "F",
+  "status": "Day-To-Day",
+  "injury": "Illness",
+  "return_date": "2026-11-06",
+  "updated": "2026-11-06T16:06Z",
+  "comment": "Anderson is questionable for Friday against the Bucks due to illness."
  },
  {
   "team_id": "28",
@@ -1039,9 +1063,9 @@
   "position": "C",
   "status": "Out",
   "injury": "Right Foot Strain",
-  "return_date": "2026-11-13",
-  "updated": "2026-11-03T23:07Z",
-  "comment": "Nurkic (foot) is out for Wednesday's game against the Pelicans."
+  "return_date": "2026-11-20",
+  "updated": "2026-11-06T18:20Z",
+  "comment": "Nurkic (toe) has begun participating in on-court activities as he continues recovering from a right foot injury sustained during an Oct. 4 preseason game against Denver. He will be re-evaluated in two weeks, the Jazz announced Friday."
  },
  {
   "team_id": "26",
@@ -1063,7 +1087,7 @@
   "position": "G",
   "status": "Out",
   "injury": "Left Knee Bruise",
-  "return_date": "2026-11-08",
+  "return_date": "2026-11-06",
   "updated": "2026-10-24T23:18Z",
   "comment": "Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise."
  },
