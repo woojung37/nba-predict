@@ -117,7 +117,7 @@
   "date": "2026-11-06T10:00:00+00:00",
   "home": "정관장",
   "away": "SK",
-  "predicted_at": "2026-11-05T21:04:03+00:00",
+  "predicted_at": "2026-11-06T01:06:44+00:00",
   "prediction": {
    "home_points": 76.6,
    "away_points": 75.8,
@@ -136,6 +136,102 @@
    "total_sigma": 15.99,
    "factors": {
     "team_strength": -0.2,
+    "home_court": 1.0,
+    "rest": -0.0
+   },
+   "back_to_back": {
+    "home": false,
+    "away": false
+   }
+  }
+ },
+ "512093": {
+  "date": "2026-11-07T05:00:00+00:00",
+  "home": "LG",
+  "away": "소노",
+  "predicted_at": "2026-11-06T01:06:44+00:00",
+  "prediction": {
+   "home_points": 79.1,
+   "away_points": 76.7,
+   "home_margin": 2.4,
+   "home_win_prob": 0.571,
+   "total": 155.8,
+   "margin_range80": [
+    -14.5,
+    19.2
+   ],
+   "total_range80": [
+    135.3,
+    176.3
+   ],
+   "sigma": 13.15,
+   "total_sigma": 15.99,
+   "factors": {
+    "team_strength": 1.4,
+    "home_court": 1.0,
+    "rest": -0.0
+   },
+   "back_to_back": {
+    "home": false,
+    "away": false
+   }
+  }
+ },
+ "512094": {
+  "date": "2026-11-07T05:00:00+00:00",
+  "home": "DB",
+  "away": "삼성",
+  "predicted_at": "2026-11-06T01:06:44+00:00",
+  "prediction": {
+   "home_points": 77.5,
+   "away_points": 76.1,
+   "home_margin": 1.4,
+   "home_win_prob": 0.544,
+   "total": 153.7,
+   "margin_range80": [
+    -15.4,
+    18.3
+   ],
+   "total_range80": [
+    133.2,
+    174.1
+   ],
+   "sigma": 13.15,
+   "total_sigma": 15.99,
+   "factors": {
+    "team_strength": 0.4,
+    "home_court": 1.0,
+    "rest": -0.0
+   },
+   "back_to_back": {
+    "home": false,
+    "away": false
+   }
+  }
+ },
+ "512095": {
+  "date": "2026-11-07T07:30:00+00:00",
+  "home": "KT",
+  "away": "가스공사",
+  "predicted_at": "2026-11-06T01:06:44+00:00",
+  "prediction": {
+   "home_points": 75.9,
+   "away_points": 75.3,
+   "home_margin": 0.7,
+   "home_win_prob": 0.52,
+   "total": 151.2,
+   "margin_range80": [
+    -16.2,
+    17.5
+   ],
+   "total_range80": [
+    130.7,
+    171.7
+   ],
+   "sigma": 13.15,
+   "total_sigma": 15.99,
+   "factors": {
+    "team_strength": -0.3,
     "home_court": 1.0,
     "rest": -0.0
    },
