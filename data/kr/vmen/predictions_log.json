@@ -181,13 +181,37 @@
    "away_minus_1_5": 0.201,
    "full_five_sets": 0.355,
    "edge": 0.083
+  },
+  "result": {
+   "home_score": 1,
+   "away_score": 3,
+   "home_margin": -2,
+   "total": 193,
+   "sets": [
+    [
+     23,
+     25
+    ],
+    [
+     25,
+     18
+    ],
+    [
+     24,
+     26
+    ],
+    [
+     25,
+     27
+    ]
+   ]
   }
  },
  "213276": {
   "date": "2026-11-07T05:00:00+00:00",
   "home": "OK저축은행",
   "away": "우리카드",
-  "predicted_at": "2026-11-06T10:43:03+00:00",
+  "predicted_at": "2026-11-06T13:14:48+00:00",
   "prediction": {
    "home_win_prob": 0.436,
    "scores": {

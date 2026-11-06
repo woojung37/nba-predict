@@ -1,46 +1,5 @@
 [
  {
-  "id": "512092",
-  "date": "2026-11-06T10:00:00+00:00",
-  "status": "NS",
-  "home": {
-   "id": 1102,
-   "name": "Anyang JungKwanJang",
-   "ko": "정관장"
-  },
-  "away": {
-   "id": 1108,
-   "name": "Seoul Knights",
-   "ko": "SK"
-  },
-  "prediction": {
-   "home_points": 76.6,
-   "away_points": 75.8,
-   "home_margin": 0.8,
-   "home_win_prob": 0.524,
-   "total": 152.5,
-   "margin_range80": [
-    -16.1,
-    17.6
-   ],
-   "total_range80": [
-    132.0,
-    173.0
-   ],
-   "sigma": 13.15,
-   "total_sigma": 15.99,
-   "factors": {
-    "team_strength": -0.2,
-    "home_court": 1.0,
-    "rest": -0.0
-   },
-   "back_to_back": {
-    "home": false,
-    "away": false
-   }
-  }
- },
- {
   "id": "512093",
   "date": "2026-11-07T05:00:00+00:00",
   "status": "NS",
@@ -56,17 +15,17 @@
   },
   "prediction": {
    "home_points": 79.1,
-   "away_points": 76.7,
+   "away_points": 76.8,
    "home_margin": 2.4,
    "home_win_prob": 0.571,
-   "total": 155.8,
+   "total": 155.9,
    "margin_range80": [
     -14.5,
     19.2
    ],
    "total_range80": [
-    135.3,
-    176.3
+    135.4,
+    176.4
    ],
    "sigma": 13.15,
    "total_sigma": 15.99,
@@ -101,8 +60,8 @@
    "ko": "삼성"
   },
   "prediction": {
-   "home_points": 77.5,
-   "away_points": 76.1,
+   "home_points": 77.6,
+   "away_points": 76.2,
    "home_margin": 1.4,
    "home_win_prob": 0.544,
    "total": 153.7,
@@ -111,8 +70,8 @@
     18.3
    ],
    "total_range80": [
-    133.2,
-    174.1
+    133.3,
+    174.2
    ],
    "sigma": 13.15,
    "total_sigma": 15.99,
@@ -147,18 +106,18 @@
    "ko": "가스공사"
   },
   "prediction": {
-   "home_points": 75.9,
+   "home_points": 76.0,
    "away_points": 75.3,
    "home_margin": 0.7,
    "home_win_prob": 0.52,
-   "total": 151.2,
+   "total": 151.3,
    "margin_range80": [
     -16.2,
     17.5
    ],
    "total_range80": [
-    130.7,
-    171.7
+    130.8,
+    171.8
    ],
    "sigma": 13.15,
    "total_sigma": 15.99,

@@ -9224,19 +9224,36 @@
   "id": "213275",
   "date": "2026-11-06T10:00:00+00:00",
   "season": 2026,
-  "status": "NS",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 1171,
    "name": "KAL Jumbos",
-   "score": null
+   "score": 1
   },
   "away": {
    "id": 1173,
    "name": "Kepco",
-   "score": null
+   "score": 3
   },
-  "sets": []
+  "sets": [
+   [
+    23,
+    25
+   ],
+   [
+    25,
+    18
+   ],
+   [
+    24,
+    26
+   ],
+   [
+    25,
+    27
+   ]
+  ]
  },
  {
   "id": "213276",
