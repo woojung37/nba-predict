@@ -181,6 +181,12 @@
     "home": false,
     "away": false
    }
+  },
+  "result": {
+   "home_score": 86,
+   "away_score": 85,
+   "home_margin": 1,
+   "total": 171
   }
  },
  "512094": {
@@ -213,6 +219,12 @@
     "home": false,
     "away": false
    }
+  },
+  "result": {
+   "home_score": 84,
+   "away_score": 76,
+   "home_margin": 8,
+   "total": 160
   }
  },
  "512095": {
@@ -251,20 +263,20 @@
   "date": "2026-11-08T05:00:00+00:00",
   "home": "현대모비스",
   "away": "정관장",
-  "predicted_at": "2026-11-07T06:03:01+00:00",
+  "predicted_at": "2026-11-07T09:15:08+00:00",
   "prediction": {
-   "home_points": 78.5,
-   "away_points": 77.8,
+   "home_points": 78.6,
+   "away_points": 77.9,
    "home_margin": 0.7,
    "home_win_prob": 0.523,
-   "total": 156.3,
+   "total": 156.5,
    "margin_range80": [
     -16.1,
     17.6
    ],
    "total_range80": [
-    135.8,
-    176.7
+    136.0,
+    177.0
    ],
    "sigma": 13.15,
    "total_sigma": 15.99,
@@ -283,31 +295,31 @@
   "date": "2026-11-08T05:00:00+00:00",
   "home": "SK",
   "away": "DB",
-  "predicted_at": "2026-11-07T06:03:01+00:00",
+  "predicted_at": "2026-11-07T09:15:08+00:00",
   "prediction": {
-   "home_points": 77.5,
-   "away_points": 75.3,
-   "home_margin": 2.2,
-   "home_win_prob": 0.566,
-   "total": 152.7,
+   "home_points": 77.6,
+   "away_points": 72.7,
+   "home_margin": 4.9,
+   "home_win_prob": 0.644,
+   "total": 150.3,
    "margin_range80": [
-    -14.7,
-    19.0
+    -12.0,
+    21.7
    ],
    "total_range80": [
-    132.2,
-    173.2
+    129.8,
+    170.7
    ],
    "sigma": 13.15,
    "total_sigma": 15.99,
    "factors": {
-    "team_strength": 1.2,
+    "team_strength": 0.9,
     "home_court": 1.0,
-    "rest": -0.0
+    "rest": 3.0
    },
    "back_to_back": {
     "home": false,
-    "away": false
+    "away": true
    }
   }
  },
@@ -315,30 +327,30 @@
   "date": "2026-11-08T07:30:00+00:00",
   "home": "LG",
   "away": "KCC",
-  "predicted_at": "2026-11-07T06:03:01+00:00",
+  "predicted_at": "2026-11-07T09:15:08+00:00",
   "prediction": {
-   "home_points": 79.5,
-   "away_points": 76.5,
-   "home_margin": 3.0,
-   "home_win_prob": 0.59,
-   "total": 156.0,
+   "home_points": 77.0,
+   "away_points": 77.0,
+   "home_margin": -0.1,
+   "home_win_prob": 0.498,
+   "total": 154.0,
    "margin_range80": [
-    -13.9,
-    19.8
+    -16.9,
+    16.8
    ],
    "total_range80": [
-    135.5,
-    176.5
+    133.5,
+    174.5
    ],
    "sigma": 13.15,
    "total_sigma": 15.99,
    "factors": {
-    "team_strength": 2.0,
+    "team_strength": 1.9,
     "home_court": 1.0,
-    "rest": -0.0
+    "rest": -3.0
    },
    "back_to_back": {
-    "home": false,
+    "home": true,
     "away": false
    }
   }

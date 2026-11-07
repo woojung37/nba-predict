@@ -1,5 +1,15 @@
 [
  {
+  "id": 1106,
+  "name": "LG Sakers",
+  "ko": "LG",
+  "wins": 1,
+  "losses": 0,
+  "points_for": 86,
+  "points_against": 85,
+  "rating": 0.8
+ },
+ {
   "id": 1102,
   "name": "Anyang JungKwanJang",
   "ko": "정관장",
@@ -10,6 +20,16 @@
   "rating": 0.6
  },
  {
+  "id": 1111,
+  "name": "Wonju DB",
+  "ko": "DB",
+  "wins": 1,
+  "losses": 0,
+  "points_for": 84,
+  "points_against": 76,
+  "rating": -0.3
+ },
+ {
   "id": 1105,
   "name": "KCC Egis",
   "ko": "KCC",
@@ -17,16 +37,6 @@
   "losses": 0,
   "points_for": 105,
   "points_against": 102,
-  "rating": -1.1
- },
- {
-  "id": 1109,
-  "name": "Seoul Thunders",
-  "ko": "삼성",
-  "wins": 1,
-  "losses": 0,
-  "points_for": 81,
-  "points_against": 76,
   "rating": -1.1
  },
  {
@@ -40,14 +50,14 @@
   "rating": 0.6
  },
  {
-  "id": 1106,
-  "name": "LG Sakers",
-  "ko": "LG",
-  "wins": 0,
-  "losses": 0,
-  "points_for": 0,
-  "points_against": 0,
-  "rating": 0.9
+  "id": 1109,
+  "name": "Seoul Thunders",
+  "ko": "삼성",
+  "wins": 1,
+  "losses": 1,
+  "points_for": 157,
+  "points_against": 160,
+  "rating": -1.4
  },
  {
   "id": 1108,
@@ -84,19 +94,9 @@
   "name": "Goyang Sono",
   "ko": "소노",
   "wins": 0,
-  "losses": 1,
-  "points_for": 102,
-  "points_against": 105,
-  "rating": -0.5
- },
- {
-  "id": 1111,
-  "name": "Wonju DB",
-  "ko": "DB",
-  "wins": 0,
-  "losses": 0,
-  "points_for": 0,
-  "points_against": 0,
-  "rating": -0.7
+  "losses": 2,
+  "points_for": 187,
+  "points_against": 191,
+  "rating": -0.4
  }
 ]

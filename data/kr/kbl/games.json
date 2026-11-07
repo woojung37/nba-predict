@@ -10587,17 +10587,17 @@
   "id": "512093",
   "date": "2026-11-07T05:00:00+00:00",
   "season": 2026,
-  "status": "HT",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 1106,
    "name": "LG Sakers",
-   "score": 36
+   "score": 86
   },
   "away": {
    "id": 1103,
    "name": "Goyang Sono",
-   "score": 45
+   "score": 85
   },
   "overtime": false
  },
@@ -10605,17 +10605,17 @@
   "id": "512094",
   "date": "2026-11-07T05:00:00+00:00",
   "season": 2026,
-  "status": "HT",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 1111,
    "name": "Wonju DB",
-   "score": 42
+   "score": 84
   },
   "away": {
    "id": 1109,
    "name": "Seoul Thunders",
-   "score": 47
+   "score": 76
   },
   "overtime": false
  },
@@ -10623,17 +10623,17 @@
   "id": "512095",
   "date": "2026-11-07T07:30:00+00:00",
   "season": 2026,
-  "status": "NS",
+  "status": "Q4",
   "completed": false,
   "home": {
    "id": 3173,
    "name": "Suwon KT",
-   "score": null
+   "score": 76
   },
   "away": {
    "id": 3081,
    "name": "KoGas",
-   "score": null
+   "score": 69
   },
   "overtime": false
  },

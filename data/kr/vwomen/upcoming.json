@@ -1,48 +1,5 @@
 [
  {
-  "id": "213402",
-  "date": "2026-11-07T07:00:00+00:00",
-  "status": "NS",
-  "home": {
-   "id": 3820,
-   "name": "Daejeon JKJ W",
-   "ko": "정관장"
-  },
-  "away": {
-   "id": 1181,
-   "name": "Hyundai E&C Hillstate W",
-   "ko": "현대건설"
-  },
-  "prediction": {
-   "home_win_prob": 0.573,
-   "scores": {
-    "3-0": 0.158,
-    "0-3": 0.097,
-    "3-1": 0.218,
-    "1-3": 0.157,
-    "3-2": 0.197,
-    "2-3": 0.173
-   },
-   "set_win_prob": 0.54,
-   "expected_sets": 4.12,
-   "total": 175.4,
-   "total_range80": [
-    136.5,
-    214.3
-   ],
-   "total_sigma": 30.34,
-   "home_minus_1_5": 0.375,
-   "away_minus_1_5": 0.255,
-   "full_five_sets": 0.37,
-   "edge": 0.03
-  },
-  "data_games": {
-   "home": 1,
-   "away": 1
-  },
-  "low_confidence": true
- },
- {
   "id": "213403",
   "date": "2026-11-08T07:00:00+00:00",
   "status": "NS",
