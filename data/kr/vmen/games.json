@@ -9259,19 +9259,32 @@
   "id": "213276",
   "date": "2026-11-07T05:00:00+00:00",
   "season": 2026,
-  "status": "NS",
+  "status": "S3",
   "completed": false,
   "home": {
    "id": 2100,
    "name": "Busan OK",
-   "score": null
+   "score": 1
   },
   "away": {
    "id": 1176,
    "name": "Woori",
-   "score": null
+   "score": 1
   },
-  "sets": []
+  "sets": [
+   [
+    27,
+    25
+   ],
+   [
+    17,
+    25
+   ],
+   [
+    0,
+    0
+   ]
+  ]
  },
  {
   "id": "213277",

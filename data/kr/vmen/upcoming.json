@@ -2,7 +2,7 @@
  {
   "id": "213276",
   "date": "2026-11-07T05:00:00+00:00",
-  "status": "NS",
+  "status": "S3",
   "home": {
    "id": 2100,
    "name": "Busan OK",
@@ -35,12 +35,7 @@
    "away_minus_1_5": 0.367,
    "full_five_sets": 0.371,
    "edge": -0.038
-  },
-  "data_games": {
-   "home": 1,
-   "away": 1
-  },
-  "low_confidence": true
+  }
  },
  {
   "id": "213277",
