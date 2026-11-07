@@ -41,5 +41,48 @@
    "away": 1
   },
   "low_confidence": true
+ },
+ {
+  "id": "213277",
+  "date": "2026-11-08T05:00:00+00:00",
+  "status": "NS",
+  "home": {
+   "id": 1170,
+   "name": "Hyundai Skywalkers",
+   "ko": "현대캐피탈"
+  },
+  "away": {
+   "id": 1172,
+   "name": "KB Stars",
+   "ko": "KB손해보험"
+  },
+  "prediction": {
+   "home_win_prob": 0.66,
+   "scores": {
+    "3-0": 0.205,
+    "0-3": 0.069,
+    "3-1": 0.252,
+    "1-3": 0.122,
+    "3-2": 0.203,
+    "2-3": 0.148
+   },
+   "set_win_prob": 0.59,
+   "expected_sets": 4.08,
+   "total": 175.0,
+   "total_range80": [
+    132.4,
+    217.7
+   ],
+   "total_sigma": 33.26,
+   "home_minus_1_5": 0.457,
+   "away_minus_1_5": 0.191,
+   "full_five_sets": 0.351,
+   "edge": 0.093
+  },
+  "data_games": {
+   "home": 1,
+   "away": 1
+  },
+  "low_confidence": true
  }
 ]

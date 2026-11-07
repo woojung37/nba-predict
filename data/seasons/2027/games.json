@@ -2587,26 +2587,20 @@
   "date": "2026-11-07T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "State Farm Arena",
   "home": {
    "id": "1",
    "abbr": "ATL",
-   "score": null
+   "score": 18
   },
   "away": {
    "id": "27",
    "abbr": "WSH",
-   "score": null
-  },
-  "odds": {
-   "provider": "Draft Kings",
-   "details": "ATL -8.5",
-   "spread": -8.5,
-   "over_under": 229.5
+   "score": 8
   }
  },
  {
@@ -2614,26 +2608,20 @@
   "date": "2026-11-07T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Spectrum Center",
   "home": {
    "id": "30",
    "abbr": "CHA",
-   "score": null
+   "score": 4
   },
   "away": {
    "id": "2",
    "abbr": "BOS",
-   "score": null
-  },
-  "odds": {
-   "provider": "Draft Kings",
-   "details": "BOS -10.5",
-   "spread": 10.5,
-   "over_under": 208.5
+   "score": 9
   }
  },
  {
@@ -2660,7 +2648,7 @@
    "provider": "Draft Kings",
    "details": "PHI -2.5",
    "spread": 2.5,
-   "over_under": 231.5
+   "over_under": 232.5
   }
  },
  {
@@ -2739,9 +2727,9 @@
   },
   "odds": {
    "provider": "Draft Kings",
-   "details": "TOR -4.5",
-   "spread": 4.5,
-   "over_under": 229.5
+   "details": "TOR -3.5",
+   "spread": 3.5,
+   "over_under": 228.5
   }
  },
  {
