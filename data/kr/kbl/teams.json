@@ -1,5 +1,15 @@
 [
  {
+  "id": 3173,
+  "name": "Suwon KT",
+  "ko": "KT",
+  "wins": 1,
+  "losses": 0,
+  "points_for": 92,
+  "points_against": 81,
+  "rating": 0.8
+ },
+ {
   "id": 1106,
   "name": "LG Sakers",
   "ko": "LG",
@@ -40,16 +50,6 @@
   "rating": -1.1
  },
  {
-  "id": 3081,
-  "name": "KoGas",
-  "ko": "가스공사",
-  "wins": 1,
-  "losses": 1,
-  "points_for": 153,
-  "points_against": 153,
-  "rating": 0.6
- },
- {
   "id": 1109,
   "name": "Seoul Thunders",
   "ko": "삼성",
@@ -58,6 +58,16 @@
   "points_for": 157,
   "points_against": 160,
   "rating": -1.4
+ },
+ {
+  "id": 3081,
+  "name": "KoGas",
+  "ko": "가스공사",
+  "wins": 1,
+  "losses": 2,
+  "points_for": 234,
+  "points_against": 245,
+  "rating": 0.1
  },
  {
   "id": 1108,
@@ -78,16 +88,6 @@
   "points_for": 76,
   "points_against": 81,
   "rating": 0.4
- },
- {
-  "id": 3173,
-  "name": "Suwon KT",
-  "ko": "KT",
-  "wins": 0,
-  "losses": 0,
-  "points_for": 0,
-  "points_against": 0,
-  "rating": 0.3
  },
  {
   "id": 1103,
