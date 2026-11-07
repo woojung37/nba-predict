@@ -2595,12 +2595,12 @@
   "home": {
    "id": "1",
    "abbr": "ATL",
-   "score": 18
+   "score": 54
   },
   "away": {
    "id": "27",
    "abbr": "WSH",
-   "score": 8
+   "score": 47
   }
  },
  {
@@ -2616,12 +2616,12 @@
   "home": {
    "id": "30",
    "abbr": "CHA",
-   "score": 4
+   "score": 24
   },
   "away": {
    "id": "2",
    "abbr": "BOS",
-   "score": 9
+   "score": 47
   }
  },
  {
@@ -2629,26 +2629,20 @@
   "date": "2026-11-07T00:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Rocket Arena",
   "home": {
    "id": "5",
    "abbr": "CLE",
-   "score": null
+   "score": 11
   },
   "away": {
    "id": "20",
    "abbr": "PHI",
-   "score": null
-  },
-  "odds": {
-   "provider": "Draft Kings",
-   "details": "PHI -2.5",
-   "spread": 2.5,
-   "over_under": 232.5
+   "score": 2
   }
  },
  {
@@ -2675,7 +2669,7 @@
    "provider": "Draft Kings",
    "details": "DAL -6.5",
    "spread": -6.5,
-   "over_under": 225.5
+   "over_under": 226.5
   }
  },
  {
@@ -2702,7 +2696,7 @@
    "provider": "Draft Kings",
    "details": "OKC -4.5",
    "spread": 4.5,
-   "over_under": 223.5
+   "over_under": 224.5
   }
  },
  {

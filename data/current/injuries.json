@@ -782,26 +782,26 @@
  {
   "team_id": "21",
   "team": "Phoenix Suns",
-  "athlete_id": "4278402",
-  "name": "Jordan Goodwin",
-  "position": "G",
-  "status": "Day-To-Day",
-  "injury": "Left Calf Not Specified",
-  "return_date": "2026-11-07",
-  "updated": "2026-11-06T04:56Z",
-  "comment": "Goodwin (calf) is out for Thursday's game against Orlando."
- },
- {
-  "team_id": "21",
-  "team": "Phoenix Suns",
   "athlete_id": "5105977",
   "name": "Rasheer Fleming",
   "position": "F",
   "status": "Day-To-Day",
   "injury": "Left Ankle Sprain",
   "return_date": "2026-11-07",
-  "updated": "2026-11-06T04:56Z",
-  "comment": "Fleming is out for Thursday's game against the Magic due to a sprained left ankle."
+  "updated": "2026-11-07T00:20Z",
+  "comment": "Fleming (ankle) is questionable for Saturday's game against the Rockets."
+ },
+ {
+  "team_id": "21",
+  "team": "Phoenix Suns",
+  "athlete_id": "4278402",
+  "name": "Jordan Goodwin",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Left Calf Not Specified",
+  "return_date": "2026-11-07",
+  "updated": "2026-11-07T00:20Z",
+  "comment": "Goodwin (calf) is doubtful for Saturday's game against the Rockets."
  },
  {
   "team_id": "21",
@@ -857,11 +857,11 @@
   "athlete_id": "4065732",
   "name": "De'Andre Hunter",
   "position": "F",
-  "status": "Day-To-Day",
+  "status": "Out",
   "injury": "Illness",
-  "return_date": "2026-11-06",
-  "updated": "2026-11-06T21:07Z",
-  "comment": "Hunter is questionable for Friday against the Spurs due to an illness."
+  "return_date": "2026-11-08",
+  "updated": "2026-11-07T00:36Z",
+  "comment": "Hunter (illness) is listed as out for Friday's game against San Antonio."
  },
  {
   "team_id": "23",
