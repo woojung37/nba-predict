@@ -2,7 +2,7 @@
  {
   "id": "213277",
   "date": "2026-11-08T05:00:00+00:00",
-  "status": "NS",
+  "status": "S2",
   "home": {
    "id": 1170,
    "name": "Hyundai Skywalkers",
@@ -35,11 +35,6 @@
    "away_minus_1_5": 0.191,
    "full_five_sets": 0.351,
    "edge": 0.093
-  },
-  "data_games": {
-   "home": 1,
-   "away": 1
-  },
-  "low_confidence": true
+  }
  }
 ]

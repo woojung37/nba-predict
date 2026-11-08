@@ -2,7 +2,7 @@
  {
   "id": "512096",
   "date": "2026-11-08T05:00:00+00:00",
-  "status": "NS",
+  "status": "HT",
   "home": {
    "id": 1107,
    "name": "Mobis Phoebus",
@@ -38,17 +38,12 @@
     "home": false,
     "away": false
    }
-  },
-  "data_games": {
-   "home": 1,
-   "away": 2
-  },
-  "low_confidence": true
+  }
  },
  {
   "id": "512097",
   "date": "2026-11-08T05:00:00+00:00",
-  "status": "NS",
+  "status": "HT",
   "home": {
    "id": 1108,
    "name": "Seoul Knights",
@@ -84,12 +79,7 @@
     "home": false,
     "away": true
    }
-  },
-  "data_games": {
-   "home": 2,
-   "away": 1
-  },
-  "low_confidence": true
+  }
  },
  {
   "id": "512098",
