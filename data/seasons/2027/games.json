@@ -2923,26 +2923,20 @@
   "date": "2026-11-08T20:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "United Center",
   "home": {
    "id": "4",
    "abbr": "CHI",
-   "score": null
+   "score": 31
   },
   "away": {
    "id": "20",
    "abbr": "PHI",
-   "score": null
-  },
-  "odds": {
-   "provider": "Draft Kings",
-   "details": "PHI -9.5",
-   "spread": 9.5,
-   "over_under": 238.5
+   "score": 34
   }
  },
  {
@@ -2967,9 +2961,9 @@
   },
   "odds": {
    "provider": "Draft Kings",
-   "details": "DET -4.5",
-   "spread": -4.5,
-   "over_under": 222.5
+   "details": "DET -7.5",
+   "spread": -7.5,
+   "over_under": 217.5
   }
  },
  {
@@ -2994,9 +2988,9 @@
   },
   "odds": {
    "provider": "Draft Kings",
-   "details": "MIN -11.5",
-   "spread": -11.5,
-   "over_under": 223.5
+   "details": "MIN -12.5",
+   "spread": -12.5,
+   "over_under": 221.5
   }
  },
  {
@@ -3021,9 +3015,9 @@
   },
   "odds": {
    "provider": "Draft Kings",
-   "details": "DAL -9.5",
-   "spread": -9.5,
-   "over_under": 220.5
+   "details": "DAL -7.5",
+   "spread": -7.5,
+   "over_under": 222.5
   }
  },
  {
@@ -3077,7 +3071,7 @@
    "provider": "Draft Kings",
    "details": "NO -1.5",
    "spread": 1.5,
-   "over_under": 228.5
+   "over_under": 226.5
   }
  },
  {
@@ -3102,9 +3096,9 @@
   },
   "odds": {
    "provider": "Draft Kings",
-   "details": "MIA -8.5",
-   "spread": 8.5,
-   "over_under": 238.5
+   "details": "MIA -10.5",
+   "spread": 10.5,
+   "over_under": 237.5
   }
  },
  {
@@ -3231,6 +3225,12 @@
    "id": "7",
    "abbr": "DEN",
    "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "HOU -4.5",
+   "spread": -4.5,
+   "over_under": 222.5
   }
  },
  {
@@ -3252,6 +3252,12 @@
    "id": "24",
    "abbr": "SA",
    "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "SA -7.5",
+   "spread": 7.5,
+   "over_under": 225.5
   }
  },
  {
