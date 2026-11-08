@@ -1043,7 +1043,7 @@
    "provider": "DraftKings",
    "details": "NY -4.5",
    "spread": 4.5,
-   "over_under": 223.5
+   "over_under": 222.5
   },
   "home": {
    "id": "5",
@@ -1572,9 +1572,9 @@
    },
    "vs_line": {
     "spread": 4.5,
-    "over_under": 223.5,
+    "over_under": 222.5,
     "home_cover_prob": 0.471,
-    "over_prob": 0.419,
+    "over_prob": 0.441,
     "provider": "DraftKings"
    }
   }
@@ -2193,7 +2193,7 @@
    "provider": "DraftKings",
    "details": "GS -7.5",
    "spread": -7.5,
-   "over_under": 219.5
+   "over_under": 220.5
   },
   "home": {
    "id": "9",
@@ -2248,30 +2248,6 @@
     {
      "team_id": "9",
      "team": "Golden State Warriors",
-     "athlete_id": "6589",
-     "name": "Draymond Green",
-     "position": "F",
-     "status": "Day-To-Day",
-     "injury": "Right Elbow Inflammation",
-     "return_date": "2026-11-07",
-     "updated": "2026-11-06T22:21Z",
-     "comment": "Green (elbow) is listed as questionable ahead of Saturday's game against Orlando."
-    },
-    {
-     "team_id": "9",
-     "team": "Golden State Warriors",
-     "athlete_id": "3134903",
-     "name": "Gary Payton II",
-     "position": "G",
-     "status": "Day-To-Day",
-     "injury": "Right Calf",
-     "return_date": "2026-11-07",
-     "updated": "2026-11-06T22:21Z",
-     "comment": "Payton is questionable to play Saturday against the Magic due to right calf tightness."
-    },
-    {
-     "team_id": "9",
-     "team": "Golden State Warriors",
      "athlete_id": "3102531",
      "name": "Kristaps Porzingis",
      "position": "C",
@@ -2280,18 +2256,6 @@
      "return_date": "2027-01-02",
      "updated": "2026-11-06T21:26Z",
      "comment": "Porzingis announced on his social media that he's stepping away from basketball."
-    },
-    {
-     "team_id": "9",
-     "team": "Golden State Warriors",
-     "athlete_id": "4997536",
-     "name": "Gui Santos",
-     "position": "F",
-     "status": "Day-To-Day",
-     "injury": "Left Knee Tendinitis",
-     "return_date": "2026-11-07",
-     "updated": "2026-11-06T20:49Z",
-     "comment": "Santos (knee) is questionable for Saturday's game versus Orlando, per Nick Friedell of The Athletic."
     },
     {
      "team_id": "9",
@@ -2720,19 +2684,19 @@
    ]
   },
   "prediction": {
-   "home_points": 115.2,
+   "home_points": 115.7,
    "away_points": 107.5,
-   "home_margin": 7.7,
-   "home_win_prob": 0.707,
-   "away_win_prob": 0.293,
+   "home_margin": 8.2,
+   "home_win_prob": 0.718,
+   "away_win_prob": 0.282,
    "margin_range80": [
-    -10.4,
-    25.8
+    -10.0,
+    26.3
    ],
-   "total": 222.7,
+   "total": 223.2,
    "total_range80": [
-    199.1,
-    246.4
+    199.5,
+    246.9
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -2740,7 +2704,7 @@
     "team_strength": 3.5,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 2.2
+    "injuries": 2.7
    },
    "back_to_back": {
     "home": false,
@@ -2753,24 +2717,6 @@
       "name": "Kristaps Porzingis",
       "status": "Out",
       "impact": -1.6
-     },
-     {
-      "athlete_id": "4997536",
-      "name": "Gui Santos",
-      "status": "Day-To-Day",
-      "impact": -0.4
-     },
-     {
-      "athlete_id": "6589",
-      "name": "Draymond Green",
-      "status": "Day-To-Day",
-      "impact": -0.1
-     },
-     {
-      "athlete_id": "3134903",
-      "name": "Gary Payton II",
-      "status": "Day-To-Day",
-      "impact": -0.0
      }
     ],
     "away": [
@@ -2806,9 +2752,9 @@
    },
    "vs_line": {
     "spread": -7.5,
-    "over_under": 219.5,
-    "home_cover_prob": 0.505,
-    "over_prob": 0.57,
+    "over_under": 220.5,
+    "home_cover_prob": 0.519,
+    "over_prob": 0.559,
     "provider": "DraftKings"
    }
   }
@@ -11587,30 +11533,6 @@
     {
      "team_id": "9",
      "team": "Golden State Warriors",
-     "athlete_id": "6589",
-     "name": "Draymond Green",
-     "position": "F",
-     "status": "Day-To-Day",
-     "injury": "Right Elbow Inflammation",
-     "return_date": "2026-11-07",
-     "updated": "2026-11-06T22:21Z",
-     "comment": "Green (elbow) is listed as questionable ahead of Saturday's game against Orlando."
-    },
-    {
-     "team_id": "9",
-     "team": "Golden State Warriors",
-     "athlete_id": "3134903",
-     "name": "Gary Payton II",
-     "position": "G",
-     "status": "Day-To-Day",
-     "injury": "Right Calf",
-     "return_date": "2026-11-07",
-     "updated": "2026-11-06T22:21Z",
-     "comment": "Payton is questionable to play Saturday against the Magic due to right calf tightness."
-    },
-    {
-     "team_id": "9",
-     "team": "Golden State Warriors",
      "athlete_id": "3102531",
      "name": "Kristaps Porzingis",
      "position": "C",
@@ -11619,18 +11541,6 @@
      "return_date": "2027-01-02",
      "updated": "2026-11-06T21:26Z",
      "comment": "Porzingis announced on his social media that he's stepping away from basketball."
-    },
-    {
-     "team_id": "9",
-     "team": "Golden State Warriors",
-     "athlete_id": "4997536",
-     "name": "Gui Santos",
-     "position": "F",
-     "status": "Day-To-Day",
-     "injury": "Left Knee Tendinitis",
-     "return_date": "2026-11-07",
-     "updated": "2026-11-06T20:49Z",
-     "comment": "Santos (knee) is questionable for Saturday's game versus Orlando, per Nick Friedell of The Athletic."
     },
     {
      "team_id": "9",
@@ -12035,19 +11945,19 @@
    ]
   },
   "prediction": {
-   "home_points": 120.2,
+   "home_points": 120.7,
    "away_points": 116.6,
-   "home_margin": 3.7,
-   "home_win_prob": 0.602,
-   "away_win_prob": 0.398,
+   "home_margin": 4.1,
+   "home_win_prob": 0.615,
+   "away_win_prob": 0.385,
    "margin_range80": [
-    -14.5,
-    21.8
+    -14.0,
+    22.3
    ],
-   "total": 236.8,
+   "total": 237.3,
    "total_range80": [
-    213.1,
-    260.5
+    213.6,
+    261.0
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -12055,7 +11965,7 @@
     "team_strength": 2.9,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": -1.2
+    "injuries": -0.8
    },
    "back_to_back": {
     "home": false,
@@ -12068,24 +11978,6 @@
       "name": "Kristaps Porzingis",
       "status": "Out",
       "impact": -1.6
-     },
-     {
-      "athlete_id": "4997536",
-      "name": "Gui Santos",
-      "status": "Day-To-Day",
-      "impact": -0.4
-     },
-     {
-      "athlete_id": "6589",
-      "name": "Draymond Green",
-      "status": "Day-To-Day",
-      "impact": -0.1
-     },
-     {
-      "athlete_id": "3134903",
-      "name": "Gary Payton II",
-      "status": "Day-To-Day",
-      "impact": -0.0
      }
     ],
     "away": [
