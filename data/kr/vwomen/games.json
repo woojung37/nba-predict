@@ -9388,18 +9388,35 @@
   "id": "213403",
   "date": "2026-11-08T07:00:00+00:00",
   "season": 2026,
-  "status": "NS",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 1178,
    "name": "Expressway Co W",
-   "score": null
+   "score": 3
   },
   "away": {
    "id": 1180,
    "name": "Hungkuk W",
-   "score": null
+   "score": 1
   },
-  "sets": []
+  "sets": [
+   [
+    29,
+    27
+   ],
+   [
+    25,
+    19
+   ],
+   [
+    23,
+    25
+   ],
+   [
+    25,
+    13
+   ]
+  ]
  }
 ]

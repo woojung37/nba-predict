@@ -1,23 +1,13 @@
 [
  {
-  "id": 1180,
-  "name": "Hungkuk W",
-  "ko": "흥국생명",
-  "wins": 1,
-  "losses": 0,
-  "points_for": 79,
-  "points_against": 66,
-  "rating": 0.026
- },
- {
   "id": 1178,
   "name": "Expressway Co W",
   "ko": "한국도로공사",
-  "wins": 1,
+  "wins": 2,
   "losses": 0,
-  "points_for": 92,
-  "points_against": 85,
-  "rating": 0.013
+  "points_for": 194,
+  "points_against": 169,
+  "rating": 0.03
  },
  {
   "id": 1182,
@@ -28,6 +18,16 @@
   "points_for": 178,
   "points_against": 159,
   "rating": 0.007
+ },
+ {
+  "id": 1180,
+  "name": "Hungkuk W",
+  "ko": "흥국생명",
+  "wins": 1,
+  "losses": 1,
+  "points_for": 163,
+  "points_against": 168,
+  "rating": 0.01
  },
  {
   "id": 3820,

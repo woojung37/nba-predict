@@ -287,6 +287,30 @@
    "away_minus_1_5": 0.191,
    "full_five_sets": 0.351,
    "edge": 0.093
+  },
+  "result": {
+   "home_score": 3,
+   "away_score": 1,
+   "home_margin": 2,
+   "total": 193,
+   "sets": [
+    [
+     23,
+     25
+    ],
+    [
+     25,
+     19
+    ],
+    [
+     34,
+     32
+    ],
+    [
+     25,
+     10
+    ]
+   ]
   }
  }
 }

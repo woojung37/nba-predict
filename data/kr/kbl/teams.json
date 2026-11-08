@@ -1,5 +1,15 @@
 [
  {
+  "id": 1102,
+  "name": "Anyang JungKwanJang",
+  "ko": "정관장",
+  "wins": 3,
+  "losses": 0,
+  "points_for": 251,
+  "points_against": 235,
+  "rating": 1.0
+ },
+ {
   "id": 3173,
   "name": "Suwon KT",
   "ko": "KT",
@@ -20,26 +30,6 @@
   "rating": 0.8
  },
  {
-  "id": 1102,
-  "name": "Anyang JungKwanJang",
-  "ko": "정관장",
-  "wins": 2,
-  "losses": 0,
-  "points_for": 160,
-  "points_against": 150,
-  "rating": 0.6
- },
- {
-  "id": 1111,
-  "name": "Wonju DB",
-  "ko": "DB",
-  "wins": 1,
-  "losses": 0,
-  "points_for": 84,
-  "points_against": 76,
-  "rating": -0.3
- },
- {
   "id": 1105,
   "name": "KCC Egis",
   "ko": "KCC",
@@ -48,6 +38,16 @@
   "points_for": 105,
   "points_against": 102,
   "rating": -1.1
+ },
+ {
+  "id": 1111,
+  "name": "Wonju DB",
+  "ko": "DB",
+  "wins": 1,
+  "losses": 1,
+  "points_for": 149,
+  "points_against": 157,
+  "rating": -0.9
  },
  {
   "id": 1109,
@@ -60,6 +60,16 @@
   "rating": -1.4
  },
  {
+  "id": 1108,
+  "name": "Seoul Knights",
+  "ko": "SK",
+  "wins": 1,
+  "losses": 2,
+  "points_for": 236,
+  "points_against": 230,
+  "rating": 1.1
+ },
+ {
   "id": 3081,
   "name": "KoGas",
   "ko": "가스공사",
@@ -70,24 +80,14 @@
   "rating": 0.1
  },
  {
-  "id": 1108,
-  "name": "Seoul Knights",
-  "ko": "SK",
-  "wins": 0,
-  "losses": 2,
-  "points_for": 155,
-  "points_against": 165,
-  "rating": 0.5
- },
- {
   "id": 1107,
   "name": "Mobis Phoebus",
   "ko": "현대모비스",
   "wins": 0,
-  "losses": 1,
-  "points_for": 76,
-  "points_against": 81,
-  "rating": 0.4
+  "losses": 2,
+  "points_for": 161,
+  "points_against": 172,
+  "rating": 0.1
  },
  {
   "id": 1103,

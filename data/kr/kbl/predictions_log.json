@@ -295,6 +295,12 @@
     "home": false,
     "away": false
    }
+  },
+  "result": {
+   "home_score": 85,
+   "away_score": 91,
+   "home_margin": -6,
+   "total": 176
   }
  },
  "512097": {
@@ -327,6 +333,12 @@
     "home": false,
     "away": true
    }
+  },
+  "result": {
+   "home_score": 81,
+   "away_score": 65,
+   "home_margin": 16,
+   "total": 146
   }
  },
  "512098": {
@@ -365,20 +377,20 @@
   "date": "2026-11-09T10:00:00+00:00",
   "home": "삼성",
   "away": "KT",
-  "predicted_at": "2026-11-08T06:02:47+00:00",
+  "predicted_at": "2026-11-08T09:28:54+00:00",
   "prediction": {
    "home_points": 76.0,
-   "away_points": 77.2,
+   "away_points": 77.3,
    "home_margin": -1.2,
    "home_win_prob": 0.462,
-   "total": 153.2,
+   "total": 153.3,
    "margin_range80": [
     -18.1,
     15.6
    ],
    "total_range80": [
-    132.7,
-    173.7
+    132.8,
+    173.8
    ],
    "sigma": 13.15,
    "total_sigma": 15.99,
