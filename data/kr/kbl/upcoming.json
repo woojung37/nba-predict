@@ -1,46 +1,5 @@
 [
  {
-  "id": "512098",
-  "date": "2026-11-08T07:30:00+00:00",
-  "status": "Q4",
-  "home": {
-   "id": 1106,
-   "name": "LG Sakers",
-   "ko": "LG"
-  },
-  "away": {
-   "id": 1105,
-   "name": "KCC Egis",
-   "ko": "KCC"
-  },
-  "prediction": {
-   "home_points": 77.1,
-   "away_points": 77.1,
-   "home_margin": -0.1,
-   "home_win_prob": 0.498,
-   "total": 154.2,
-   "margin_range80": [
-    -16.9,
-    16.8
-   ],
-   "total_range80": [
-    133.7,
-    174.7
-   ],
-   "sigma": 13.15,
-   "total_sigma": 15.99,
-   "factors": {
-    "team_strength": 1.9,
-    "home_court": 1.0,
-    "rest": -3.0
-   },
-   "back_to_back": {
-    "home": true,
-    "away": false
-   }
-  }
- },
- {
   "id": "512099",
   "date": "2026-11-09T10:00:00+00:00",
   "status": "NS",
@@ -55,18 +14,18 @@
    "ko": "KT"
   },
   "prediction": {
-   "home_points": 76.0,
+   "home_points": 76.1,
    "away_points": 77.3,
    "home_margin": -1.2,
    "home_win_prob": 0.462,
-   "total": 153.3,
+   "total": 153.4,
    "margin_range80": [
     -18.1,
     15.6
    ],
    "total_range80": [
-    132.8,
-    173.8
+    132.9,
+    173.9
    ],
    "sigma": 13.15,
    "total_sigma": 15.99,
