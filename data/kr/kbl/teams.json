@@ -10,16 +10,6 @@
   "rating": 1.0
  },
  {
-  "id": 3173,
-  "name": "Suwon KT",
-  "ko": "KT",
-  "wins": 1,
-  "losses": 0,
-  "points_for": 92,
-  "points_against": 81,
-  "rating": 0.8
- },
- {
   "id": 1105,
   "name": "KCC Egis",
   "ko": "KCC",
@@ -28,6 +18,26 @@
   "points_for": 189,
   "points_against": 176,
   "rating": -0.6
+ },
+ {
+  "id": 1109,
+  "name": "Seoul Thunders",
+  "ko": "삼성",
+  "wins": 2,
+  "losses": 1,
+  "points_for": 242,
+  "points_against": 238,
+  "rating": -1.0
+ },
+ {
+  "id": 3173,
+  "name": "Suwon KT",
+  "ko": "KT",
+  "wins": 1,
+  "losses": 1,
+  "points_for": 170,
+  "points_against": 166,
+  "rating": 0.4
  },
  {
   "id": 1106,
@@ -48,16 +58,6 @@
   "points_for": 149,
   "points_against": 157,
   "rating": -0.9
- },
- {
-  "id": 1109,
-  "name": "Seoul Thunders",
-  "ko": "삼성",
-  "wins": 1,
-  "losses": 1,
-  "points_for": 157,
-  "points_against": 160,
-  "rating": -1.4
  },
  {
   "id": 1108,

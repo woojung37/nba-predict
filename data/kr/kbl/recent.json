@@ -1,5 +1,48 @@
 [
  {
+  "id": "512099",
+  "date": "2026-11-09T10:00:00+00:00",
+  "home": {
+   "id": 1109,
+   "name": "Seoul Thunders",
+   "ko": "삼성"
+  },
+  "away": {
+   "id": 3173,
+   "name": "Suwon KT",
+   "ko": "KT"
+  },
+  "home_score": 85,
+  "away_score": 78,
+  "sets": null,
+  "pre_game_prediction": {
+   "home_points": 76.1,
+   "away_points": 77.3,
+   "home_margin": -1.2,
+   "home_win_prob": 0.462,
+   "total": 153.4,
+   "margin_range80": [
+    -18.1,
+    15.6
+   ],
+   "total_range80": [
+    132.9,
+    173.9
+   ],
+   "sigma": 13.15,
+   "total_sigma": 15.99,
+   "factors": {
+    "team_strength": -2.2,
+    "home_court": 1.0,
+    "rest": -0.0
+   },
+   "back_to_back": {
+    "home": false,
+    "away": false
+   }
+  }
+ },
+ {
   "id": "512098",
   "date": "2026-11-08T07:30:00+00:00",
   "home": {
