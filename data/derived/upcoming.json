@@ -439,16 +439,10 @@
   "id": "401909947",
   "date": "2026-11-09T00:00Z",
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "neutral": false,
   "venue": "Target Center",
   "date_kst": "2026-11-09T09:00:00+09:00",
-  "odds": {
-   "provider": "DraftKings",
-   "details": "MIN -12.5",
-   "spread": -12.5,
-   "over_under": 222.5
-  },
   "home": {
    "id": "16",
    "abbr": "MIN",
@@ -925,90 +919,26 @@
     }
    ]
   },
-  "prediction": {
+  "pre_game_prediction": {
    "home_points": 121.8,
    "away_points": 107.8,
    "home_margin": 13.9,
    "home_win_prob": 0.838,
-   "away_win_prob": 0.162,
    "margin_range80": [
     -4.2,
     32.1
    ],
-   "total": 229.6,
-   "total_range80": [
-    205.9,
-    253.3
-   ],
-   "sigma": 14.15,
-   "total_sigma": 18.49,
-   "factors": {
-    "team_strength": 10.1,
-    "home_court": 2.0,
-    "rest": -0.0,
-    "injuries": 1.8
-   },
-   "back_to_back": {
-    "home": false,
-    "away": false
-   },
-   "injury_impact": {
-    "home": [
-     {
-      "athlete_id": "4594268",
-      "name": "Anthony Edwards",
-      "status": "Out",
-      "impact": -2.0
-     }
-    ],
-    "away": [
-     {
-      "athlete_id": "4066336",
-      "name": "Lauri Markkanen",
-      "status": "Out",
-      "impact": -2.0
-     },
-     {
-      "athlete_id": "4277961",
-      "name": "Jaren Jackson Jr.",
-      "status": "Out",
-      "impact": -1.9
-     }
-    ]
-   },
-   "ratings": {
-    "home": {
-     "offense": 1.7,
-     "defense": -3.6
-    },
-    "away": {
-     "offense": 0.5,
-     "defense": 5.3
-    }
-   },
-   "vs_line": {
-    "spread": -12.5,
-    "over_under": 222.5,
-    "home_cover_prob": 0.541,
-    "over_prob": 0.649,
-    "provider": "DraftKings"
-   }
+   "total": 229.6
   }
  },
  {
   "id": "401909948",
   "date": "2026-11-09T00:30Z",
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "neutral": false,
   "venue": "American Airlines Center",
   "date_kst": "2026-11-09T09:30:00+09:00",
-  "odds": {
-   "provider": "DraftKings",
-   "details": "DAL -7.5",
-   "spread": -7.5,
-   "over_under": 223.5
-  },
   "home": {
    "id": "6",
    "abbr": "DAL",
@@ -1470,67 +1400,16 @@
     }
    ]
   },
-  "prediction": {
+  "pre_game_prediction": {
    "home_points": 117.6,
    "away_points": 108.2,
    "home_margin": 9.3,
    "home_win_prob": 0.745,
-   "away_win_prob": 0.255,
    "margin_range80": [
     -8.8,
     27.5
    ],
-   "total": 225.8,
-   "total_range80": [
-    202.1,
-    249.5
-   ],
-   "sigma": 14.15,
-   "total_sigma": 18.49,
-   "factors": {
-    "team_strength": 3.7,
-    "home_court": 2.0,
-    "rest": 3.0,
-    "injuries": 0.7
-   },
-   "back_to_back": {
-    "home": false,
-    "away": true
-   },
-   "injury_impact": {
-    "home": [],
-    "away": [
-     {
-      "athlete_id": "5101761",
-      "name": "Mikel Brown Jr.",
-      "status": "Out",
-      "impact": -0.5
-     },
-     {
-      "athlete_id": "5175643",
-      "name": "Egor Demin",
-      "status": "Out",
-      "impact": -0.2
-     }
-    ]
-   },
-   "ratings": {
-    "home": {
-     "offense": -0.1,
-     "defense": 1.4
-    },
-    "away": {
-     "offense": -4.2,
-     "defense": 0.9
-    }
-   },
-   "vs_line": {
-    "spread": -7.5,
-    "over_under": 223.5,
-    "home_cover_prob": 0.552,
-    "over_prob": 0.55,
-    "provider": "DraftKings"
-   }
+   "total": 225.8
   }
  },
  {
@@ -1603,11 +1482,11 @@
      "athlete_id": "4277843",
      "name": "Gary Trent Jr.",
      "position": "G",
-     "status": "Day-To-Day",
+     "status": "Out",
      "injury": "Illness",
-     "return_date": "2026-11-08",
-     "updated": "2026-11-08T18:23Z",
-     "comment": "Trent (illness) has been downgraded to questionable for Sunday's game against Boston."
+     "return_date": "2026-11-10",
+     "updated": "2026-11-08T23:58Z",
+     "comment": "Trent (illness) won't play in Sunday's game versus the Celtics."
     }
    ],
    "top_players": [
@@ -1767,20 +1646,7 @@
     "net_rtg": 9.6
    },
    "rest_days": 1,
-   "injuries": [
-    {
-     "team_id": "2",
-     "team": "Boston Celtics",
-     "athlete_id": "4351852",
-     "name": "Mitchell Robinson",
-     "position": "C",
-     "status": "Day-To-Day",
-     "injury": "Illness",
-     "return_date": "2026-11-08",
-     "updated": "2026-11-08T18:21Z",
-     "comment": "Robinson (illness) is questionable for Sunday's game versus Milwaukee, Bobby Krivitsky of Forbes.com reports."
-    }
-   ],
+   "injuries": [],
    "top_players": [
     {
      "athlete_id": "4065648",
@@ -1989,18 +1855,18 @@
   },
   "prediction": {
    "home_points": 108.1,
-   "away_points": 118.5,
-   "home_margin": -10.4,
+   "away_points": 118.6,
+   "home_margin": -10.5,
    "home_win_prob": 0.23,
    "away_win_prob": 0.77,
    "margin_range80": [
     -28.6,
     7.7
    ],
-   "total": 226.6,
+   "total": 226.7,
    "total_range80": [
     203.0,
-    250.3
+    250.4
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -2008,7 +1874,7 @@
     "team_strength": -12.5,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 0.0
+    "injuries": -0.0
    },
    "back_to_back": {
     "home": false,
@@ -2016,14 +1882,7 @@
    },
    "injury_impact": {
     "home": [],
-    "away": [
-     {
-      "athlete_id": "4351852",
-      "name": "Mitchell Robinson",
-      "status": "Day-To-Day",
-      "impact": -0.0
-     }
-    ]
+    "away": []
    },
    "ratings": {
     "home": {
@@ -2038,7 +1897,7 @@
    "vs_line": {
     "spread": 13.5,
     "over_under": 221.5,
-    "home_cover_prob": 0.586,
+    "home_cover_prob": 0.585,
     "over_prob": 0.61,
     "provider": "DraftKings"
    }
@@ -6590,10 +6449,10 @@
      "name": "Jordan Goodwin",
      "position": "G",
      "status": "Out",
-     "injury": "Left Calf Not Specified",
+     "injury": "Right Calf Not Specified",
      "return_date": "2026-11-09",
-     "updated": "2026-11-08T01:08Z",
-     "comment": "Goodwin (calf) is out for Saturday's game against the Rockets."
+     "updated": "2026-11-09T00:23Z",
+     "comment": "Goodwin (calf) is questionable for Monday's game against the Spurs."
     },
     {
      "team_id": "21",
@@ -6774,9 +6633,21 @@
      "position": "F",
      "status": "Out",
      "injury": "Left Calf Strain",
+     "return_date": "2026-11-11",
+     "updated": "2026-11-09T00:27Z",
+     "comment": "Harris (calf) is listed as out for Monday's game against Phoenix."
+    },
+    {
+     "team_id": "24",
+     "team": "San Antonio Spurs",
+     "athlete_id": "4395630",
+     "name": "Devin Vassell",
+     "position": "G",
+     "status": "Day-To-Day",
+     "injury": "Left Groin",
      "return_date": "2026-11-09",
-     "updated": "2026-10-30T21:44Z",
-     "comment": "Harris (calf) is listed as out for Saturday's game against Minnesota."
+     "updated": "2026-11-09T00:20Z",
+     "comment": "Vassell is questionable for Monday's game against the Suns due to left adductor tightness."
     },
     {
      "team_id": "24",
@@ -6895,7 +6766,7 @@
      "fg_pct": 40.6,
      "fg3_pct": 35.6,
      "ft_pct": 96.2,
-     "injury_status": null
+     "injury_status": "Day-To-Day"
     }
    ]
   },
@@ -6999,18 +6870,18 @@
   },
   "prediction": {
    "home_points": 110.5,
-   "away_points": 117.5,
-   "home_margin": -7.1,
-   "home_win_prob": 0.309,
-   "away_win_prob": 0.691,
+   "away_points": 117.1,
+   "home_margin": -6.6,
+   "home_win_prob": 0.319,
+   "away_win_prob": 0.681,
    "margin_range80": [
-    -25.2,
-    11.1
+    -24.8,
+    11.5
    ],
-   "total": 228.0,
+   "total": 227.6,
    "total_range80": [
-    204.3,
-    251.7
+    203.9,
+    251.3
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -7018,7 +6889,7 @@
     "team_strength": -8.2,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": -0.8
+    "injuries": -0.4
    },
    "back_to_back": {
     "home": false,
@@ -7033,7 +6904,14 @@
       "impact": -0.8
      }
     ],
-    "away": []
+    "away": [
+     {
+      "athlete_id": "4395630",
+      "name": "Devin Vassell",
+      "status": "Day-To-Day",
+      "impact": -0.4
+     }
+    ]
    },
    "ratings": {
     "home": {
@@ -7048,8 +6926,8 @@
    "vs_line": {
     "spread": 8.5,
     "over_under": 226.5,
-    "home_cover_prob": 0.54,
-    "over_prob": 0.532,
+    "home_cover_prob": 0.552,
+    "over_prob": 0.523,
     "provider": "DraftKings"
    }
   }
@@ -7818,11 +7696,11 @@
      "athlete_id": "4277843",
      "name": "Gary Trent Jr.",
      "position": "G",
-     "status": "Day-To-Day",
+     "status": "Out",
      "injury": "Illness",
-     "return_date": "2026-11-08",
-     "updated": "2026-11-08T18:23Z",
-     "comment": "Trent (illness) has been downgraded to questionable for Sunday's game against Boston."
+     "return_date": "2026-11-10",
+     "updated": "2026-11-08T23:58Z",
+     "comment": "Trent (illness) won't play in Sunday's game versus the Celtics."
     }
    ],
    "top_players": [
@@ -8089,6 +7967,12 @@
   "neutral": false,
   "venue": "Xfinity Mobile Arena",
   "date_kst": "2026-11-11T10:00:00+09:00",
+  "odds": {
+   "provider": "DraftKings",
+   "details": "BOS -1.5",
+   "spread": 1.5,
+   "over_under": 215.5
+  },
   "home": {
    "id": "20",
    "abbr": "PHI",
@@ -8333,20 +8217,7 @@
     "net_rtg": 9.6
    },
    "rest_days": 1,
-   "injuries": [
-    {
-     "team_id": "2",
-     "team": "Boston Celtics",
-     "athlete_id": "4351852",
-     "name": "Mitchell Robinson",
-     "position": "C",
-     "status": "Day-To-Day",
-     "injury": "Illness",
-     "return_date": "2026-11-08",
-     "updated": "2026-11-08T18:21Z",
-     "comment": "Robinson (illness) is questionable for Sunday's game versus Milwaukee, Bobby Krivitsky of Forbes.com reports."
-    }
-   ],
+   "injuries": [],
    "top_players": [
     {
      "athlete_id": "4065648",
@@ -8574,7 +8445,7 @@
     "team_strength": -3.6,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 0.0
+    "injuries": -0.0
    },
    "back_to_back": {
     "home": false,
@@ -8582,14 +8453,7 @@
    },
    "injury_impact": {
     "home": [],
-    "away": [
-     {
-      "athlete_id": "4351852",
-      "name": "Mitchell Robinson",
-      "status": "Day-To-Day",
-      "impact": -0.0
-     }
-    ]
+    "away": []
    },
    "ratings": {
     "home": {
@@ -8600,6 +8464,13 @@
      "offense": -1.0,
      "defense": -6.1
     }
+   },
+   "vs_line": {
+    "spread": 1.5,
+    "over_under": 215.5,
+    "home_cover_prob": 0.496,
+    "over_prob": 0.621,
+    "provider": "DraftKings"
    }
   }
  },
@@ -8668,10 +8539,10 @@
      "name": "Jordan Goodwin",
      "position": "G",
      "status": "Out",
-     "injury": "Left Calf Not Specified",
+     "injury": "Right Calf Not Specified",
      "return_date": "2026-11-09",
-     "updated": "2026-11-08T01:08Z",
-     "comment": "Goodwin (calf) is out for Saturday's game against the Rockets."
+     "updated": "2026-11-09T00:23Z",
+     "comment": "Goodwin (calf) is questionable for Monday's game against the Spurs."
     },
     {
      "team_id": "21",

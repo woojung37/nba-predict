@@ -2952,12 +2952,12 @@
   "home": {
    "id": "8",
    "abbr": "DET",
-   "score": 35
+   "score": 73
   },
   "away": {
    "id": "13",
    "abbr": "LAL",
-   "score": 53
+   "score": 84
   }
  },
  {
@@ -2965,26 +2965,20 @@
   "date": "2026-11-09T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Target Center",
   "home": {
    "id": "16",
    "abbr": "MIN",
-   "score": null
+   "score": 33
   },
   "away": {
    "id": "26",
    "abbr": "UTAH",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "MIN -12.5",
-   "spread": -12.5,
-   "over_under": 222.5
+   "score": 29
   }
  },
  {
@@ -2992,26 +2986,20 @@
   "date": "2026-11-09T00:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "American Airlines Center",
   "home": {
    "id": "6",
    "abbr": "DAL",
-   "score": null
+   "score": 11
   },
   "away": {
    "id": "17",
    "abbr": "BKN",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "DAL -7.5",
-   "spread": -7.5,
-   "over_under": 223.5
+   "score": 5
   }
  },
  {
@@ -3315,6 +3303,12 @@
    "id": "2",
    "abbr": "BOS",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "BOS -1.5",
+   "spread": 1.5,
+   "over_under": 215.5
   }
  },
  {
