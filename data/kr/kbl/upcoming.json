@@ -44,5 +44,51 @@
    "away": 1
   },
   "low_confidence": true
+ },
+ {
+  "id": "512100",
+  "date": "2026-11-10T10:00:00+00:00",
+  "status": "NS",
+  "home": {
+   "id": 1107,
+   "name": "Mobis Phoebus",
+   "ko": "현대모비스"
+  },
+  "away": {
+   "id": 1103,
+   "name": "Goyang Sono",
+   "ko": "소노"
+  },
+  "prediction": {
+   "home_points": 81.7,
+   "away_points": 80.2,
+   "home_margin": 1.5,
+   "home_win_prob": 0.545,
+   "total": 161.8,
+   "margin_range80": [
+    -15.4,
+    18.3
+   ],
+   "total_range80": [
+    141.3,
+    182.3
+   ],
+   "sigma": 13.15,
+   "total_sigma": 15.99,
+   "factors": {
+    "team_strength": 0.5,
+    "home_court": 1.0,
+    "rest": -0.0
+   },
+   "back_to_back": {
+    "home": false,
+    "away": false
+   }
+  },
+  "data_games": {
+   "home": 2,
+   "away": 2
+  },
+  "low_confidence": true
  }
 ]

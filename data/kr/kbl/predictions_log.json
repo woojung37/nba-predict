@@ -383,7 +383,7 @@
   "date": "2026-11-09T10:00:00+00:00",
   "home": "삼성",
   "away": "KT",
-  "predicted_at": "2026-11-09T00:47:46+00:00",
+  "predicted_at": "2026-11-09T03:03:31+00:00",
   "prediction": {
    "home_points": 76.1,
    "away_points": 77.3,
@@ -402,6 +402,38 @@
    "total_sigma": 15.99,
    "factors": {
     "team_strength": -2.2,
+    "home_court": 1.0,
+    "rest": -0.0
+   },
+   "back_to_back": {
+    "home": false,
+    "away": false
+   }
+  }
+ },
+ "512100": {
+  "date": "2026-11-10T10:00:00+00:00",
+  "home": "현대모비스",
+  "away": "소노",
+  "predicted_at": "2026-11-09T03:03:31+00:00",
+  "prediction": {
+   "home_points": 81.7,
+   "away_points": 80.2,
+   "home_margin": 1.5,
+   "home_win_prob": 0.545,
+   "total": 161.8,
+   "margin_range80": [
+    -15.4,
+    18.3
+   ],
+   "total_range80": [
+    141.3,
+    182.3
+   ],
+   "sigma": 13.15,
+   "total_sigma": 15.99,
+   "factors": {
+    "team_strength": 0.5,
     "home_court": 1.0,
     "rest": -0.0
    },
