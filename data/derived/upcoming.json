@@ -508,7 +508,7 @@
     "team_id": "10",
     "abbr": "HOU",
     "conference": "Western Conference",
-    "seed": 6,
+    "seed": 7,
     "wins": 7,
     "losses": 3,
     "win_pct": 0.7,
@@ -1481,9 +1481,9 @@
   "venue": "Chase Center",
   "date_kst": "2026-11-10T12:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
-   "details": "GS -11.5",
-   "spread": -11.5,
+   "provider": "Draft Kings",
+   "details": "GS -10.5",
+   "spread": -10.5,
    "over_under": 228.5
   },
   "home": {
@@ -1494,7 +1494,7 @@
     "team_id": "9",
     "abbr": "GS",
     "conference": "Western Conference",
-    "seed": 5,
+    "seed": 6,
     "wins": 7,
     "losses": 3,
     "win_pct": 0.7,
@@ -2078,11 +2078,11 @@
     }
    },
    "vs_line": {
-    "spread": -11.5,
+    "spread": -10.5,
     "over_under": 228.5,
-    "home_cover_prob": 0.505,
+    "home_cover_prob": 0.534,
     "over_prob": 0.594,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },
@@ -2095,7 +2095,7 @@
   "venue": "Madison Square Garden",
   "date_kst": "2026-11-11T09:30:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "NY -15.5",
    "spread": -15.5,
    "over_under": 220.5
@@ -2612,7 +2612,7 @@
     "over_under": 220.5,
     "home_cover_prob": 0.517,
     "over_prob": 0.569,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },
@@ -2625,7 +2625,7 @@
   "venue": "Xfinity Mobile Arena",
   "date_kst": "2026-11-11T10:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "BOS -1.5",
    "spread": 1.5,
    "over_under": 216.5
@@ -3127,7 +3127,7 @@
     "over_under": 216.5,
     "home_cover_prob": 0.485,
     "over_prob": 0.597,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },
@@ -3705,7 +3705,7 @@
   "venue": "Delta Center",
   "date_kst": "2026-11-11T11:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "MIA -10.5",
    "spread": 10.5,
    "over_under": 228.5
@@ -4222,7 +4222,7 @@
     "over_under": 228.5,
     "home_cover_prob": 0.677,
     "over_prob": 0.708,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },
@@ -4235,7 +4235,7 @@
   "venue": "Golden 1 Center",
   "date_kst": "2026-11-11T12:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "ORL -5.5",
    "spread": 5.5,
    "over_under": 222.5
@@ -4806,7 +4806,7 @@
     "over_under": 222.5,
     "home_cover_prob": 0.578,
     "over_prob": 0.561,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },
@@ -4819,7 +4819,7 @@
   "venue": "Moda Center",
   "date_kst": "2026-11-11T13:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "OKC -1.5",
    "spread": 1.5,
    "over_under": 226.5
@@ -5414,7 +5414,7 @@
     "over_under": 226.5,
     "home_cover_prob": 0.479,
     "over_prob": 0.369,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },
@@ -5677,10 +5677,10 @@
      "athlete_id": "5104155",
      "name": "Bilal Coulibaly",
      "position": "G",
-     "status": "Out",
+     "status": "Day-To-Day",
      "injury": "Left Hand",
      "return_date": "2026-11-11",
-     "updated": "2026-11-09T23:03Z",
+     "updated": "2026-11-10T02:53Z",
      "comment": "Coulibaly (hand) is out for Monday's game against the Pistons."
     },
     {
@@ -5940,18 +5940,18 @@
   },
   "prediction": {
    "home_points": 118.4,
-   "away_points": 114.8,
-   "home_margin": 3.6,
-   "home_win_prob": 0.6,
-   "away_win_prob": 0.4,
+   "away_points": 115.2,
+   "home_margin": 3.3,
+   "home_win_prob": 0.591,
+   "away_win_prob": 0.409,
    "margin_range80": [
-    -14.6,
-    21.7
+    -14.9,
+    21.4
    ],
-   "total": 233.3,
+   "total": 233.6,
    "total_range80": [
-    209.6,
-    257.0
+    209.9,
+    257.3
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -5959,7 +5959,7 @@
     "team_strength": 2.7,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": -1.1
+    "injuries": -1.5
    },
    "back_to_back": {
     "home": false,
@@ -5990,8 +5990,8 @@
      {
       "athlete_id": "5104155",
       "name": "Bilal Coulibaly",
-      "status": "Out",
-      "impact": -0.5
+      "status": "Day-To-Day",
+      "impact": -0.2
      }
     ]
    },
@@ -6242,10 +6242,10 @@
      "athlete_id": "4066757",
      "name": "Sam Merrill",
      "position": "G",
-     "status": "Out",
+     "status": "Day-To-Day",
      "injury": "Right Elbow",
      "return_date": "2026-11-11",
-     "updated": "2026-11-08T22:46Z",
+     "updated": "2026-11-10T02:49Z",
      "comment": "Merrill (elbow) is listed as out for Monday's game against the Hornets."
     },
     {
@@ -6469,18 +6469,18 @@
   },
   "prediction": {
    "home_points": 115.8,
-   "away_points": 108.9,
-   "home_margin": 6.9,
-   "home_win_prob": 0.688,
-   "away_win_prob": 0.312,
+   "away_points": 109.0,
+   "home_margin": 6.8,
+   "home_win_prob": 0.684,
+   "away_win_prob": 0.316,
    "margin_range80": [
-    -11.2,
-    25.1
+    -11.3,
+    24.9
    ],
-   "total": 224.7,
+   "total": 224.8,
    "total_range80": [
-    201.0,
-    248.4
+    201.1,
+    248.5
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -6488,7 +6488,7 @@
     "team_strength": 5.1,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": -0.1
+    "injuries": -0.3
    },
    "back_to_back": {
     "home": false,
@@ -6507,8 +6507,8 @@
      {
       "athlete_id": "4066757",
       "name": "Sam Merrill",
-      "status": "Out",
-      "impact": -0.2
+      "status": "Day-To-Day",
+      "impact": -0.1
      }
     ]
    },
@@ -6542,15 +6542,15 @@
     "conference": "Eastern Conference",
     "seed": 6,
     "wins": 5,
-    "losses": 4,
-    "win_pct": 0.5555556,
-    "games_behind": "3",
-    "home": "2-1",
+    "losses": 5,
+    "win_pct": 0.5,
+    "games_behind": "3.5",
+    "home": "2-2",
     "road": "3-3",
-    "last10": "5-4",
-    "streak": "W1",
-    "ppg": 118.22222,
-    "opp_ppg": 112.77778
+    "last10": "5-5",
+    "streak": "L1",
+    "ppg": 116.6,
+    "opp_ppg": 113.3
    },
    "stats": {
     "gp": 10,
@@ -7611,17 +7611,17 @@
     "team_id": "29",
     "abbr": "MEM",
     "conference": "Western Conference",
-    "seed": 7,
-    "wins": 6,
+    "seed": 5,
+    "wins": 7,
     "losses": 3,
-    "win_pct": 0.6666667,
-    "games_behind": "2.5",
+    "win_pct": 0.7,
+    "games_behind": "2",
     "home": "2-3",
-    "road": "4-0",
-    "last10": "6-3",
-    "streak": "L3",
-    "ppg": 117.888885,
-    "opp_ppg": 111.77778
+    "road": "5-0",
+    "last10": "7-3",
+    "streak": "W1",
+    "ppg": 117.9,
+    "opp_ppg": 110.8
    },
    "stats": {
     "gp": 10,
@@ -8382,10 +8382,10 @@
      "athlete_id": "4066457",
      "name": "Austin Reaves",
      "position": "G",
-     "status": "Out",
+     "status": "Day-To-Day",
      "injury": "Illness",
      "return_date": "2026-11-11",
-     "updated": "2026-11-09T22:33Z",
+     "updated": "2026-11-10T02:53Z",
      "comment": "Reaves (illness) has been ruled out for Monday's game against Atlanta, Benjamin Royer of The Orange County Register reports."
     },
     {
@@ -8394,10 +8394,10 @@
      "athlete_id": "4397014",
      "name": "Quentin Grimes",
      "position": "G",
-     "status": "Out",
+     "status": "Day-To-Day",
      "injury": "Finger",
      "return_date": "2026-11-11",
-     "updated": "2026-11-09T18:13Z",
+     "updated": "2026-11-10T02:53Z",
      "comment": "Grimes (finger) is out for Monday's game against Atlanta, per Dave McMenamin of ESPN.com."
     }
    ],
@@ -8442,7 +8442,7 @@
      "fg_pct": 50.8,
      "fg3_pct": 41.3,
      "ft_pct": 90.9,
-     "injury_status": "Out"
+     "injury_status": "Day-To-Day"
     },
     {
      "athlete_id": "4433136",
@@ -8573,18 +8573,18 @@
   },
   "prediction": {
    "home_points": 112.4,
-   "away_points": 120.6,
-   "home_margin": -8.1,
-   "home_win_prob": 0.282,
-   "away_win_prob": 0.718,
+   "away_points": 122.1,
+   "home_margin": -9.7,
+   "home_win_prob": 0.246,
+   "away_win_prob": 0.754,
    "margin_range80": [
-    -26.3,
-    10.0
+    -27.8,
+    8.4
    ],
-   "total": 233.0,
+   "total": 234.6,
    "total_range80": [
-    209.3,
-    256.7
+    210.9,
+    258.3
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -8592,7 +8592,7 @@
     "team_strength": -11.9,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 1.8
+    "injuries": 0.2
    },
    "back_to_back": {
     "home": false,
@@ -8611,14 +8611,14 @@
      {
       "athlete_id": "4066457",
       "name": "Austin Reaves",
-      "status": "Out",
-      "impact": -2.3
+      "status": "Day-To-Day",
+      "impact": -0.8
      },
      {
       "athlete_id": "4397014",
       "name": "Quentin Grimes",
-      "status": "Out",
-      "impact": -0.1
+      "status": "Day-To-Day",
+      "impact": -0.0
      }
     ]
    },
@@ -9768,7 +9768,7 @@
     "team_id": "10",
     "abbr": "HOU",
     "conference": "Western Conference",
-    "seed": 6,
+    "seed": 7,
     "wins": 7,
     "losses": 3,
     "win_pct": 0.7,
@@ -9963,7 +9963,7 @@
     "team_id": "9",
     "abbr": "GS",
     "conference": "Western Conference",
-    "seed": 5,
+    "seed": 6,
     "wins": 7,
     "losses": 3,
     "win_pct": 0.7,

@@ -86,13 +86,25 @@
  {
   "team_id": "30",
   "team": "Charlotte Hornets",
+  "athlete_id": "4433287",
+  "name": "Brandon Miller",
+  "position": "F",
+  "status": "Day-To-Day",
+  "injury": "Right Groin Soreness",
+  "return_date": "2026-11-12",
+  "updated": "2026-11-10T02:51Z",
+  "comment": "Miller (groin) is listed as out for Monday's game against Cleveland."
+ },
+ {
+  "team_id": "30",
+  "team": "Charlotte Hornets",
   "athlete_id": "4433249",
   "name": "Moussa Diabate",
   "position": "F",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Right Quadriceps",
   "return_date": "2026-11-12",
-  "updated": "2026-11-09T22:16Z",
+  "updated": "2026-11-10T02:51Z",
   "comment": "Diabate (quadriceps) has been downgraded to out for Monday's game against Cleveland."
  },
  {
@@ -132,18 +144,6 @@
   "comment": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports."
  },
  {
-  "team_id": "30",
-  "team": "Charlotte Hornets",
-  "athlete_id": "4433287",
-  "name": "Brandon Miller",
-  "position": "F",
-  "status": "Out",
-  "injury": "Right Groin Soreness",
-  "return_date": "2026-11-12",
-  "updated": "2026-11-08T22:25Z",
-  "comment": "Miller (groin) is listed as out for Monday's game against Cleveland."
- },
- {
   "team_id": "4",
   "team": "Chicago Bulls",
   "athlete_id": "2595516",
@@ -173,10 +173,10 @@
   "athlete_id": "4066757",
   "name": "Sam Merrill",
   "position": "G",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Right Elbow",
   "return_date": "2026-11-11",
-  "updated": "2026-11-08T22:46Z",
+  "updated": "2026-11-10T02:49Z",
   "comment": "Merrill (elbow) is listed as out for Monday's game against the Hornets."
  },
  {
@@ -473,10 +473,10 @@
   "athlete_id": "4066457",
   "name": "Austin Reaves",
   "position": "G",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Illness",
   "return_date": "2026-11-11",
-  "updated": "2026-11-09T22:33Z",
+  "updated": "2026-11-10T02:53Z",
   "comment": "Reaves (illness) has been ruled out for Monday's game against Atlanta, Benjamin Royer of The Orange County Register reports."
  },
  {
@@ -485,10 +485,10 @@
   "athlete_id": "4397014",
   "name": "Quentin Grimes",
   "position": "G",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Finger",
   "return_date": "2026-11-11",
-  "updated": "2026-11-09T18:13Z",
+  "updated": "2026-11-10T02:53Z",
   "comment": "Grimes (finger) is out for Monday's game against Atlanta, per Dave McMenamin of ESPN.com."
  },
  {
@@ -1073,10 +1073,10 @@
   "athlete_id": "5104155",
   "name": "Bilal Coulibaly",
   "position": "G",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Left Hand",
   "return_date": "2026-11-11",
-  "updated": "2026-11-09T23:03Z",
+  "updated": "2026-11-10T02:53Z",
   "comment": "Coulibaly (hand) is out for Monday's game against the Pistons."
  },
  {
