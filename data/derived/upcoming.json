@@ -1476,16 +1476,10 @@
   "id": "401909959",
   "date": "2026-11-10T03:00Z",
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "neutral": false,
   "venue": "Chase Center",
   "date_kst": "2026-11-10T12:00:00+09:00",
-  "odds": {
-   "provider": "Draft Kings",
-   "details": "GS -10.5",
-   "spread": -10.5,
-   "over_under": 228.5
-  },
   "home": {
    "id": "9",
    "abbr": "GS",
@@ -2010,80 +2004,16 @@
     }
    ]
   },
-  "prediction": {
+  "pre_game_prediction": {
    "home_points": 122.3,
    "away_points": 110.6,
    "home_margin": 11.7,
    "home_win_prob": 0.796,
-   "away_win_prob": 0.204,
    "margin_range80": [
     -6.4,
     29.8
    ],
-   "total": 232.9,
-   "total_range80": [
-    209.2,
-    256.6
-   ],
-   "sigma": 14.15,
-   "total_sigma": 18.49,
-   "factors": {
-    "team_strength": 3.5,
-    "home_court": 2.0,
-    "rest": 3.0,
-    "injuries": 3.2
-   },
-   "back_to_back": {
-    "home": false,
-    "away": true
-   },
-   "injury_impact": {
-    "home": [
-     {
-      "athlete_id": "3102531",
-      "name": "Kristaps Porzingis",
-      "status": "Out",
-      "impact": -1.6
-     }
-    ],
-    "away": [
-     {
-      "athlete_id": "4395628",
-      "name": "Zion Williamson",
-      "status": "Out",
-      "impact": -2.4
-     },
-     {
-      "athlete_id": "4397688",
-      "name": "Trey Murphy III",
-      "status": "Out",
-      "impact": -1.6
-     },
-     {
-      "athlete_id": "5061589",
-      "name": "Yves Missi",
-      "status": "Out",
-      "impact": -0.8
-     }
-    ]
-   },
-   "ratings": {
-    "home": {
-     "offense": 2.0,
-     "defense": 0.5
-    },
-    "away": {
-     "offense": 2.8,
-     "defense": 4.8
-    }
-   },
-   "vs_line": {
-    "spread": -10.5,
-    "over_under": 228.5,
-    "home_cover_prob": 0.534,
-    "over_prob": 0.594,
-    "provider": "Draft Kings"
-   }
+   "total": 232.9
   }
  },
  {
@@ -2095,7 +2025,7 @@
   "venue": "Madison Square Garden",
   "date_kst": "2026-11-11T09:30:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "NY -15.5",
    "spread": -15.5,
    "over_under": 220.5
@@ -2612,7 +2542,7 @@
     "over_under": 220.5,
     "home_cover_prob": 0.517,
     "over_prob": 0.569,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -2625,7 +2555,7 @@
   "venue": "Xfinity Mobile Arena",
   "date_kst": "2026-11-11T10:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "BOS -1.5",
    "spread": 1.5,
    "over_under": 216.5
@@ -3127,7 +3057,7 @@
     "over_under": 216.5,
     "home_cover_prob": 0.485,
     "over_prob": 0.597,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -3705,10 +3635,10 @@
   "venue": "Delta Center",
   "date_kst": "2026-11-11T11:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
-   "details": "MIA -10.5",
-   "spread": 10.5,
-   "over_under": 228.5
+   "provider": "DraftKings",
+   "details": "MIA -9.5",
+   "spread": 9.5,
+   "over_under": 227.5
   },
   "home": {
    "id": "26",
@@ -4218,11 +4148,11 @@
     }
    },
    "vs_line": {
-    "spread": 10.5,
-    "over_under": 228.5,
-    "home_cover_prob": 0.677,
-    "over_prob": 0.708,
-    "provider": "Draft Kings"
+    "spread": 9.5,
+    "over_under": 227.5,
+    "home_cover_prob": 0.651,
+    "over_prob": 0.727,
+    "provider": "DraftKings"
    }
   }
  },
@@ -4235,7 +4165,7 @@
   "venue": "Golden 1 Center",
   "date_kst": "2026-11-11T12:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "ORL -5.5",
    "spread": 5.5,
    "over_under": 222.5
@@ -4806,7 +4736,7 @@
     "over_under": 222.5,
     "home_cover_prob": 0.578,
     "over_prob": 0.561,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -4819,7 +4749,7 @@
   "venue": "Moda Center",
   "date_kst": "2026-11-11T13:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "OKC -1.5",
    "spread": 1.5,
    "over_under": 226.5
@@ -5414,7 +5344,7 @@
     "over_under": 226.5,
     "home_cover_prob": 0.479,
     "over_prob": 0.369,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -6588,10 +6518,10 @@
      "athlete_id": "4395724",
      "name": "Immanuel Quickley",
      "position": "G",
-     "status": "Out",
+     "status": "Day-To-Day",
      "injury": "Right Hamstring",
      "return_date": "2026-11-11",
-     "updated": "2026-11-09T22:54Z",
+     "updated": "2026-11-10T03:02Z",
      "comment": "Quickley (hamstring) has been ruled out for Monday's game against Memphis, Esfandiar Baraheni of The Athletic reports."
     },
     {
@@ -6600,10 +6530,10 @@
      "athlete_id": "5093267",
      "name": "Collin Murray-Boyles",
      "position": "F",
-     "status": "Out",
+     "status": "Day-To-Day",
      "injury": "Illness",
      "return_date": "2026-11-11",
-     "updated": "2026-11-09T22:52Z",
+     "updated": "2026-11-10T03:01Z",
      "comment": "Murray-Boyles (illness) is out for Monday's game against the Grizzlies, Esfandiar Baraheni of The Athletic reports."
     },
     {
@@ -6612,10 +6542,10 @@
      "athlete_id": "4433134",
      "name": "Scottie Barnes",
      "position": "F",
-     "status": "Out",
+     "status": "Day-To-Day",
      "injury": "Left Groin Soreness",
      "return_date": "2026-11-11",
-     "updated": "2026-11-09T22:50Z",
+     "updated": "2026-11-10T03:01Z",
      "comment": "Barnes (groin) is out for Monday's game against the Grizzlies, Esfandiar Baraheni of The Athletic reports."
     },
     {
@@ -6663,7 +6593,7 @@
      "fg_pct": 47.5,
      "fg3_pct": 15.4,
      "ft_pct": 68.0,
-     "injury_status": "Out"
+     "injury_status": "Day-To-Day"
     },
     {
      "athlete_id": "4395625",
@@ -6726,7 +6656,7 @@
      "fg_pct": 40.9,
      "fg3_pct": 33.3,
      "ft_pct": 84.8,
-     "injury_status": "Out"
+     "injury_status": "Day-To-Day"
     },
     {
      "athlete_id": "4684272",
@@ -7008,19 +6938,19 @@
    ]
   },
   "prediction": {
-   "home_points": 103.3,
+   "home_points": 106.8,
    "away_points": 112.4,
-   "home_margin": -9.1,
-   "home_win_prob": 0.26,
-   "away_win_prob": 0.74,
+   "home_margin": -5.6,
+   "home_win_prob": 0.346,
+   "away_win_prob": 0.654,
    "margin_range80": [
-    -27.2,
-    9.0
+    -23.7,
+    12.5
    ],
-   "total": 215.7,
+   "total": 219.2,
    "total_range80": [
-    192.0,
-    239.4
+    195.5,
+    242.9
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -7028,7 +6958,7 @@
     "team_strength": -2.9,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": -8.2
+    "injuries": -4.7
    },
    "back_to_back": {
     "home": false,
@@ -7037,28 +6967,28 @@
    "injury_impact": {
     "home": [
      {
-      "athlete_id": "4433134",
-      "name": "Scottie Barnes",
-      "status": "Out",
-      "impact": -2.9
-     },
-     {
       "athlete_id": "6450",
       "name": "Kawhi Leonard",
       "status": "Out",
       "impact": -2.9
      },
      {
+      "athlete_id": "4433134",
+      "name": "Scottie Barnes",
+      "status": "Day-To-Day",
+      "impact": -1.0
+     },
+     {
       "athlete_id": "4395724",
       "name": "Immanuel Quickley",
-      "status": "Out",
-      "impact": -1.4
+      "status": "Day-To-Day",
+      "impact": -0.5
      },
      {
       "athlete_id": "5093267",
       "name": "Collin Murray-Boyles",
-      "status": "Out",
-      "impact": -1.1
+      "status": "Day-To-Day",
+      "impact": -0.4
      }
     ],
     "away": []
@@ -7656,14 +7586,26 @@
     {
      "team_id": "29",
      "team": "Memphis Grizzlies",
+     "athlete_id": "4432810",
+     "name": "Isaiah Stewart",
+     "position": "C",
+     "status": "Day-To-Day",
+     "injury": "Right Knee Bruise",
+     "return_date": "2026-11-11",
+     "updated": "2026-11-10T03:01Z",
+     "comment": "Stewart (knee) has been ruled out for Monday's game against Toronto."
+    },
+    {
+     "team_id": "29",
+     "team": "Memphis Grizzlies",
      "athlete_id": "4593016",
      "name": "Quinten Post",
      "position": "C",
      "status": "Day-To-Day",
      "injury": "Head",
-     "return_date": "2026-11-09",
-     "updated": "2026-11-10T01:17Z",
-     "comment": "Post is doubtful to return to Monday's game against Toronto due to a head injury."
+     "return_date": "2026-11-11",
+     "updated": "2026-11-10T02:58Z",
+     "comment": "Post (head) didn't return to Monday's 118-102 win over the Raptors. He ended the night with one rebound in two minutes."
     },
     {
      "team_id": "29",
@@ -7676,18 +7618,6 @@
      "return_date": "2026-11-11",
      "updated": "2026-11-08T23:07Z",
      "comment": "Pippen (back) won't play in Monday's game versus the Raptors."
-    },
-    {
-     "team_id": "29",
-     "team": "Memphis Grizzlies",
-     "athlete_id": "4432810",
-     "name": "Isaiah Stewart",
-     "position": "C",
-     "status": "Out",
-     "injury": "Right Knee Bruise",
-     "return_date": "2026-11-11",
-     "updated": "2026-11-08T23:01Z",
-     "comment": "Stewart (knee) has been ruled out for Monday's game against Toronto."
     },
     {
      "team_id": "29",
@@ -7785,7 +7715,7 @@
      "fg_pct": 66.7,
      "fg3_pct": 57.1,
      "ft_pct": 100.0,
-     "injury_status": "Out"
+     "injury_status": "Day-To-Day"
     },
     {
      "athlete_id": "5112087",
@@ -8082,9 +8012,9 @@
   "prediction": {
    "home_points": 118.0,
    "away_points": 120.7,
-   "home_margin": -2.8,
-   "home_win_prob": 0.423,
-   "away_win_prob": 0.577,
+   "home_margin": -2.7,
+   "home_win_prob": 0.424,
+   "away_win_prob": 0.576,
    "margin_range80": [
     -20.9,
     15.4
@@ -8117,7 +8047,7 @@
      {
       "athlete_id": "4432810",
       "name": "Isaiah Stewart",
-      "status": "Out",
+      "status": "Day-To-Day",
       "impact": -0.0
      }
     ],

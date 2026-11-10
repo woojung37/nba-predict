@@ -494,14 +494,26 @@
  {
   "team_id": "29",
   "team": "Memphis Grizzlies",
+  "athlete_id": "4432810",
+  "name": "Isaiah Stewart",
+  "position": "C",
+  "status": "Day-To-Day",
+  "injury": "Right Knee Bruise",
+  "return_date": "2026-11-11",
+  "updated": "2026-11-10T03:01Z",
+  "comment": "Stewart (knee) has been ruled out for Monday's game against Toronto."
+ },
+ {
+  "team_id": "29",
+  "team": "Memphis Grizzlies",
   "athlete_id": "4593016",
   "name": "Quinten Post",
   "position": "C",
   "status": "Day-To-Day",
   "injury": "Head",
-  "return_date": "2026-11-09",
-  "updated": "2026-11-10T01:17Z",
-  "comment": "Post is doubtful to return to Monday's game against Toronto due to a head injury."
+  "return_date": "2026-11-11",
+  "updated": "2026-11-10T02:58Z",
+  "comment": "Post (head) didn't return to Monday's 118-102 win over the Raptors. He ended the night with one rebound in two minutes."
  },
  {
   "team_id": "29",
@@ -514,18 +526,6 @@
   "return_date": "2026-11-11",
   "updated": "2026-11-08T23:07Z",
   "comment": "Pippen (back) won't play in Monday's game versus the Raptors."
- },
- {
-  "team_id": "29",
-  "team": "Memphis Grizzlies",
-  "athlete_id": "4432810",
-  "name": "Isaiah Stewart",
-  "position": "C",
-  "status": "Out",
-  "injury": "Right Knee Bruise",
-  "return_date": "2026-11-11",
-  "updated": "2026-11-08T23:01Z",
-  "comment": "Stewart (knee) has been ruled out for Monday's game against Toronto."
  },
  {
   "team_id": "29",
@@ -965,10 +965,10 @@
   "athlete_id": "4395724",
   "name": "Immanuel Quickley",
   "position": "G",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Right Hamstring",
   "return_date": "2026-11-11",
-  "updated": "2026-11-09T22:54Z",
+  "updated": "2026-11-10T03:02Z",
   "comment": "Quickley (hamstring) has been ruled out for Monday's game against Memphis, Esfandiar Baraheni of The Athletic reports."
  },
  {
@@ -977,10 +977,10 @@
   "athlete_id": "5093267",
   "name": "Collin Murray-Boyles",
   "position": "F",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Illness",
   "return_date": "2026-11-11",
-  "updated": "2026-11-09T22:52Z",
+  "updated": "2026-11-10T03:01Z",
   "comment": "Murray-Boyles (illness) is out for Monday's game against the Grizzlies, Esfandiar Baraheni of The Athletic reports."
  },
  {
@@ -989,10 +989,10 @@
   "athlete_id": "4433134",
   "name": "Scottie Barnes",
   "position": "F",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Left Groin Soreness",
   "return_date": "2026-11-11",
-  "updated": "2026-11-09T22:50Z",
+  "updated": "2026-11-10T03:01Z",
   "comment": "Barnes (groin) is out for Monday's game against the Grizzlies, Esfandiar Baraheni of The Athletic reports."
  },
  {
