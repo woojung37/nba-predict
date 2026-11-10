@@ -566,6 +566,18 @@
  {
   "team_id": "15",
   "team": "Milwaukee Bucks",
+  "athlete_id": "5105623",
+  "name": "Kel'el Ware",
+  "position": "C",
+  "status": "Day-To-Day",
+  "injury": "Left Ankle Sprain",
+  "return_date": "2026-11-10",
+  "updated": "2026-11-10T17:18Z",
+  "comment": "Ware is questionable for Tuesday's game against the Knicks due to a left ankle sprain."
+ },
+ {
+  "team_id": "15",
+  "team": "Milwaukee Bucks",
   "athlete_id": "4395725",
   "name": "Tyler Herro",
   "position": "G",
@@ -605,11 +617,11 @@
   "athlete_id": "4431675",
   "name": "Trendon Watford",
   "position": "F",
-  "status": "Day-To-Day",
+  "status": "Out",
   "injury": "Ankle",
-  "return_date": "2026-11-11",
-  "updated": "2026-11-10T05:28Z",
-  "comment": "Watford (ankle) is out for Monday's game versus Utah."
+  "return_date": "2026-11-13",
+  "updated": "2026-11-10T19:26Z",
+  "comment": "Watford (ankle) is out for Wednesday's game against the Nets."
  },
  {
   "team_id": "3",
@@ -620,20 +632,8 @@
   "status": "Day-To-Day",
   "injury": "Not Specified Knee Tendinitis",
   "return_date": "2026-11-11",
-  "updated": "2026-11-10T05:28Z",
-  "comment": "Murphy (knees) has been ruled out for Monday's game against Golden State."
- },
- {
-  "team_id": "3",
-  "team": "New Orleans Pelicans",
-  "athlete_id": "4395628",
-  "name": "Zion Williamson",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Rest",
-  "return_date": "2026-11-11",
-  "updated": "2026-11-10T05:27Z",
-  "comment": "Williamson (rest) is out for Monday's game against the Warriors."
+  "updated": "2026-11-10T19:22Z",
+  "comment": "Murphy (knee) is probable for Wednesday's game against the Nets."
  },
  {
   "team_id": "3",
@@ -656,8 +656,8 @@
   "status": "Day-To-Day",
   "injury": "Ankle",
   "return_date": "2026-11-10",
-  "updated": "2026-11-09T22:04Z",
-  "comment": "Hart is questionable for Tuesday's game against the Bucks due to right ankle soreness."
+  "updated": "2026-11-10T19:20Z",
+  "comment": "Hart is doubtful for Tuesday's game against the Bucks due to an illness."
  },
  {
   "team_id": "25",
@@ -722,6 +722,18 @@
  {
   "team_id": "19",
   "team": "Orlando Magic",
+  "athlete_id": "4702382",
+  "name": "Tristan da Silva",
+  "position": "F",
+  "status": "Day-To-Day",
+  "injury": "Left Calf Strain",
+  "return_date": "2026-11-10",
+  "updated": "2026-11-10T16:50Z",
+  "comment": "Da Silva is questionable for Tuesday's game against the Kings due to a left calf strain."
+ },
+ {
+  "team_id": "19",
+  "team": "Orlando Magic",
   "athlete_id": "4432165",
   "name": "Jalen Suggs",
   "position": "G",
@@ -739,7 +751,7 @@
   "position": "F",
   "status": "Out",
   "injury": "Left Knee Not Specified",
-  "return_date": "2026-11-11",
+  "return_date": "2026-11-16",
   "updated": "2026-11-09T23:10Z",
   "comment": "Isaac (knee) is out for Tuesday's game against Sacramento."
  },
@@ -818,18 +830,6 @@
  {
   "team_id": "21",
   "team": "Phoenix Suns",
-  "athlete_id": "4278402",
-  "name": "Jordan Goodwin",
-  "position": "G",
-  "status": "Out",
-  "injury": "Right Calf Not Specified",
-  "return_date": "2026-11-10",
-  "updated": "2026-11-10T00:21Z",
-  "comment": "Goodwin (calf) has been ruled out for Monday's game against the Spurs, Kellan Olson of ArizonaSports.com reports."
- },
- {
-  "team_id": "21",
-  "team": "Phoenix Suns",
   "athlete_id": "4701232",
   "name": "Mark Williams",
   "position": "C",
@@ -890,30 +890,6 @@
  {
   "team_id": "23",
   "team": "Sacramento Kings",
-  "athlete_id": "4594327",
-  "name": "Keegan Murray",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Right Wrist Soreness",
-  "return_date": "2026-11-10",
-  "updated": "2026-11-10T00:36Z",
-  "comment": "Murray is questionable for Tuesday's game against the Magic due to right wrist soreness."
- },
- {
-  "team_id": "23",
-  "team": "Sacramento Kings",
-  "athlete_id": "3155942",
-  "name": "Domantas Sabonis",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Left Knee Soreness",
-  "return_date": "2026-11-10",
-  "updated": "2026-11-10T00:35Z",
-  "comment": "Sabonis (knee) is questionable to play Tuesday's game against the Magic."
- },
- {
-  "team_id": "23",
-  "team": "Sacramento Kings",
   "athlete_id": "3907387",
   "name": "Ben Simmons",
   "position": "G",
@@ -958,6 +934,18 @@
   "return_date": "2026-12-03",
   "updated": "2026-10-05T21:43Z",
   "comment": "Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports."
+ },
+ {
+  "team_id": "28",
+  "team": "Toronto Raptors",
+  "athlete_id": "6450",
+  "name": "Kawhi Leonard",
+  "position": "F",
+  "status": "Out",
+  "injury": "Left Knee Inflammation",
+  "return_date": "2026-11-23",
+  "updated": "2026-11-10T17:33Z",
+  "comment": "Leonard (knee) is continuing the reconditioning process, and another update will be provided in one week, Blake Murphy of Sportsnet.ca reports."
  },
  {
   "team_id": "28",
@@ -1008,16 +996,16 @@
   "comment": "Bittle (foot) is listed as out for Monday's game against Memphis."
  },
  {
-  "team_id": "28",
-  "team": "Toronto Raptors",
-  "athlete_id": "6450",
-  "name": "Kawhi Leonard",
+  "team_id": "26",
+  "team": "Utah Jazz",
+  "athlete_id": "4066336",
+  "name": "Lauri Markkanen",
   "position": "F",
   "status": "Out",
-  "injury": "Left Knee Inflammation",
-  "return_date": "2026-11-23",
-  "updated": "2026-11-04T00:14Z",
-  "comment": "Leonard has completed treatment to reduce swelling in his left knee and he will be re-evaluated in one week, Brett Siegel of ClutchPoints.com reports."
+  "injury": "Right Wrist Sprain",
+  "return_date": "2026-11-11",
+  "updated": "2026-11-10T18:30Z",
+  "comment": "Markkanen is out for Tuesday's game versus the Heat with a right wrist sprain."
  },
  {
   "team_id": "26",
@@ -1030,18 +1018,6 @@
   "return_date": "2026-11-11",
   "updated": "2026-11-10T00:08Z",
   "comment": "George (ankle) has been ruled out for Tuesday's game against the Heat."
- },
- {
-  "team_id": "26",
-  "team": "Utah Jazz",
-  "athlete_id": "4066336",
-  "name": "Lauri Markkanen",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Right Wrist Sprain",
-  "return_date": "2026-11-10",
-  "updated": "2026-11-10T00:08Z",
-  "comment": "Markkanen (wrist) is questionable for Tuesday's game against Miami."
  },
  {
   "team_id": "26",
