@@ -197,10 +197,10 @@
   "athlete_id": "4873153",
   "name": "Morez Johnson Jr.",
   "position": "F",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Leg",
   "return_date": "2026-11-12",
-  "updated": "2026-11-09T23:07Z",
+  "updated": "2026-11-10T03:46Z",
   "comment": "Johnson (leg) has been ruled out for Monday's game against the Pacers."
  },
  {
@@ -281,11 +281,23 @@
   "athlete_id": "3134903",
   "name": "Gary Payton II",
   "position": "G",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Left Knee Inflammation",
   "return_date": "2026-11-11",
-  "updated": "2026-11-10T01:50Z",
+  "updated": "2026-11-10T05:26Z",
   "comment": "Payton (knee) has been ruled out for Monday's game against the Pelicans."
+ },
+ {
+  "team_id": "9",
+  "team": "Golden State Warriors",
+  "athlete_id": "4397040",
+  "name": "Brandon Williams",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Left Hamstring Not Specified",
+  "return_date": "2026-11-11",
+  "updated": "2026-11-10T04:41Z",
+  "comment": "Williams has been ruled out for the remainder of Monday's game against the Pelicans due to a left hamstring injury, Danny Emerman of SFStandard.com reports. He'll finish with four points (2-3 FG) in two minutes."
  },
  {
   "team_id": "9",
@@ -338,6 +350,18 @@
  {
   "team_id": "10",
   "team": "Houston Rockets",
+  "athlete_id": "4432827",
+  "name": "Oscar Tshiebwe",
+  "position": "C",
+  "status": "Day-To-Day",
+  "injury": "Illness",
+  "return_date": "2026-11-11",
+  "updated": "2026-11-10T03:59Z",
+  "comment": "Tshiebwe has been ruled out for Monday's game against the Nuggets due to an illness."
+ },
+ {
+  "team_id": "10",
+  "team": "Houston Rockets",
   "athlete_id": "3102529",
   "name": "Clint Capela",
   "position": "C",
@@ -358,18 +382,6 @@
   "return_date": "2026-11-15",
   "updated": "2026-11-09T23:55Z",
   "comment": "Head coach Ime Udoka said Monday that Adams could return as soon as Sunday's game at Washington, Lachard Binkley of SI.com reports."
- },
- {
-  "team_id": "10",
-  "team": "Houston Rockets",
-  "athlete_id": "4432827",
-  "name": "Oscar Tshiebwe",
-  "position": "C",
-  "status": "Out",
-  "injury": "Illness",
-  "return_date": "2026-11-11",
-  "updated": "2026-11-09T17:36Z",
-  "comment": "Tshiebwe has been ruled out for Monday's game against the Nuggets due to an illness."
  },
  {
   "team_id": "11",
@@ -564,18 +576,6 @@
   "comment": "Herro (contusion) is listed as questionable for Tuesday's game against the Knicks."
  },
  {
-  "team_id": "15",
-  "team": "Milwaukee Bucks",
-  "athlete_id": "4277843",
-  "name": "Gary Trent Jr.",
-  "position": "G",
-  "status": "Day-To-Day",
-  "injury": "Illness",
-  "return_date": "2026-11-10",
-  "updated": "2026-11-09T15:57Z",
-  "comment": "Trent (illness) won't play in Sunday's game versus the Celtics."
- },
- {
   "team_id": "16",
   "team": "Minnesota Timberwolves",
   "athlete_id": "4594268",
@@ -602,25 +602,13 @@
  {
   "team_id": "3",
   "team": "New Orleans Pelicans",
-  "athlete_id": "4395628",
-  "name": "Zion Williamson",
-  "position": "F",
-  "status": "Out",
-  "injury": "Rest",
-  "return_date": "2026-11-11",
-  "updated": "2026-11-09T21:49Z",
-  "comment": "Williamson (rest) is out for Monday's game against the Warriors."
- },
- {
-  "team_id": "3",
-  "team": "New Orleans Pelicans",
   "athlete_id": "4431675",
   "name": "Trendon Watford",
   "position": "F",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Ankle",
   "return_date": "2026-11-11",
-  "updated": "2026-11-09T20:50Z",
+  "updated": "2026-11-10T05:28Z",
   "comment": "Watford (ankle) is out for Monday's game versus Utah."
  },
  {
@@ -629,11 +617,23 @@
   "athlete_id": "4397688",
   "name": "Trey Murphy III",
   "position": "F",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Not Specified Knee Tendinitis",
   "return_date": "2026-11-11",
-  "updated": "2026-11-09T20:49Z",
+  "updated": "2026-11-10T05:28Z",
   "comment": "Murphy (knees) has been ruled out for Monday's game against Golden State."
+ },
+ {
+  "team_id": "3",
+  "team": "New Orleans Pelicans",
+  "athlete_id": "4395628",
+  "name": "Zion Williamson",
+  "position": "F",
+  "status": "Day-To-Day",
+  "injury": "Rest",
+  "return_date": "2026-11-11",
+  "updated": "2026-11-10T05:27Z",
+  "comment": "Williamson (rest) is out for Monday's game against the Warriors."
  },
  {
   "team_id": "3",
@@ -929,10 +929,10 @@
   "athlete_id": "4395630",
   "name": "Devin Vassell",
   "position": "G",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Left Groin",
   "return_date": "2026-11-11",
-  "updated": "2026-11-09T18:41Z",
+  "updated": "2026-11-10T04:32Z",
   "comment": "Vassell (groin) is out for Monday's game against the Suns, Tom Orsborn of the San Antonio Express-News reports."
  },
  {
