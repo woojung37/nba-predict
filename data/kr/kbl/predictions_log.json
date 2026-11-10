@@ -447,13 +447,19 @@
     "home": false,
     "away": false
    }
+  },
+  "result": {
+   "home_score": 79,
+   "away_score": 86,
+   "home_margin": -7,
+   "total": 165
   }
  },
  "512101": {
   "date": "2026-11-11T10:00:00+00:00",
   "home": "LG",
   "away": "SK",
-  "predicted_at": "2026-11-10T11:00:28+00:00",
+  "predicted_at": "2026-11-10T13:46:28+00:00",
   "prediction": {
    "home_points": 76.1,
    "away_points": 75.9,
@@ -465,7 +471,7 @@
     17.1
    ],
    "total_range80": [
-    131.5,
+    131.6,
     172.5
    ],
    "sigma": 13.15,

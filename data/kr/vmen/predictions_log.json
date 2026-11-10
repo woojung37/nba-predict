@@ -340,13 +340,37 @@
    "away_minus_1_5": 0.273,
    "full_five_sets": 0.373,
    "edge": 0.026
+  },
+  "result": {
+   "home_score": 1,
+   "away_score": 3,
+   "home_margin": -2,
+   "total": 210,
+   "sets": [
+    [
+     25,
+     22
+    ],
+    [
+     22,
+     25
+    ],
+    [
+     23,
+     25
+    ],
+    [
+     33,
+     35
+    ]
+   ]
   }
  },
  "213279": {
   "date": "2026-11-11T10:00:00+00:00",
   "home": "우리카드",
   "away": "대한항공",
-  "predicted_at": "2026-11-10T11:00:28+00:00",
+  "predicted_at": "2026-11-10T13:46:28+00:00",
   "prediction": {
    "home_win_prob": 0.667,
    "scores": {

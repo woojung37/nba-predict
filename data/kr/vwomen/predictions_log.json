@@ -336,13 +336,37 @@
    "away_minus_1_5": 0.276,
    "full_five_sets": 0.373,
    "edge": 0.022
+  },
+  "result": {
+   "home_score": 1,
+   "away_score": 3,
+   "home_margin": -2,
+   "total": 188,
+   "sets": [
+    [
+     23,
+     25
+    ],
+    [
+     25,
+     23
+    ],
+    [
+     26,
+     28
+    ],
+    [
+     13,
+     25
+    ]
+   ]
   }
  },
  "213405": {
   "date": "2026-11-11T10:00:00+00:00",
   "home": "현대건설",
   "away": "GS칼텍스",
-  "predicted_at": "2026-11-10T11:00:28+00:00",
+  "predicted_at": "2026-11-10T13:46:28+00:00",
   "prediction": {
    "home_win_prob": 0.573,
    "scores": {

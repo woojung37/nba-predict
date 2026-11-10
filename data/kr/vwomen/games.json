@@ -9423,22 +9423,34 @@
   "id": "213404",
   "date": "2026-11-10T10:00:00+00:00",
   "season": 2026,
-  "status": "S1",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 4452,
    "name": "SOOP SOOPers W",
-   "score": 0
+   "score": 1
   },
   "away": {
    "id": 1182,
    "name": "IBK W",
-   "score": 0
+   "score": 3
   },
   "sets": [
    [
-    16,
-    18
+    23,
+    25
+   ],
+   [
+    25,
+    23
+   ],
+   [
+    26,
+    28
+   ],
+   [
+    13,
+    25
    ]
   ]
  },

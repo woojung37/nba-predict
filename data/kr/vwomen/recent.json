@@ -1,5 +1,62 @@
 [
  {
+  "id": "213404",
+  "date": "2026-11-10T10:00:00+00:00",
+  "home": {
+   "id": 4452,
+   "name": "SOOP SOOPers W",
+   "ko": "SOOP SOOPers W"
+  },
+  "away": {
+   "id": 1182,
+   "name": "IBK W",
+   "ko": "IBK기업은행"
+  },
+  "home_score": 1,
+  "away_score": 3,
+  "sets": [
+   [
+    23,
+    25
+   ],
+   [
+    25,
+    23
+   ],
+   [
+    26,
+    28
+   ],
+   [
+    13,
+    25
+   ]
+  ],
+  "pre_game_prediction": {
+   "home_win_prob": 0.546,
+   "scores": {
+    "3-0": 0.145,
+    "0-3": 0.107,
+    "3-1": 0.206,
+    "1-3": 0.169,
+    "3-2": 0.194,
+    "2-3": 0.179
+   },
+   "set_win_prob": 0.525,
+   "expected_sets": 4.12,
+   "total": 175.7,
+   "total_range80": [
+    136.8,
+    214.5
+   ],
+   "total_sigma": 30.34,
+   "home_minus_1_5": 0.351,
+   "away_minus_1_5": 0.276,
+   "full_five_sets": 0.373,
+   "edge": 0.022
+  }
+ },
+ {
   "id": "213403",
   "date": "2026-11-08T07:00:00+00:00",
   "home": {
