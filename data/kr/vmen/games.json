@@ -9329,19 +9329,24 @@
   "id": "213278",
   "date": "2026-11-10T10:00:00+00:00",
   "season": 2026,
-  "status": "NS",
+  "status": "S1",
   "completed": false,
   "home": {
    "id": 1175,
    "name": "Samsung Blue Fangs",
-   "score": null
+   "score": 0
   },
   "away": {
    "id": 1173,
    "name": "Kepco",
-   "score": null
+   "score": 0
   },
-  "sets": []
+  "sets": [
+   [
+    22,
+    17
+   ]
+  ]
  },
  {
   "id": "213279",
