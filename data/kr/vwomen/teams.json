@@ -20,6 +20,16 @@
   "rating": 0.024
  },
  {
+  "id": 1179,
+  "name": "GS Caltex W",
+  "ko": "GS칼텍스",
+  "wins": 1,
+  "losses": 1,
+  "points_for": 172,
+  "points_against": 163,
+  "rating": 0.032
+ },
+ {
   "id": 1180,
   "name": "Hungkuk W",
   "ko": "흥국생명",
@@ -40,26 +50,6 @@
   "rating": -0.002
  },
  {
-  "id": 1179,
-  "name": "GS Caltex W",
-  "ko": "GS칼텍스",
-  "wins": 0,
-  "losses": 1,
-  "points_for": 93,
-  "points_against": 103,
-  "rating": 0.001
- },
- {
-  "id": 1181,
-  "name": "Hyundai E&C Hillstate W",
-  "ko": "현대건설",
-  "wins": 0,
-  "losses": 2,
-  "points_for": 154,
-  "points_against": 173,
-  "rating": -0.008
- },
- {
   "id": 2162,
   "name": "Pepper Savings Bank W",
   "ko": "페퍼저축은행",
@@ -78,5 +68,15 @@
   "points_for": 172,
   "points_against": 193,
   "rating": -0.029
+ },
+ {
+  "id": 1181,
+  "name": "Hyundai E&C Hillstate W",
+  "ko": "현대건설",
+  "wins": 0,
+  "losses": 3,
+  "points_for": 214,
+  "points_against": 252,
+  "rating": -0.038
  }
 ]

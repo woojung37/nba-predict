@@ -9364,17 +9364,17 @@
   "id": "213279",
   "date": "2026-11-11T10:00:00+00:00",
   "season": 2026,
-  "status": "S2",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 1176,
    "name": "Woori",
-   "score": 0
+   "score": 3
   },
   "away": {
    "id": 1171,
    "name": "KAL Jumbos",
-   "score": 1
+   "score": 2
   },
   "sets": [
    [
@@ -9382,7 +9382,19 @@
     25
    ],
    [
-    13,
+    25,
+    22
+   ],
+   [
+    25,
+    16
+   ],
+   [
+    22,
+    25
+   ],
+   [
+    15,
     12
    ]
   ]

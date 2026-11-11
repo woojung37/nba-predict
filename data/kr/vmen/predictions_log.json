@@ -393,13 +393,41 @@
    "away_minus_1_5": 0.187,
    "full_five_sets": 0.349,
    "edge": 0.095
+  },
+  "result": {
+   "home_score": 3,
+   "away_score": 2,
+   "home_margin": 1,
+   "total": 205,
+   "sets": [
+    [
+     18,
+     25
+    ],
+    [
+     25,
+     22
+    ],
+    [
+     25,
+     16
+    ],
+    [
+     22,
+     25
+    ],
+    [
+     15,
+     12
+    ]
+   ]
   }
  },
  "213280": {
   "date": "2026-11-12T10:00:00+00:00",
   "home": "OK저축은행",
   "away": "현대캐피탈",
-  "predicted_at": "2026-11-11T10:44:14+00:00",
+  "predicted_at": "2026-11-11T12:57:42+00:00",
   "prediction": {
    "home_win_prob": 0.307,
    "scores": {

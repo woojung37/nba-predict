@@ -20,6 +20,16 @@
   "rating": -0.6
  },
  {
+  "id": 1106,
+  "name": "LG Sakers",
+  "ko": "LG",
+  "wins": 2,
+  "losses": 1,
+  "points_for": 261,
+  "points_against": 241,
+  "rating": 1.7
+ },
+ {
   "id": 1109,
   "name": "Seoul Thunders",
   "ko": "삼성",
@@ -40,16 +50,6 @@
   "rating": 0.4
  },
  {
-  "id": 1106,
-  "name": "LG Sakers",
-  "ko": "LG",
-  "wins": 1,
-  "losses": 1,
-  "points_for": 160,
-  "points_against": 169,
-  "rating": 0.3
- },
- {
   "id": 1111,
   "name": "Wonju DB",
   "ko": "DB",
@@ -58,16 +58,6 @@
   "points_for": 149,
   "points_against": 157,
   "rating": -0.9
- },
- {
-  "id": 1108,
-  "name": "Seoul Knights",
-  "ko": "SK",
-  "wins": 1,
-  "losses": 2,
-  "points_for": 236,
-  "points_against": 230,
-  "rating": 1.1
  },
  {
   "id": 3081,
@@ -88,6 +78,16 @@
   "points_for": 273,
   "points_against": 270,
   "rating": -0.0
+ },
+ {
+  "id": 1108,
+  "name": "Seoul Knights",
+  "ko": "SK",
+  "wins": 1,
+  "losses": 3,
+  "points_for": 308,
+  "points_against": 331,
+  "rating": -0.3
  },
  {
   "id": 1107,

@@ -1,15 +1,5 @@
 [
  {
-  "id": 1176,
-  "name": "Woori",
-  "ko": "우리카드",
-  "wins": 2,
-  "losses": 0,
-  "points_for": 175,
-  "points_against": 147,
-  "rating": 0.092
- },
- {
   "id": 1170,
   "name": "Hyundai Skywalkers",
   "ko": "현대캐피탈",
@@ -18,6 +8,16 @@
   "points_for": 203,
   "points_against": 175,
   "rating": 0.084
+ },
+ {
+  "id": 1176,
+  "name": "Woori",
+  "ko": "우리카드",
+  "wins": 3,
+  "losses": 0,
+  "points_for": 280,
+  "points_against": 247,
+  "rating": 0.078
  },
  {
   "id": 1173,
@@ -44,10 +44,10 @@
   "name": "KAL Jumbos",
   "ko": "대한항공",
   "wins": 0,
-  "losses": 1,
-  "points_for": 97,
-  "points_against": 96,
-  "rating": -0.003
+  "losses": 2,
+  "points_for": 197,
+  "points_against": 201,
+  "rating": 0.011
  },
  {
   "id": 1175,
