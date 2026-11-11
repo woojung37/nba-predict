@@ -3343,20 +3343,20 @@
   "date": "2026-11-11T04:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_END_PERIOD",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Moda Center",
   "home": {
    "id": "22",
    "abbr": "POR",
-   "score": 97
+   "score": 123
   },
   "away": {
    "id": "25",
    "abbr": "OKC",
-   "score": 80
+   "score": 103
   }
  },
  {
@@ -3408,8 +3408,8 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "NY -3.5",
-   "spread": -3.5,
+   "details": "NY -4.5",
+   "spread": -4.5,
    "over_under": 221.5
   }
  },
@@ -3489,9 +3489,9 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "DEN -4.5",
-   "spread": 4.5,
-   "over_under": 227.5
+   "details": "DEN -3.5",
+   "spread": 3.5,
+   "over_under": 228.5
   }
  },
  {
@@ -3516,9 +3516,9 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "LAL -11.5",
-   "spread": 11.5,
-   "over_under": 232.5
+   "details": "LAL -12.5",
+   "spread": 12.5,
+   "over_under": 231.5
   }
  },
  {
@@ -3545,7 +3545,7 @@
    "provider": "DraftKings",
    "details": "NO -4.5",
    "spread": -4.5,
-   "over_under": 228.5
+   "over_under": 229.5
   }
  },
  {
@@ -3567,6 +3567,12 @@
    "id": "19",
    "abbr": "ORL",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "ORL -4.5",
+   "spread": 4.5,
+   "over_under": 217.5
   }
  },
  {
@@ -3593,7 +3599,7 @@
    "provider": "DraftKings",
    "details": "HOU -6.5",
    "spread": -6.5,
-   "over_under": 221.5
+   "over_under": 222.5
   }
  },
  {
@@ -3615,6 +3621,12 @@
    "id": "25",
    "abbr": "OKC",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "OKC -1.5",
+   "spread": 1.5,
+   "over_under": 225.5
   }
  },
  {

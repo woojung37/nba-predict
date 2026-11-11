@@ -1,537 +1,5 @@
 [
  {
-  "id": "401909965",
-  "date": "2026-11-11T04:00Z",
-  "season_type": 2,
-  "state": "in",
-  "neutral": false,
-  "venue": "Moda Center",
-  "date_kst": "2026-11-11T13:00:00+09:00",
-  "home": {
-   "id": "22",
-   "abbr": "POR",
-   "name": "Portland Trail Blazers",
-   "standing": {
-    "team_id": "22",
-    "abbr": "POR",
-    "conference": "Western Conference",
-    "seed": 8,
-    "wins": 6,
-    "losses": 3,
-    "win_pct": 0.6666667,
-    "games_behind": "2.5",
-    "home": "1-2",
-    "road": "5-1",
-    "last10": "6-3",
-    "streak": "L2",
-    "ppg": 119.333336,
-    "opp_ppg": 113.77778
-   },
-   "stats": {
-    "gp": 9,
-    "record": [
-     6,
-     3
-    ],
-    "home_record": [
-     1,
-     2
-    ],
-    "away_record": [
-     5,
-     1
-    ],
-    "ppg": 119.3,
-    "opp_ppg": 113.8,
-    "avg_margin": 5.6,
-    "last10_record": [
-     6,
-     3
-    ],
-    "last10_margin": 5.6,
-    "last_game": "2026-11-08T03:00Z",
-    "pace": 103.0,
-    "ortg": 115.9,
-    "drtg": 110.5,
-    "net_rtg": 5.4
-   },
-   "rest_days": 2,
-   "injuries": [
-    {
-     "team_id": "22",
-     "team": "Portland Trail Blazers",
-     "athlete_id": "4279888",
-     "name": "Ja Morant",
-     "position": "G",
-     "status": "Out",
-     "injury": "Left Hamstring Not Specified",
-     "return_date": "2026-12-01",
-     "updated": "2026-11-08T02:18Z",
-     "comment": "Head coach Micah Nori said Morant met with a doctor in Los Angeles, who gave him a positive outlook on his recovery from the hamstring injury. While Nori declined to update Morant's timetable, he added Morant \"may not be out for as long as we thought,\" Trail Blazers Insider Sean Highkin reports."
-    },
-    {
-     "team_id": "22",
-     "team": "Portland Trail Blazers",
-     "athlete_id": "4578893",
-     "name": "Vit Krejci",
-     "position": "G",
-     "status": "Out",
-     "injury": "Left Ankle",
-     "return_date": "2027-01-02",
-     "updated": "2026-11-05T05:17Z",
-     "comment": "Head coach Micah Nori said that Krejci suffered a left leg fracture during Wednesday's 132-119 win over the Suns, Brett Siegel of ClutchPoints.com reports."
-    },
-    {
-     "team_id": "22",
-     "team": "Portland Trail Blazers",
-     "athlete_id": "4914336",
-     "name": "Shaedon Sharpe",
-     "position": "G",
-     "status": "Out",
-     "injury": "Right Knee Surgery",
-     "return_date": "2027-03-02",
-     "updated": "2026-08-24T20:23Z",
-     "comment": "Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN."
-    }
-   ],
-   "top_players": [
-    {
-     "athlete_id": "4683021",
-     "name": "Deni Avdija",
-     "position": "F",
-     "team_id": "22",
-     "gp": 9,
-     "gs": 9,
-     "last_game": "2026-11-08",
-     "min": 32.1,
-     "pts": 22.3,
-     "reb": 6.4,
-     "ast": 6.3,
-     "stl": 0.9,
-     "blk": 0.1,
-     "tov": 3.0,
-     "plus_minus": 6.4,
-     "fg_pct": 47.1,
-     "fg3_pct": 33.3,
-     "ft_pct": 66.7,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "6606",
-     "name": "Damian Lillard",
-     "position": "G",
-     "team_id": "22",
-     "gp": 9,
-     "gs": 9,
-     "last_game": "2026-11-08",
-     "min": 29.4,
-     "pts": 19.4,
-     "reb": 3.2,
-     "ast": 4.4,
-     "stl": 0.8,
-     "blk": 0.1,
-     "tov": 2.3,
-     "plus_minus": 6.7,
-     "fg_pct": 42.1,
-     "fg3_pct": 34.2,
-     "ft_pct": 84.2,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "4279888",
-     "name": "Ja Morant",
-     "position": "G",
-     "team_id": "22",
-     "gp": 4,
-     "gs": 4,
-     "last_game": "2026-10-30",
-     "min": 26.0,
-     "pts": 15.8,
-     "reb": 2.5,
-     "ast": 5.5,
-     "stl": 1.0,
-     "blk": 0.0,
-     "tov": 1.2,
-     "plus_minus": 10.2,
-     "fg_pct": 54.2,
-     "fg3_pct": 42.9,
-     "ft_pct": 83.3,
-     "injury_status": "Out"
-    },
-    {
-     "athlete_id": "4431736",
-     "name": "Toumani Camara",
-     "position": "F",
-     "team_id": "22",
-     "gp": 9,
-     "gs": 9,
-     "last_game": "2026-11-08",
-     "min": 27.2,
-     "pts": 13.1,
-     "reb": 3.4,
-     "ast": 1.1,
-     "stl": 0.8,
-     "blk": 0.2,
-     "tov": 1.3,
-     "plus_minus": 0.9,
-     "fg_pct": 51.9,
-     "fg3_pct": 45.2,
-     "ft_pct": 60.0,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "3995",
-     "name": "Jrue Holiday",
-     "position": "G",
-     "team_id": "22",
-     "gp": 9,
-     "gs": 0,
-     "last_game": "2026-11-08",
-     "min": 25.9,
-     "pts": 13.0,
-     "reb": 3.6,
-     "ast": 4.0,
-     "stl": 1.0,
-     "blk": 0.2,
-     "tov": 1.3,
-     "plus_minus": 3.4,
-     "fg_pct": 51.3,
-     "fg3_pct": 42.9,
-     "ft_pct": 85.7,
-     "injury_status": null
-    }
-   ]
-  },
-  "away": {
-   "id": "25",
-   "abbr": "OKC",
-   "name": "Oklahoma City Thunder",
-   "standing": {
-    "team_id": "25",
-    "abbr": "OKC",
-    "conference": "Western Conference",
-    "seed": 3,
-    "wins": 8,
-    "losses": 2,
-    "win_pct": 0.8,
-    "games_behind": "1",
-    "home": "5-0",
-    "road": "3-2",
-    "last10": "8-2",
-    "streak": "W4",
-    "ppg": 112.2,
-    "opp_ppg": 104.2
-   },
-   "stats": {
-    "gp": 10,
-    "record": [
-     8,
-     2
-    ],
-    "home_record": [
-     5,
-     0
-    ],
-    "away_record": [
-     3,
-     2
-    ],
-    "ppg": 112.2,
-    "opp_ppg": 104.2,
-    "avg_margin": 8.0,
-    "last10_record": [
-     8,
-     2
-    ],
-    "last10_margin": 8.0,
-    "last_game": "2026-11-08T01:00Z",
-    "pace": 102.0,
-    "ortg": 110.0,
-    "drtg": 102.1,
-    "net_rtg": 7.9
-   },
-   "rest_days": 2,
-   "injuries": [
-    {
-     "team_id": "25",
-     "team": "Oklahoma City Thunder",
-     "athlete_id": "4432823",
-     "name": "Jaylin Williams",
-     "position": "F",
-     "status": "Out",
-     "injury": "Back Spasms",
-     "return_date": "2026-11-11",
-     "updated": "2026-11-10T00:53Z",
-     "comment": "Williams (back) has been ruled out for Tuesday's game against the Trail Blazers."
-    },
-    {
-     "team_id": "25",
-     "team": "Oklahoma City Thunder",
-     "athlete_id": "5061603",
-     "name": "Thomas Sorber",
-     "position": "C",
-     "status": "Out",
-     "injury": "Knee",
-     "return_date": "2026-11-13",
-     "updated": "2026-11-03T22:45Z",
-     "comment": "Sorber (knee) is out for Wednesday's game against the Cavaliers."
-    },
-    {
-     "team_id": "25",
-     "team": "Oklahoma City Thunder",
-     "athlete_id": "4683692",
-     "name": "Cason Wallace",
-     "position": "G",
-     "status": "Out",
-     "injury": "Left Shoulder Surgery",
-     "return_date": "2027-03-02",
-     "updated": "2026-10-31T01:16Z",
-     "comment": "Wallace underwent surgery Friday to repair a torn labrum in his left shoulder and will be re-evaluated before the end of the regular season, Clemente Almanza of USA Today reports."
-    },
-    {
-     "team_id": "25",
-     "team": "Oklahoma City Thunder",
-     "athlete_id": "4433255",
-     "name": "Chet Holmgren",
-     "position": "C",
-     "status": "Out",
-     "injury": "Right Knee",
-     "return_date": "2027-01-02",
-     "updated": "2026-10-31T01:02Z",
-     "comment": "Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Slam reports."
-    },
-    {
-     "team_id": "25",
-     "team": "Oklahoma City Thunder",
-     "athlete_id": "4593803",
-     "name": "Jalen Williams",
-     "position": "G",
-     "status": "Out",
-     "injury": "Left Leg Fracture",
-     "return_date": "2027-03-02",
-     "updated": "2026-10-28T23:41Z",
-     "comment": "Williams (leg) underwent successful surgery Wednesday to \"address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation.\" He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports."
-    }
-   ],
-   "top_players": [
-    {
-     "athlete_id": "4278073",
-     "name": "Shai Gilgeous-Alexander",
-     "position": "G",
-     "team_id": "25",
-     "gp": 10,
-     "gs": 10,
-     "last_game": "2026-11-08",
-     "min": 32.9,
-     "pts": 29.9,
-     "reb": 4.0,
-     "ast": 4.9,
-     "stl": 1.0,
-     "blk": 1.1,
-     "tov": 2.2,
-     "plus_minus": 7.1,
-     "fg_pct": 46.1,
-     "fg3_pct": 39.1,
-     "ft_pct": 85.3,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "4900671",
-     "name": "Ajay Mitchell",
-     "position": "G",
-     "team_id": "25",
-     "gp": 10,
-     "gs": 7,
-     "last_game": "2026-11-08",
-     "min": 27.2,
-     "pts": 18.9,
-     "reb": 3.7,
-     "ast": 3.3,
-     "stl": 1.3,
-     "blk": 0.4,
-     "tov": 1.4,
-     "plus_minus": 6.8,
-     "fg_pct": 51.7,
-     "fg3_pct": 27.3,
-     "ft_pct": 83.3,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "4593803",
-     "name": "Jalen Williams",
-     "position": "G",
-     "team_id": "25",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 31.7,
-     "pts": 13.7,
-     "reb": 4.7,
-     "ast": 3.3,
-     "stl": 1.0,
-     "blk": 0.7,
-     "tov": 1.3,
-     "plus_minus": 0.7,
-     "fg_pct": 38.5,
-     "fg3_pct": 33.3,
-     "ft_pct": 80.0,
-     "injury_status": "Out"
-    },
-    {
-     "athlete_id": "4683778",
-     "name": "Jared McCain",
-     "position": "G",
-     "team_id": "25",
-     "gp": 10,
-     "gs": 4,
-     "last_game": "2026-11-08",
-     "min": 25.2,
-     "pts": 12.1,
-     "reb": 3.3,
-     "ast": 1.7,
-     "stl": 1.0,
-     "blk": 0.3,
-     "tov": 1.8,
-     "plus_minus": 4.2,
-     "fg_pct": 41.8,
-     "fg3_pct": 29.8,
-     "ft_pct": 85.7,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "4433255",
-     "name": "Chet Holmgren",
-     "position": "C",
-     "team_id": "25",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 30.0,
-     "pts": 12.0,
-     "reb": 9.3,
-     "ast": 1.3,
-     "stl": 0.7,
-     "blk": 3.0,
-     "tov": 1.7,
-     "plus_minus": 1.7,
-     "fg_pct": 40.7,
-     "fg3_pct": 33.3,
-     "ft_pct": 100.0,
-     "injury_status": "Out"
-    }
-   ]
-  },
-  "head_to_head": {
-   "games": 12,
-   "wins": 1,
-   "losses": 11,
-   "avg_margin": -19.8,
-   "recent": [
-    {
-     "id": "401810325",
-     "date": "2026-01-01T01:00Z",
-     "season": 2026,
-     "home": "OKC",
-     "away": "POR",
-     "home_score": 124,
-     "away_score": 95
-    },
-    {
-     "id": "401810160",
-     "date": "2025-11-30T23:00Z",
-     "season": 2026,
-     "home": "POR",
-     "away": "OKC",
-     "home_score": 115,
-     "away_score": 123
-    },
-    {
-     "id": "401810135",
-     "date": "2025-11-24T00:00Z",
-     "season": 2026,
-     "home": "OKC",
-     "away": "POR",
-     "home_score": 122,
-     "away_score": 95
-    },
-    {
-     "id": "401810035",
-     "date": "2025-11-06T03:00Z",
-     "season": 2026,
-     "home": "POR",
-     "away": "OKC",
-     "home_score": 121,
-     "away_score": 119
-    },
-    {
-     "id": "401705474",
-     "date": "2025-03-08T01:00Z",
-     "season": 2025,
-     "home": "OKC",
-     "away": "POR",
-     "home_score": 107,
-     "away_score": 89
-    },
-    {
-     "id": "401705213",
-     "date": "2025-01-26T23:00Z",
-     "season": 2025,
-     "home": "POR",
-     "away": "OKC",
-     "home_score": 108,
-     "away_score": 118
-    },
-    {
-     "id": "401704822",
-     "date": "2024-11-21T01:00Z",
-     "season": 2025,
-     "home": "OKC",
-     "away": "POR",
-     "home_score": 109,
-     "away_score": 99
-    },
-    {
-     "id": "401704706",
-     "date": "2024-11-02T02:00Z",
-     "season": 2025,
-     "home": "POR",
-     "away": "OKC",
-     "home_score": 114,
-     "away_score": 137
-    },
-    {
-     "id": "401585528",
-     "date": "2024-03-07T03:00Z",
-     "season": 2024,
-     "home": "POR",
-     "away": "OKC",
-     "home_score": 120,
-     "away_score": 128
-    },
-    {
-     "id": "401585245",
-     "date": "2024-01-24T01:00Z",
-     "season": 2024,
-     "home": "OKC",
-     "away": "POR",
-     "home_score": 111,
-     "away_score": 109
-    }
-   ]
-  },
-  "pre_game_prediction": {
-   "home_points": 108.9,
-   "away_points": 111.1,
-   "home_margin": -2.3,
-   "home_win_prob": 0.437,
-   "margin_range80": [
-    -20.4,
-    15.9
-   ],
-   "total": 220.0
-  }
- },
- {
   "id": "401909966",
   "date": "2026-11-12T00:00Z",
   "season_type": 2,
@@ -1058,8 +526,8 @@
    ]
   },
   "prediction": {
-   "home_points": 118.4,
-   "away_points": 115.5,
+   "home_points": 118.5,
+   "away_points": 115.6,
    "home_margin": 2.9,
    "home_win_prob": 0.581,
    "away_win_prob": 0.419,
@@ -1128,7 +596,7 @@
     "spread": -3.5,
     "over_under": 225.5,
     "home_cover_prob": 0.483,
-    "over_prob": 0.677,
+    "over_prob": 0.678,
     "provider": "DraftKings"
    }
   }
@@ -1143,8 +611,8 @@
   "date_kst": "2026-11-12T09:00:00+09:00",
   "odds": {
    "provider": "DraftKings",
-   "details": "NY -3.5",
-   "spread": -3.5,
+   "details": "NY -4.5",
+   "spread": -4.5,
    "over_under": 221.5
   },
   "home": {
@@ -1601,7 +1069,7 @@
   },
   "prediction": {
    "home_points": 111.9,
-   "away_points": 107.9,
+   "away_points": 108.0,
    "home_margin": 3.9,
    "home_win_prob": 0.61,
    "away_win_prob": 0.39,
@@ -1609,10 +1077,10 @@
     -14.2,
     22.1
    ],
-   "total": 219.8,
+   "total": 219.9,
    "total_range80": [
-    196.1,
-    243.5
+    196.2,
+    243.6
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -1655,10 +1123,10 @@
     }
    },
    "vs_line": {
-    "spread": -3.5,
+    "spread": -4.5,
     "over_under": 221.5,
-    "home_cover_prob": 0.513,
-    "over_prob": 0.464,
+    "home_cover_prob": 0.484,
+    "over_prob": 0.465,
     "provider": "DraftKings"
    }
   }
@@ -2166,7 +1634,7 @@
   },
   "prediction": {
    "home_points": 104.4,
-   "away_points": 109.7,
+   "away_points": 109.8,
    "home_margin": -5.4,
    "home_win_prob": 0.352,
    "away_win_prob": 0.648,
@@ -2234,7 +1702,7 @@
     "spread": 7.5,
     "over_under": 215.5,
     "home_cover_prob": 0.56,
-    "over_prob": 0.469,
+    "over_prob": 0.471,
     "provider": "DraftKings"
    }
   }
@@ -2724,10 +2192,10 @@
     -30.5,
     5.8
    ],
-   "total": 237.0,
+   "total": 237.1,
    "total_range80": [
-    213.3,
-    260.7
+    213.4,
+    260.8
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -2779,7 +2247,7 @@
     "spread": 15.5,
     "over_under": 240.5,
     "home_cover_prob": 0.587,
-    "over_prob": 0.425,
+    "over_prob": 0.426,
     "provider": "DraftKings"
    }
   }
@@ -2794,9 +2262,9 @@
   "date_kst": "2026-11-12T10:00:00+09:00",
   "odds": {
    "provider": "DraftKings",
-   "details": "DEN -4.5",
-   "spread": 4.5,
-   "over_under": 227.5
+   "details": "DEN -3.5",
+   "spread": 3.5,
+   "over_under": 228.5
   },
   "home": {
    "id": "29",
@@ -3284,10 +2752,10 @@
     -20.6,
     15.7
    ],
-   "total": 237.6,
+   "total": 237.7,
    "total_range80": [
-    213.9,
-    261.3
+    214.0,
+    261.4
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -3329,10 +2797,10 @@
     }
    },
    "vs_line": {
-    "spread": 4.5,
-    "over_under": 227.5,
-    "home_cover_prob": 0.557,
-    "over_prob": 0.708,
+    "spread": 3.5,
+    "over_under": 228.5,
+    "home_cover_prob": 0.529,
+    "over_prob": 0.69,
     "provider": "DraftKings"
    }
   }
@@ -3347,9 +2815,9 @@
   "date_kst": "2026-11-12T10:00:00+09:00",
   "odds": {
    "provider": "DraftKings",
-   "details": "LAL -11.5",
-   "spread": 11.5,
-   "over_under": 232.5
+   "details": "LAL -12.5",
+   "spread": 12.5,
+   "over_under": 231.5
   },
   "home": {
    "id": "15",
@@ -3757,7 +3225,7 @@
   },
   "prediction": {
    "home_points": 107.3,
-   "away_points": 122.6,
+   "away_points": 122.7,
    "home_margin": -15.3,
    "home_win_prob": 0.139,
    "away_win_prob": 0.861,
@@ -3765,10 +3233,10 @@
     -33.5,
     2.8
    ],
-   "total": 229.9,
+   "total": 230.0,
    "total_range80": [
-    206.2,
-    253.6
+    206.3,
+    253.7
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -3811,10 +3279,10 @@
     }
    },
    "vs_line": {
-    "spread": 11.5,
-    "over_under": 232.5,
-    "home_cover_prob": 0.393,
-    "over_prob": 0.445,
+    "spread": 12.5,
+    "over_under": 231.5,
+    "home_cover_prob": 0.42,
+    "over_prob": 0.468,
     "provider": "DraftKings"
    }
   }
@@ -3831,7 +3299,7 @@
    "provider": "DraftKings",
    "details": "NO -4.5",
    "spread": -4.5,
-   "over_under": 228.5
+   "over_under": 229.5
   },
   "home": {
    "id": "3",
@@ -4354,9 +3822,9 @@
    },
    "vs_line": {
     "spread": -4.5,
-    "over_under": 228.5,
+    "over_under": 229.5,
     "home_cover_prob": 0.478,
-    "over_prob": 0.61,
+    "over_prob": 0.59,
     "provider": "DraftKings"
    }
   }
@@ -4369,6 +3837,12 @@
   "neutral": false,
   "venue": "Delta Center",
   "date_kst": "2026-11-12T11:00:00+09:00",
+  "odds": {
+   "provider": "DraftKings",
+   "details": "ORL -4.5",
+   "spread": 4.5,
+   "over_under": 217.5
+  },
   "home": {
    "id": "26",
    "abbr": "UTAH",
@@ -4879,10 +4353,10 @@
     -21.4,
     14.8
    ],
-   "total": 217.0,
+   "total": 217.1,
    "total_range80": [
-    193.3,
-    240.7
+    193.4,
+    240.8
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -4945,8 +4419,15 @@
     },
     "away": {
      "offense": -2.8,
-     "defense": -1.1
+     "defense": -1.2
     }
+   },
+   "vs_line": {
+    "spread": 4.5,
+    "over_under": 217.5,
+    "home_cover_prob": 0.534,
+    "over_prob": 0.491,
+    "provider": "DraftKings"
    }
   }
  },
@@ -4962,7 +4443,7 @@
    "provider": "DraftKings",
    "details": "HOU -6.5",
    "spread": -6.5,
-   "over_under": 221.5
+   "over_under": 222.5
   },
   "home": {
    "id": "10",
@@ -4972,7 +4453,7 @@
     "team_id": "10",
     "abbr": "HOU",
     "conference": "Western Conference",
-    "seed": 6,
+    "seed": 4,
     "wins": 8,
     "losses": 3,
     "win_pct": 0.72727275,
@@ -5155,7 +4636,7 @@
     "team_id": "9",
     "abbr": "GS",
     "conference": "Western Conference",
-    "seed": 4,
+    "seed": 5,
     "wins": 8,
     "losses": 3,
     "win_pct": 0.72727275,
@@ -5486,10 +4967,10 @@
     -14.3,
     21.9
    ],
-   "total": 226.5,
+   "total": 226.6,
    "total_range80": [
-    202.8,
-    250.2
+    202.9,
+    250.3
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -5523,19 +5004,19 @@
    },
    "ratings": {
     "home": {
-     "offense": -0.8,
+     "offense": -0.9,
      "defense": -5.3
     },
     "away": {
      "offense": 2.8,
-     "defense": -0.4
+     "defense": -0.5
     }
    },
    "vs_line": {
     "spread": -6.5,
-    "over_under": 221.5,
+    "over_under": 222.5,
     "home_cover_prob": 0.425,
-    "over_prob": 0.607,
+    "over_prob": 0.588,
     "provider": "DraftKings"
    }
   }
@@ -5548,6 +5029,12 @@
   "neutral": false,
   "venue": "Moda Center",
   "date_kst": "2026-11-12T12:00:00+09:00",
+  "odds": {
+   "provider": "DraftKings",
+   "details": "OKC -1.5",
+   "spread": 1.5,
+   "over_under": 225.5
+  },
   "home": {
    "id": "22",
    "abbr": "POR",
@@ -5557,44 +5044,44 @@
     "abbr": "POR",
     "conference": "Western Conference",
     "seed": 8,
-    "wins": 6,
+    "wins": 7,
     "losses": 3,
-    "win_pct": 0.6666667,
-    "games_behind": "2.5",
-    "home": "1-2",
+    "win_pct": 0.7,
+    "games_behind": "2",
+    "home": "2-2",
     "road": "5-1",
-    "last10": "6-3",
-    "streak": "L2",
-    "ppg": 119.333336,
-    "opp_ppg": 113.77778
+    "last10": "7-3",
+    "streak": "W1",
+    "ppg": 119.7,
+    "opp_ppg": 112.7
    },
    "stats": {
-    "gp": 9,
+    "gp": 10,
     "record": [
-     6,
+     7,
      3
     ],
     "home_record": [
-     1,
+     2,
      2
     ],
     "away_record": [
      5,
      1
     ],
-    "ppg": 119.3,
-    "opp_ppg": 113.8,
-    "avg_margin": 5.6,
+    "ppg": 119.7,
+    "opp_ppg": 112.7,
+    "avg_margin": 7.0,
     "last10_record": [
-     6,
+     7,
      3
     ],
-    "last10_margin": 5.6,
-    "last_game": "2026-11-08T03:00Z",
-    "pace": 103.0,
-    "ortg": 115.9,
-    "drtg": 110.5,
-    "net_rtg": 5.4
+    "last10_margin": 7.0,
+    "last_game": "2026-11-11T04:00Z",
+    "pace": 102.6,
+    "ortg": 116.7,
+    "drtg": 109.9,
+    "net_rtg": 6.8
    },
    "rest_days": 0,
    "injuries": [
@@ -5641,20 +5128,20 @@
      "name": "Deni Avdija",
      "position": "F",
      "team_id": "22",
-     "gp": 9,
-     "gs": 9,
-     "last_game": "2026-11-08",
-     "min": 32.1,
-     "pts": 22.3,
+     "gp": 10,
+     "gs": 10,
+     "last_game": "2026-11-11",
+     "min": 32.3,
+     "pts": 22.5,
      "reb": 6.4,
-     "ast": 6.3,
+     "ast": 6.5,
      "stl": 0.9,
      "blk": 0.1,
      "tov": 3.0,
-     "plus_minus": 6.4,
-     "fg_pct": 47.1,
-     "fg3_pct": 33.3,
-     "ft_pct": 66.7,
+     "plus_minus": 7.9,
+     "fg_pct": 47.7,
+     "fg3_pct": 34.7,
+     "ft_pct": 67.4,
      "injury_status": null
     },
     {
@@ -5662,20 +5149,20 @@
      "name": "Damian Lillard",
      "position": "G",
      "team_id": "22",
-     "gp": 9,
-     "gs": 9,
-     "last_game": "2026-11-08",
-     "min": 29.4,
-     "pts": 19.4,
+     "gp": 10,
+     "gs": 10,
+     "last_game": "2026-11-11",
+     "min": 28.9,
+     "pts": 20.0,
      "reb": 3.2,
-     "ast": 4.4,
+     "ast": 4.3,
      "stl": 0.8,
      "blk": 0.1,
-     "tov": 2.3,
-     "plus_minus": 6.7,
-     "fg_pct": 42.1,
-     "fg3_pct": 34.2,
-     "ft_pct": 84.2,
+     "tov": 2.1,
+     "plus_minus": 8.0,
+     "fg_pct": 43.4,
+     "fg3_pct": 34.9,
+     "ft_pct": 85.5,
      "injury_status": null
     },
     {
@@ -5704,20 +5191,20 @@
      "name": "Toumani Camara",
      "position": "F",
      "team_id": "22",
-     "gp": 9,
-     "gs": 9,
-     "last_game": "2026-11-08",
-     "min": 27.2,
-     "pts": 13.1,
+     "gp": 10,
+     "gs": 10,
+     "last_game": "2026-11-11",
+     "min": 27.5,
+     "pts": 13.0,
      "reb": 3.4,
-     "ast": 1.1,
-     "stl": 0.8,
+     "ast": 1.3,
+     "stl": 0.7,
      "blk": 0.2,
-     "tov": 1.3,
-     "plus_minus": 0.9,
-     "fg_pct": 51.9,
-     "fg3_pct": 45.2,
-     "ft_pct": 60.0,
+     "tov": 1.2,
+     "plus_minus": 2.6,
+     "fg_pct": 50.0,
+     "fg3_pct": 43.5,
+     "ft_pct": 71.4,
      "injury_status": null
     },
     {
@@ -5725,20 +5212,20 @@
      "name": "Jrue Holiday",
      "position": "G",
      "team_id": "22",
-     "gp": 9,
+     "gp": 10,
      "gs": 0,
-     "last_game": "2026-11-08",
-     "min": 25.9,
-     "pts": 13.0,
-     "reb": 3.6,
-     "ast": 4.0,
-     "stl": 1.0,
+     "last_game": "2026-11-11",
+     "min": 25.8,
+     "pts": 12.8,
+     "reb": 3.3,
+     "ast": 3.8,
+     "stl": 0.9,
      "blk": 0.2,
      "tov": 1.3,
-     "plus_minus": 3.4,
-     "fg_pct": 51.3,
-     "fg3_pct": 42.9,
-     "ft_pct": 85.7,
+     "plus_minus": 4.5,
+     "fg_pct": 51.2,
+     "fg3_pct": 41.8,
+     "ft_pct": 86.4,
      "injury_status": null
     }
    ]
@@ -5751,23 +5238,23 @@
     "team_id": "25",
     "abbr": "OKC",
     "conference": "Western Conference",
-    "seed": 3,
+    "seed": 6,
     "wins": 8,
-    "losses": 2,
-    "win_pct": 0.8,
-    "games_behind": "1",
+    "losses": 3,
+    "win_pct": 0.72727275,
+    "games_behind": "1.5",
     "home": "5-0",
-    "road": "3-2",
-    "last10": "8-2",
-    "streak": "W4",
-    "ppg": 112.2,
-    "opp_ppg": 104.2
+    "road": "3-3",
+    "last10": "7-3",
+    "streak": "L1",
+    "ppg": 111.36364,
+    "opp_ppg": 105.90909
    },
    "stats": {
-    "gp": 10,
+    "gp": 11,
     "record": [
      8,
-     2
+     3
     ],
     "home_record": [
      5,
@@ -5775,21 +5262,21 @@
     ],
     "away_record": [
      3,
-     2
+     3
     ],
-    "ppg": 112.2,
-    "opp_ppg": 104.2,
-    "avg_margin": 8.0,
+    "ppg": 111.4,
+    "opp_ppg": 105.9,
+    "avg_margin": 5.5,
     "last10_record": [
-     8,
-     2
+     7,
+     3
     ],
-    "last10_margin": 8.0,
-    "last_game": "2026-11-08T01:00Z",
-    "pace": 102.0,
-    "ortg": 110.0,
-    "drtg": 102.1,
-    "net_rtg": 7.9
+    "last10_margin": 4.8,
+    "last_game": "2026-11-11T04:00Z",
+    "pace": 101.7,
+    "ortg": 109.5,
+    "drtg": 104.1,
+    "net_rtg": 5.4
    },
    "rest_days": 0,
    "injuries": [
@@ -5860,20 +5347,20 @@
      "name": "Shai Gilgeous-Alexander",
      "position": "G",
      "team_id": "25",
-     "gp": 10,
-     "gs": 10,
-     "last_game": "2026-11-08",
-     "min": 32.9,
-     "pts": 29.9,
-     "reb": 4.0,
-     "ast": 4.9,
-     "stl": 1.0,
+     "gp": 11,
+     "gs": 11,
+     "last_game": "2026-11-11",
+     "min": 32.5,
+     "pts": 29.5,
+     "reb": 4.4,
+     "ast": 4.7,
+     "stl": 0.9,
      "blk": 1.1,
      "tov": 2.2,
-     "plus_minus": 7.1,
-     "fg_pct": 46.1,
-     "fg3_pct": 39.1,
-     "ft_pct": 85.3,
+     "plus_minus": 4.9,
+     "fg_pct": 45.3,
+     "fg3_pct": 37.0,
+     "ft_pct": 86.1,
      "injury_status": null
     },
     {
@@ -5881,20 +5368,20 @@
      "name": "Ajay Mitchell",
      "position": "G",
      "team_id": "25",
-     "gp": 10,
-     "gs": 7,
-     "last_game": "2026-11-08",
-     "min": 27.2,
-     "pts": 18.9,
-     "reb": 3.7,
+     "gp": 11,
+     "gs": 8,
+     "last_game": "2026-11-11",
+     "min": 27.3,
+     "pts": 18.5,
+     "reb": 3.6,
      "ast": 3.3,
      "stl": 1.3,
      "blk": 0.4,
-     "tov": 1.4,
-     "plus_minus": 6.8,
-     "fg_pct": 51.7,
-     "fg3_pct": 27.3,
-     "ft_pct": 83.3,
+     "tov": 1.5,
+     "plus_minus": 4.5,
+     "fg_pct": 52.3,
+     "fg3_pct": 26.5,
+     "ft_pct": 84.2,
      "injury_status": null
     },
     {
@@ -5923,20 +5410,20 @@
      "name": "Jared McCain",
      "position": "G",
      "team_id": "25",
-     "gp": 10,
-     "gs": 4,
-     "last_game": "2026-11-08",
-     "min": 25.2,
-     "pts": 12.1,
+     "gp": 11,
+     "gs": 5,
+     "last_game": "2026-11-11",
+     "min": 25.7,
+     "pts": 12.9,
      "reb": 3.3,
-     "ast": 1.7,
-     "stl": 1.0,
+     "ast": 1.8,
+     "stl": 0.9,
      "blk": 0.3,
-     "tov": 1.8,
-     "plus_minus": 4.2,
-     "fg_pct": 41.8,
-     "fg3_pct": 29.8,
-     "ft_pct": 85.7,
+     "tov": 1.7,
+     "plus_minus": 2.5,
+     "fg_pct": 42.6,
+     "fg3_pct": 32.8,
+     "ft_pct": 85.0,
      "injury_status": null
     },
     {
@@ -5963,11 +5450,20 @@
    ]
   },
   "head_to_head": {
-   "games": 12,
-   "wins": 1,
+   "games": 13,
+   "wins": 2,
    "losses": 11,
-   "avg_margin": -19.8,
+   "avg_margin": -16.8,
    "recent": [
+    {
+     "id": "401909965",
+     "date": "2026-11-11T04:00Z",
+     "season": 2027,
+     "home": "POR",
+     "away": "OKC",
+     "home_score": 123,
+     "away_score": 103
+    },
     {
      "id": "401810325",
      "date": "2026-01-01T01:00Z",
@@ -6048,44 +5544,35 @@
      "away": "OKC",
      "home_score": 120,
      "away_score": 128
-    },
-    {
-     "id": "401585245",
-     "date": "2024-01-24T01:00Z",
-     "season": 2024,
-     "home": "OKC",
-     "away": "POR",
-     "home_score": 111,
-     "away_score": 109
     }
    ]
   },
   "prediction": {
-   "home_points": 108.8,
-   "away_points": 111.1,
-   "home_margin": -2.3,
-   "home_win_prob": 0.437,
-   "away_win_prob": 0.563,
+   "home_points": 107.1,
+   "away_points": 107.4,
+   "home_margin": -0.3,
+   "home_win_prob": 0.493,
+   "away_win_prob": 0.507,
    "margin_range80": [
-    -20.4,
-    15.9
+    -18.4,
+    17.9
    ],
-   "total": 219.9,
+   "total": 214.5,
    "total_range80": [
-    196.2,
-    243.6
+    190.8,
+    238.2
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
    "factors": {
-    "team_strength": -5.9,
+    "team_strength": -3.9,
     "home_court": 2.0,
     "rest": -0.0,
     "injuries": 1.7
    },
    "back_to_back": {
-    "home": false,
-    "away": false
+    "home": true,
+    "away": true
    },
    "injury_impact": {
     "home": [
@@ -6125,13 +5612,20 @@
    },
    "ratings": {
     "home": {
-     "offense": 0.6,
-     "defense": -1.4
+     "offense": 1.2,
+     "defense": -1.8
     },
     "away": {
-     "offense": 1.8,
-     "defense": -6.1
+     "offense": 1.4,
+     "defense": -5.5
     }
+   },
+   "vs_line": {
+    "spread": 1.5,
+    "over_under": 225.5,
+    "home_cover_prob": 0.535,
+    "over_prob": 0.276,
+    "provider": "DraftKings"
    }
   }
  },
@@ -6668,7 +6162,7 @@
    ]
   },
   "prediction": {
-   "home_points": 114.0,
+   "home_points": 114.1,
    "away_points": 107.5,
    "home_margin": 6.5,
    "home_win_prob": 0.678,
@@ -6677,10 +6171,10 @@
     -11.6,
     24.7
    ],
-   "total": 221.5,
+   "total": 221.6,
    "total_range80": [
-    197.8,
-    245.2
+    197.9,
+    245.3
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -6726,7 +6220,7 @@
    "ratings": {
     "home": {
      "offense": -1.2,
-     "defense": -1.8
+     "defense": -1.9
     },
     "away": {
      "offense": 1.2,
@@ -7233,7 +6727,7 @@
   },
   "prediction": {
    "home_points": 109.5,
-   "away_points": 118.2,
+   "away_points": 118.3,
    "home_margin": -8.7,
    "home_win_prob": 0.269,
    "away_win_prob": 0.731,
@@ -7241,10 +6735,10 @@
     -26.9,
     9.4
    ],
-   "total": 227.7,
+   "total": 227.8,
    "total_range80": [
-    204.0,
-    251.4
+    204.1,
+    251.5
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -7304,7 +6798,7 @@
     "team_id": "16",
     "abbr": "MIN",
     "conference": "Western Conference",
-    "seed": 5,
+    "seed": 3,
     "wins": 8,
     "losses": 3,
     "win_pct": 0.72727275,
@@ -7794,10 +7288,10 @@
     -12.5,
     23.8
    ],
-   "total": 229.2,
+   "total": 229.3,
    "total_range80": [
-    205.5,
-    252.9
+    205.6,
+    253.0
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -7832,7 +7326,7 @@
    "ratings": {
     "home": {
      "offense": 1.4,
-     "defense": -3.7
+     "defense": -3.8
     },
     "away": {
      "offense": 0.9,
@@ -8353,7 +7847,7 @@
    },
    "ratings": {
     "home": {
-     "offense": -0.8,
+     "offense": -0.9,
      "defense": 0.9
     },
     "away": {
