@@ -44,5 +44,51 @@
    "away": 3
   },
   "low_confidence": true
+ },
+ {
+  "id": "512102",
+  "date": "2026-11-12T10:00:00+00:00",
+  "status": "NS",
+  "home": {
+   "id": 3081,
+   "name": "KoGas",
+   "ko": "가스공사"
+  },
+  "away": {
+   "id": 1103,
+   "name": "Goyang Sono",
+   "ko": "소노"
+  },
+  "prediction": {
+   "home_points": 80.8,
+   "away_points": 79.6,
+   "home_margin": 1.1,
+   "home_win_prob": 0.534,
+   "total": 160.4,
+   "margin_range80": [
+    -15.7,
+    18.0
+   ],
+   "total_range80": [
+    139.9,
+    180.9
+   ],
+   "sigma": 13.15,
+   "total_sigma": 15.99,
+   "factors": {
+    "team_strength": 0.1,
+    "home_court": 1.0,
+    "rest": -0.0
+   },
+   "back_to_back": {
+    "home": false,
+    "away": false
+   }
+  },
+  "data_games": {
+   "home": 3,
+   "away": 3
+  },
+  "low_confidence": true
  }
 ]

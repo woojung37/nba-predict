@@ -41,5 +41,48 @@
    "away": 1
   },
   "low_confidence": true
+ },
+ {
+  "id": "213406",
+  "date": "2026-11-12T10:00:00+00:00",
+  "status": "NS",
+  "home": {
+   "id": 3820,
+   "name": "Daejeon JKJ W",
+   "ko": "정관장"
+  },
+  "away": {
+   "id": 1178,
+   "name": "Expressway Co W",
+   "ko": "한국도로공사"
+  },
+  "prediction": {
+   "home_win_prob": 0.518,
+   "scores": {
+    "3-0": 0.133,
+    "0-3": 0.118,
+    "3-1": 0.195,
+    "1-3": 0.18,
+    "3-2": 0.19,
+    "2-3": 0.184
+   },
+   "set_win_prob": 0.51,
+   "expected_sets": 4.12,
+   "total": 175.8,
+   "total_range80": [
+    136.9,
+    214.7
+   ],
+   "total_sigma": 30.34,
+   "home_minus_1_5": 0.328,
+   "away_minus_1_5": 0.298,
+   "full_five_sets": 0.375,
+   "edge": 0.008
+  },
+  "data_games": {
+   "home": 2,
+   "away": 2
+  },
+  "low_confidence": true
  }
 ]

@@ -3238,26 +3238,20 @@
   "date": "2026-11-11T00:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Madison Square Garden",
   "home": {
    "id": "18",
    "abbr": "NY",
-   "score": null
+   "score": 13
   },
   "away": {
    "id": "15",
    "abbr": "MIL",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "NY -15.5",
-   "spread": -15.5,
-   "over_under": 222.5
+   "score": 13
   }
  },
  {
@@ -3284,7 +3278,7 @@
    "provider": "DraftKings",
    "details": "BOS -1.5",
    "spread": 1.5,
-   "over_under": 217.5
+   "over_under": 216.5
   }
  },
  {
@@ -3311,7 +3305,7 @@
    "provider": "DraftKings",
    "details": "PHX -3.5",
    "spread": -3.5,
-   "over_under": 224.5
+   "over_under": 223.5
   }
  },
  {
@@ -3336,9 +3330,9 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "MIA -9.5",
-   "spread": 9.5,
-   "over_under": 227.5
+   "details": "MIA -6.5",
+   "spread": 6.5,
+   "over_under": 226.5
   }
  },
  {
@@ -3363,8 +3357,8 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "ORL -6.5",
-   "spread": 6.5,
+   "details": "ORL -5.5",
+   "spread": 5.5,
    "over_under": 222.5
   }
  },
@@ -3414,6 +3408,12 @@
    "id": "27",
    "abbr": "WSH",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "IND -4.5",
+   "spread": -4.5,
+   "over_under": 226.5
   }
  },
  {
@@ -3477,6 +3477,12 @@
    "id": "24",
    "abbr": "SA",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "SA -15.5",
+   "spread": 15.5,
+   "over_under": 238.5
   }
  },
  {
@@ -3498,6 +3504,12 @@
    "id": "7",
    "abbr": "DEN",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "DEN -4.5",
+   "spread": 4.5,
+   "over_under": 228.5
   }
  },
  {
@@ -3540,6 +3552,12 @@
    "id": "17",
    "abbr": "BKN",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "NO -5.5",
+   "spread": -5.5,
+   "over_under": 229.5
   }
  },
  {
@@ -3582,6 +3600,12 @@
    "id": "9",
    "abbr": "GS",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "HOU -4.5",
+   "spread": -4.5,
+   "over_under": 223.5
   }
  },
  {
