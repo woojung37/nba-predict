@@ -1543,9 +1543,9 @@
   "date_kst": "2026-11-11T11:00:00+09:00",
   "odds": {
    "provider": "DraftKings",
-   "details": "MIA -6.5",
-   "spread": 6.5,
-   "over_under": 226.5
+   "details": "MIA -8.5",
+   "spread": 8.5,
+   "over_under": 227.5
   },
   "home": {
    "id": "26",
@@ -1803,20 +1803,7 @@
     "net_rtg": -5.0
    },
    "rest_days": 1,
-   "injuries": [
-    {
-     "team_id": "14",
-     "team": "Miami Heat",
-     "athlete_id": "3032977",
-     "name": "Giannis Antetokounmpo",
-     "position": "F",
-     "status": "Day-To-Day",
-     "injury": "Right Wrist Sprain",
-     "return_date": "2026-11-10",
-     "updated": "2026-11-11T00:24Z",
-     "comment": "Antetokounmpo (wrist) is questionable for Tuesday's game against the Jazz."
-    }
-   ],
+   "injuries": [],
    "top_players": [
     {
      "athlete_id": "3032977",
@@ -1837,7 +1824,7 @@
      "fg_pct": 56.9,
      "fg3_pct": 20.0,
      "ft_pct": 62.2,
-     "injury_status": "Day-To-Day"
+     "injury_status": null
     },
     {
      "athlete_id": "4066261",
@@ -1989,18 +1976,18 @@
   },
   "prediction": {
    "home_points": 116.0,
-   "away_points": 121.3,
-   "home_margin": -5.3,
-   "home_win_prob": 0.354,
-   "away_win_prob": 0.646,
+   "away_points": 122.5,
+   "home_margin": -6.5,
+   "home_win_prob": 0.322,
+   "away_win_prob": 0.678,
    "margin_range80": [
-    -23.4,
-    12.8
+    -24.7,
+    11.6
    ],
-   "total": 237.2,
+   "total": 238.5,
    "total_range80": [
-    213.5,
-    260.9
+    214.8,
+    262.2
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -2008,7 +1995,7 @@
     "team_strength": -2.7,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": -4.6
+    "injuries": -5.9
    },
    "back_to_back": {
     "home": false,
@@ -2035,14 +2022,7 @@
       "impact": -1.9
      }
     ],
-    "away": [
-     {
-      "athlete_id": "3032977",
-      "name": "Giannis Antetokounmpo",
-      "status": "Day-To-Day",
-      "impact": -1.2
-     }
-    ]
+    "away": []
    },
    "ratings": {
     "home": {
@@ -2055,10 +2035,10 @@
     }
    },
    "vs_line": {
-    "spread": 6.5,
-    "over_under": 226.5,
-    "home_cover_prob": 0.534,
-    "over_prob": 0.719,
+    "spread": 8.5,
+    "over_under": 227.5,
+    "home_cover_prob": 0.555,
+    "over_prob": 0.724,
     "provider": "DraftKings"
    }
   }
