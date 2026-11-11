@@ -9364,19 +9364,28 @@
   "id": "213279",
   "date": "2026-11-11T10:00:00+00:00",
   "season": 2026,
-  "status": "NS",
+  "status": "S2",
   "completed": false,
   "home": {
    "id": 1176,
    "name": "Woori",
-   "score": null
+   "score": 0
   },
   "away": {
    "id": 1171,
    "name": "KAL Jumbos",
-   "score": null
+   "score": 1
   },
-  "sets": []
+  "sets": [
+   [
+    18,
+    25
+   ],
+   [
+    13,
+    12
+   ]
+  ]
  },
  {
   "id": "213280",

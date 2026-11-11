@@ -9458,19 +9458,28 @@
   "id": "213405",
   "date": "2026-11-11T10:00:00+00:00",
   "season": 2026,
-  "status": "NS",
+  "status": "S2",
   "completed": false,
   "home": {
    "id": 1181,
    "name": "Hyundai E&C Hillstate W",
-   "score": null
+   "score": 0
   },
   "away": {
    "id": 1179,
    "name": "GS Caltex W",
-   "score": null
+   "score": 1
   },
-  "sets": []
+  "sets": [
+   [
+    27,
+    29
+   ],
+   [
+    1,
+    3
+   ]
+  ]
  },
  {
   "id": "213406",
