@@ -48,10 +48,26 @@
   "opp_ppg": 104.6
  },
  {
+  "team_id": "18",
+  "abbr": "NY",
+  "conference": "Eastern Conference",
+  "seed": 4,
+  "wins": 6,
+  "losses": 4,
+  "win_pct": 0.6,
+  "games_behind": "2.5",
+  "home": "4-2",
+  "road": "2-2",
+  "last10": "6-4",
+  "streak": "W4",
+  "ppg": 110.6,
+  "opp_ppg": 102.3
+ },
+ {
   "team_id": "1",
   "abbr": "ATL",
   "conference": "Eastern Conference",
-  "seed": 4,
+  "seed": 5,
   "wins": 7,
   "losses": 5,
   "win_pct": 0.5833333,
@@ -62,22 +78,6 @@
   "streak": "L1",
   "ppg": 118.25,
   "opp_ppg": 116.166664
- },
- {
-  "team_id": "18",
-  "abbr": "NY",
-  "conference": "Eastern Conference",
-  "seed": 5,
-  "wins": 5,
-  "losses": 4,
-  "win_pct": 0.5555556,
-  "games_behind": "3",
-  "home": "3-2",
-  "road": "2-2",
-  "last10": "5-4",
-  "streak": "W3",
-  "ppg": 109.888885,
-  "opp_ppg": 104.22222
  },
  {
   "team_id": "28",
@@ -229,15 +229,15 @@
   "conference": "Eastern Conference",
   "seed": 15,
   "wins": 1,
-  "losses": 9,
-  "win_pct": 0.1,
-  "games_behind": "7.5",
+  "losses": 10,
+  "win_pct": 0.09090909,
+  "games_behind": "8",
   "home": "1-5",
-  "road": "0-4",
+  "road": "0-5",
   "last10": "1-9",
-  "streak": "L6",
-  "ppg": 108.4,
-  "opp_ppg": 121.6
+  "streak": "L7",
+  "ppg": 106.27273,
+  "opp_ppg": 121.181816
  },
  {
   "team_id": "13",
