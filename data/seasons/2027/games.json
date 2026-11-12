@@ -3372,12 +3372,12 @@
   "home": {
    "id": "11",
    "abbr": "IND",
-   "score": 89
+   "score": 110
   },
   "away": {
    "id": "27",
    "abbr": "WSH",
-   "score": 77
+   "score": 95
   }
  },
  {
@@ -3393,12 +3393,12 @@
   "home": {
    "id": "18",
    "abbr": "NY",
-   "score": 76
+   "score": 90
   },
   "away": {
    "id": "5",
    "abbr": "CLE",
-   "score": 79
+   "score": 97
   }
  },
  {
@@ -3414,12 +3414,12 @@
   "home": {
    "id": "28",
    "abbr": "TOR",
-   "score": 72
+   "score": 86
   },
   "away": {
    "id": "2",
    "abbr": "BOS",
-   "score": 73
+   "score": 80
   }
  },
  {
@@ -3429,18 +3429,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "status": "STATUS_HALFTIME",
   "neutral": false,
   "venue": "United Center",
   "home": {
    "id": "4",
    "abbr": "CHI",
-   "score": 68
+   "score": 70
   },
   "away": {
    "id": "24",
    "abbr": "SA",
-   "score": 48
+   "score": 56
   }
  },
  {
@@ -3450,18 +3450,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "status": "STATUS_HALFTIME",
   "neutral": false,
   "venue": "FedExForum",
   "home": {
    "id": "29",
    "abbr": "MEM",
-   "score": 45
+   "score": 52
   },
   "away": {
    "id": "7",
    "abbr": "DEN",
-   "score": 57
+   "score": 65
   }
  },
  {
@@ -3471,18 +3471,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "status": "STATUS_HALFTIME",
   "neutral": false,
   "venue": "Fiserv Forum",
   "home": {
    "id": "15",
    "abbr": "MIL",
-   "score": 43
+   "score": 50
   },
   "away": {
    "id": "13",
    "abbr": "LAL",
-   "score": 50
+   "score": 61
   }
  },
  {
@@ -3498,12 +3498,12 @@
   "home": {
    "id": "3",
    "abbr": "NO",
-   "score": 43
+   "score": 62
   },
   "away": {
    "id": "17",
    "abbr": "BKN",
-   "score": 58
+   "score": 76
   }
  },
  {
@@ -3511,26 +3511,20 @@
   "date": "2026-11-12T02:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Delta Center",
   "home": {
    "id": "26",
    "abbr": "UTAH",
-   "score": null
+   "score": 5
   },
   "away": {
    "id": "19",
    "abbr": "ORL",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "ORL -4.5",
-   "spread": 4.5,
-   "over_under": 216.5
+   "score": 4
   }
  },
  {
@@ -3554,7 +3548,7 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "HOU -6.5",
    "spread": -6.5,
    "over_under": 219.5
@@ -3581,7 +3575,7 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "POR -2.5",
    "spread": -2.5,
    "over_under": 224.5
@@ -3650,7 +3644,7 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "MIN -5.5",
    "spread": -5.5,
    "over_under": 226.5
@@ -3677,7 +3671,7 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "PHX -7.5",
    "spread": -7.5,
    "over_under": 213.5
