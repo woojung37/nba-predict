@@ -523,26 +523,32 @@
     "home": false,
     "away": false
    }
+  },
+  "result": {
+   "home_score": 87,
+   "away_score": 88,
+   "home_margin": -1,
+   "total": 175
   }
  },
  "512103": {
   "date": "2026-11-13T10:00:00+00:00",
   "home": "DB",
   "away": "KT",
-  "predicted_at": "2026-11-12T10:55:17+00:00",
+  "predicted_at": "2026-11-12T13:59:29+00:00",
   "prediction": {
    "home_points": 77.0,
-   "away_points": 77.2,
+   "away_points": 77.3,
    "home_margin": -0.3,
    "home_win_prob": 0.491,
-   "total": 154.2,
+   "total": 154.3,
    "margin_range80": [
     -17.1,
     16.6
    ],
    "total_range80": [
-    133.7,
-    174.7
+    133.9,
+    174.8
    ],
    "sigma": 13.15,
    "total_sigma": 15.99,

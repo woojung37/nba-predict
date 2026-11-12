@@ -50,6 +50,16 @@
   "rating": 0.4
  },
  {
+  "id": 1103,
+  "name": "Goyang Sono",
+  "ko": "소노",
+  "wins": 2,
+  "losses": 2,
+  "points_for": 361,
+  "points_against": 357,
+  "rating": 0.1
+ },
+ {
   "id": 1111,
   "name": "Wonju DB",
   "ko": "DB",
@@ -64,20 +74,10 @@
   "name": "KoGas",
   "ko": "가스공사",
   "wins": 1,
-  "losses": 2,
-  "points_for": 234,
-  "points_against": 245,
-  "rating": 0.1
- },
- {
-  "id": 1103,
-  "name": "Goyang Sono",
-  "ko": "소노",
-  "wins": 1,
-  "losses": 2,
-  "points_for": 273,
-  "points_against": 270,
-  "rating": -0.0
+  "losses": 3,
+  "points_for": 321,
+  "points_against": 333,
+  "rating": 0.0
  },
  {
   "id": 1108,

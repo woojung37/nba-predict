@@ -9403,22 +9403,34 @@
   "id": "213280",
   "date": "2026-11-12T10:00:00+00:00",
   "season": 2026,
-  "status": "S1",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 2100,
    "name": "Busan OK",
-   "score": 0
+   "score": 1
   },
   "away": {
    "id": 1170,
    "name": "Hyundai Skywalkers",
-   "score": 0
+   "score": 3
   },
   "sets": [
    [
-    13,
-    16
+    23,
+    25
+   ],
+   [
+    25,
+    18
+   ],
+   [
+    23,
+    25
+   ],
+   [
+    16,
+    25
    ]
   ]
  },
