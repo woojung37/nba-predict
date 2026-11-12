@@ -415,7 +415,7 @@
   "date": "2026-11-12T10:00:00+00:00",
   "home": "정관장",
   "away": "한국도로공사",
-  "predicted_at": "2026-11-11T21:03:30+00:00",
+  "predicted_at": "2026-11-12T01:59:52+00:00",
   "prediction": {
    "home_win_prob": 0.518,
    "scores": {
@@ -438,6 +438,35 @@
    "away_minus_1_5": 0.298,
    "full_five_sets": 0.375,
    "edge": 0.008
+  }
+ },
+ "213407": {
+  "date": "2026-11-13T10:00:00+00:00",
+  "home": "IBK기업은행",
+  "away": "흥국생명",
+  "predicted_at": "2026-11-12T01:59:52+00:00",
+  "prediction": {
+   "home_win_prob": 0.624,
+   "scores": {
+    "3-0": 0.185,
+    "0-3": 0.08,
+    "3-1": 0.239,
+    "1-3": 0.136,
+    "3-2": 0.201,
+    "2-3": 0.16
+   },
+   "set_win_prob": 0.57,
+   "expected_sets": 4.1,
+   "total": 174.6,
+   "total_range80": [
+    135.7,
+    213.5
+   ],
+   "total_sigma": 30.34,
+   "home_minus_1_5": 0.423,
+   "away_minus_1_5": 0.216,
+   "full_five_sets": 0.361,
+   "edge": 0.054
   }
  }
 }

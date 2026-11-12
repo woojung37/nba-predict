@@ -497,7 +497,7 @@
   "date": "2026-11-12T10:00:00+00:00",
   "home": "가스공사",
   "away": "소노",
-  "predicted_at": "2026-11-11T21:03:30+00:00",
+  "predicted_at": "2026-11-12T01:59:52+00:00",
   "prediction": {
    "home_points": 80.9,
    "away_points": 79.8,
@@ -516,6 +516,38 @@
    "total_sigma": 15.99,
    "factors": {
     "team_strength": 0.1,
+    "home_court": 1.0,
+    "rest": -0.0
+   },
+   "back_to_back": {
+    "home": false,
+    "away": false
+   }
+  }
+ },
+ "512103": {
+  "date": "2026-11-13T10:00:00+00:00",
+  "home": "DB",
+  "away": "KT",
+  "predicted_at": "2026-11-12T01:59:52+00:00",
+  "prediction": {
+   "home_points": 77.0,
+   "away_points": 77.2,
+   "home_margin": -0.3,
+   "home_win_prob": 0.491,
+   "total": 154.2,
+   "margin_range80": [
+    -17.1,
+    16.6
+   ],
+   "total_range80": [
+    133.7,
+    174.7
+   ],
+   "sigma": 13.15,
+   "total_sigma": 15.99,
+   "factors": {
+    "team_strength": -1.3,
     "home_court": 1.0,
     "rest": -0.0
    },
