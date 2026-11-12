@@ -53,10 +53,10 @@
   "athlete_id": "4251",
   "name": "Paul George",
   "position": "F",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Illness",
   "return_date": "2026-11-15",
-  "updated": "2026-11-11T17:55Z",
+  "updated": "2026-11-12T03:01Z",
   "comment": "George (illness) has been ruled out for Wednesday's game against Toronto, Taylor Snow of the Celtics' official site reports."
  },
  {
@@ -302,6 +302,18 @@
  {
   "team_id": "9",
   "team": "Golden State Warriors",
+  "athlete_id": "3975",
+  "name": "Stephen Curry",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Right Abdomen Soreness",
+  "return_date": "2026-11-13",
+  "updated": "2026-11-12T05:39Z",
+  "comment": "Steve Kerr told reporters Wednesday that Curry said he tweaked something in his abdominal area and \"had never done it before.\" Kerr added that the concern level is high, but they will await the MRI results, Kelly Iko of Yahoo Sports reports."
+ },
+ {
+  "team_id": "9",
+  "team": "Golden State Warriors",
   "athlete_id": "3134903",
   "name": "Gary Payton II",
   "position": "G",
@@ -494,14 +506,38 @@
  {
   "team_id": "13",
   "team": "Los Angeles Lakers",
+  "athlete_id": "4277811",
+  "name": "Collin Sexton",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Head",
+  "return_date": "2026-11-15",
+  "updated": "2026-11-12T04:40Z",
+  "comment": "Sexton did not return to Wednesday's 123-112 win over the Bucks and required stitches to close a cut on his forehead, Thuc Nhi Nguyen of the Los Angeles Times reports."
+ },
+ {
+  "team_id": "13",
+  "team": "Los Angeles Lakers",
   "athlete_id": "4066457",
   "name": "Austin Reaves",
   "position": "G",
   "status": "Day-To-Day",
-  "injury": "Undisclosed",
-  "return_date": "2026-11-11",
-  "updated": "2026-11-12T02:41Z",
-  "comment": "Reaves exited Wednesday's game against the Bucks with an undisclosed injury, Khobi Price of The California Post reports."
+  "injury": "Left Heel",
+  "return_date": "2026-11-15",
+  "updated": "2026-11-12T04:11Z",
+  "comment": "Head coach JJ Redick said that X-rays on Reaves' left heel came back negative, but they won't have another update until he undergoes further imaging back in Los Angeles on Thursday, Dave McMenamin of ESPN.com reports."
+ },
+ {
+  "team_id": "13",
+  "team": "Los Angeles Lakers",
+  "athlete_id": "3945274",
+  "name": "Luka Doncic",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Right Ankle",
+  "return_date": "2026-11-15",
+  "updated": "2026-11-12T03:34Z",
+  "comment": "Doncic finished Wednesday's 123-112 win over the Bucks with 32 points (10-25 FG, 5-12 3Pt, 7-10 FT), five rebounds, five assists and three steals across 32 minutes. He exited to the locker room late in the fourth quarter due to an apparent right ankle injury and did not return, Thuc Nhi Nguyen of the Los Angeles Times reports."
  },
  {
   "team_id": "13",
@@ -550,6 +586,18 @@
   "return_date": "2026-12-01",
   "updated": "2026-11-07T17:24Z",
   "comment": "Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports."
+ },
+ {
+  "team_id": "15",
+  "team": "Milwaukee Bucks",
+  "athlete_id": "4591725",
+  "name": "Ryan Rollins",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Head",
+  "return_date": "2026-11-13",
+  "updated": "2026-11-12T03:40Z",
+  "comment": "Rollins (head) exited to the locker room in the fourth quarter of Wednesday's 123-112 loss to the Lakers and did not return, finishing with eight points (3-10 FG, 2-6 3Pt), seven rebounds, four assists and one steal across 24 minutes."
  },
  {
   "team_id": "15",
@@ -986,6 +1034,18 @@
  {
   "team_id": "28",
   "team": "Toronto Raptors",
+  "athlete_id": "4431684",
+  "name": "Trayce Jackson-Davis",
+  "position": "F",
+  "status": "Day-To-Day",
+  "injury": "Illness",
+  "return_date": "2026-11-12",
+  "updated": "2026-11-12T03:01Z",
+  "comment": "Jackson-Davis (illness) has been ruled out for Wednesday's game against the Celtics, Blake Murphy of Sportsnet.ca reports."
+ },
+ {
+  "team_id": "28",
+  "team": "Toronto Raptors",
   "athlete_id": "6450",
   "name": "Kawhi Leonard",
   "position": "F",
@@ -994,18 +1054,6 @@
   "return_date": "2026-11-23",
   "updated": "2026-11-11T22:33Z",
   "comment": "Head coach Darko Rajakovic said Wednesday that Leonard (knee) is doing individual on-court work and is progressing well, Michael Grange of Sportsnet.ca reports."
- },
- {
-  "team_id": "28",
-  "team": "Toronto Raptors",
-  "athlete_id": "4431684",
-  "name": "Trayce Jackson-Davis",
-  "position": "F",
-  "status": "Out",
-  "injury": "Illness",
-  "return_date": "2026-11-12",
-  "updated": "2026-11-11T17:37Z",
-  "comment": "Jackson-Davis (illness) has been ruled out for Wednesday's game against the Celtics, Blake Murphy of Sportsnet.ca reports."
  },
  {
   "team_id": "28",
