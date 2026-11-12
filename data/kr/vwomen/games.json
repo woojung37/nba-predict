@@ -9489,19 +9489,24 @@
   "id": "213406",
   "date": "2026-11-12T10:00:00+00:00",
   "season": 2026,
-  "status": "NS",
+  "status": "S1",
   "completed": false,
   "home": {
    "id": 3820,
    "name": "Daejeon JKJ W",
-   "score": null
+   "score": 0
   },
   "away": {
    "id": 1178,
    "name": "Expressway Co W",
-   "score": null
+   "score": 0
   },
-  "sets": []
+  "sets": [
+   [
+    13,
+    16
+   ]
+  ]
  },
  {
   "id": "213407",
