@@ -30,6 +30,16 @@
   "rating": 1.7
  },
  {
+  "id": 1111,
+  "name": "Wonju DB",
+  "ko": "DB",
+  "wins": 2,
+  "losses": 1,
+  "points_for": 243,
+  "points_against": 240,
+  "rating": -0.3
+ },
+ {
   "id": 1109,
   "name": "Seoul Thunders",
   "ko": "삼성",
@@ -38,16 +48,6 @@
   "points_for": 242,
   "points_against": 238,
   "rating": -1.0
- },
- {
-  "id": 3173,
-  "name": "Suwon KT",
-  "ko": "KT",
-  "wins": 1,
-  "losses": 1,
-  "points_for": 170,
-  "points_against": 166,
-  "rating": 0.4
  },
  {
   "id": 1103,
@@ -60,14 +60,14 @@
   "rating": 0.1
  },
  {
-  "id": 1111,
-  "name": "Wonju DB",
-  "ko": "DB",
+  "id": 3173,
+  "name": "Suwon KT",
+  "ko": "KT",
   "wins": 1,
-  "losses": 1,
-  "points_for": 149,
-  "points_against": 157,
-  "rating": -0.9
+  "losses": 2,
+  "points_for": 253,
+  "points_against": 260,
+  "rating": -0.2
  },
  {
   "id": 3081,

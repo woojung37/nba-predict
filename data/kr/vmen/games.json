@@ -9438,12 +9438,12 @@
   "id": "213281",
   "date": "2026-11-13T10:00:00+00:00",
   "season": 2026,
-  "status": "S2",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 1173,
    "name": "Kepco",
-   "score": 1
+   "score": 3
   },
   "away": {
    "id": 1172,
@@ -9456,8 +9456,12 @@
     23
    ],
    [
-    19,
-    13
+    25,
+    21
+   ],
+   [
+    25,
+    21
    ]
   ]
  },

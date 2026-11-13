@@ -561,26 +561,32 @@
     "home": false,
     "away": false
    }
+  },
+  "result": {
+   "home_score": 94,
+   "away_score": 83,
+   "home_margin": 11,
+   "total": 177
   }
  },
  "512104": {
   "date": "2026-11-14T05:00:00+00:00",
   "home": "LG",
   "away": "현대모비스",
-  "predicted_at": "2026-11-13T10:50:34+00:00",
+  "predicted_at": "2026-11-13T13:26:11+00:00",
   "prediction": {
-   "home_points": 80.3,
-   "away_points": 77.2,
+   "home_points": 80.4,
+   "away_points": 77.3,
    "home_margin": 3.1,
    "home_win_prob": 0.594,
-   "total": 157.5,
+   "total": 157.8,
    "margin_range80": [
     -13.7,
     20.0
    ],
    "total_range80": [
-    137.0,
-    178.0
+    137.3,
+    178.2
    ],
    "sigma": 13.15,
    "total_sigma": 15.99,
@@ -599,20 +605,20 @@
   "date": "2026-11-14T05:00:00+00:00",
   "home": "KCC",
   "away": "SK",
-  "predicted_at": "2026-11-13T10:50:34+00:00",
+  "predicted_at": "2026-11-13T13:26:11+00:00",
   "prediction": {
-   "home_points": 79.8,
-   "away_points": 79.1,
+   "home_points": 80.0,
+   "away_points": 79.2,
    "home_margin": 0.7,
    "home_win_prob": 0.522,
-   "total": 159.0,
+   "total": 159.2,
    "margin_range80": [
     -16.1,
     17.6
    ],
    "total_range80": [
-    138.5,
-    179.5
+    138.7,
+    179.7
    ],
    "sigma": 13.15,
    "total_sigma": 15.99,
@@ -631,20 +637,20 @@
   "date": "2026-11-14T07:30:00+00:00",
   "home": "삼성",
   "away": "정관장",
-  "predicted_at": "2026-11-13T10:50:34+00:00",
+  "predicted_at": "2026-11-13T13:26:11+00:00",
   "prediction": {
-   "home_points": 78.2,
-   "away_points": 79.2,
+   "home_points": 78.3,
+   "away_points": 79.3,
    "home_margin": -1.0,
    "home_win_prob": 0.47,
-   "total": 157.4,
+   "total": 157.6,
    "margin_range80": [
     -17.9,
     15.9
    ],
    "total_range80": [
-    136.9,
-    177.9
+    137.1,
+    178.1
    ],
    "sigma": 13.15,
    "total_sigma": 15.99,
