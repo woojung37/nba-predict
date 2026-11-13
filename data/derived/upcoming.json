@@ -1,537 +1,5 @@
 [
  {
-  "id": "401909976",
-  "date": "2026-11-13T00:00Z",
-  "season_type": 2,
-  "state": "in",
-  "neutral": false,
-  "venue": "Xfinity Mobile Arena",
-  "date_kst": "2026-11-13T09:00:00+09:00",
-  "home": {
-   "id": "20",
-   "abbr": "PHI",
-   "name": "Philadelphia 76ers",
-   "standing": {
-    "team_id": "20",
-    "abbr": "PHI",
-    "conference": "Eastern Conference",
-    "seed": 2,
-    "wins": 9,
-    "losses": 3,
-    "win_pct": 0.75,
-    "games_behind": "1",
-    "home": "4-2",
-    "road": "5-1",
-    "last10": "7-3",
-    "streak": "L1",
-    "ppg": 110.166664,
-    "opp_ppg": 109.166664
-   },
-   "stats": {
-    "gp": 12,
-    "record": [
-     9,
-     3
-    ],
-    "home_record": [
-     4,
-     2
-    ],
-    "away_record": [
-     5,
-     1
-    ],
-    "ppg": 110.2,
-    "opp_ppg": 109.2,
-    "avg_margin": 1.0,
-    "last10_record": [
-     7,
-     3
-    ],
-    "last10_margin": -0.2,
-    "last_game": "2026-11-11T01:00Z",
-    "pace": 102.1,
-    "ortg": 107.9,
-    "drtg": 106.9,
-    "net_rtg": 1.0
-   },
-   "rest_days": 1,
-   "injuries": [
-    {
-     "team_id": "20",
-     "team": "Philadelphia 76ers",
-     "athlete_id": "1966",
-     "name": "LeBron James",
-     "position": "F",
-     "status": "Out",
-     "injury": "Back",
-     "return_date": "2026-11-15",
-     "updated": "2026-11-12T18:07Z",
-     "comment": "James (back) is out for Thursday's game against Toronto."
-    },
-    {
-     "team_id": "20",
-     "team": "Philadelphia 76ers",
-     "athlete_id": "4870562",
-     "name": "Dominick Barlow",
-     "position": "F",
-     "status": "Out",
-     "injury": "Not Specified Back Fracture",
-     "return_date": "2026-11-18",
-     "updated": "2026-11-12T16:37Z",
-     "comment": "Barlow (back) participated in Thursday's shootaround but doesn't have a timeline to return to game action, Ky Carlin of USA Today reports."
-    },
-    {
-     "team_id": "20",
-     "team": "Philadelphia 76ers",
-     "athlete_id": "5105637",
-     "name": "Adem Bona",
-     "position": "C",
-     "status": "Out",
-     "injury": "Back Sprain",
-     "return_date": "2026-11-18",
-     "updated": "2026-11-12T16:36Z",
-     "comment": "Bona (back) will be re-evaluated in approximately one week after seeing a specialist, Ky Carlin of USA Today reports."
-    },
-    {
-     "team_id": "20",
-     "team": "Philadelphia 76ers",
-     "athlete_id": "4871141",
-     "name": "Ariel Hukporti",
-     "position": "C",
-     "status": "Out",
-     "injury": "Right Achilles Surgery",
-     "return_date": "2027-10-01",
-     "updated": "2026-10-06T19:17Z",
-     "comment": "Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN."
-    }
-   ],
-   "top_players": [
-    {
-     "athlete_id": "4431678",
-     "name": "Tyrese Maxey",
-     "position": "G",
-     "team_id": "20",
-     "gp": 12,
-     "gs": 12,
-     "last_game": "2026-11-11",
-     "min": 36.3,
-     "pts": 26.7,
-     "reb": 3.5,
-     "ast": 5.3,
-     "stl": 1.2,
-     "blk": 0.6,
-     "tov": 2.0,
-     "plus_minus": 2.3,
-     "fg_pct": 49.1,
-     "fg3_pct": 36.0,
-     "ft_pct": 86.6,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "3917376",
-     "name": "Jaylen Brown",
-     "position": "G",
-     "team_id": "20",
-     "gp": 11,
-     "gs": 11,
-     "last_game": "2026-11-11",
-     "min": 35.0,
-     "pts": 21.5,
-     "reb": 6.5,
-     "ast": 3.8,
-     "stl": 1.3,
-     "blk": 0.5,
-     "tov": 2.3,
-     "plus_minus": 2.0,
-     "fg_pct": 47.6,
-     "fg3_pct": 38.2,
-     "ft_pct": 70.9,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "3059318",
-     "name": "Joel Embiid",
-     "position": "C",
-     "team_id": "20",
-     "gp": 10,
-     "gs": 10,
-     "last_game": "2026-11-11",
-     "min": 31.8,
-     "pts": 17.7,
-     "reb": 9.3,
-     "ast": 3.8,
-     "stl": 0.7,
-     "blk": 0.7,
-     "tov": 3.0,
-     "plus_minus": 4.7,
-     "fg_pct": 37.0,
-     "fg3_pct": 12.1,
-     "ft_pct": 89.0,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "1966",
-     "name": "LeBron James",
-     "position": "F",
-     "team_id": "20",
-     "gp": 10,
-     "gs": 10,
-     "last_game": "2026-11-11",
-     "min": 32.5,
-     "pts": 15.1,
-     "reb": 7.2,
-     "ast": 6.5,
-     "stl": 1.3,
-     "blk": 0.7,
-     "tov": 2.7,
-     "plus_minus": 0.1,
-     "fg_pct": 43.2,
-     "fg3_pct": 23.7,
-     "ft_pct": 70.0,
-     "injury_status": "Out"
-    },
-    {
-     "athlete_id": "5124612",
-     "name": "VJ Edgecombe",
-     "position": "G",
-     "team_id": "20",
-     "gp": 11,
-     "gs": 11,
-     "last_game": "2026-11-11",
-     "min": 33.4,
-     "pts": 12.7,
-     "reb": 6.3,
-     "ast": 3.1,
-     "stl": 1.5,
-     "blk": 0.5,
-     "tov": 1.1,
-     "plus_minus": 3.5,
-     "fg_pct": 45.2,
-     "fg3_pct": 35.8,
-     "ft_pct": 69.2,
-     "injury_status": null
-    }
-   ]
-  },
-  "away": {
-   "id": "28",
-   "abbr": "TOR",
-   "name": "Toronto Raptors",
-   "standing": {
-    "team_id": "28",
-    "abbr": "TOR",
-    "conference": "Eastern Conference",
-    "seed": 7,
-    "wins": 5,
-    "losses": 6,
-    "win_pct": 0.45454547,
-    "games_behind": "4.5",
-    "home": "2-3",
-    "road": "3-3",
-    "last10": "4-6",
-    "streak": "L2",
-    "ppg": 114.454544,
-    "opp_ppg": 111.90909
-   },
-   "stats": {
-    "gp": 11,
-    "record": [
-     5,
-     6
-    ],
-    "home_record": [
-     2,
-     3
-    ],
-    "away_record": [
-     3,
-     3
-    ],
-    "ppg": 114.5,
-    "opp_ppg": 111.9,
-    "avg_margin": 2.5,
-    "last10_record": [
-     4,
-     6
-    ],
-    "last10_margin": -1.5,
-    "last_game": "2026-11-12T00:00Z",
-    "pace": 102.9,
-    "ortg": 111.3,
-    "drtg": 108.8,
-    "net_rtg": 2.5
-   },
-   "rest_days": 0,
-   "injuries": [
-    {
-     "team_id": "28",
-     "team": "Toronto Raptors",
-     "athlete_id": "4431684",
-     "name": "Trayce Jackson-Davis",
-     "position": "F",
-     "status": "Out",
-     "injury": "Illness",
-     "return_date": "2026-11-15",
-     "updated": "2026-11-12T18:09Z",
-     "comment": "Jackson-Davis is out for Thursday's game against the 76ers due to an illness."
-    },
-    {
-     "team_id": "28",
-     "team": "Toronto Raptors",
-     "athlete_id": "4433134",
-     "name": "Scottie Barnes",
-     "position": "F",
-     "status": "Out",
-     "injury": "Left Groin Soreness",
-     "return_date": "2026-11-15",
-     "updated": "2026-11-12T18:05Z",
-     "comment": "Barnes (groin) is out for Thursday's game against Philadelphia."
-    },
-    {
-     "team_id": "28",
-     "team": "Toronto Raptors",
-     "athlete_id": "6450",
-     "name": "Kawhi Leonard",
-     "position": "F",
-     "status": "Out",
-     "injury": "Left Knee Inflammation",
-     "return_date": "2026-11-23",
-     "updated": "2026-11-11T22:33Z",
-     "comment": "Head coach Darko Rajakovic said Wednesday that Leonard (knee) is doing individual on-court work and is progressing well, Michael Grange of Sportsnet.ca reports."
-    },
-    {
-     "team_id": "28",
-     "team": "Toronto Raptors",
-     "athlete_id": "4432586",
-     "name": "Nate Bittle",
-     "position": "C",
-     "status": "Out",
-     "injury": "Right Foot Fracture",
-     "return_date": "2026-11-15",
-     "updated": "2026-11-08T21:20Z",
-     "comment": "Bittle (foot) is listed as out for Monday's game against Memphis."
-    }
-   ],
-   "top_players": [
-    {
-     "athlete_id": "4433134",
-     "name": "Scottie Barnes",
-     "position": "F",
-     "team_id": "28",
-     "gp": 8,
-     "gs": 8,
-     "last_game": "2026-11-05",
-     "min": 33.4,
-     "pts": 23.5,
-     "reb": 7.6,
-     "ast": 5.1,
-     "stl": 2.2,
-     "blk": 0.6,
-     "tov": 3.9,
-     "plus_minus": 0.5,
-     "fg_pct": 47.5,
-     "fg3_pct": 15.4,
-     "ft_pct": 68.0,
-     "injury_status": "Out"
-    },
-    {
-     "athlete_id": "4395625",
-     "name": "RJ Barrett",
-     "position": "F",
-     "team_id": "28",
-     "gp": 11,
-     "gs": 11,
-     "last_game": "2026-11-12",
-     "min": 33.1,
-     "pts": 20.5,
-     "reb": 6.0,
-     "ast": 4.1,
-     "stl": 0.5,
-     "blk": 0.5,
-     "tov": 1.7,
-     "plus_minus": -0.3,
-     "fg_pct": 44.5,
-     "fg3_pct": 26.8,
-     "ft_pct": 62.5,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "6450",
-     "name": "Kawhi Leonard",
-     "position": "F",
-     "team_id": "28",
-     "gp": 2,
-     "gs": 2,
-     "last_game": "2026-10-23",
-     "min": 26.0,
-     "pts": 19.5,
-     "reb": 7.5,
-     "ast": 1.5,
-     "stl": 3.5,
-     "blk": 0.5,
-     "tov": 2.0,
-     "plus_minus": 3.5,
-     "fg_pct": 32.4,
-     "fg3_pct": 28.6,
-     "ft_pct": 100.0,
-     "injury_status": "Out"
-    },
-    {
-     "athlete_id": "4395724",
-     "name": "Immanuel Quickley",
-     "position": "G",
-     "team_id": "28",
-     "gp": 9,
-     "gs": 9,
-     "last_game": "2026-11-12",
-     "min": 31.3,
-     "pts": 16.7,
-     "reb": 3.6,
-     "ast": 5.6,
-     "stl": 1.1,
-     "blk": 0.0,
-     "tov": 1.1,
-     "plus_minus": 1.3,
-     "fg_pct": 38.7,
-     "fg3_pct": 31.0,
-     "ft_pct": 86.5,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "4684272",
-     "name": "Ja'Kobe Walter",
-     "position": "G",
-     "team_id": "28",
-     "gp": 11,
-     "gs": 9,
-     "last_game": "2026-11-12",
-     "min": 30.1,
-     "pts": 11.5,
-     "reb": 4.1,
-     "ast": 2.1,
-     "stl": 1.3,
-     "blk": 0.5,
-     "tov": 0.8,
-     "plus_minus": -2.9,
-     "fg_pct": 39.4,
-     "fg3_pct": 35.1,
-     "ft_pct": 67.9,
-     "injury_status": null
-    }
-   ]
-  },
-  "head_to_head": {
-   "games": 12,
-   "wins": 6,
-   "losses": 6,
-   "avg_margin": 1.5,
-   "recent": [
-    {
-     "id": "401810415",
-     "date": "2026-01-13T00:30Z",
-     "season": 2026,
-     "home": "TOR",
-     "away": "PHI",
-     "home_score": 102,
-     "away_score": 115
-    },
-    {
-     "id": "401810405",
-     "date": "2026-01-11T23:00Z",
-     "season": 2026,
-     "home": "TOR",
-     "away": "PHI",
-     "home_score": 116,
-     "away_score": 115
-    },
-    {
-     "id": "401810113",
-     "date": "2025-11-20T00:00Z",
-     "season": 2026,
-     "home": "PHI",
-     "away": "TOR",
-     "home_score": 112,
-     "away_score": 121
-    },
-    {
-     "id": "401810039",
-     "date": "2025-11-09T00:30Z",
-     "season": 2026,
-     "home": "PHI",
-     "away": "TOR",
-     "home_score": 130,
-     "away_score": 120
-    },
-    {
-     "id": "401705653",
-     "date": "2025-03-30T23:30Z",
-     "season": 2025,
-     "home": "PHI",
-     "away": "TOR",
-     "home_score": 109,
-     "away_score": 127
-    },
-    {
-     "id": "401705513",
-     "date": "2025-03-12T23:30Z",
-     "season": 2025,
-     "home": "TOR",
-     "away": "PHI",
-     "home_score": 118,
-     "away_score": 105
-    },
-    {
-     "id": "401705330",
-     "date": "2025-02-12T00:00Z",
-     "season": 2025,
-     "home": "PHI",
-     "away": "TOR",
-     "home_score": 103,
-     "away_score": 106
-    },
-    {
-     "id": "401704644",
-     "date": "2024-10-25T23:00Z",
-     "season": 2025,
-     "home": "TOR",
-     "away": "PHI",
-     "home_score": 115,
-     "away_score": 107
-    },
-    {
-     "id": "401585708",
-     "date": "2024-03-31T22:00Z",
-     "season": 2024,
-     "home": "TOR",
-     "away": "PHI",
-     "home_score": 120,
-     "away_score": 135
-    },
-    {
-     "id": "401585010",
-     "date": "2023-12-23T00:00Z",
-     "season": 2024,
-     "home": "PHI",
-     "away": "TOR",
-     "home_score": 121,
-     "away_score": 111
-    }
-   ]
-  },
-  "pre_game_prediction": {
-   "home_points": 111.2,
-   "away_points": 105.0,
-   "home_margin": 6.2,
-   "home_win_prob": 0.669,
-   "margin_range80": [
-    -12.0,
-    24.3
-   ],
-   "total": 216.2
-  }
- },
- {
   "id": "401909977",
   "date": "2026-11-13T00:00Z",
   "season_type": 2,
@@ -1551,16 +1019,10 @@
   "id": "401909979",
   "date": "2026-11-13T02:00Z",
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "neutral": false,
   "venue": "Mortgage Matchup Center",
   "date_kst": "2026-11-13T11:00:00+09:00",
-  "odds": {
-   "provider": "Draft Kings",
-   "details": "PHX -6.5",
-   "spread": -6.5,
-   "over_under": 214.5
-  },
   "home": {
    "id": "21",
    "abbr": "PHX",
@@ -1989,67 +1451,16 @@
     }
    ]
   },
-  "prediction": {
+  "pre_game_prediction": {
    "home_points": 113.8,
    "away_points": 108.0,
    "home_margin": 5.8,
    "home_win_prob": 0.66,
-   "away_win_prob": 0.34,
    "margin_range80": [
     -12.3,
     24.0
    ],
-   "total": 221.8,
-   "total_range80": [
-    198.1,
-    245.5
-   ],
-   "sigma": 14.15,
-   "total_sigma": 18.49,
-   "factors": {
-    "team_strength": 1.9,
-    "home_court": 2.0,
-    "rest": -0.0,
-    "injuries": 1.9
-   },
-   "back_to_back": {
-    "home": false,
-    "away": false
-   },
-   "injury_impact": {
-    "home": [],
-    "away": [
-     {
-      "athlete_id": "4433287",
-      "name": "Brandon Miller",
-      "status": "Out",
-      "impact": -1.3
-     },
-     {
-      "athlete_id": "5061575",
-      "name": "Kon Knueppel",
-      "status": "Out",
-      "impact": -0.6
-     }
-    ]
-   },
-   "ratings": {
-    "home": {
-     "offense": -0.9,
-     "defense": 0.8
-    },
-    "away": {
-     "offense": -5.9,
-     "defense": -2.3
-    }
-   },
-   "vs_line": {
-    "spread": -6.5,
-    "over_under": 214.5,
-    "home_cover_prob": 0.481,
-    "over_prob": 0.654,
-    "provider": "Draft Kings"
-   }
+   "total": 221.8
   }
  },
  {
@@ -2542,8 +1953,8 @@
    ]
   },
   "prediction": {
-   "home_points": 105.8,
-   "away_points": 115.0,
+   "home_points": 105.9,
+   "away_points": 115.1,
    "home_margin": -9.2,
    "home_win_prob": 0.258,
    "away_win_prob": 0.742,
@@ -2551,10 +1962,10 @@
     -27.3,
     8.9
    ],
-   "total": 220.8,
+   "total": 221.0,
    "total_range80": [
-    197.1,
-    244.5
+    197.3,
+    244.7
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -2605,7 +2016,7 @@
     "spread": 6.5,
     "over_under": 220.5,
     "home_cover_prob": 0.424,
-    "over_prob": 0.506,
+    "over_prob": 0.51,
     "provider": "Draft Kings"
    }
   }
@@ -3124,8 +2535,8 @@
    ]
   },
   "prediction": {
-   "home_points": 116.0,
-   "away_points": 110.2,
+   "home_points": 116.1,
+   "away_points": 110.3,
    "home_margin": 5.8,
    "home_win_prob": 0.659,
    "away_win_prob": 0.341,
@@ -3133,10 +2544,10 @@
     -12.3,
     23.9
    ],
-   "total": 226.2,
+   "total": 226.4,
    "total_range80": [
-    202.5,
-    249.9
+    202.7,
+    250.1
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -3180,14 +2591,14 @@
     },
     "away": {
      "offense": -3.6,
-     "defense": 4.6
+     "defense": 4.5
     }
    },
    "vs_line": {
     "spread": -9.5,
     "over_under": 222.5,
     "home_cover_prob": 0.397,
-    "over_prob": 0.58,
+    "over_prob": 0.583,
     "provider": "Draft Kings"
    }
   }
@@ -3214,7 +2625,7 @@
     "team_id": "14",
     "abbr": "MIA",
     "conference": "Eastern Conference",
-    "seed": 8,
+    "seed": 7,
     "wins": 5,
     "losses": 6,
     "win_pct": 0.45454547,
@@ -3683,8 +3094,8 @@
    ]
   },
   "prediction": {
-   "home_points": 117.7,
-   "away_points": 119.1,
+   "home_points": 117.8,
+   "away_points": 119.2,
    "home_margin": -1.5,
    "home_win_prob": 0.459,
    "away_win_prob": 0.541,
@@ -3692,10 +3103,10 @@
     -19.6,
     16.7
    ],
-   "total": 236.8,
+   "total": 237.0,
    "total_range80": [
-    213.1,
-    260.5
+    213.3,
+    260.7
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -3751,15 +3162,15 @@
      "defense": 4.4
     },
     "away": {
-     "offense": 2.0,
-     "defense": 0.3
+     "offense": 1.9,
+     "defense": 0.2
     }
    },
    "vs_line": {
     "spread": -2.5,
     "over_under": 236.5,
     "home_cover_prob": 0.39,
-    "over_prob": 0.507,
+    "over_prob": 0.511,
     "provider": "Draft Kings"
    }
   }
@@ -4303,8 +3714,8 @@
    ]
   },
   "prediction": {
-   "home_points": 118.8,
-   "away_points": 124.5,
+   "home_points": 118.9,
+   "away_points": 124.6,
    "home_margin": -5.7,
    "home_win_prob": 0.344,
    "away_win_prob": 0.656,
@@ -4312,10 +3723,10 @@
     -23.8,
     12.4
    ],
-   "total": 243.3,
+   "total": 243.5,
    "total_range80": [
-    219.6,
-    267.0
+    219.8,
+    267.2
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -4355,7 +3766,7 @@
    },
    "ratings": {
     "home": {
-     "offense": 1.4,
+     "offense": 1.3,
      "defense": 8.1
     },
     "away": {
@@ -4367,7 +3778,7 @@
     "spread": 6.5,
     "over_under": 246.5,
     "home_cover_prob": 0.523,
-    "over_prob": 0.432,
+    "over_prob": 0.436,
     "provider": "Draft Kings"
    }
   }
@@ -4911,8 +4322,8 @@
    ]
   },
   "prediction": {
-   "home_points": 120.7,
-   "away_points": 122.3,
+   "home_points": 120.8,
+   "away_points": 122.4,
    "home_margin": -1.6,
    "home_win_prob": 0.455,
    "away_win_prob": 0.545,
@@ -4920,10 +4331,10 @@
     -19.7,
     16.5
    ],
-   "total": 243.0,
+   "total": 243.2,
    "total_range80": [
-    219.3,
-    266.7
+    219.5,
+    266.9
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -4981,8 +4392,8 @@
    },
    "ratings": {
     "home": {
-     "offense": 1.5,
-     "defense": 6.9
+     "offense": 1.4,
+     "defense": 6.8
     },
     "away": {
      "offense": 1.8,
@@ -4993,7 +4404,7 @@
     "spread": 3.5,
     "over_under": 234.5,
     "home_cover_prob": 0.554,
-    "over_prob": 0.677,
+    "over_prob": 0.68,
     "provider": "Draft Kings"
    }
   }
@@ -5514,7 +4925,7 @@
   },
   "prediction": {
    "home_points": 121.1,
-   "away_points": 105.7,
+   "away_points": 105.8,
    "home_margin": 15.3,
    "home_win_prob": 0.86,
    "away_win_prob": 0.14,
@@ -5522,10 +4933,10 @@
     -2.8,
     33.5
    ],
-   "total": 226.8,
+   "total": 227.0,
    "total_range80": [
-    203.1,
-    250.5
+    203.3,
+    250.7
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -5577,7 +4988,7 @@
     "spread": -17.5,
     "over_under": 217.5,
     "home_cover_prob": 0.439,
-    "over_prob": 0.692,
+    "over_prob": 0.696,
     "provider": "Draft Kings"
    }
   }
@@ -6133,8 +5544,8 @@
    ]
   },
   "prediction": {
-   "home_points": 117.7,
-   "away_points": 108.8,
+   "home_points": 117.8,
+   "away_points": 108.9,
    "home_margin": 8.9,
    "home_win_prob": 0.735,
    "away_win_prob": 0.265,
@@ -6142,10 +5553,10 @@
     -9.3,
     27.0
    ],
-   "total": 226.5,
+   "total": 226.7,
    "total_range80": [
-    202.8,
-    250.2
+    203.0,
+    250.4
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -6197,7 +5608,7 @@
    },
    "ratings": {
     "home": {
-     "offense": 2.2,
+     "offense": 2.1,
      "defense": -4.7
     },
     "away": {
@@ -6209,7 +5620,7 @@
     "spread": -13.5,
     "over_under": 218.5,
     "home_cover_prob": 0.372,
-    "over_prob": 0.668,
+    "over_prob": 0.672,
     "provider": "Draft Kings"
    }
   }
@@ -6729,8 +6140,8 @@
    ]
   },
   "prediction": {
-   "home_points": 112.5,
-   "away_points": 119.3,
+   "home_points": 112.6,
+   "away_points": 119.4,
    "home_margin": -6.7,
    "home_win_prob": 0.317,
    "away_win_prob": 0.683,
@@ -6738,10 +6149,10 @@
     -24.9,
     11.4
    ],
-   "total": 231.8,
+   "total": 232.0,
    "total_range80": [
-    208.1,
-    255.5
+    208.3,
+    255.7
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -6775,19 +6186,19 @@
    },
    "ratings": {
     "home": {
-     "offense": -2.4,
+     "offense": -2.5,
      "defense": 4.4
     },
     "away": {
      "offense": 1.7,
-     "defense": -1.7
+     "defense": -1.8
     }
    },
    "vs_line": {
     "spread": 10.5,
     "over_under": 229.5,
     "home_cover_prob": 0.605,
-    "over_prob": 0.549,
+    "over_prob": 0.553,
     "provider": "Draft Kings"
    }
   }
@@ -7343,8 +6754,8 @@
    ]
   },
   "prediction": {
-   "home_points": 109.9,
-   "away_points": 113.4,
+   "home_points": 110.0,
+   "away_points": 113.5,
    "home_margin": -3.6,
    "home_win_prob": 0.401,
    "away_win_prob": 0.599,
@@ -7352,10 +6763,10 @@
     -21.7,
     14.6
    ],
-   "total": 223.3,
+   "total": 223.5,
    "total_range80": [
-    199.6,
-    247.0
+    199.8,
+    247.2
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -7408,18 +6819,18 @@
    "ratings": {
     "home": {
      "offense": -1.0,
-     "defense": 1.6
+     "defense": 1.5
     },
     "away": {
      "offense": 1.5,
-     "defense": -5.0
+     "defense": -5.1
     }
    },
    "vs_line": {
     "spread": 7.5,
     "over_under": 221.5,
     "home_cover_prob": 0.61,
-    "over_prob": 0.539,
+    "over_prob": 0.544,
     "provider": "Draft Kings"
    }
   }
@@ -7921,8 +7332,8 @@
    ]
   },
   "prediction": {
-   "home_points": 116.7,
-   "away_points": 123.9,
+   "home_points": 116.8,
+   "away_points": 124.0,
    "home_margin": -7.2,
    "home_win_prob": 0.305,
    "away_win_prob": 0.695,
@@ -7930,10 +7341,10 @@
     -25.3,
     10.9
    ],
-   "total": 240.5,
+   "total": 240.7,
    "total_range80": [
-    216.8,
-    264.2
+    217.0,
+    264.4
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -7978,8 +7389,8 @@
    },
    "ratings": {
     "home": {
-     "offense": 1.5,
-     "defense": 6.9
+     "offense": 1.4,
+     "defense": 6.8
     },
     "away": {
      "offense": 2.0,
@@ -8437,8 +7848,8 @@
    ]
   },
   "prediction": {
-   "home_points": 118.0,
-   "away_points": 116.1,
+   "home_points": 118.1,
+   "away_points": 116.2,
    "home_margin": 1.9,
    "home_win_prob": 0.554,
    "away_win_prob": 0.446,
@@ -8446,10 +7857,10 @@
     -16.2,
     20.1
    ],
-   "total": 234.1,
+   "total": 234.3,
    "total_range80": [
-    210.4,
-    257.8
+    210.6,
+    258.0
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -8482,8 +7893,8 @@
    },
    "ratings": {
     "home": {
-     "offense": 2.0,
-     "defense": 0.3
+     "offense": 1.9,
+     "defense": 0.2
     },
     "away": {
      "offense": 0.8,
@@ -8508,7 +7919,7 @@
     "team_id": "14",
     "abbr": "MIA",
     "conference": "Eastern Conference",
-    "seed": 8,
+    "seed": 7,
     "wins": 5,
     "losses": 6,
     "win_pct": 0.45454547,
@@ -8990,7 +8401,7 @@
   },
   "prediction": {
    "home_points": 111.8,
-   "away_points": 118.2,
+   "away_points": 118.3,
    "home_margin": -6.4,
    "home_win_prob": 0.325,
    "away_win_prob": 0.675,
@@ -8998,10 +8409,10 @@
     -24.6,
     11.7
    ],
-   "total": 229.9,
+   "total": 230.1,
    "total_range80": [
-    206.2,
-    253.6
+    206.4,
+    253.8
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -9527,8 +8938,8 @@
    ]
   },
   "prediction": {
-   "home_points": 118.6,
-   "away_points": 114.6,
+   "home_points": 118.7,
+   "away_points": 114.7,
    "home_margin": 3.9,
    "home_win_prob": 0.609,
    "away_win_prob": 0.391,
@@ -9536,10 +8947,10 @@
     -14.2,
     22.1
    ],
-   "total": 233.2,
+   "total": 233.4,
    "total_range80": [
-    209.5,
-    256.9
+    209.7,
+    257.1
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -9590,7 +9001,7 @@
     },
     "away": {
      "offense": -3.5,
-     "defense": 1.2
+     "defense": 1.1
     }
    }
   }
@@ -10056,8 +9467,8 @@
    ]
   },
   "prediction": {
-   "home_points": 124.4,
-   "away_points": 110.6,
+   "home_points": 124.5,
+   "away_points": 110.7,
    "home_margin": 13.8,
    "home_win_prob": 0.836,
    "away_win_prob": 0.164,
@@ -10065,10 +9476,10 @@
     -4.3,
     31.9
    ],
-   "total": 235.1,
+   "total": 235.3,
    "total_range80": [
-    211.4,
-    258.8
+    211.6,
+    259.0
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -10112,7 +9523,7 @@
      "defense": -3.8
     },
     "away": {
-     "offense": 1.4,
+     "offense": 1.3,
      "defense": 8.1
     }
    }

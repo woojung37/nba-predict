@@ -3574,20 +3574,20 @@
   "date": "2026-11-13T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Xfinity Mobile Arena",
   "home": {
    "id": "20",
    "abbr": "PHI",
-   "score": 84
+   "score": 123
   },
   "away": {
    "id": "28",
    "abbr": "TOR",
-   "score": 82
+   "score": 112
   }
  },
  {
@@ -3603,12 +3603,12 @@
   "home": {
    "id": "27",
    "abbr": "WSH",
-   "score": 88
+   "score": 136
   },
   "away": {
    "id": "8",
    "abbr": "DET",
-   "score": 92
+   "score": 140
   }
  },
  {
@@ -3624,12 +3624,12 @@
   "home": {
    "id": "16",
    "abbr": "MIN",
-   "score": 41
+   "score": 112
   },
   "away": {
    "id": "6",
    "abbr": "DAL",
-   "score": 36
+   "score": 75
   }
  },
  {
@@ -3637,26 +3637,20 @@
   "date": "2026-11-13T02:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Mortgage Matchup Center",
   "home": {
    "id": "21",
    "abbr": "PHX",
-   "score": null
+   "score": 51
   },
   "away": {
    "id": "30",
    "abbr": "CHA",
-   "score": null
-  },
-  "odds": {
-   "provider": "Draft Kings",
-   "details": "PHX -6.5",
-   "spread": -6.5,
-   "over_under": 214.5
+   "score": 45
   }
  },
  {
