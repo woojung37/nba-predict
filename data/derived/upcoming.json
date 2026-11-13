@@ -2064,7 +2064,7 @@
    "provider": "Draft Kings",
    "details": "NY -6.5",
    "spread": 6.5,
-   "over_under": 221.5
+   "over_under": 220.5
   },
   "home": {
    "id": "11",
@@ -2603,9 +2603,9 @@
    },
    "vs_line": {
     "spread": 6.5,
-    "over_under": 221.5,
+    "over_under": 220.5,
     "home_cover_prob": 0.424,
-    "over_prob": 0.485,
+    "over_prob": 0.506,
     "provider": "Draft Kings"
    }
   }
@@ -4382,8 +4382,8 @@
   "date_kst": "2026-11-14T10:00:00+09:00",
   "odds": {
    "provider": "Draft Kings",
-   "details": "MEM -4.5",
-   "spread": 4.5,
+   "details": "MEM -3.5",
+   "spread": 3.5,
    "over_under": 234.5
   },
   "home": {
@@ -4990,9 +4990,9 @@
     }
    },
    "vs_line": {
-    "spread": 4.5,
+    "spread": 3.5,
     "over_under": 234.5,
-    "home_cover_prob": 0.582,
+    "home_cover_prob": 0.554,
     "over_prob": 0.677,
     "provider": "Draft Kings"
    }
