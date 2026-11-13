@@ -44,5 +44,143 @@
    "away": 2
   },
   "low_confidence": true
+ },
+ {
+  "id": "512104",
+  "date": "2026-11-14T05:00:00+00:00",
+  "status": "NS",
+  "home": {
+   "id": 1106,
+   "name": "LG Sakers",
+   "ko": "LG"
+  },
+  "away": {
+   "id": 1107,
+   "name": "Mobis Phoebus",
+   "ko": "현대모비스"
+  },
+  "prediction": {
+   "home_points": 80.3,
+   "away_points": 77.2,
+   "home_margin": 3.1,
+   "home_win_prob": 0.594,
+   "total": 157.5,
+   "margin_range80": [
+    -13.7,
+    20.0
+   ],
+   "total_range80": [
+    137.0,
+    178.0
+   ],
+   "sigma": 13.15,
+   "total_sigma": 15.99,
+   "factors": {
+    "team_strength": 2.1,
+    "home_court": 1.0,
+    "rest": -0.0
+   },
+   "back_to_back": {
+    "home": false,
+    "away": false
+   }
+  },
+  "data_games": {
+   "home": 3,
+   "away": 3
+  },
+  "low_confidence": true
+ },
+ {
+  "id": "512105",
+  "date": "2026-11-14T05:00:00+00:00",
+  "status": "NS",
+  "home": {
+   "id": 1105,
+   "name": "KCC Egis",
+   "ko": "KCC"
+  },
+  "away": {
+   "id": 1108,
+   "name": "Seoul Knights",
+   "ko": "SK"
+  },
+  "prediction": {
+   "home_points": 79.8,
+   "away_points": 79.1,
+   "home_margin": 0.7,
+   "home_win_prob": 0.522,
+   "total": 159.0,
+   "margin_range80": [
+    -16.1,
+    17.6
+   ],
+   "total_range80": [
+    138.5,
+    179.5
+   ],
+   "sigma": 13.15,
+   "total_sigma": 15.99,
+   "factors": {
+    "team_strength": -0.3,
+    "home_court": 1.0,
+    "rest": -0.0
+   },
+   "back_to_back": {
+    "home": false,
+    "away": false
+   }
+  },
+  "data_games": {
+   "home": 2,
+   "away": 4
+  },
+  "low_confidence": true
+ },
+ {
+  "id": "512106",
+  "date": "2026-11-14T07:30:00+00:00",
+  "status": "NS",
+  "home": {
+   "id": 1109,
+   "name": "Seoul Thunders",
+   "ko": "삼성"
+  },
+  "away": {
+   "id": 1102,
+   "name": "Anyang JungKwanJang",
+   "ko": "정관장"
+  },
+  "prediction": {
+   "home_points": 78.2,
+   "away_points": 79.2,
+   "home_margin": -1.0,
+   "home_win_prob": 0.47,
+   "total": 157.4,
+   "margin_range80": [
+    -17.9,
+    15.9
+   ],
+   "total_range80": [
+    136.9,
+    177.9
+   ],
+   "sigma": 13.15,
+   "total_sigma": 15.99,
+   "factors": {
+    "team_strength": -2.0,
+    "home_court": 1.0,
+    "rest": -0.0
+   },
+   "back_to_back": {
+    "home": false,
+    "away": false
+   }
+  },
+  "data_games": {
+   "home": 3,
+   "away": 3
+  },
+  "low_confidence": true
  }
 ]

@@ -464,7 +464,7 @@
   "date": "2026-11-13T10:00:00+00:00",
   "home": "IBK기업은행",
   "away": "흥국생명",
-  "predicted_at": "2026-11-12T21:03:21+00:00",
+  "predicted_at": "2026-11-13T01:27:46+00:00",
   "prediction": {
    "home_win_prob": 0.624,
    "scores": {
@@ -487,6 +487,35 @@
    "away_minus_1_5": 0.216,
    "full_five_sets": 0.361,
    "edge": 0.054
+  }
+ },
+ "213408": {
+  "date": "2026-11-14T07:00:00+00:00",
+  "home": "GS칼텍스",
+  "away": "SOOP SOOPers W",
+  "predicted_at": "2026-11-13T01:27:46+00:00",
+  "prediction": {
+   "home_win_prob": 0.715,
+   "scores": {
+    "3-0": 0.242,
+    "0-3": 0.053,
+    "3-1": 0.274,
+    "1-3": 0.1,
+    "3-2": 0.199,
+    "2-3": 0.132
+   },
+   "set_win_prob": 0.624,
+   "expected_sets": 4.03,
+   "total": 171.9,
+   "total_range80": [
+    133.0,
+    210.7
+   ],
+   "total_sigma": 30.34,
+   "home_minus_1_5": 0.516,
+   "away_minus_1_5": 0.153,
+   "full_five_sets": 0.331,
+   "edge": 0.101
   }
  }
 }
