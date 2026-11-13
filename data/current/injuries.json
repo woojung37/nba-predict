@@ -506,6 +506,30 @@
  {
   "team_id": "13",
   "team": "Los Angeles Lakers",
+  "athlete_id": "4066457",
+  "name": "Austin Reaves",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Left Heel",
+  "return_date": "2026-11-15",
+  "updated": "2026-11-13T20:40Z",
+  "comment": "Reaves (heel) won't undergo imaging and is considered day-to-day ahead of Sunday's game against the Suns, Jovan Buha of The Athletic reports."
+ },
+ {
+  "team_id": "13",
+  "team": "Los Angeles Lakers",
+  "athlete_id": "3945274",
+  "name": "Luka Doncic",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Right Ankle",
+  "return_date": "2026-11-15",
+  "updated": "2026-11-13T20:40Z",
+  "comment": "Head coach JJ Redick said Friday that Doncic (ankle) is \"fine,\" per Law Murray of The Athletic."
+ },
+ {
+  "team_id": "13",
+  "team": "Los Angeles Lakers",
   "athlete_id": "4397014",
   "name": "Quentin Grimes",
   "position": "G",
@@ -526,30 +550,6 @@
   "return_date": "2026-11-15",
   "updated": "2026-11-12T04:40Z",
   "comment": "Sexton did not return to Wednesday's 123-112 win over the Bucks and required stitches to close a cut on his forehead, Thuc Nhi Nguyen of the Los Angeles Times reports."
- },
- {
-  "team_id": "13",
-  "team": "Los Angeles Lakers",
-  "athlete_id": "4066457",
-  "name": "Austin Reaves",
-  "position": "G",
-  "status": "Day-To-Day",
-  "injury": "Left Heel",
-  "return_date": "2026-11-15",
-  "updated": "2026-11-12T04:11Z",
-  "comment": "Head coach JJ Redick said that X-rays on Reaves' left heel came back negative, but they won't have another update until he undergoes further imaging back in Los Angeles on Thursday, Dave McMenamin of ESPN.com reports."
- },
- {
-  "team_id": "13",
-  "team": "Los Angeles Lakers",
-  "athlete_id": "3945274",
-  "name": "Luka Doncic",
-  "position": "G",
-  "status": "Day-To-Day",
-  "injury": "Right Ankle",
-  "return_date": "2026-11-15",
-  "updated": "2026-11-12T03:34Z",
-  "comment": "Doncic finished Wednesday's 123-112 win over the Bucks with 32 points (10-25 FG, 5-12 3Pt, 7-10 FT), five rebounds, five assists and three steals across 32 minutes. He exited to the locker room late in the fourth quarter due to an apparent right ankle injury and did not return, Thuc Nhi Nguyen of the Los Angeles Times reports."
  },
  {
   "team_id": "29",
@@ -608,20 +608,8 @@
   "status": "Day-To-Day",
   "injury": "Left Ankle Soreness",
   "return_date": "2026-11-13",
-  "updated": "2026-11-12T21:23Z",
-  "comment": "Thompson (ankle) is listed as questionable for Friday's game against the Cavaliers."
- },
- {
-  "team_id": "14",
-  "team": "Miami Heat",
-  "athlete_id": "3032977",
-  "name": "Giannis Antetokounmpo",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Wrist",
-  "return_date": "2026-11-13",
-  "updated": "2026-11-12T21:22Z",
-  "comment": "Antetokounmpo (wrist) is probable for Friday's game against Cleveland."
+  "updated": "2026-11-13T18:22Z",
+  "comment": "Thompson (ankle) is listed as probable for Friday's game against the Cavaliers."
  },
  {
   "team_id": "14",
@@ -632,8 +620,8 @@
   "status": "Day-To-Day",
   "injury": "Illness",
   "return_date": "2026-11-13",
-  "updated": "2026-11-12T21:20Z",
-  "comment": "Larsson (illness) is listed as questionable for Friday's game against Cleveland."
+  "updated": "2026-11-13T18:20Z",
+  "comment": "Larsson (illness) is listed as doubtful for Friday's game against Cleveland."
  },
  {
   "team_id": "16",
@@ -662,14 +650,62 @@
  {
   "team_id": "3",
   "team": "New Orleans Pelicans",
+  "athlete_id": "3907497",
+  "name": "Dejounte Murray",
+  "position": "G",
+  "status": "Out",
+  "injury": "Ankle",
+  "return_date": "2026-11-20",
+  "updated": "2026-11-13T20:19Z",
+  "comment": "Murray (ankle) is out for Friday's game against Memphis."
+ },
+ {
+  "team_id": "3",
+  "team": "New Orleans Pelicans",
   "athlete_id": "4576086",
   "name": "Bryce McGowens",
   "position": "G",
-  "status": "Day-To-Day",
+  "status": "Out",
   "injury": "Left Elbow Infection",
+  "return_date": "2026-11-14",
+  "updated": "2026-11-13T18:12Z",
+  "comment": "McGowens (elbow) is listed as out for Friday's game against the Grizzlies."
+ },
+ {
+  "team_id": "3",
+  "team": "New Orleans Pelicans",
+  "athlete_id": "5061589",
+  "name": "Yves Missi",
+  "position": "C",
+  "status": "Out",
+  "injury": "Left Knee Bruise",
+  "return_date": "2026-11-14",
+  "updated": "2026-11-13T18:11Z",
+  "comment": "Missi (knee) is out for Friday's game against the Grizzlies."
+ },
+ {
+  "team_id": "3",
+  "team": "New Orleans Pelicans",
+  "athlete_id": "4683634",
+  "name": "Bennedict Mathurin",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Right Thumb Sprain",
   "return_date": "2026-11-13",
-  "updated": "2026-11-12T20:56Z",
-  "comment": "McGowens (elbow) is listed as doubtful for Friday's game against the Grizzlies."
+  "updated": "2026-11-13T18:10Z",
+  "comment": "Mathurin (thumb) is listed as questionable for Friday's game against Memphis."
+ },
+ {
+  "team_id": "3",
+  "team": "New Orleans Pelicans",
+  "athlete_id": "4397688",
+  "name": "Trey Murphy III",
+  "position": "F",
+  "status": "Out",
+  "injury": "Not Specified Knee Tendinitis",
+  "return_date": "2026-11-14",
+  "updated": "2026-11-13T18:07Z",
+  "comment": "Murphy (knee) is out for Friday's game against Memphis."
  },
  {
   "team_id": "3",
@@ -682,42 +718,6 @@
   "return_date": "2026-11-14",
   "updated": "2026-11-12T20:53Z",
   "comment": "Watford (ankle) is listed as out for Friday's game against the Grizzlies."
- },
- {
-  "team_id": "3",
-  "team": "New Orleans Pelicans",
-  "athlete_id": "4683634",
-  "name": "Bennedict Mathurin",
-  "position": "G",
-  "status": "Day-To-Day",
-  "injury": "Right Thumb Sprain",
-  "return_date": "2026-11-13",
-  "updated": "2026-11-12T20:53Z",
-  "comment": "Mathurin (thumb) is listed as doubtful for Friday's game against Memphis."
- },
- {
-  "team_id": "3",
-  "team": "New Orleans Pelicans",
-  "athlete_id": "5061589",
-  "name": "Yves Missi",
-  "position": "C",
-  "status": "Out",
-  "injury": "Left Knee Bruise",
-  "return_date": "2026-11-13",
-  "updated": "2026-11-12T20:50Z",
-  "comment": "Missi (knee) is listed as doubtful for Friday's game against the Grizzlies."
- },
- {
-  "team_id": "3",
-  "team": "New Orleans Pelicans",
-  "athlete_id": "4397688",
-  "name": "Trey Murphy III",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Not Specified Knee Tendinitis",
-  "return_date": "2026-11-13",
-  "updated": "2026-11-12T20:48Z",
-  "comment": "Murphy (knee) is listed as doubtful for Friday's game against the Grizzlies."
  },
  {
   "team_id": "25",
@@ -794,26 +794,26 @@
  {
   "team_id": "19",
   "team": "Orlando Magic",
-  "athlete_id": "4702382",
-  "name": "Tristan da Silva",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Left Calf Strain",
-  "return_date": "2026-11-13",
-  "updated": "2026-11-12T22:07Z",
-  "comment": "Da Silva (calf) is questionable for Friday's game against Milwaukee."
- },
- {
-  "team_id": "19",
-  "team": "Orlando Magic",
   "athlete_id": "4278572",
   "name": "Jamal Cain",
   "position": "F",
   "status": "Day-To-Day",
   "injury": "Left Shoulder Bruise",
   "return_date": "2026-11-13",
-  "updated": "2026-11-12T22:04Z",
-  "comment": "Cain (shoulder) is questionable for Friday's game against the Bucks."
+  "updated": "2026-11-13T17:12Z",
+  "comment": "Cain (shoulder) participated in Friday morning's shootaround and remains questionable for Friday's game against the Bucks, Jason Beede of the Orlando Sentinel reports."
+ },
+ {
+  "team_id": "19",
+  "team": "Orlando Magic",
+  "athlete_id": "4702382",
+  "name": "Tristan da Silva",
+  "position": "F",
+  "status": "Day-To-Day",
+  "injury": "Left Calf Strain",
+  "return_date": "2026-11-13",
+  "updated": "2026-11-13T17:09Z",
+  "comment": "Da Silva (calf) participated in Friday's morning shootaround and remains questionable for Friday's game against Milwaukee, Jason Beede of the Orlando Sentinel reports."
  },
  {
   "team_id": "19",
@@ -824,8 +824,8 @@
   "status": "Out",
   "injury": "Right Knee",
   "return_date": "2026-11-13",
-  "updated": "2026-11-12T22:03Z",
-  "comment": "Suggs (knee) is questionable for Friday's game against Milwaukee."
+  "updated": "2026-11-13T17:08Z",
+  "comment": "Suggs (knee) participated in Friday's morning shootaround and remains questionable for Friday's game against the Bucks, Jason Beede of the Orlando Sentinel reports."
  },
  {
   "team_id": "19",
@@ -922,6 +922,18 @@
   "return_date": "2027-10-01",
   "updated": "2026-10-06T19:17Z",
   "comment": "Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania of ESPN."
+ },
+ {
+  "team_id": "21",
+  "team": "Phoenix Suns",
+  "athlete_id": "4431695",
+  "name": "Drew Timme",
+  "position": "F",
+  "status": "Day-To-Day",
+  "injury": "Right Hand",
+  "return_date": "2026-11-15",
+  "updated": "2026-11-13T16:22Z",
+  "comment": "The Suns claimed Timme off waivers Monday, per Michael Scotto of HoopsHype.com."
  },
  {
   "team_id": "21",
@@ -1066,6 +1078,18 @@
   "return_date": "2026-12-03",
   "updated": "2026-10-05T21:43Z",
   "comment": "Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports."
+ },
+ {
+  "team_id": "28",
+  "team": "Toronto Raptors",
+  "athlete_id": "4411057",
+  "name": "Kevin McCullar Jr.",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Illness",
+  "return_date": "2026-11-14",
+  "updated": "2026-11-13T15:37Z",
+  "comment": "McCullar signed a two-way contract with the Raptors on Thursday, Michael Scotto of HoopsHype.com reports."
  },
  {
   "team_id": "28",
