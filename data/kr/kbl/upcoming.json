@@ -2,7 +2,7 @@
  {
   "id": "512103",
   "date": "2026-11-13T10:00:00+00:00",
-  "status": "NS",
+  "status": "Q2",
   "home": {
    "id": 1111,
    "name": "Wonju DB",
@@ -38,12 +38,7 @@
     "home": false,
     "away": false
    }
-  },
-  "data_games": {
-   "home": 2,
-   "away": 2
-  },
-  "low_confidence": true
+  }
  },
  {
   "id": "512104",
