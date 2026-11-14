@@ -3,11 +3,11 @@
   "id": 1102,
   "name": "Anyang JungKwanJang",
   "ko": "정관장",
-  "wins": 3,
+  "wins": 4,
   "losses": 0,
-  "points_for": 251,
-  "points_against": 235,
-  "rating": 1.0
+  "points_for": 338,
+  "points_against": 315,
+  "rating": 1.3
  },
  {
   "id": 1105,
@@ -30,16 +30,6 @@
   "rating": -0.3
  },
  {
-  "id": 1109,
-  "name": "Seoul Thunders",
-  "ko": "삼성",
-  "wins": 2,
-  "losses": 1,
-  "points_for": 242,
-  "points_against": 238,
-  "rating": -1.0
- },
- {
   "id": 1106,
   "name": "LG Sakers",
   "ko": "LG",
@@ -58,6 +48,16 @@
   "points_for": 361,
   "points_against": 357,
   "rating": 0.1
+ },
+ {
+  "id": 1109,
+  "name": "Seoul Thunders",
+  "ko": "삼성",
+  "wins": 2,
+  "losses": 2,
+  "points_for": 322,
+  "points_against": 325,
+  "rating": -1.3
  },
  {
   "id": 3173,
