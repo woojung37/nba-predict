@@ -3864,8 +3864,8 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "DEN -11.5",
-   "spread": 11.5,
+   "details": "DEN -12.5",
+   "spread": 12.5,
    "over_under": 235.5
   }
  },
@@ -3891,9 +3891,9 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "CLE -1.5",
-   "spread": -1.5,
-   "over_under": 231.5
+   "details": "DAL -4.5",
+   "spread": 4.5,
+   "over_under": 227.5
   }
  },
  {
@@ -3920,7 +3920,7 @@
    "provider": "DraftKings",
    "details": "DET -4.5",
    "spread": 4.5,
-   "over_under": 228.5
+   "over_under": 229.5
   }
  },
  {
@@ -3945,9 +3945,9 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "MEM -4.5",
-   "spread": -4.5,
-   "over_under": 228.5
+   "details": "MEM -1.5",
+   "spread": -1.5,
+   "over_under": 227.5
   }
  },
  {
@@ -3972,8 +3972,8 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "MIN -14.5",
-   "spread": -14.5,
+   "details": "MIN -15.5",
+   "spread": -15.5,
    "over_under": 234.5
   }
  },
@@ -4608,29 +4608,8 @@
   }
  },
  {
-  "id": "401910015",
-  "date": "2026-11-19T02:00Z",
-  "season": 2027,
-  "season_type": 2,
-  "state": "pre",
-  "completed": false,
-  "status": "STATUS_SCHEDULED",
-  "neutral": false,
-  "venue": "Ball Arena",
-  "home": {
-   "id": "7",
-   "abbr": "DEN",
-   "score": null
-  },
-  "away": {
-   "id": "2",
-   "abbr": "BOS",
-   "score": null
-  }
- },
- {
   "id": "401910016",
-  "date": "2026-11-19T02:30Z",
+  "date": "2026-11-19T01:00Z",
   "season": 2027,
   "season_type": 2,
   "state": "pre",
@@ -4646,6 +4625,27 @@
   "away": {
    "id": "9",
    "abbr": "GS",
+   "score": null
+  }
+ },
+ {
+  "id": "401910015",
+  "date": "2026-11-19T02:30Z",
+  "season": 2027,
+  "season_type": 2,
+  "state": "pre",
+  "completed": false,
+  "status": "STATUS_SCHEDULED",
+  "neutral": false,
+  "venue": "Ball Arena",
+  "home": {
+   "id": "7",
+   "abbr": "DEN",
+   "score": null
+  },
+  "away": {
+   "id": "2",
+   "abbr": "BOS",
    "score": null
   }
  },
