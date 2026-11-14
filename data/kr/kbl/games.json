@@ -10785,17 +10785,17 @@
   "id": "512104",
   "date": "2026-11-14T05:00:00+00:00",
   "season": 2026,
-  "status": "HT",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 1106,
    "name": "LG Sakers",
-   "score": 41
+   "score": 78
   },
   "away": {
    "id": 1107,
    "name": "Mobis Phoebus",
-   "score": 41
+   "score": 79
   },
   "overtime": false
  },
@@ -10803,17 +10803,17 @@
   "id": "512105",
   "date": "2026-11-14T05:00:00+00:00",
   "season": 2026,
-  "status": "HT",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 1105,
    "name": "KCC Egis",
-   "score": 42
+   "score": 75
   },
   "away": {
    "id": 1108,
    "name": "Seoul Knights",
-   "score": 31
+   "score": 70
   },
   "overtime": false
  },
@@ -10821,17 +10821,17 @@
   "id": "512106",
   "date": "2026-11-14T07:30:00+00:00",
   "season": 2026,
-  "status": "NS",
+  "status": "Q4",
   "completed": false,
   "home": {
    "id": 1109,
    "name": "Seoul Thunders",
-   "score": null
+   "score": 72
   },
   "away": {
    "id": 1102,
    "name": "Anyang JungKwanJang",
-   "score": null
+   "score": 81
   },
   "overtime": false
  },

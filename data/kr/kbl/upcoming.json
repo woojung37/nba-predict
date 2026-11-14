@@ -1,90 +1,8 @@
 [
  {
-  "id": "512104",
-  "date": "2026-11-14T05:00:00+00:00",
-  "status": "HT",
-  "home": {
-   "id": 1106,
-   "name": "LG Sakers",
-   "ko": "LG"
-  },
-  "away": {
-   "id": 1107,
-   "name": "Mobis Phoebus",
-   "ko": "현대모비스"
-  },
-  "prediction": {
-   "home_points": 80.4,
-   "away_points": 77.3,
-   "home_margin": 3.1,
-   "home_win_prob": 0.594,
-   "total": 157.8,
-   "margin_range80": [
-    -13.7,
-    20.0
-   ],
-   "total_range80": [
-    137.3,
-    178.2
-   ],
-   "sigma": 13.15,
-   "total_sigma": 15.99,
-   "factors": {
-    "team_strength": 2.1,
-    "home_court": 1.0,
-    "rest": -0.0
-   },
-   "back_to_back": {
-    "home": false,
-    "away": false
-   }
-  }
- },
- {
-  "id": "512105",
-  "date": "2026-11-14T05:00:00+00:00",
-  "status": "HT",
-  "home": {
-   "id": 1105,
-   "name": "KCC Egis",
-   "ko": "KCC"
-  },
-  "away": {
-   "id": 1108,
-   "name": "Seoul Knights",
-   "ko": "SK"
-  },
-  "prediction": {
-   "home_points": 80.0,
-   "away_points": 79.2,
-   "home_margin": 0.7,
-   "home_win_prob": 0.522,
-   "total": 159.2,
-   "margin_range80": [
-    -16.1,
-    17.6
-   ],
-   "total_range80": [
-    138.7,
-    179.7
-   ],
-   "sigma": 13.15,
-   "total_sigma": 15.99,
-   "factors": {
-    "team_strength": -0.3,
-    "home_court": 1.0,
-    "rest": -0.0
-   },
-   "back_to_back": {
-    "home": false,
-    "away": false
-   }
-  }
- },
- {
   "id": "512106",
   "date": "2026-11-14T07:30:00+00:00",
-  "status": "NS",
+  "status": "Q4",
   "home": {
    "id": 1109,
    "name": "Seoul Thunders",
@@ -120,12 +38,7 @@
     "home": false,
     "away": false
    }
-  },
-  "data_games": {
-   "home": 3,
-   "away": 3
-  },
-  "low_confidence": true
+  }
  },
  {
   "id": "512107",
@@ -142,18 +55,18 @@
    "ko": "DB"
   },
   "prediction": {
-   "home_points": 81.8,
-   "away_points": 80.4,
+   "home_points": 81.7,
+   "away_points": 80.3,
    "home_margin": 1.4,
    "home_win_prob": 0.543,
-   "total": 162.2,
+   "total": 162.0,
    "margin_range80": [
     -15.4,
     18.3
    ],
    "total_range80": [
-    141.7,
-    182.7
+    141.6,
+    182.5
    ],
    "sigma": 13.15,
    "total_sigma": 15.99,
@@ -188,33 +101,33 @@
    "ko": "KT"
   },
   "prediction": {
-   "home_points": 79.2,
+   "home_points": 76.0,
    "away_points": 76.3,
-   "home_margin": 2.9,
-   "home_win_prob": 0.588,
-   "total": 155.5,
+   "home_margin": -0.3,
+   "home_win_prob": 0.491,
+   "total": 152.3,
    "margin_range80": [
-    -13.9,
-    19.8
+    -17.1,
+    16.6
    ],
    "total_range80": [
-    135.0,
-    176.0
+    131.8,
+    172.8
    ],
    "sigma": 13.15,
    "total_sigma": 15.99,
    "factors": {
-    "team_strength": 1.9,
+    "team_strength": 1.7,
     "home_court": 1.0,
-    "rest": -0.0
+    "rest": -3.0
    },
    "back_to_back": {
-    "home": false,
+    "home": true,
     "away": false
    }
   },
   "data_games": {
-   "home": 3,
+   "home": 4,
    "away": 3
   },
   "low_confidence": true
@@ -234,33 +147,33 @@
    "ko": "가스공사"
   },
   "prediction": {
-   "home_points": 80.7,
-   "away_points": 80.4,
-   "home_margin": 0.4,
-   "home_win_prob": 0.511,
-   "total": 161.1,
+   "home_points": 77.4,
+   "away_points": 79.8,
+   "home_margin": -2.4,
+   "home_win_prob": 0.427,
+   "total": 157.2,
    "margin_range80": [
-    -16.5,
-    17.2
+    -19.3,
+    14.4
    ],
    "total_range80": [
-    140.6,
-    181.6
+    136.7,
+    177.7
    ],
    "sigma": 13.15,
    "total_sigma": 15.99,
    "factors": {
-    "team_strength": -0.6,
+    "team_strength": -0.4,
     "home_court": 1.0,
-    "rest": -0.0
+    "rest": -3.0
    },
    "back_to_back": {
-    "home": false,
+    "home": true,
     "away": false
    }
   },
   "data_games": {
-   "home": 2,
+   "home": 3,
    "away": 4
   },
   "low_confidence": true

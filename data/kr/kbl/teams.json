@@ -13,21 +13,11 @@
   "id": 1105,
   "name": "KCC Egis",
   "ko": "KCC",
-  "wins": 2,
+  "wins": 3,
   "losses": 0,
-  "points_for": 189,
-  "points_against": 176,
-  "rating": -0.6
- },
- {
-  "id": 1106,
-  "name": "LG Sakers",
-  "ko": "LG",
-  "wins": 2,
-  "losses": 1,
-  "points_for": 261,
-  "points_against": 241,
-  "rating": 1.7
+  "points_for": 264,
+  "points_against": 246,
+  "rating": -0.4
  },
  {
   "id": 1111,
@@ -48,6 +38,16 @@
   "points_for": 242,
   "points_against": 238,
   "rating": -1.0
+ },
+ {
+  "id": 1106,
+  "name": "LG Sakers",
+  "ko": "LG",
+  "wins": 2,
+  "losses": 2,
+  "points_for": 339,
+  "points_against": 320,
+  "rating": 1.5
  },
  {
   "id": 1103,
@@ -80,23 +80,23 @@
   "rating": 0.0
  },
  {
+  "id": 1107,
+  "name": "Mobis Phoebus",
+  "ko": "현대모비스",
+  "wins": 1,
+  "losses": 3,
+  "points_for": 319,
+  "points_against": 336,
+  "rating": -0.2
+ },
+ {
   "id": 1108,
   "name": "Seoul Knights",
   "ko": "SK",
   "wins": 1,
-  "losses": 3,
-  "points_for": 308,
-  "points_against": 331,
-  "rating": -0.3
- },
- {
-  "id": 1107,
-  "name": "Mobis Phoebus",
-  "ko": "현대모비스",
-  "wins": 0,
-  "losses": 3,
-  "points_for": 240,
-  "points_against": 258,
-  "rating": -0.4
+  "losses": 4,
+  "points_for": 378,
+  "points_against": 406,
+  "rating": -0.6
  }
 ]

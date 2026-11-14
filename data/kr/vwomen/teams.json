@@ -23,11 +23,11 @@
   "id": 1179,
   "name": "GS Caltex W",
   "ko": "GS칼텍스",
-  "wins": 1,
+  "wins": 2,
   "losses": 1,
-  "points_for": 172,
-  "points_against": 163,
-  "rating": 0.032
+  "points_for": 248,
+  "points_against": 222,
+  "rating": 0.047
  },
  {
   "id": 1180,
@@ -60,16 +60,6 @@
   "rating": -0.027
  },
  {
-  "id": 4452,
-  "name": "SOOP SOOPers W",
-  "ko": "SOOP SOOPers W",
-  "wins": 0,
-  "losses": 2,
-  "points_for": 172,
-  "points_against": 193,
-  "rating": -0.029
- },
- {
   "id": 1181,
   "name": "Hyundai E&C Hillstate W",
   "ko": "현대건설",
@@ -78,5 +68,15 @@
   "points_for": 214,
   "points_against": 252,
   "rating": -0.038
+ },
+ {
+  "id": 4452,
+  "name": "SOOP SOOPers W",
+  "ko": "SOOP SOOPers W",
+  "wins": 0,
+  "losses": 3,
+  "points_for": 231,
+  "points_against": 269,
+  "rating": -0.044
  }
 ]

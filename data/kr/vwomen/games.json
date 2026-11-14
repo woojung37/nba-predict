@@ -9551,19 +9551,32 @@
   "id": "213408",
   "date": "2026-11-14T07:00:00+00:00",
   "season": 2026,
-  "status": "NS",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 1179,
    "name": "GS Caltex W",
-   "score": null
+   "score": 3
   },
   "away": {
    "id": 4452,
    "name": "SOOP SOOPers W",
-   "score": null
+   "score": 0
   },
-  "sets": []
+  "sets": [
+   [
+    26,
+    24
+   ],
+   [
+    25,
+    18
+   ],
+   [
+    25,
+    17
+   ]
+  ]
  },
  {
   "id": "213409",

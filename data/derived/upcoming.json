@@ -8,9 +8,9 @@
   "venue": "Smoothie King Center",
   "date_kst": "2026-11-15T09:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
-   "details": "DEN -10.5",
-   "spread": 10.5,
+   "provider": "DraftKings",
+   "details": "DEN -11.5",
+   "spread": 11.5,
    "over_under": 234.5
   },
   "home": {
@@ -562,11 +562,11 @@
     }
    },
    "vs_line": {
-    "spread": 10.5,
+    "spread": 11.5,
     "over_under": 234.5,
-    "home_cover_prob": 0.435,
+    "home_cover_prob": 0.463,
     "over_prob": 0.555,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -579,9 +579,9 @@
   "venue": "Rocket Arena",
   "date_kst": "2026-11-15T09:30:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
-   "details": "CLE -3.5",
-   "spread": -3.5,
+   "provider": "DraftKings",
+   "details": "CLE -2.5",
+   "spread": -2.5,
    "over_under": 231.5
   },
   "home": {
@@ -1128,11 +1128,11 @@
     }
    },
    "vs_line": {
-    "spread": -3.5,
+    "spread": -2.5,
     "over_under": 231.5,
-    "home_cover_prob": 0.399,
+    "home_cover_prob": 0.426,
     "over_prob": 0.513,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -1145,10 +1145,10 @@
   "venue": "Kaseya Center",
   "date_kst": "2026-11-15T10:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
-   "details": "DET -5.5",
-   "spread": 5.5,
-   "over_under": 226.5
+   "provider": "DraftKings",
+   "details": "DET -4.5",
+   "spread": 4.5,
+   "over_under": 229.5
   },
   "home": {
    "id": "14",
@@ -1688,11 +1688,11 @@
     }
    },
    "vs_line": {
-    "spread": 5.5,
-    "over_under": 226.5,
-    "home_cover_prob": 0.416,
-    "over_prob": 0.595,
-    "provider": "Draft Kings"
+    "spread": 4.5,
+    "over_under": 229.5,
+    "home_cover_prob": 0.389,
+    "over_prob": 0.532,
+    "provider": "DraftKings"
    }
   }
  },
@@ -1705,7 +1705,7 @@
   "venue": "FedExForum",
   "date_kst": "2026-11-15T10:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "MEM -5.5",
    "spread": -5.5,
    "over_under": 225.5
@@ -2243,7 +2243,7 @@
     "over_under": 225.5,
     "home_cover_prob": 0.406,
     "over_prob": 0.62,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -2256,7 +2256,7 @@
   "venue": "Target Center",
   "date_kst": "2026-11-15T10:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "MIN -14.5",
    "spread": -14.5,
    "over_under": 236.5
@@ -2779,7 +2779,7 @@
     "over_under": 236.5,
     "home_cover_prob": 0.587,
     "over_prob": 0.41,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
