@@ -9469,19 +9469,28 @@
   "id": "213282",
   "date": "2026-11-14T05:00:00+00:00",
   "season": 2026,
-  "status": "NS",
+  "status": "S2",
   "completed": false,
   "home": {
    "id": 1171,
    "name": "KAL Jumbos",
-   "score": null
+   "score": 0
   },
   "away": {
    "id": 1175,
    "name": "Samsung Blue Fangs",
-   "score": null
+   "score": 1
   },
-  "sets": []
+  "sets": [
+   [
+    28,
+    30
+   ],
+   [
+    19,
+    16
+   ]
+  ]
  },
  {
   "id": "213283",

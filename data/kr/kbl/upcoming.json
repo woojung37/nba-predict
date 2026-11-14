@@ -2,7 +2,7 @@
  {
   "id": "512104",
   "date": "2026-11-14T05:00:00+00:00",
-  "status": "NS",
+  "status": "HT",
   "home": {
    "id": 1106,
    "name": "LG Sakers",
@@ -38,17 +38,12 @@
     "home": false,
     "away": false
    }
-  },
-  "data_games": {
-   "home": 3,
-   "away": 3
-  },
-  "low_confidence": true
+  }
  },
  {
   "id": "512105",
   "date": "2026-11-14T05:00:00+00:00",
-  "status": "NS",
+  "status": "HT",
   "home": {
    "id": 1105,
    "name": "KCC Egis",
@@ -84,12 +79,7 @@
     "home": false,
     "away": false
    }
-  },
-  "data_games": {
-   "home": 2,
-   "away": 4
-  },
-  "low_confidence": true
+  }
  },
  {
   "id": "512106",
