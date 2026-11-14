@@ -3658,20 +3658,20 @@
   "date": "2026-11-14T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_HALFTIME",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Gainbridge Fieldhouse",
   "home": {
    "id": "11",
    "abbr": "IND",
-   "score": 58
+   "score": 106
   },
   "away": {
    "id": "18",
    "abbr": "NY",
-   "score": 49
+   "score": 104
   }
  },
  {
@@ -3679,20 +3679,20 @@
   "date": "2026-11-14T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Kia Center",
   "home": {
    "id": "19",
    "abbr": "ORL",
-   "score": 62
+   "score": 107
   },
   "away": {
    "id": "15",
    "abbr": "MIL",
-   "score": 45
+   "score": 99
   }
  },
  {
@@ -3708,12 +3708,12 @@
   "home": {
    "id": "14",
    "abbr": "MIA",
-   "score": 16
+   "score": 98
   },
   "away": {
    "id": "5",
    "abbr": "CLE",
-   "score": 11
+   "score": 93
   }
  },
  {
@@ -3729,12 +3729,12 @@
   "home": {
    "id": "4",
    "abbr": "CHI",
-   "score": 24
+   "score": 99
   },
   "away": {
    "id": "1",
    "abbr": "ATL",
-   "score": 14
+   "score": 92
   }
  },
  {
@@ -3744,18 +3744,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "status": "STATUS_END_PERIOD",
   "neutral": false,
   "venue": "Smoothie King Center",
   "home": {
    "id": "3",
    "abbr": "NO",
-   "score": 14
+   "score": 86
   },
   "away": {
    "id": "29",
    "abbr": "MEM",
-   "score": 18
+   "score": 105
   }
  },
  {
@@ -3763,26 +3763,20 @@
   "date": "2026-11-14T01:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Toyota Center (Houston)",
   "home": {
    "id": "10",
    "abbr": "HOU",
-   "score": null
+   "score": 65
   },
   "away": {
    "id": "26",
    "abbr": "UTAH",
-   "score": null
-  },
-  "odds": {
-   "provider": "Draft Kings",
-   "details": "HOU -15.5",
-   "spread": -15.5,
-   "over_under": 221.5
+   "score": 54
   }
  },
  {
@@ -3790,26 +3784,20 @@
   "date": "2026-11-14T02:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Frost Bank Center",
   "home": {
    "id": "24",
    "abbr": "SA",
-   "score": null
+   "score": 26
   },
   "away": {
    "id": "9",
    "abbr": "GS",
-   "score": null
-  },
-  "odds": {
-   "provider": "Draft Kings",
-   "details": "SA -12.5",
-   "spread": -12.5,
-   "over_under": 216.5
+   "score": 8
   }
  },
  {
@@ -3833,7 +3821,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "POR -10.5",
    "spread": 10.5,
    "over_under": 229.5
@@ -3860,9 +3848,9 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
-   "details": "OKC -7.5",
-   "spread": 7.5,
+   "provider": "DraftKings",
+   "details": "OKC -6.5",
+   "spread": 6.5,
    "over_under": 222.5
   }
  },
