@@ -41,5 +41,48 @@
    "away": 2
   },
   "low_confidence": true
+ },
+ {
+  "id": "213409",
+  "date": "2026-11-15T07:00:00+00:00",
+  "status": "NS",
+  "home": {
+   "id": 1181,
+   "name": "Hyundai E&C Hillstate W",
+   "ko": "현대건설"
+  },
+  "away": {
+   "id": 1178,
+   "name": "Expressway Co W",
+   "ko": "한국도로공사"
+  },
+  "prediction": {
+   "home_win_prob": 0.376,
+   "scores": {
+    "3-0": 0.08,
+    "0-3": 0.185,
+    "3-1": 0.136,
+    "1-3": 0.239,
+    "3-2": 0.16,
+    "2-3": 0.201
+   },
+   "set_win_prob": 0.43,
+   "expected_sets": 4.1,
+   "total": 174.6,
+   "total_range80": [
+    135.7,
+    213.5
+   ],
+   "total_sigma": 30.34,
+   "home_minus_1_5": 0.216,
+   "away_minus_1_5": 0.423,
+   "full_five_sets": 0.361,
+   "edge": -0.055
+  },
+  "data_games": {
+   "home": 3,
+   "away": 3
+  },
+  "low_confidence": true
  }
 ]

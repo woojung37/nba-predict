@@ -3658,26 +3658,20 @@
   "date": "2026-11-14T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Gainbridge Fieldhouse",
   "home": {
    "id": "11",
    "abbr": "IND",
-   "score": null
+   "score": 44
   },
   "away": {
    "id": "18",
    "abbr": "NY",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "NY -8.5",
-   "spread": 8.5,
-   "over_under": 219.5
+   "score": 35
   }
  },
  {
@@ -3685,26 +3679,20 @@
   "date": "2026-11-14T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Kia Center",
   "home": {
    "id": "19",
    "abbr": "ORL",
-   "score": null
+   "score": 49
   },
   "away": {
    "id": "15",
    "abbr": "MIL",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "ORL -9.5",
-   "spread": -9.5,
-   "over_under": 224.5
+   "score": 33
   }
  },
  {
@@ -3731,7 +3719,7 @@
    "provider": "DraftKings",
    "details": "MIA -2.5",
    "spread": -2.5,
-   "over_under": 236.5
+   "over_under": 234.5
   }
  },
  {
@@ -3756,9 +3744,9 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "ATL -7.5",
-   "spread": 7.5,
-   "over_under": 245.5
+   "details": "ATL -6.5",
+   "spread": 6.5,
+   "over_under": 246.5
   }
  },
  {
@@ -3812,7 +3800,7 @@
    "provider": "DraftKings",
    "details": "HOU -15.5",
    "spread": -15.5,
-   "over_under": 220.5
+   "over_under": 221.5
   }
  },
  {
@@ -3839,7 +3827,7 @@
    "provider": "DraftKings",
    "details": "SA -12.5",
    "spread": -12.5,
-   "over_under": 217.5
+   "over_under": 216.5
   }
  },
  {

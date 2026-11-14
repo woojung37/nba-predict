@@ -1080,6 +1080,19 @@
  },
  {
   "team_id": "4",
+  "athlete_id": "4593049",
+  "name": "Orlando Robinson",
+  "jersey": "00",
+  "position": "C",
+  "age": 26,
+  "height": "6' 10\"",
+  "weight": "235 lbs",
+  "experience": 3,
+  "college": "Fresno State",
+  "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4593049.png"
+ },
+ {
+  "team_id": "4",
   "athlete_id": "4898010",
   "name": "Jaylin Sellers",
   "jersey": "22",
@@ -1171,6 +1184,19 @@
  },
  {
   "team_id": "5",
+  "athlete_id": "4997530",
+  "name": "Khalifa Diop",
+  "jersey": "18",
+  "position": "C",
+  "age": 24,
+  "height": "6' 11\"",
+  "weight": "231 lbs",
+  "experience": 0,
+  "college": null,
+  "headshot": null
+ },
+ {
+  "team_id": "5",
   "athlete_id": "3992",
   "name": "James Harden",
   "jersey": "1",
@@ -1251,7 +1277,7 @@
   "team_id": "5",
   "athlete_id": "4702134",
   "name": "Norchad Omier",
-  "jersey": "15",
+  "jersey": "77",
   "position": "C",
   "age": 25,
   "height": "6' 7\"",
@@ -1298,6 +1324,19 @@
   "experience": 0,
   "college": "Arkansas",
   "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5041951.png"
+ },
+ {
+  "team_id": "5",
+  "athlete_id": "5106268",
+  "name": "Nae'Qwan Tomlin",
+  "jersey": "35",
+  "position": "F",
+  "age": 25,
+  "height": "6' 8\"",
+  "weight": "210 lbs",
+  "experience": 3,
+  "college": "Memphis",
+  "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5106268.png"
  },
  {
   "team_id": "5",
@@ -3901,6 +3940,19 @@
  },
  {
   "team_id": "16",
+  "athlete_id": "4433569",
+  "name": "Johni Broome",
+  "jersey": "22",
+  "position": "F",
+  "age": 24,
+  "height": "6' 10\"",
+  "weight": "235 lbs",
+  "experience": null,
+  "college": "Auburn",
+  "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4433569.png"
+ },
+ {
+  "team_id": "16",
   "athlete_id": "4432247",
   "name": "Jaylen Clark",
   "jersey": "7",
@@ -4449,7 +4501,7 @@
   "team_id": "18",
   "athlete_id": "4897943",
   "name": "Dalton Knecht",
-  "jersey": "99",
+  "jersey": "1",
   "position": "F",
   "age": 25,
   "height": "6' 6\"",
