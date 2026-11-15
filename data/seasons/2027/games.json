@@ -3847,26 +3847,20 @@
   "date": "2026-11-15T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Smoothie King Center",
   "home": {
    "id": "3",
    "abbr": "NO",
-   "score": null
+   "score": 5
   },
   "away": {
    "id": "7",
    "abbr": "DEN",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "DEN -12.5",
-   "spread": 12.5,
-   "over_under": 235.5
+   "score": 5
   }
  },
  {
@@ -3891,9 +3885,9 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "DAL -4.5",
-   "spread": 4.5,
-   "over_under": 227.5
+   "details": "DAL -8.5",
+   "spread": 8.5,
+   "over_under": 228.5
   }
  },
  {
@@ -3920,7 +3914,7 @@
    "provider": "DraftKings",
    "details": "DET -4.5",
    "spread": 4.5,
-   "over_under": 229.5
+   "over_under": 228.5
   }
  },
  {
@@ -3945,9 +3939,9 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "MEM -1.5",
-   "spread": -1.5,
-   "over_under": 227.5
+   "details": "MEM -4.5",
+   "spread": -4.5,
+   "over_under": 224.5
   }
  },
  {
@@ -3974,7 +3968,7 @@
    "provider": "DraftKings",
    "details": "MIN -15.5",
    "spread": -15.5,
-   "over_under": 234.5
+   "over_under": 238.5
   }
  },
  {
