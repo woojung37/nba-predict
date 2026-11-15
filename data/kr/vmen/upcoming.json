@@ -2,7 +2,7 @@
  {
   "id": "213283",
   "date": "2026-11-15T05:00:00+00:00",
-  "status": "NS",
+  "status": "S2",
   "home": {
    "id": 1176,
    "name": "Woori",
@@ -35,11 +35,6 @@
    "away_minus_1_5": 0.301,
    "full_five_sets": 0.375,
    "edge": 0.008
-  },
-  "data_games": {
-   "home": 3,
-   "away": 3
-  },
-  "low_confidence": true
+  }
  }
 ]
