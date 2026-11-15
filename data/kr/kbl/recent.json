@@ -1,5 +1,134 @@
 [
  {
+  "id": "512109",
+  "date": "2026-11-15T07:30:00+00:00",
+  "home": {
+   "id": 1105,
+   "name": "KCC Egis",
+   "ko": "KCC"
+  },
+  "away": {
+   "id": 3081,
+   "name": "KoGas",
+   "ko": "가스공사"
+  },
+  "home_score": 80,
+  "away_score": 77,
+  "sets": null,
+  "pre_game_prediction": {
+   "home_points": 77.4,
+   "away_points": 79.9,
+   "home_margin": -2.4,
+   "home_win_prob": 0.427,
+   "total": 157.3,
+   "margin_range80": [
+    -19.3,
+    14.4
+   ],
+   "total_range80": [
+    136.8,
+    177.8
+   ],
+   "sigma": 13.15,
+   "total_sigma": 15.99,
+   "factors": {
+    "team_strength": -0.4,
+    "home_court": 1.0,
+    "rest": -3.0
+   },
+   "back_to_back": {
+    "home": true,
+    "away": false
+   }
+  }
+ },
+ {
+  "id": "512108",
+  "date": "2026-11-15T07:30:00+00:00",
+  "home": {
+   "id": 1106,
+   "name": "LG Sakers",
+   "ko": "LG"
+  },
+  "away": {
+   "id": 3173,
+   "name": "Suwon KT",
+   "ko": "KT"
+  },
+  "home_score": 83,
+  "away_score": 81,
+  "sets": null,
+  "pre_game_prediction": {
+   "home_points": 76.1,
+   "away_points": 76.3,
+   "home_margin": -0.3,
+   "home_win_prob": 0.491,
+   "total": 152.4,
+   "margin_range80": [
+    -17.1,
+    16.6
+   ],
+   "total_range80": [
+    131.9,
+    172.9
+   ],
+   "sigma": 13.15,
+   "total_sigma": 15.99,
+   "factors": {
+    "team_strength": 1.7,
+    "home_court": 1.0,
+    "rest": -3.0
+   },
+   "back_to_back": {
+    "home": true,
+    "away": false
+   }
+  }
+ },
+ {
+  "id": "512107",
+  "date": "2026-11-15T05:00:00+00:00",
+  "home": {
+   "id": 1103,
+   "name": "Goyang Sono",
+   "ko": "소노"
+  },
+  "away": {
+   "id": 1111,
+   "name": "Wonju DB",
+   "ko": "DB"
+  },
+  "home_score": 89,
+  "away_score": 83,
+  "sets": null,
+  "pre_game_prediction": {
+   "home_points": 81.8,
+   "away_points": 80.4,
+   "home_margin": 1.4,
+   "home_win_prob": 0.543,
+   "total": 162.1,
+   "margin_range80": [
+    -15.4,
+    18.3
+   ],
+   "total_range80": [
+    141.7,
+    182.6
+   ],
+   "sigma": 13.15,
+   "total_sigma": 15.99,
+   "factors": {
+    "team_strength": 0.4,
+    "home_court": 1.0,
+    "rest": -0.0
+   },
+   "back_to_back": {
+    "home": false,
+    "away": false
+   }
+  }
+ },
+ {
   "id": "512106",
   "date": "2026-11-14T07:30:00+00:00",
   "home": {

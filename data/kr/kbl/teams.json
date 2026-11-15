@@ -13,41 +13,41 @@
   "id": 1105,
   "name": "KCC Egis",
   "ko": "KCC",
-  "wins": 3,
+  "wins": 4,
   "losses": 0,
-  "points_for": 264,
-  "points_against": 246,
-  "rating": -0.4
+  "points_for": 344,
+  "points_against": 323,
+  "rating": -0.1
+ },
+ {
+  "id": 1106,
+  "name": "LG Sakers",
+  "ko": "LG",
+  "wins": 3,
+  "losses": 2,
+  "points_for": 422,
+  "points_against": 401,
+  "rating": 1.7
+ },
+ {
+  "id": 1103,
+  "name": "Goyang Sono",
+  "ko": "소노",
+  "wins": 3,
+  "losses": 2,
+  "points_for": 450,
+  "points_against": 440,
+  "rating": 0.3
  },
  {
   "id": 1111,
   "name": "Wonju DB",
   "ko": "DB",
   "wins": 2,
-  "losses": 1,
-  "points_for": 243,
-  "points_against": 240,
-  "rating": -0.3
- },
- {
-  "id": 1106,
-  "name": "LG Sakers",
-  "ko": "LG",
-  "wins": 2,
   "losses": 2,
-  "points_for": 339,
-  "points_against": 320,
-  "rating": 1.5
- },
- {
-  "id": 1103,
-  "name": "Goyang Sono",
-  "ko": "소노",
-  "wins": 2,
-  "losses": 2,
-  "points_for": 361,
-  "points_against": 357,
-  "rating": 0.1
+  "points_for": 326,
+  "points_against": 329,
+  "rating": -0.6
  },
  {
   "id": 1109,
@@ -60,26 +60,6 @@
   "rating": -1.3
  },
  {
-  "id": 3173,
-  "name": "Suwon KT",
-  "ko": "KT",
-  "wins": 1,
-  "losses": 2,
-  "points_for": 253,
-  "points_against": 260,
-  "rating": -0.2
- },
- {
-  "id": 3081,
-  "name": "KoGas",
-  "ko": "가스공사",
-  "wins": 1,
-  "losses": 3,
-  "points_for": 321,
-  "points_against": 333,
-  "rating": 0.0
- },
- {
   "id": 1107,
   "name": "Mobis Phoebus",
   "ko": "현대모비스",
@@ -88,6 +68,26 @@
   "points_for": 319,
   "points_against": 336,
   "rating": -0.2
+ },
+ {
+  "id": 3173,
+  "name": "Suwon KT",
+  "ko": "KT",
+  "wins": 1,
+  "losses": 3,
+  "points_for": 334,
+  "points_against": 343,
+  "rating": -0.3
+ },
+ {
+  "id": 3081,
+  "name": "KoGas",
+  "ko": "가스공사",
+  "wins": 1,
+  "losses": 4,
+  "points_for": 398,
+  "points_against": 413,
+  "rating": -0.3
  },
  {
   "id": 1108,

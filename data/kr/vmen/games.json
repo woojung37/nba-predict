@@ -9504,8 +9504,8 @@
   "id": "213283",
   "date": "2026-11-15T05:00:00+00:00",
   "season": 2026,
-  "status": "S2",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 1176,
    "name": "Woori",
@@ -9514,7 +9514,7 @@
   "away": {
    "id": 1170,
    "name": "Hyundai Skywalkers",
-   "score": 1
+   "score": 3
   },
   "sets": [
    [
@@ -9522,8 +9522,12 @@
     25
    ],
    [
-    22,
-    22
+    25,
+    27
+   ],
+   [
+    23,
+    25
    ]
   ]
  }

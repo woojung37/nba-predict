@@ -3,11 +3,11 @@
   "id": 1178,
   "name": "Expressway Co W",
   "ko": "한국도로공사",
-  "wins": 3,
+  "wins": 4,
   "losses": 0,
-  "points_for": 269,
-  "points_against": 227,
-  "rating": 0.057
+  "points_for": 344,
+  "points_against": 284,
+  "rating": 0.079
  },
  {
   "id": 1182,
@@ -60,16 +60,6 @@
   "rating": -0.027
  },
  {
-  "id": 1181,
-  "name": "Hyundai E&C Hillstate W",
-  "ko": "현대건설",
-  "wins": 0,
-  "losses": 3,
-  "points_for": 214,
-  "points_against": 252,
-  "rating": -0.038
- },
- {
   "id": 4452,
   "name": "SOOP SOOPers W",
   "ko": "SOOP SOOPers W",
@@ -78,5 +68,15 @@
   "points_for": 231,
   "points_against": 269,
   "rating": -0.044
+ },
+ {
+  "id": 1181,
+  "name": "Hyundai E&C Hillstate W",
+  "ko": "현대건설",
+  "wins": 0,
+  "losses": 4,
+  "points_for": 271,
+  "points_against": 327,
+  "rating": -0.06
  }
 ]
