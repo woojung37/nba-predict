@@ -3952,26 +3952,20 @@
   "date": "2026-11-15T18:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
-  "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Xfinity Mobile Arena",
   "home": {
    "id": "20",
    "abbr": "PHI",
-   "score": null
+   "score": 131
   },
   "away": {
    "id": "11",
    "abbr": "IND",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "PHI -7.5",
-   "spread": -7.5,
-   "over_under": 225.5
+   "score": 124
   }
  },
  {
@@ -3998,7 +3992,7 @@
    "provider": "DraftKings",
    "details": "LAL -3.5",
    "spread": 3.5,
-   "over_under": 228.5
+   "over_under": 226.5
   }
  },
  {
@@ -4025,7 +4019,7 @@
    "provider": "DraftKings",
    "details": "LAC -1.5",
    "spread": -1.5,
-   "over_under": 214.5
+   "over_under": 213.5
   }
  },
  {
@@ -4050,9 +4044,9 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "SA -16.5",
-   "spread": 16.5,
-   "over_under": 225.5
+   "details": "SA -14.5",
+   "spread": 14.5,
+   "over_under": 222.5
   }
  },
  {
@@ -4077,9 +4071,9 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "BOS -13.5",
-   "spread": -13.5,
-   "over_under": 219.5
+   "details": "BOS -14.5",
+   "spread": -14.5,
+   "over_under": 218.5
   }
  },
  {
@@ -4104,8 +4098,8 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "NY -4.5",
-   "spread": 4.5,
+   "details": "NY -5.5",
+   "spread": 5.5,
    "over_under": 217.5
   }
  },
@@ -4133,7 +4127,7 @@
    "provider": "DraftKings",
    "details": "HOU -8.5",
    "spread": 8.5,
-   "over_under": 222.5
+   "over_under": 223.5
   }
  },
  {
@@ -4158,9 +4152,9 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "ATL -7.5",
-   "spread": 7.5,
-   "over_under": 234.5
+   "details": "ATL -8.5",
+   "spread": 8.5,
+   "over_under": 233.5
   }
  },
  {
@@ -4187,7 +4181,7 @@
    "provider": "DraftKings",
    "details": "OKC -10.5",
    "spread": 10.5,
-   "over_under": 222.5
+   "over_under": 223.5
   }
  },
  {
