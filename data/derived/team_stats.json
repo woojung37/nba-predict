@@ -504,31 +504,31 @@
   "net_rtg": -10.8
  },
  "3": {
-  "gp": 13,
+  "gp": 14,
   "record": [
    4,
-   9
+   10
   ],
   "home_record": [
    3,
-   5
+   6
   ],
   "away_record": [
    1,
    4
   ],
-  "ppg": 116.5,
-  "opp_ppg": 125.6,
-  "avg_margin": -9.2,
+  "ppg": 115.9,
+  "opp_ppg": 124.9,
+  "avg_margin": -9.1,
   "last10_record": [
    4,
    6
   ],
-  "last10_margin": -10.9,
-  "last_game": "2026-11-14T01:00Z",
-  "pace": 106.1,
-  "ortg": 109.8,
-  "drtg": 118.4,
+  "last10_margin": -10.4,
+  "last_game": "2026-11-15T00:00Z",
+  "pace": 105.8,
+  "ortg": 109.5,
+  "drtg": 118.1,
   "net_rtg": -8.6
  },
  "11": {
@@ -588,10 +588,10 @@
   "net_rtg": 8.8
  },
  "6": {
-  "gp": 12,
+  "gp": 13,
   "record": [
    7,
-   5
+   6
   ],
   "home_record": [
    5,
@@ -599,21 +599,21 @@
   ],
   "away_record": [
    2,
-   3
+   4
   ],
-  "ppg": 113.2,
-  "opp_ppg": 112.2,
-  "avg_margin": 1.0,
+  "ppg": 113.5,
+  "opp_ppg": 113.3,
+  "avg_margin": 0.2,
   "last10_record": [
    6,
    4
   ],
-  "last10_margin": 1.4,
-  "last_game": "2026-11-13T01:00Z",
+  "last10_margin": 2.0,
+  "last_game": "2026-11-15T00:30Z",
   "pace": 102.6,
-  "ortg": 110.3,
-  "drtg": 109.3,
-  "net_rtg": 1.0
+  "ortg": 110.6,
+  "drtg": 110.5,
+  "net_rtg": 0.1
  },
  "13": {
   "gp": 13,
@@ -784,37 +784,37 @@
   "net_rtg": -12.4
  },
  "5": {
-  "gp": 13,
+  "gp": 14,
   "record": [
-   6,
+   7,
    7
   ],
   "home_record": [
-   4,
+   5,
    2
   ],
   "away_record": [
    2,
    5
   ],
-  "ppg": 116.8,
-  "opp_ppg": 115.8,
-  "avg_margin": 1.0,
+  "ppg": 117.5,
+  "opp_ppg": 115.9,
+  "avg_margin": 1.6,
   "last10_record": [
    4,
    6
   ],
   "last10_margin": 1.5,
-  "last_game": "2026-11-14T01:00Z",
-  "pace": 102.6,
-  "ortg": 113.8,
-  "drtg": 112.9,
-  "net_rtg": 0.9
+  "last_game": "2026-11-15T00:30Z",
+  "pace": 102.5,
+  "ortg": 114.6,
+  "drtg": 113.0,
+  "net_rtg": 1.6
  },
  "7": {
-  "gp": 10,
+  "gp": 11,
   "record": [
-   6,
+   7,
    4
   ],
   "home_record": [
@@ -822,21 +822,21 @@
    2
   ],
   "away_record": [
-   4,
+   5,
    2
   ],
-  "ppg": 114.5,
-  "opp_ppg": 113.3,
-  "avg_margin": 1.2,
+  "ppg": 114.6,
+  "opp_ppg": 112.8,
+  "avg_margin": 1.8,
   "last10_record": [
-   6,
-   4
+   7,
+   3
   ],
-  "last10_margin": 1.2,
-  "last_game": "2026-11-12T01:00Z",
-  "pace": 100.0,
-  "ortg": 114.5,
-  "drtg": 113.3,
-  "net_rtg": 1.2
+  "last10_margin": 3.2,
+  "last_game": "2026-11-15T00:00Z",
+  "pace": 100.2,
+  "ortg": 114.4,
+  "drtg": 112.5,
+  "net_rtg": 1.9
  }
 }
