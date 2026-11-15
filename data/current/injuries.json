@@ -65,11 +65,11 @@
   "athlete_id": "4278104",
   "name": "Michael Porter Jr.",
   "position": "F",
-  "status": "Day-To-Day",
+  "status": "Out",
   "injury": "Personal",
-  "return_date": "2026-11-14",
-  "updated": "2026-11-14T23:19Z",
-  "comment": "Porter (personal) is listed as questionable for Saturday's game against Memphis, Erik Slater of ClutchPoints.com reports."
+  "return_date": "2026-11-16",
+  "updated": "2026-11-15T00:15Z",
+  "comment": "Porter (personal) is out for Saturday's game against the Grizzlies, Brian Lewis of the New York Post reports."
  },
  {
   "team_id": "30",
@@ -554,14 +554,26 @@
  {
   "team_id": "13",
   "team": "Los Angeles Lakers",
+  "athlete_id": "5060631",
+  "name": "Adou Thiero",
+  "position": "F",
+  "status": "Day-To-Day",
+  "injury": "Left Ankle Sprain",
+  "return_date": "2026-11-15",
+  "updated": "2026-11-15T00:40Z",
+  "comment": "Thiero (ankle) is questionable for Sunday's game against the Suns."
+ },
+ {
+  "team_id": "13",
+  "team": "Los Angeles Lakers",
   "athlete_id": "4277811",
   "name": "Collin Sexton",
   "position": "G",
   "status": "Day-To-Day",
   "injury": "Head",
   "return_date": "2026-11-15",
-  "updated": "2026-11-14T20:25Z",
-  "comment": "Sexton (head) was a full participant in Saturday's practice, Dave McMenamin of ESPN.com reports."
+  "updated": "2026-11-15T00:27Z",
+  "comment": "Sexton (head) is questionable for Sunday's game against the Suns, Daniel Starkand of LakersNation.com reports."
  },
  {
   "team_id": "13",
@@ -569,23 +581,35 @@
   "athlete_id": "4066457",
   "name": "Austin Reaves",
   "position": "G",
-  "status": "Day-To-Day",
-  "injury": "Left Heel",
-  "return_date": "2026-11-15",
-  "updated": "2026-11-14T20:15Z",
-  "comment": "Reaves (heel) didn't participate in Saturday's practice, Dave McMenamin of ESPN.com reports."
+  "status": "Out",
+  "injury": "Left Heel Bruise",
+  "return_date": "2026-11-17",
+  "updated": "2026-11-15T00:17Z",
+  "comment": "Reaves (heel) has been ruled out for Sunday's game against the Suns, Daniel Starkand of LakersNation.com reports."
  },
  {
-  "team_id": "13",
-  "team": "Los Angeles Lakers",
-  "athlete_id": "4397014",
-  "name": "Quentin Grimes",
-  "position": "G",
-  "status": "Day-To-Day",
-  "injury": "Finger",
-  "return_date": "2026-11-15",
-  "updated": "2026-11-13T21:26Z",
-  "comment": "Grimes (finger) said he expects to return to action Sunday against the Suns, according to Ricardo Sandoval of Lakers on SI."
+  "team_id": "29",
+  "team": "Memphis Grizzlies",
+  "athlete_id": "4600663",
+  "name": "Zach Edey",
+  "position": "C",
+  "status": "Out",
+  "injury": "Left Ankle",
+  "return_date": "2026-11-16",
+  "updated": "2026-11-15T00:43Z",
+  "comment": "Edey (ankle) is listed as out for Saturday's game against the Nets."
+ },
+ {
+  "team_id": "29",
+  "team": "Memphis Grizzlies",
+  "athlete_id": "2991070",
+  "name": "Jerami Grant",
+  "position": "F",
+  "status": "Out",
+  "injury": "Head",
+  "return_date": "2026-11-16",
+  "updated": "2026-11-15T00:35Z",
+  "comment": "Grant (head) is out for Saturday's game against the Nets."
  },
  {
   "team_id": "29",
@@ -598,30 +622,6 @@
   "return_date": "2026-11-16",
   "updated": "2026-11-14T19:47Z",
   "comment": "Post (concussion) has been ruled out for Saturday's game against the Nets."
- },
- {
-  "team_id": "29",
-  "team": "Memphis Grizzlies",
-  "athlete_id": "2991070",
-  "name": "Jerami Grant",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Head",
-  "return_date": "2026-11-14",
-  "updated": "2026-11-14T19:46Z",
-  "comment": "Grant (head) is questionable for Saturday's game against the Nets."
- },
- {
-  "team_id": "29",
-  "team": "Memphis Grizzlies",
-  "athlete_id": "4600663",
-  "name": "Zach Edey",
-  "position": "C",
-  "status": "Day-To-Day",
-  "injury": "Left Ankle",
-  "return_date": "2026-11-14",
-  "updated": "2026-11-14T19:45Z",
-  "comment": "Edey (ankle) is listed as questionable for Saturday's game against Brooklyn."
  },
  {
   "team_id": "29",
@@ -1133,11 +1133,11 @@
   "athlete_id": "4397077",
   "name": "Jaxson Hayes",
   "position": "C",
-  "status": "Day-To-Day",
-  "injury": "Left Knee",
-  "return_date": "2026-11-15",
-  "updated": "2026-11-14T02:58Z",
-  "comment": "Hayes won't return to Friday's game against the Rockets due to a left knee issue."
+  "status": "Out",
+  "injury": "Left Knee Strain",
+  "return_date": "2026-11-17",
+  "updated": "2026-11-15T00:07Z",
+  "comment": "Hayes (knee) has been ruled out for Sunday's game against the Spurs."
  },
  {
   "team_id": "26",

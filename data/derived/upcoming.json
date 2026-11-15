@@ -511,16 +511,10 @@
   "id": "401909981",
   "date": "2026-11-15T00:30Z",
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "neutral": false,
   "venue": "Rocket Arena",
   "date_kst": "2026-11-15T09:30:00+09:00",
-  "odds": {
-   "provider": "DraftKings",
-   "details": "DAL -8.5",
-   "spread": 8.5,
-   "over_under": 228.5
-  },
   "home": {
    "id": "5",
    "abbr": "CLE",
@@ -1033,98 +1027,16 @@
     }
    ]
   },
-  "prediction": {
+  "pre_game_prediction": {
    "home_points": 110.0,
    "away_points": 116.1,
    "home_margin": -6.1,
    "home_win_prob": 0.333,
-   "away_win_prob": 0.667,
    "margin_range80": [
     -24.3,
     12.0
    ],
-   "total": 226.1,
-   "total_range80": [
-    202.4,
-    249.8
-   ],
-   "sigma": 14.15,
-   "total_sigma": 18.49,
-   "factors": {
-    "team_strength": 3.0,
-    "home_court": 2.0,
-    "rest": -3.0,
-    "injuries": -8.2
-   },
-   "back_to_back": {
-    "home": true,
-    "away": false
-   },
-   "injury_impact": {
-    "home": [
-     {
-      "athlete_id": "3908809",
-      "name": "Donovan Mitchell",
-      "status": "Out",
-      "impact": -2.4
-     },
-     {
-      "athlete_id": "4432158",
-      "name": "Evan Mobley",
-      "status": "Out",
-      "impact": -2.0
-     },
-     {
-      "athlete_id": "4066328",
-      "name": "Jarrett Allen",
-      "status": "Out",
-      "impact": -1.6
-     },
-     {
-      "athlete_id": "3992",
-      "name": "James Harden",
-      "status": "Out",
-      "impact": -1.5
-     },
-     {
-      "athlete_id": "4576087",
-      "name": "Peyton Watson",
-      "status": "Out",
-      "impact": -0.4
-     },
-     {
-      "athlete_id": "4066757",
-      "name": "Sam Merrill",
-      "status": "Out",
-      "impact": -0.2
-     }
-    ],
-    "away": [
-     {
-      "athlete_id": "4432582",
-      "name": "Max Christie",
-      "status": "Out",
-      "impact": -0.0
-     }
-    ]
-   },
-   "ratings": {
-    "home": {
-     "offense": 2.0,
-     "defense": 0.9
-    },
-    "away": {
-     "offense": -0.1,
-     "defense": 1.9
-    }
-   },
-   "vs_line": {
-    "spread": 8.5,
-    "over_under": 228.5,
-    "home_cover_prob": 0.567,
-    "over_prob": 0.449,
-    "provider": "DraftKings"
-   }
+   "total": 226.1
   }
  },
  {
@@ -1136,7 +1048,7 @@
   "venue": "Kaseya Center",
   "date_kst": "2026-11-15T10:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "DET -4.5",
    "spread": 4.5,
    "over_under": 228.5
@@ -1665,7 +1577,7 @@
     "over_under": 228.5,
     "home_cover_prob": 0.409,
     "over_prob": 0.569,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },
@@ -1678,10 +1590,10 @@
   "venue": "FedExForum",
   "date_kst": "2026-11-15T10:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "MEM -4.5",
    "spread": -4.5,
-   "over_under": 224.5
+   "over_under": 223.5
   },
   "home": {
    "id": "29",
@@ -1736,6 +1648,30 @@
     {
      "team_id": "29",
      "team": "Memphis Grizzlies",
+     "athlete_id": "4600663",
+     "name": "Zach Edey",
+     "position": "C",
+     "status": "Out",
+     "injury": "Left Ankle",
+     "return_date": "2026-11-16",
+     "updated": "2026-11-15T00:43Z",
+     "comment": "Edey (ankle) is listed as out for Saturday's game against the Nets."
+    },
+    {
+     "team_id": "29",
+     "team": "Memphis Grizzlies",
+     "athlete_id": "2991070",
+     "name": "Jerami Grant",
+     "position": "F",
+     "status": "Out",
+     "injury": "Head",
+     "return_date": "2026-11-16",
+     "updated": "2026-11-15T00:35Z",
+     "comment": "Grant (head) is out for Saturday's game against the Nets."
+    },
+    {
+     "team_id": "29",
+     "team": "Memphis Grizzlies",
      "athlete_id": "4593016",
      "name": "Quinten Post",
      "position": "C",
@@ -1744,30 +1680,6 @@
      "return_date": "2026-11-16",
      "updated": "2026-11-14T19:47Z",
      "comment": "Post (concussion) has been ruled out for Saturday's game against the Nets."
-    },
-    {
-     "team_id": "29",
-     "team": "Memphis Grizzlies",
-     "athlete_id": "2991070",
-     "name": "Jerami Grant",
-     "position": "F",
-     "status": "Day-To-Day",
-     "injury": "Head",
-     "return_date": "2026-11-14",
-     "updated": "2026-11-14T19:46Z",
-     "comment": "Grant (head) is questionable for Saturday's game against the Nets."
-    },
-    {
-     "team_id": "29",
-     "team": "Memphis Grizzlies",
-     "athlete_id": "4600663",
-     "name": "Zach Edey",
-     "position": "C",
-     "status": "Day-To-Day",
-     "injury": "Left Ankle",
-     "return_date": "2026-11-14",
-     "updated": "2026-11-14T19:45Z",
-     "comment": "Edey (ankle) is listed as questionable for Saturday's game against Brooklyn."
     },
     {
      "team_id": "29",
@@ -1910,7 +1822,7 @@
      "fg_pct": 48.0,
      "fg3_pct": 46.8,
      "ft_pct": 76.9,
-     "injury_status": "Day-To-Day"
+     "injury_status": "Out"
     }
    ]
   },
@@ -1970,11 +1882,11 @@
      "athlete_id": "4278104",
      "name": "Michael Porter Jr.",
      "position": "F",
-     "status": "Day-To-Day",
+     "status": "Out",
      "injury": "Personal",
-     "return_date": "2026-11-14",
-     "updated": "2026-11-14T23:19Z",
-     "comment": "Porter (personal) is listed as questionable for Saturday's game against Memphis, Erik Slater of ClutchPoints.com reports."
+     "return_date": "2026-11-16",
+     "updated": "2026-11-15T00:15Z",
+     "comment": "Porter (personal) is out for Saturday's game against the Grizzlies, Brian Lewis of the New York Post reports."
     }
    ],
    "top_players": [
@@ -1997,7 +1909,7 @@
      "fg_pct": 45.6,
      "fg3_pct": 37.5,
      "ft_pct": 74.6,
-     "injury_status": "Day-To-Day"
+     "injury_status": "Out"
     },
     {
      "athlete_id": "3064514",
@@ -2157,19 +2069,19 @@
    ]
   },
   "prediction": {
-   "home_points": 114.5,
-   "away_points": 114.3,
-   "home_margin": 0.2,
-   "home_win_prob": 0.506,
-   "away_win_prob": 0.494,
+   "home_points": 113.5,
+   "away_points": 113.1,
+   "home_margin": 0.4,
+   "home_win_prob": 0.51,
+   "away_win_prob": 0.49,
    "margin_range80": [
-    -17.9,
-    18.3
+    -17.8,
+    18.5
    ],
-   "total": 228.9,
+   "total": 226.6,
    "total_range80": [
-    205.2,
-    252.6
+    202.9,
+    250.3
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -2177,7 +2089,7 @@
     "team_strength": 4.0,
     "home_court": 2.0,
     "rest": -3.0,
-    "injuries": -2.8
+    "injuries": -2.7
    },
    "back_to_back": {
     "home": true,
@@ -2192,30 +2104,30 @@
       "impact": -2.4
      },
      {
-      "athlete_id": "4431785",
-      "name": "Scotty Pippen Jr.",
+      "athlete_id": "4600663",
+      "name": "Zach Edey",
       "status": "Out",
-      "impact": -0.5
+      "impact": -0.9
      },
      {
       "athlete_id": "2991070",
       "name": "Jerami Grant",
-      "status": "Day-To-Day",
-      "impact": -0.3
+      "status": "Out",
+      "impact": -0.7
      },
      {
-      "athlete_id": "4600663",
-      "name": "Zach Edey",
-      "status": "Day-To-Day",
-      "impact": -0.3
+      "athlete_id": "4431785",
+      "name": "Scotty Pippen Jr.",
+      "status": "Out",
+      "impact": -0.5
      }
     ],
     "away": [
      {
       "athlete_id": "4278104",
       "name": "Michael Porter Jr.",
-      "status": "Day-To-Day",
-      "impact": -0.7
+      "status": "Out",
+      "impact": -1.9
      }
     ]
    },
@@ -2231,10 +2143,10 @@
    },
    "vs_line": {
     "spread": -4.5,
-    "over_under": 224.5,
-    "home_cover_prob": 0.381,
-    "over_prob": 0.593,
-    "provider": "DraftKings"
+    "over_under": 223.5,
+    "home_cover_prob": 0.385,
+    "over_prob": 0.566,
+    "provider": "Draft Kings"
    }
   }
  },
@@ -2247,10 +2159,10 @@
   "venue": "Target Center",
   "date_kst": "2026-11-15T10:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
-   "details": "MIN -15.5",
-   "spread": -15.5,
-   "over_under": 238.5
+   "provider": "Draft Kings",
+   "details": "MIN -16.5",
+   "spread": -16.5,
+   "over_under": 237.5
   },
   "home": {
    "id": "16",
@@ -2772,11 +2684,11 @@
     }
    },
    "vs_line": {
-    "spread": -15.5,
-    "over_under": 238.5,
-    "home_cover_prob": 0.598,
-    "over_prob": 0.341,
-    "provider": "DraftKings"
+    "spread": -16.5,
+    "over_under": 237.5,
+    "home_cover_prob": 0.57,
+    "over_prob": 0.361,
+    "provider": "Draft Kings"
    }
   }
  },
@@ -3625,14 +3537,26 @@
     {
      "team_id": "13",
      "team": "Los Angeles Lakers",
+     "athlete_id": "5060631",
+     "name": "Adou Thiero",
+     "position": "F",
+     "status": "Day-To-Day",
+     "injury": "Left Ankle Sprain",
+     "return_date": "2026-11-15",
+     "updated": "2026-11-15T00:40Z",
+     "comment": "Thiero (ankle) is questionable for Sunday's game against the Suns."
+    },
+    {
+     "team_id": "13",
+     "team": "Los Angeles Lakers",
      "athlete_id": "4277811",
      "name": "Collin Sexton",
      "position": "G",
      "status": "Day-To-Day",
      "injury": "Head",
      "return_date": "2026-11-15",
-     "updated": "2026-11-14T20:25Z",
-     "comment": "Sexton (head) was a full participant in Saturday's practice, Dave McMenamin of ESPN.com reports."
+     "updated": "2026-11-15T00:27Z",
+     "comment": "Sexton (head) is questionable for Sunday's game against the Suns, Daniel Starkand of LakersNation.com reports."
     },
     {
      "team_id": "13",
@@ -3640,23 +3564,11 @@
      "athlete_id": "4066457",
      "name": "Austin Reaves",
      "position": "G",
-     "status": "Day-To-Day",
-     "injury": "Left Heel",
-     "return_date": "2026-11-15",
-     "updated": "2026-11-14T20:15Z",
-     "comment": "Reaves (heel) didn't participate in Saturday's practice, Dave McMenamin of ESPN.com reports."
-    },
-    {
-     "team_id": "13",
-     "team": "Los Angeles Lakers",
-     "athlete_id": "4397014",
-     "name": "Quentin Grimes",
-     "position": "G",
-     "status": "Day-To-Day",
-     "injury": "Finger",
-     "return_date": "2026-11-15",
-     "updated": "2026-11-13T21:26Z",
-     "comment": "Grimes (finger) said he expects to return to action Sunday against the Suns, according to Ricardo Sandoval of Lakers on SI."
+     "status": "Out",
+     "injury": "Left Heel Bruise",
+     "return_date": "2026-11-17",
+     "updated": "2026-11-15T00:17Z",
+     "comment": "Reaves (heel) has been ruled out for Sunday's game against the Suns, Daniel Starkand of LakersNation.com reports."
     }
    ],
    "top_players": [
@@ -3700,7 +3612,7 @@
      "fg_pct": 51.3,
      "fg3_pct": 40.9,
      "ft_pct": 91.5,
-     "injury_status": "Day-To-Day"
+     "injury_status": "Out"
     },
     {
      "athlete_id": "4433136",
@@ -3867,18 +3779,18 @@
   },
   "prediction": {
    "home_points": 114.9,
-   "away_points": 117.7,
-   "home_margin": -2.8,
-   "home_win_prob": 0.423,
-   "away_win_prob": 0.577,
+   "away_points": 116.1,
+   "home_margin": -1.2,
+   "home_win_prob": 0.468,
+   "away_win_prob": 0.532,
    "margin_range80": [
-    -20.9,
-    15.4
+    -19.3,
+    17.0
    ],
-   "total": 232.6,
+   "total": 231.0,
    "total_range80": [
-    208.9,
-    256.3
+    207.3,
+    254.7
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -3886,7 +3798,7 @@
     "team_strength": -5.9,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 1.1
+    "injuries": 2.7
    },
    "back_to_back": {
     "home": false,
@@ -3898,20 +3810,14 @@
      {
       "athlete_id": "4066457",
       "name": "Austin Reaves",
-      "status": "Day-To-Day",
-      "impact": -0.9
+      "status": "Out",
+      "impact": -2.5
      },
      {
       "athlete_id": "4277811",
       "name": "Collin Sexton",
       "status": "Day-To-Day",
       "impact": -0.2
-     },
-     {
-      "athlete_id": "4397014",
-      "name": "Quentin Grimes",
-      "status": "Day-To-Day",
-      "impact": -0.0
      }
     ]
    },
@@ -4519,11 +4425,11 @@
      "athlete_id": "4397077",
      "name": "Jaxson Hayes",
      "position": "C",
-     "status": "Day-To-Day",
-     "injury": "Left Knee",
-     "return_date": "2026-11-15",
-     "updated": "2026-11-14T02:58Z",
-     "comment": "Hayes won't return to Friday's game against the Rockets due to a left knee issue."
+     "status": "Out",
+     "injury": "Left Knee Strain",
+     "return_date": "2026-11-17",
+     "updated": "2026-11-15T00:07Z",
+     "comment": "Hayes (knee) has been ruled out for Sunday's game against the Spurs."
     },
     {
      "team_id": "26",
@@ -4964,19 +4870,19 @@
    ]
   },
   "prediction": {
-   "home_points": 107.9,
+   "home_points": 107.4,
    "away_points": 123.0,
-   "home_margin": -15.0,
-   "home_win_prob": 0.144,
-   "away_win_prob": 0.856,
+   "home_margin": -15.5,
+   "home_win_prob": 0.136,
+   "away_win_prob": 0.864,
    "margin_range80": [
-    -33.2,
-    3.1
+    -33.7,
+    2.6
    ],
-   "total": 230.9,
+   "total": 230.4,
    "total_range80": [
-    207.2,
-    254.6
+    206.7,
+    254.1
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -4984,7 +4890,7 @@
     "team_strength": -12.9,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": -4.1
+    "injuries": -4.6
    },
    "back_to_back": {
     "home": false,
@@ -5007,8 +4913,8 @@
      {
       "athlete_id": "4397077",
       "name": "Jaxson Hayes",
-      "status": "Day-To-Day",
-      "impact": -0.3
+      "status": "Out",
+      "impact": -0.8
      }
     ],
     "away": []
@@ -9313,6 +9219,30 @@
     {
      "team_id": "29",
      "team": "Memphis Grizzlies",
+     "athlete_id": "4600663",
+     "name": "Zach Edey",
+     "position": "C",
+     "status": "Out",
+     "injury": "Left Ankle",
+     "return_date": "2026-11-16",
+     "updated": "2026-11-15T00:43Z",
+     "comment": "Edey (ankle) is listed as out for Saturday's game against the Nets."
+    },
+    {
+     "team_id": "29",
+     "team": "Memphis Grizzlies",
+     "athlete_id": "2991070",
+     "name": "Jerami Grant",
+     "position": "F",
+     "status": "Out",
+     "injury": "Head",
+     "return_date": "2026-11-16",
+     "updated": "2026-11-15T00:35Z",
+     "comment": "Grant (head) is out for Saturday's game against the Nets."
+    },
+    {
+     "team_id": "29",
+     "team": "Memphis Grizzlies",
      "athlete_id": "4593016",
      "name": "Quinten Post",
      "position": "C",
@@ -9321,30 +9251,6 @@
      "return_date": "2026-11-16",
      "updated": "2026-11-14T19:47Z",
      "comment": "Post (concussion) has been ruled out for Saturday's game against the Nets."
-    },
-    {
-     "team_id": "29",
-     "team": "Memphis Grizzlies",
-     "athlete_id": "2991070",
-     "name": "Jerami Grant",
-     "position": "F",
-     "status": "Day-To-Day",
-     "injury": "Head",
-     "return_date": "2026-11-14",
-     "updated": "2026-11-14T19:46Z",
-     "comment": "Grant (head) is questionable for Saturday's game against the Nets."
-    },
-    {
-     "team_id": "29",
-     "team": "Memphis Grizzlies",
-     "athlete_id": "4600663",
-     "name": "Zach Edey",
-     "position": "C",
-     "status": "Day-To-Day",
-     "injury": "Left Ankle",
-     "return_date": "2026-11-14",
-     "updated": "2026-11-14T19:45Z",
-     "comment": "Edey (ankle) is listed as questionable for Saturday's game against Brooklyn."
     },
     {
      "team_id": "29",
@@ -9487,7 +9393,7 @@
      "fg_pct": 48.0,
      "fg3_pct": 46.8,
      "ft_pct": 76.9,
-     "injury_status": "Day-To-Day"
+     "injury_status": "Out"
     }
    ]
   },
@@ -9555,18 +9461,18 @@
   },
   "prediction": {
    "home_points": 119.2,
-   "away_points": 120.1,
-   "home_margin": -0.9,
-   "home_win_prob": 0.476,
-   "away_win_prob": 0.524,
+   "away_points": 119.0,
+   "home_margin": 0.2,
+   "home_win_prob": 0.506,
+   "away_win_prob": 0.494,
    "margin_range80": [
-    -19.0,
-    17.3
+    -17.9,
+    18.3
    ],
-   "total": 239.2,
+   "total": 238.2,
    "total_range80": [
-    215.5,
-    262.9
+    214.5,
+    261.9
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -9574,7 +9480,7 @@
     "team_strength": -5.1,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 2.2
+    "injuries": 3.3
    },
    "back_to_back": {
     "home": false,
@@ -9609,22 +9515,22 @@
       "impact": -2.4
      },
      {
-      "athlete_id": "4431785",
-      "name": "Scotty Pippen Jr.",
+      "athlete_id": "4600663",
+      "name": "Zach Edey",
       "status": "Out",
-      "impact": -0.5
+      "impact": -0.9
      },
      {
       "athlete_id": "2991070",
       "name": "Jerami Grant",
-      "status": "Day-To-Day",
-      "impact": -0.3
+      "status": "Out",
+      "impact": -0.7
      },
      {
-      "athlete_id": "4600663",
-      "name": "Zach Edey",
-      "status": "Day-To-Day",
-      "impact": -0.3
+      "athlete_id": "4431785",
+      "name": "Scotty Pippen Jr.",
+      "status": "Out",
+      "impact": -0.5
      }
     ]
    },
@@ -9704,11 +9610,11 @@
      "athlete_id": "4278104",
      "name": "Michael Porter Jr.",
      "position": "F",
-     "status": "Day-To-Day",
+     "status": "Out",
      "injury": "Personal",
-     "return_date": "2026-11-14",
-     "updated": "2026-11-14T23:19Z",
-     "comment": "Porter (personal) is listed as questionable for Saturday's game against Memphis, Erik Slater of ClutchPoints.com reports."
+     "return_date": "2026-11-16",
+     "updated": "2026-11-15T00:15Z",
+     "comment": "Porter (personal) is out for Saturday's game against the Grizzlies, Brian Lewis of the New York Post reports."
     }
    ],
    "top_players": [
@@ -9731,7 +9637,7 @@
      "fg_pct": 45.6,
      "fg3_pct": 37.5,
      "ft_pct": 74.6,
-     "injury_status": "Day-To-Day"
+     "injury_status": "Out"
     },
     {
      "athlete_id": "3064514",
@@ -10125,19 +10031,19 @@
    ]
   },
   "prediction": {
-   "home_points": 111.4,
+   "home_points": 110.2,
    "away_points": 113.8,
-   "home_margin": -2.4,
-   "home_win_prob": 0.433,
-   "away_win_prob": 0.567,
+   "home_margin": -3.6,
+   "home_win_prob": 0.4,
+   "away_win_prob": 0.6,
    "margin_range80": [
-    -20.5,
-    15.8
+    -21.7,
+    14.5
    ],
-   "total": 225.3,
+   "total": 224.0,
    "total_range80": [
-    201.6,
-    249.0
+    200.4,
+    247.7
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -10145,7 +10051,7 @@
     "team_strength": -5.5,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 1.2
+    "injuries": -0.0
    },
    "back_to_back": {
     "home": false,
@@ -10156,8 +10062,8 @@
      {
       "athlete_id": "4278104",
       "name": "Michael Porter Jr.",
-      "status": "Day-To-Day",
-      "impact": -0.7
+      "status": "Out",
+      "impact": -1.9
      }
     ],
     "away": [

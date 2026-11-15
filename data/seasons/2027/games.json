@@ -3855,12 +3855,12 @@
   "home": {
    "id": "3",
    "abbr": "NO",
-   "score": 5
+   "score": 39
   },
   "away": {
    "id": "7",
    "abbr": "DEN",
-   "score": 5
+   "score": 47
   }
  },
  {
@@ -3868,26 +3868,20 @@
   "date": "2026-11-15T00:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Rocket Arena",
   "home": {
    "id": "5",
    "abbr": "CLE",
-   "score": null
+   "score": 26
   },
   "away": {
    "id": "6",
    "abbr": "DAL",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "DAL -8.5",
-   "spread": 8.5,
-   "over_under": 228.5
+   "score": 26
   }
  },
  {
@@ -3911,7 +3905,7 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "DET -4.5",
    "spread": 4.5,
    "over_under": 228.5
@@ -3938,10 +3932,10 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "MEM -4.5",
    "spread": -4.5,
-   "over_under": 224.5
+   "over_under": 223.5
   }
  },
  {
@@ -3965,10 +3959,10 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
-   "details": "MIN -15.5",
-   "spread": -15.5,
-   "over_under": 238.5
+   "provider": "Draft Kings",
+   "details": "MIN -16.5",
+   "spread": -16.5,
+   "over_under": 237.5
   }
  },
  {
