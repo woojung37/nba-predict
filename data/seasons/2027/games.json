@@ -4015,9 +4015,9 @@
   "date": "2026-11-15T22:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Delta Center",
   "home": {
@@ -4044,12 +4044,12 @@
   "home": {
    "id": "2",
    "abbr": "BOS",
-   "score": 78
+   "score": 126
   },
   "away": {
    "id": "6",
    "abbr": "DAL",
-   "score": 49
+   "score": 88
   }
  },
  {
@@ -4059,18 +4059,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_HALFTIME",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Scotiabank Arena",
   "home": {
    "id": "28",
    "abbr": "TOR",
-   "score": 43
+   "score": 74
   },
   "away": {
    "id": "18",
    "abbr": "NY",
-   "score": 47
+   "score": 65
   }
  },
  {
@@ -4086,12 +4086,12 @@
   "home": {
    "id": "27",
    "abbr": "WSH",
-   "score": 13
+   "score": 50
   },
   "away": {
    "id": "10",
    "abbr": "HOU",
-   "score": 12
+   "score": 68
   }
  },
  {

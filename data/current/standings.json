@@ -240,10 +240,26 @@
   "opp_ppg": 120.23077
  },
  {
+  "team_id": "24",
+  "abbr": "SA",
+  "conference": "Western Conference",
+  "seed": 1,
+  "wins": 12,
+  "losses": 2,
+  "win_pct": 0.85714287,
+  "games_behind": "-",
+  "home": "5-2",
+  "road": "7-0",
+  "last10": "10-0",
+  "streak": "W12",
+  "ppg": 118.78571,
+  "opp_ppg": 105.92857
+ },
+ {
   "team_id": "13",
   "abbr": "LAL",
   "conference": "Western Conference",
-  "seed": 1,
+  "seed": 2,
   "wins": 12,
   "losses": 2,
   "win_pct": 0.85714287,
@@ -254,22 +270,6 @@
   "streak": "W8",
   "ppg": 122.78571,
   "opp_ppg": 114.85714
- },
- {
-  "team_id": "24",
-  "abbr": "SA",
-  "conference": "Western Conference",
-  "seed": 2,
-  "wins": 11,
-  "losses": 2,
-  "win_pct": 0.84615386,
-  "games_behind": "0.5",
-  "home": "5-2",
-  "road": "6-0",
-  "last10": "10-0",
-  "streak": "W11",
-  "ppg": 119.46154,
-  "opp_ppg": 106.23077
  },
  {
   "team_id": "10",
@@ -469,14 +469,14 @@
   "conference": "Western Conference",
   "seed": 15,
   "wins": 1,
-  "losses": 12,
-  "win_pct": 0.07692308,
-  "games_behind": "10.5",
-  "home": "1-6",
+  "losses": 13,
+  "win_pct": 0.071428575,
+  "games_behind": "11",
+  "home": "1-7",
   "road": "0-6",
   "last10": "0-10",
-  "streak": "L11",
-  "ppg": 107.46154,
-  "opp_ppg": 118.61539
+  "streak": "L12",
+  "ppg": 107.07143,
+  "opp_ppg": 118.0
  }
 ]
