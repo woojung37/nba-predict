@@ -11,7 +11,7 @@
    "provider": "DraftKings",
    "details": "BOS -8.5",
    "spread": -8.5,
-   "over_under": 211.5
+   "over_under": 212.5
   },
   "home": {
    "id": "2",
@@ -526,9 +526,9 @@
    },
    "vs_line": {
     "spread": -8.5,
-    "over_under": 211.5,
+    "over_under": 212.5,
     "home_cover_prob": 0.547,
-    "over_prob": 0.571,
+    "over_prob": 0.55,
     "provider": "DraftKings"
    }
   }
@@ -1153,7 +1153,7 @@
    "provider": "DraftKings",
    "details": "MEM -4.5",
    "spread": 4.5,
-   "over_under": 229.5
+   "over_under": 230.5
   },
   "home": {
    "id": "27",
@@ -1760,9 +1760,9 @@
    },
    "vs_line": {
     "spread": 4.5,
-    "over_under": 229.5,
+    "over_under": 230.5,
     "home_cover_prob": 0.482,
-    "over_prob": 0.707,
+    "over_prob": 0.688,
     "provider": "DraftKings"
    }
   }
@@ -1779,7 +1779,7 @@
    "provider": "DraftKings",
    "details": "PHI -6.5",
    "spread": 6.5,
-   "over_under": 225.5
+   "over_under": 224.5
   },
   "home": {
    "id": "17",
@@ -2294,9 +2294,9 @@
    },
    "vs_line": {
     "spread": 6.5,
-    "over_under": 225.5,
+    "over_under": 224.5,
     "home_cover_prob": 0.658,
-    "over_prob": 0.532,
+    "over_prob": 0.553,
     "provider": "DraftKings"
    }
   }
@@ -2311,8 +2311,8 @@
   "date_kst": "2026-11-17T09:30:00+09:00",
   "odds": {
    "provider": "DraftKings",
-   "details": "HOU -2.5",
-   "spread": 2.5,
+   "details": "HOU -1.5",
+   "spread": 1.5,
    "over_under": 230.5
   },
   "home": {
@@ -2799,9 +2799,9 @@
     }
    },
    "vs_line": {
-    "spread": 2.5,
+    "spread": 1.5,
     "over_under": 230.5,
-    "home_cover_prob": 0.6,
+    "home_cover_prob": 0.573,
     "over_prob": 0.541,
     "provider": "DraftKings"
    }
