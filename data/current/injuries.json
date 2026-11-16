@@ -5,10 +5,10 @@
   "athlete_id": "3146557",
   "name": "Jock Landale",
   "position": "C",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Right Hip Inflammation",
   "return_date": "2026-11-18",
-  "updated": "2026-11-15T23:22Z",
+  "updated": "2026-11-16T14:47Z",
   "comment": "Landale (hip) is out for Sunday's game against Bucks, Brad Rowland of the Locked On Podcast Network reports."
  },
  {
@@ -17,10 +17,10 @@
   "athlete_id": "5149077",
   "name": "Kingston Flemings",
   "position": "G",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Back Strain",
   "return_date": "2026-11-18",
-  "updated": "2026-11-14T23:08Z",
+  "updated": "2026-11-16T14:47Z",
   "comment": "Flemings (back) has been ruled out for Sunday's game against the Bucks."
  },
  {
@@ -182,26 +182,26 @@
  {
   "team_id": "6",
   "team": "Dallas Mavericks",
-  "athlete_id": "4593125",
-  "name": "Santi Aldama",
-  "position": "F",
-  "status": "Out",
+  "athlete_id": "4432582",
+  "name": "Max Christie",
+  "position": "G",
+  "status": "Day-To-Day",
   "injury": "Left Ankle Sprain",
   "return_date": "2026-11-18",
-  "updated": "2026-11-15T22:27Z",
-  "comment": "Aldama (ankle) is out for Sunday's game against the Celtics."
+  "updated": "2026-11-16T14:45Z",
+  "comment": "Christie (ankle) has been ruled out for Sunday's game against the Celtics."
  },
  {
   "team_id": "6",
   "team": "Dallas Mavericks",
-  "athlete_id": "4432582",
-  "name": "Max Christie",
-  "position": "G",
-  "status": "Out",
+  "athlete_id": "4593125",
+  "name": "Santi Aldama",
+  "position": "F",
+  "status": "Day-To-Day",
   "injury": "Left Ankle Sprain",
   "return_date": "2026-11-18",
-  "updated": "2026-11-15T21:24Z",
-  "comment": "Christie (ankle) has been ruled out for Sunday's game against the Celtics."
+  "updated": "2026-11-16T14:45Z",
+  "comment": "Aldama (ankle) is out for Sunday's game against the Celtics."
  },
  {
   "team_id": "6",
@@ -209,10 +209,10 @@
   "athlete_id": "6442",
   "name": "Kyrie Irving",
   "position": "G",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Left Knee",
   "return_date": "2026-11-18",
-  "updated": "2026-11-15T21:20Z",
+  "updated": "2026-11-16T14:44Z",
   "comment": "Irving (knee) has been ruled out for Sunday's game against the Celtics."
  },
  {
@@ -386,6 +386,18 @@
  {
   "team_id": "10",
   "team": "Houston Rockets",
+  "athlete_id": "2991230",
+  "name": "Fred VanVleet",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Right Knee",
+  "return_date": "2026-11-16",
+  "updated": "2026-11-16T14:46Z",
+  "comment": "VanVleet (right knee injury management) has been ruled out for Sunday's game against the Wizards."
+ },
+ {
+  "team_id": "10",
+  "team": "Houston Rockets",
   "athlete_id": "3102529",
   "name": "Clint Capela",
   "position": "C",
@@ -394,18 +406,6 @@
   "return_date": "2026-11-16",
   "updated": "2026-11-14T21:54Z",
   "comment": "Capela (ankle) has been ruled out for Sunday's game at Washington."
- },
- {
-  "team_id": "10",
-  "team": "Houston Rockets",
-  "athlete_id": "2991230",
-  "name": "Fred VanVleet",
-  "position": "G",
-  "status": "Out",
-  "injury": "Right Knee",
-  "return_date": "2026-11-16",
-  "updated": "2026-11-14T21:52Z",
-  "comment": "VanVleet (right knee injury management) has been ruled out for Sunday's game against the Wizards."
  },
  {
   "team_id": "10",
@@ -521,10 +521,10 @@
   "athlete_id": "4066457",
   "name": "Austin Reaves",
   "position": "G",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Left Heel Bruise",
   "return_date": "2026-11-17",
-  "updated": "2026-11-15T00:17Z",
+  "updated": "2026-11-16T14:42Z",
   "comment": "Reaves (heel) has been ruled out for Sunday's game against the Suns, Daniel Starkand of LakersNation.com reports."
  },
  {
@@ -626,6 +626,18 @@
  {
   "team_id": "15",
   "team": "Milwaukee Bucks",
+  "athlete_id": "4591725",
+  "name": "Ryan Rollins",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Illness",
+  "return_date": "2026-11-18",
+  "updated": "2026-11-16T14:47Z",
+  "comment": "Rollins (illness) is out for Sunday's game against the Hawks."
+ },
+ {
+  "team_id": "15",
+  "team": "Milwaukee Bucks",
   "athlete_id": "4997526",
   "name": "Ousmane Dieng",
   "position": "F",
@@ -634,18 +646,6 @@
   "return_date": "2026-12-14",
   "updated": "2026-11-15T23:46Z",
   "comment": "Dieng will undergo a procedure to repair a fractured left finger Monday, Justin Garcia of the Milwaukee Bucks Radio Network reports."
- },
- {
-  "team_id": "15",
-  "team": "Milwaukee Bucks",
-  "athlete_id": "4591725",
-  "name": "Ryan Rollins",
-  "position": "G",
-  "status": "Out",
-  "injury": "Illness",
-  "return_date": "2026-11-18",
-  "updated": "2026-11-15T23:19Z",
-  "comment": "Rollins (illness) is out for Sunday's game against the Hawks."
  },
  {
   "team_id": "16",
@@ -974,26 +974,26 @@
  {
   "team_id": "23",
   "team": "Sacramento Kings",
-  "athlete_id": "4065732",
-  "name": "De'Andre Hunter",
-  "position": "F",
-  "status": "Out",
-  "injury": "Left Hip Soreness",
+  "athlete_id": "3064440",
+  "name": "Zach LaVine",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Illness",
   "return_date": "2026-11-18",
-  "updated": "2026-11-16T01:18Z",
-  "comment": "Hunter (hip) is out for Sunday's game against the Thunder."
+  "updated": "2026-11-16T14:48Z",
+  "comment": "LaVine is out for Sunday's game against Oklahoma City due to illness, Brandon Rahbar of DailyThunder.com reports."
  },
  {
   "team_id": "23",
   "team": "Sacramento Kings",
-  "athlete_id": "3064440",
-  "name": "Zach LaVine",
-  "position": "G",
-  "status": "Out",
-  "injury": "Illness",
+  "athlete_id": "4065732",
+  "name": "De'Andre Hunter",
+  "position": "F",
+  "status": "Day-To-Day",
+  "injury": "Left Hip Soreness",
   "return_date": "2026-11-18",
-  "updated": "2026-11-16T01:06Z",
-  "comment": "LaVine is out for Sunday's game against Oklahoma City due to illness, Brandon Rahbar of DailyThunder.com reports."
+  "updated": "2026-11-16T14:48Z",
+  "comment": "Hunter (hip) is out for Sunday's game against the Thunder."
  },
  {
   "team_id": "23",
@@ -1001,10 +1001,10 @@
   "athlete_id": "4431679",
   "name": "Precious Achiuwa",
   "position": "F",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Left Ankle Soreness",
   "return_date": "2026-11-18",
-  "updated": "2026-11-16T00:24Z",
+  "updated": "2026-11-16T14:48Z",
   "comment": "Achiuwa (ankle) has been ruled out for Sunday's game against the Thunder, Brenden Nunes of KHTK Sactown Sports 1140 reports."
  },
  {
@@ -1037,10 +1037,10 @@
   "athlete_id": "4066259",
   "name": "De'Aaron Fox",
   "position": "G",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Left Hip",
   "return_date": "2026-11-17",
-  "updated": "2026-11-15T20:33Z",
+  "updated": "2026-11-16T14:44Z",
   "comment": "Fox (hip) has been ruled out for Sunday's game against the Jazz."
  },
  {
@@ -1109,10 +1109,10 @@
   "athlete_id": "4397077",
   "name": "Jaxson Hayes",
   "position": "C",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Left Knee Strain",
   "return_date": "2026-11-17",
-  "updated": "2026-11-15T00:07Z",
+  "updated": "2026-11-16T14:44Z",
   "comment": "Hayes (knee) has been ruled out for Sunday's game against the Spurs."
  },
  {
@@ -1169,10 +1169,10 @@
   "athlete_id": "5238230",
   "name": "Tre Johnson",
   "position": "G",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Back",
   "return_date": "2026-11-16",
-  "updated": "2026-11-15T22:31Z",
+  "updated": "2026-11-16T14:47Z",
   "comment": "Johnson (back) won't play in Sunday's game against Houston, Josh Robbins of The Athletic reports."
  },
  {
