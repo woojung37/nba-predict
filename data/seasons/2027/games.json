@@ -4036,20 +4036,20 @@
   "date": "2026-11-15T23:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "TD Garden",
   "home": {
    "id": "2",
    "abbr": "BOS",
-   "score": 126
+   "score": 131
   },
   "away": {
    "id": "6",
    "abbr": "DAL",
-   "score": 88
+   "score": 94
   }
  },
  {
@@ -4057,20 +4057,20 @@
   "date": "2026-11-15T23:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Scotiabank Arena",
   "home": {
    "id": "28",
    "abbr": "TOR",
-   "score": 74
+   "score": 108
   },
   "away": {
    "id": "18",
    "abbr": "NY",
-   "score": 65
+   "score": 112
   }
  },
  {
@@ -4078,20 +4078,20 @@
   "date": "2026-11-16T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Capital One Arena",
   "home": {
    "id": "27",
    "abbr": "WSH",
-   "score": 50
+   "score": 119
   },
   "away": {
    "id": "10",
    "abbr": "HOU",
-   "score": 68
+   "score": 147
   }
  },
  {
@@ -4099,26 +4099,20 @@
   "date": "2026-11-16T01:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Fiserv Forum",
   "home": {
    "id": "15",
    "abbr": "MIL",
-   "score": null
+   "score": 92
   },
   "away": {
    "id": "1",
    "abbr": "ATL",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "ATL -8.5",
-   "spread": 8.5,
-   "over_under": 233.5
+   "score": 97
   }
  },
  {
@@ -4126,26 +4120,20 @@
   "date": "2026-11-16T02:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Golden 1 Center",
   "home": {
    "id": "23",
    "abbr": "SAC",
-   "score": null
+   "score": 50
   },
   "away": {
    "id": "25",
    "abbr": "OKC",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "OKC -11.5",
-   "spread": 11.5,
-   "over_under": 223.5
+   "score": 56
   }
  },
  {
@@ -4167,6 +4155,12 @@
    "id": "19",
    "abbr": "ORL",
    "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "BOS -9.5",
+   "spread": -9.5,
+   "over_under": 211.5
   }
  },
  {
@@ -4188,6 +4182,12 @@
    "id": "4",
    "abbr": "CHI",
    "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "CLE -10.5",
+   "spread": -10.5,
+   "over_under": 241.5
   }
  },
  {
@@ -4230,6 +4230,12 @@
    "id": "20",
    "abbr": "PHI",
    "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "PHI -5.5",
+   "spread": 5.5,
+   "over_under": 226.5
   }
  },
  {
@@ -4251,6 +4257,12 @@
    "id": "10",
    "abbr": "HOU",
    "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "HOU -2.5",
+   "spread": 2.5,
+   "over_under": 228.5
   }
  },
  {
@@ -4272,6 +4284,12 @@
    "id": "22",
    "abbr": "POR",
    "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "MIN -2.5",
+   "spread": -2.5,
+   "over_under": 228.5
   }
  },
  {
@@ -4293,6 +4311,12 @@
    "id": "9",
    "abbr": "GS",
    "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "GS -2.5",
+   "spread": 2.5,
+   "over_under": 226.5
   }
  },
  {
