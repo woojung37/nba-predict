@@ -14,6 +14,19 @@
  },
  {
   "team_id": "1",
+  "athlete_id": "4684443",
+  "name": "Rafael Castro",
+  "jersey": null,
+  "position": "F",
+  "age": 23,
+  "height": "6' 9\"",
+  "weight": "224 lbs",
+  "experience": 0,
+  "college": "George Washington",
+  "headshot": null
+ },
+ {
+  "team_id": "1",
   "athlete_id": "4869342",
   "name": "Dyson Daniels",
   "jersey": "5",
@@ -89,19 +102,6 @@
   "experience": 0,
   "college": "Houston",
   "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/5149077.png"
- },
- {
-  "team_id": "1",
-  "athlete_id": "4585618",
-  "name": "Keshon Gilbert",
-  "jersey": "00",
-  "position": "G",
-  "age": 23,
-  "height": "6' 4\"",
-  "weight": "200 lbs",
-  "experience": 2,
-  "college": "Iowa State",
-  "headshot": "https://a.espncdn.com/i/headshots/nba/players/full/4585618.png"
  },
  {
   "team_id": "1",
@@ -6087,7 +6087,7 @@
   "team_id": "23",
   "athlete_id": "2488653",
   "name": "Mason Plumlee",
-  "jersey": null,
+  "jersey": "24",
   "position": "C",
   "age": 36,
   "height": "7' 0\"",
