@@ -4204,20 +4204,20 @@
   "date": "2026-11-17T00:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Barclays Center",
   "home": {
    "id": "17",
    "abbr": "BKN",
-   "score": 121
+   "score": 123
   },
   "away": {
    "id": "20",
    "abbr": "PHI",
-   "score": 128
+   "score": 135
   }
  },
  {
@@ -4246,20 +4246,20 @@
   "date": "2026-11-17T01:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Target Center",
   "home": {
    "id": "16",
    "abbr": "MIN",
-   "score": 98
+   "score": 106
   },
   "away": {
    "id": "22",
    "abbr": "POR",
-   "score": 79
+   "score": 98
   }
  },
  {
@@ -4267,20 +4267,20 @@
   "date": "2026-11-17T01:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Smoothie King Center",
   "home": {
    "id": "3",
    "abbr": "NO",
-   "score": 97
+   "score": 115
   },
   "away": {
    "id": "9",
    "abbr": "GS",
-   "score": 75
+   "score": 94
   }
  },
  {
@@ -4296,12 +4296,12 @@
   "home": {
    "id": "7",
    "abbr": "DEN",
-   "score": 52
+   "score": 67
   },
   "away": {
    "id": "21",
    "abbr": "PHX",
-   "score": 51
+   "score": 73
   }
  },
  {
@@ -4325,7 +4325,7 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "NY -3.5",
    "spread": 3.5,
    "over_under": 216.5
@@ -4373,7 +4373,7 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "SA -8.5",
    "spread": -8.5,
    "over_under": 220.5
@@ -4400,7 +4400,7 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "LAC -5.5",
    "spread": -5.5,
    "over_under": 223.5
@@ -4427,9 +4427,9 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
-   "details": "LAL -8.5",
-   "spread": -8.5,
+   "provider": "Draft Kings",
+   "details": "LAL -7.5",
+   "spread": -7.5,
    "over_under": 218.5
   }
  },

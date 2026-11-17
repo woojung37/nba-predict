@@ -72,18 +72,6 @@
   "comment": "Queta (rest) won't play in Monday's game against the Magic, Taylor Snow of the Celtics' official site reports."
  },
  {
-  "team_id": "17",
-  "team": "Brooklyn Nets",
-  "athlete_id": "3064514",
-  "name": "Julius Randle",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Not Specified Mouth",
-  "return_date": "2026-11-16",
-  "updated": "2026-11-17T02:53Z",
-  "comment": "Randle finished with 22 points (8-16 FG, 3-6 3Pt, 3-6 FT), four rebounds, five assists and three steals across 31 minutes in Saturday's 129-110 loss to Memphis."
- },
- {
   "team_id": "30",
   "team": "Charlotte Hornets",
   "athlete_id": "5061575",
@@ -113,10 +101,10 @@
   "athlete_id": "4397189",
   "name": "Jalen Smith",
   "position": "F",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Undisclosed",
   "return_date": "2026-11-18",
-  "updated": "2026-11-17T02:47Z",
+  "updated": "2026-11-17T02:58Z",
   "comment": "Smith (undisclosed) exited in the fourth quarter of Monday's 126-115 loss to the Cavaliers and did not return."
  },
  {
@@ -425,11 +413,35 @@
   "athlete_id": "4684740",
   "name": "Amen Thompson",
   "position": "G",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Left Knee Soreness",
   "return_date": "2026-11-18",
-  "updated": "2026-11-16T23:48Z",
+  "updated": "2026-11-17T03:39Z",
   "comment": "Thompson (knee) is out for Monday's game against the Heat."
+ },
+ {
+  "team_id": "10",
+  "team": "Houston Rockets",
+  "athlete_id": "2990992",
+  "name": "Marcus Smart",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Suspension",
+  "return_date": "2026-11-18",
+  "updated": "2026-11-17T03:39Z",
+  "comment": "Smart has been suspended three games for throwing a punch during Wednesday's matchup against Golden State, Shams Charania of ESPN reports."
+ },
+ {
+  "team_id": "10",
+  "team": "Houston Rockets",
+  "athlete_id": "2991235",
+  "name": "Steven Adams",
+  "position": "C",
+  "status": "Day-To-Day",
+  "injury": "Calf",
+  "return_date": "2026-11-18",
+  "updated": "2026-11-17T03:38Z",
+  "comment": "Adams (calf) is out for Monday's game against the Heat."
  },
  {
   "team_id": "10",
@@ -446,18 +458,6 @@
  {
   "team_id": "10",
   "team": "Houston Rockets",
-  "athlete_id": "2991235",
-  "name": "Steven Adams",
-  "position": "C",
-  "status": "Out",
-  "injury": "Calf",
-  "return_date": "2026-11-18",
-  "updated": "2026-11-16T18:07Z",
-  "comment": "Adams (calf) is out for Monday's game against the Heat."
- },
- {
-  "team_id": "10",
-  "team": "Houston Rockets",
   "athlete_id": "5105553",
   "name": "Julian Phillips",
   "position": "F",
@@ -466,18 +466,6 @@
   "return_date": "2026-11-16",
   "updated": "2026-11-16T15:28Z",
   "comment": "Phillips (illness) is available for Wednesday's game against Dallas."
- },
- {
-  "team_id": "10",
-  "team": "Houston Rockets",
-  "athlete_id": "2990992",
-  "name": "Marcus Smart",
-  "position": "G",
-  "status": "Suspension",
-  "injury": "Suspension",
-  "return_date": "2026-11-18",
-  "updated": "2026-11-12T22:45Z",
-  "comment": "Smart has been suspended three games for throwing a punch during Wednesday's matchup against Golden State, Shams Charania of ESPN reports."
  },
  {
   "team_id": "11",
@@ -605,11 +593,23 @@
   "athlete_id": "4432810",
   "name": "Isaiah Stewart",
   "position": "C",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Illness",
   "return_date": "2026-11-18",
-  "updated": "2026-11-16T18:05Z",
+  "updated": "2026-11-17T03:35Z",
   "comment": "Stewart is out for Monday's game against the Wizards due to an illness."
+ },
+ {
+  "team_id": "29",
+  "team": "Memphis Grizzlies",
+  "athlete_id": "4065733",
+  "name": "Ty Jerome",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Right Hip Soreness",
+  "return_date": "2026-11-18",
+  "updated": "2026-11-17T03:35Z",
+  "comment": "Jerome (hip) has been ruled out for Monday's game against the Wizards."
  },
  {
   "team_id": "29",
@@ -638,18 +638,6 @@
  {
   "team_id": "29",
   "team": "Memphis Grizzlies",
-  "athlete_id": "4065733",
-  "name": "Ty Jerome",
-  "position": "G",
-  "status": "Out",
-  "injury": "Right Hip Soreness",
-  "return_date": "2026-11-18",
-  "updated": "2026-11-15T22:13Z",
-  "comment": "Jerome (hip) has been ruled out for Monday's game against the Wizards."
- },
- {
-  "team_id": "29",
-  "team": "Memphis Grizzlies",
   "athlete_id": "5105462",
   "name": "Richie Saunders",
   "position": "G",
@@ -662,26 +650,26 @@
  {
   "team_id": "14",
   "team": "Miami Heat",
+  "athlete_id": "4997528",
+  "name": "Nikola Jovic",
+  "position": "F",
+  "status": "Day-To-Day",
+  "injury": "Illness",
+  "return_date": "2026-11-18",
+  "updated": "2026-11-17T03:40Z",
+  "comment": "Jovic (illness) is out for Monday's game against Houston."
+ },
+ {
+  "team_id": "14",
+  "team": "Miami Heat",
   "athlete_id": "4066261",
   "name": "Bam Adebayo",
   "position": "C",
   "status": "Day-To-Day",
   "injury": "Right Hip",
   "return_date": "2026-11-18",
-  "updated": "2026-11-17T02:31Z",
-  "comment": "Adebayo (hip) has been ruled out for the remainder of Monday's game against the Rockets, Eric Nehm of The Athletic reports. He'll end with four points (1-3 FG, 0-1 3Pt, 2-4 FT), one rebound, two assists and two steals in 16 minutes."
- },
- {
-  "team_id": "14",
-  "team": "Miami Heat",
-  "athlete_id": "4997528",
-  "name": "Nikola Jovic",
-  "position": "F",
-  "status": "Out",
-  "injury": "Illness",
-  "return_date": "2026-11-18",
-  "updated": "2026-11-16T22:50Z",
-  "comment": "Jovic (illness) is out for Monday's game against Houston."
+  "updated": "2026-11-17T03:34Z",
+  "comment": "Coach Erik Spoelstra stated after Monday's 128-110 win over Houston that the team held Adebayo (hip) out of the second half in an effort to be proactive, and the injury isn't expected to be a long-term issue, Anthony Chiang of the Miami Herald reports."
  },
  {
   "team_id": "14",
@@ -718,6 +706,18 @@
   "return_date": "2026-12-14",
   "updated": "2026-11-15T23:46Z",
   "comment": "Dieng will undergo a procedure to repair a fractured left finger Monday, Justin Garcia of the Milwaukee Bucks Radio Network reports."
+ },
+ {
+  "team_id": "16",
+  "team": "Minnesota Timberwolves",
+  "athlete_id": "4433247",
+  "name": "Jonathan Kuminga",
+  "position": "F",
+  "status": "Day-To-Day",
+  "injury": "Right Shoulder",
+  "return_date": "2026-11-17",
+  "updated": "2026-11-17T03:32Z",
+  "comment": "Kuminga (shoulder) exited in the fourth quarter of Monday's 106-98 win over Portland and did not return. He closed with 13 points (5-12 FG, 1-2 3Pt, 2-2 FT), nine rebounds and one assist across 29 minutes."
  },
  {
   "team_id": "16",
@@ -883,7 +883,7 @@
   "position": "F",
   "status": "Out",
   "injury": "Left Knee Not Specified",
-  "return_date": "2026-11-18",
+  "return_date": "2026-11-22",
   "updated": "2026-11-15T18:22Z",
   "comment": "Isaac (knee) has been ruled out for Monday's game against the Celtics."
  },
