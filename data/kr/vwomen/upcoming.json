@@ -1,43 +1,5 @@
 [
  {
-  "id": "213410",
-  "date": "2026-11-17T10:00:00+00:00",
-  "status": "S3",
-  "home": {
-   "id": 1182,
-   "name": "IBK W",
-   "ko": "IBK기업은행"
-  },
-  "away": {
-   "id": 3820,
-   "name": "Daejeon JKJ W",
-   "ko": "정관장"
-  },
-  "prediction": {
-   "home_win_prob": 0.731,
-   "scores": {
-    "3-0": 0.254,
-    "0-3": 0.049,
-    "3-1": 0.279,
-    "1-3": 0.094,
-    "3-2": 0.197,
-    "2-3": 0.126
-   },
-   "set_win_prob": 0.633,
-   "expected_sets": 4.02,
-   "total": 171.2,
-   "total_range80": [
-    132.3,
-    210.1
-   ],
-   "total_sigma": 30.34,
-   "home_minus_1_5": 0.533,
-   "away_minus_1_5": 0.143,
-   "full_five_sets": 0.324,
-   "edge": 0.108
-  }
- },
- {
   "id": "213411",
   "date": "2026-11-18T10:00:00+00:00",
   "status": "NS",

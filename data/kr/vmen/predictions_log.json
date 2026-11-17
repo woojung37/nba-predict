@@ -654,13 +654,41 @@
    "away_minus_1_5": 0.289,
    "full_five_sets": 0.374,
    "edge": 0.016
+  },
+  "result": {
+   "home_score": 3,
+   "away_score": 2,
+   "home_margin": 1,
+   "total": 217,
+   "sets": [
+    [
+     21,
+     25
+    ],
+    [
+     25,
+     18
+    ],
+    [
+     25,
+     21
+    ],
+    [
+     23,
+     25
+    ],
+    [
+     18,
+     16
+    ]
+   ]
   }
  },
  "213285": {
   "date": "2026-11-18T10:00:00+00:00",
   "home": "삼성화재",
   "away": "우리카드",
-  "predicted_at": "2026-11-17T11:41:48+00:00",
+  "predicted_at": "2026-11-17T14:54:46+00:00",
   "prediction": {
    "home_win_prob": 0.471,
    "scores": {

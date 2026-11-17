@@ -9535,17 +9535,17 @@
   "id": "213284",
   "date": "2026-11-17T10:00:00+00:00",
   "season": 2026,
-  "status": "S3",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 1173,
    "name": "Kepco",
-   "score": 1
+   "score": 3
   },
   "away": {
    "id": 2100,
    "name": "Busan OK",
-   "score": 1
+   "score": 2
   },
   "sets": [
    [
@@ -9557,8 +9557,16 @@
     18
    ],
    [
-    2,
-    4
+    25,
+    21
+   ],
+   [
+    23,
+    25
+   ],
+   [
+    18,
+    16
    ]
   ]
  },

@@ -14,10 +14,10 @@
   "name": "IBK W",
   "ko": "IBK기업은행",
   "wins": 4,
-  "losses": 0,
-  "points_for": 356,
-  "points_against": 308,
-  "rating": 0.04
+  "losses": 1,
+  "points_for": 445,
+  "points_against": 406,
+  "rating": 0.02
  },
  {
   "id": 1179,
@@ -30,6 +30,16 @@
   "rating": 0.047
  },
  {
+  "id": 3820,
+  "name": "Daejeon JKJ W",
+  "ko": "정관장",
+  "wins": 2,
+  "losses": 2,
+  "points_for": 320,
+  "points_against": 331,
+  "rating": -0.008
+ },
+ {
   "id": 1180,
   "name": "Hungkuk W",
   "ko": "흥국생명",
@@ -38,16 +48,6 @@
   "points_for": 225,
   "points_against": 245,
   "rating": -0.007
- },
- {
-  "id": 3820,
-  "name": "Daejeon JKJ W",
-  "ko": "정관장",
-  "wins": 1,
-  "losses": 2,
-  "points_for": 222,
-  "points_against": 242,
-  "rating": -0.028
  },
  {
   "id": 2162,

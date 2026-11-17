@@ -10,6 +10,16 @@
   "rating": 0.11
  },
  {
+  "id": 1173,
+  "name": "Kepco",
+  "ko": "한국전력",
+  "wins": 4,
+  "losses": 1,
+  "points_for": 453,
+  "points_against": 445,
+  "rating": 0.016
+ },
+ {
   "id": 1176,
   "name": "Woori",
   "ko": "우리카드",
@@ -18,16 +28,6 @@
   "points_for": 348,
   "points_against": 324,
   "rating": 0.038
- },
- {
-  "id": 1173,
-  "name": "Kepco",
-  "ko": "한국전력",
-  "wins": 3,
-  "losses": 1,
-  "points_for": 341,
-  "points_against": 340,
-  "rating": 0.001
  },
  {
   "id": 1175,
@@ -44,10 +44,10 @@
   "name": "Busan OK",
   "ko": "OK저축은행",
   "wins": 1,
-  "losses": 2,
-  "points_for": 268,
-  "points_against": 280,
-  "rating": -0.015
+  "losses": 3,
+  "points_for": 373,
+  "points_against": 392,
+  "rating": -0.029
  },
  {
   "id": 1171,
