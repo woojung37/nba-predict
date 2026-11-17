@@ -65,10 +65,10 @@
   "athlete_id": "4397424",
   "name": "Neemias Queta",
   "position": "C",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Rest",
   "return_date": "2026-11-18",
-  "updated": "2026-11-16T22:10Z",
+  "updated": "2026-11-17T03:37Z",
   "comment": "Queta (rest) won't play in Monday's game against the Magic, Taylor Snow of the Celtics' official site reports."
  },
  {
@@ -102,7 +102,7 @@
   "name": "Jalen Smith",
   "position": "F",
   "status": "Day-To-Day",
-  "injury": "Undisclosed",
+  "injury": "Head",
   "return_date": "2026-11-18",
   "updated": "2026-11-17T02:58Z",
   "comment": "Smith (undisclosed) exited in the fourth quarter of Monday's 126-115 loss to the Cavaliers and did not return."
@@ -146,6 +146,18 @@
  {
   "team_id": "5",
   "team": "Cleveland Cavaliers",
+  "athlete_id": "4683747",
+  "name": "Jaylon Tyson",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Right Ankle",
+  "return_date": "2026-11-18",
+  "updated": "2026-11-17T03:37Z",
+  "comment": "Tyson (ankle) has been ruled out for Monday's game against Chicago."
+ },
+ {
+  "team_id": "5",
+  "team": "Cleveland Cavaliers",
   "athlete_id": "4576087",
   "name": "Peyton Watson",
   "position": "G",
@@ -154,18 +166,6 @@
   "return_date": "2026-11-18",
   "updated": "2026-11-17T02:58Z",
   "comment": "Watson left Monday's 126-115 win over Chicago due to a head injury and did not return."
- },
- {
-  "team_id": "5",
-  "team": "Cleveland Cavaliers",
-  "athlete_id": "4683747",
-  "name": "Jaylon Tyson",
-  "position": "G",
-  "status": "Out",
-  "injury": "Right Ankle",
-  "return_date": "2026-11-18",
-  "updated": "2026-11-16T22:39Z",
-  "comment": "Tyson (ankle) has been ruled out for Monday's game against Chicago."
  },
  {
   "team_id": "5",
@@ -463,7 +463,7 @@
   "position": "F",
   "status": "Day-To-Day",
   "injury": "Right Wrist",
-  "return_date": "2026-11-16",
+  "return_date": "2026-11-17",
   "updated": "2026-11-16T15:28Z",
   "comment": "Phillips (illness) is available for Wednesday's game against Dallas."
  },
@@ -758,6 +758,18 @@
  {
   "team_id": "3",
   "team": "New Orleans Pelicans",
+  "athlete_id": "4683634",
+  "name": "Bennedict Mathurin",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Left Foot Plantar Fasciitis",
+  "return_date": "2026-11-18",
+  "updated": "2026-11-17T03:48Z",
+  "comment": "Mathurin (foot) has been ruled out for Monday's game against the Warriors."
+ },
+ {
+  "team_id": "3",
+  "team": "New Orleans Pelicans",
   "athlete_id": "4576086",
   "name": "Bryce McGowens",
   "position": "G",
@@ -766,18 +778,6 @@
   "return_date": "2026-11-18",
   "updated": "2026-11-15T23:10Z",
   "comment": "McGowens (elbow) has been ruled out for Monday's game against the Warriors."
- },
- {
-  "team_id": "3",
-  "team": "New Orleans Pelicans",
-  "athlete_id": "4683634",
-  "name": "Bennedict Mathurin",
-  "position": "G",
-  "status": "Out",
-  "injury": "Left Foot Plantar Fasciitis",
-  "return_date": "2026-11-18",
-  "updated": "2026-11-15T23:06Z",
-  "comment": "Mathurin (foot) has been ruled out for Monday's game against the Warriors."
  },
  {
   "team_id": "3",
@@ -926,6 +926,30 @@
  {
   "team_id": "20",
   "team": "Philadelphia 76ers",
+  "athlete_id": "3917376",
+  "name": "Jaylen Brown",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Left Hamstring Not Specified",
+  "return_date": "2026-11-18",
+  "updated": "2026-11-17T04:56Z",
+  "comment": "Brown (hamstring/head) will undergo further evaluation Tuesday and could receive an MRI, Kris Rhim of ESPN reports."
+ },
+ {
+  "team_id": "20",
+  "team": "Philadelphia 76ers",
+  "athlete_id": "1966",
+  "name": "LeBron James",
+  "position": "F",
+  "status": "Day-To-Day",
+  "injury": "Back",
+  "return_date": "2026-11-18",
+  "updated": "2026-11-17T03:41Z",
+  "comment": "James (back) has been ruled out for Monday's game against the Nets."
+ },
+ {
+  "team_id": "20",
+  "team": "Philadelphia 76ers",
   "athlete_id": "4870562",
   "name": "Dominick Barlow",
   "position": "F",
@@ -938,24 +962,12 @@
  {
   "team_id": "20",
   "team": "Philadelphia 76ers",
-  "athlete_id": "1966",
-  "name": "LeBron James",
-  "position": "F",
-  "status": "Out",
-  "injury": "Back",
-  "return_date": "2026-11-18",
-  "updated": "2026-11-16T18:07Z",
-  "comment": "James (back) has been ruled out for Monday's game against the Nets."
- },
- {
-  "team_id": "20",
-  "team": "Philadelphia 76ers",
   "athlete_id": "5105637",
   "name": "Adem Bona",
   "position": "C",
   "status": "Out",
   "injury": "Back Sprain",
-  "return_date": "2026-11-18",
+  "return_date": "2026-11-21",
   "updated": "2026-11-12T16:36Z",
   "comment": "Bona (back) will be re-evaluated in approximately one week after seeing a specialist, Ky Carlin of USA Today reports."
  },
@@ -1135,7 +1147,7 @@
   "position": "G",
   "status": "Day-To-Day",
   "injury": "Illness",
-  "return_date": "2026-11-16",
+  "return_date": "2026-11-20",
   "updated": "2026-11-13T15:37Z",
   "comment": "McCullar signed a two-way contract with the Raptors on Thursday, Michael Scotto of HoopsHype.com reports."
  },

@@ -4288,20 +4288,20 @@
   "date": "2026-11-17T02:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Ball Arena",
   "home": {
    "id": "7",
    "abbr": "DEN",
-   "score": 67
+   "score": 105
   },
   "away": {
    "id": "21",
    "abbr": "PHX",
-   "score": 73
+   "score": 117
   }
  },
  {
@@ -4326,8 +4326,8 @@
   },
   "odds": {
    "provider": "Draft Kings",
-   "details": "NY -3.5",
-   "spread": 3.5,
+   "details": "NY -2.5",
+   "spread": 2.5,
    "over_under": 216.5
   }
  },
@@ -4350,6 +4350,12 @@
    "id": "22",
    "abbr": "POR",
    "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "MIN -2.5",
+   "spread": -2.5,
+   "over_under": 226.5
   }
  },
  {
@@ -4376,7 +4382,7 @@
    "provider": "Draft Kings",
    "details": "SA -8.5",
    "spread": -8.5,
-   "over_under": 220.5
+   "over_under": 222.5
   }
  },
  {
@@ -4401,9 +4407,9 @@
   },
   "odds": {
    "provider": "Draft Kings",
-   "details": "LAC -5.5",
-   "spread": -5.5,
-   "over_under": 223.5
+   "details": "LAC -6.5",
+   "spread": -6.5,
+   "over_under": 225.5
   }
  },
  {
