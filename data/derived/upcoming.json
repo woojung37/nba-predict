@@ -1,465 +1,5 @@
 [
  {
-  "id": "401910005",
-  "date": "2026-11-18T04:00Z",
-  "season_type": 2,
-  "state": "in",
-  "neutral": false,
-  "venue": "crypto.com Arena",
-  "date_kst": "2026-11-18T13:00:00+09:00",
-  "home": {
-   "id": "13",
-   "abbr": "LAL",
-   "name": "Los Angeles Lakers",
-   "standing": {
-    "team_id": "13",
-    "abbr": "LAL",
-    "conference": "Western Conference",
-    "seed": 1,
-    "wins": 12,
-    "losses": 2,
-    "win_pct": 0.85714287,
-    "games_behind": "-",
-    "home": "5-1",
-    "road": "7-1",
-    "last10": "9-1",
-    "streak": "W8",
-    "ppg": 122.78571,
-    "opp_ppg": 114.85714
-   },
-   "stats": {
-    "gp": 14,
-    "record": [
-     12,
-     2
-    ],
-    "home_record": [
-     5,
-     1
-    ],
-    "away_record": [
-     7,
-     1
-    ],
-    "ppg": 122.8,
-    "opp_ppg": 114.9,
-    "avg_margin": 7.9,
-    "last10_record": [
-     9,
-     1
-    ],
-    "last10_margin": 7.9,
-    "last_game": "2026-11-15T21:00Z",
-    "pace": 103.0,
-    "ortg": 119.3,
-    "drtg": 111.6,
-    "net_rtg": 7.7
-   },
-   "rest_days": 1,
-   "injuries": [
-    {
-     "team_id": "13",
-     "team": "Los Angeles Lakers",
-     "athlete_id": "4433136",
-     "name": "Walker Kessler",
-     "position": "C",
-     "status": "Out",
-     "injury": "Right Lower Leg Soreness",
-     "return_date": "2026-11-18",
-     "updated": "2026-11-18T02:57Z",
-     "comment": "Head coach JJ Redick said he expects Walker (leg) to be available for Wednesday's game against the Jazz, Thuc Nhi Nguyen of the Los Angeles Times reports."
-    },
-    {
-     "team_id": "13",
-     "team": "Los Angeles Lakers",
-     "athlete_id": "4066457",
-     "name": "Austin Reaves",
-     "position": "G",
-     "status": "Out",
-     "injury": "Left Heel Bruise",
-     "return_date": "2026-11-18",
-     "updated": "2026-11-17T01:11Z",
-     "comment": "Reaves (heel) is out for Tuesday's game against the Hornets, Dave McMenamin of ESPN.com reports."
-    }
-   ],
-   "top_players": [
-    {
-     "athlete_id": "3945274",
-     "name": "Luka Doncic",
-     "position": "G",
-     "team_id": "13",
-     "gp": 12,
-     "gs": 12,
-     "last_game": "2026-11-15",
-     "min": 35.8,
-     "pts": 39.0,
-     "reb": 7.2,
-     "ast": 7.8,
-     "stl": 1.9,
-     "blk": 0.7,
-     "tov": 4.8,
-     "plus_minus": 14.6,
-     "fg_pct": 48.6,
-     "fg3_pct": 40.6,
-     "ft_pct": 86.5,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "4066457",
-     "name": "Austin Reaves",
-     "position": "G",
-     "team_id": "13",
-     "gp": 12,
-     "gs": 12,
-     "last_game": "2026-11-12",
-     "min": 35.2,
-     "pts": 24.7,
-     "reb": 3.3,
-     "ast": 4.7,
-     "stl": 1.2,
-     "blk": 0.3,
-     "tov": 3.4,
-     "plus_minus": 11.2,
-     "fg_pct": 51.3,
-     "fg3_pct": 40.9,
-     "ft_pct": 91.5,
-     "injury_status": "Out"
-    },
-    {
-     "athlete_id": "4433136",
-     "name": "Walker Kessler",
-     "position": "C",
-     "team_id": "13",
-     "gp": 14,
-     "gs": 14,
-     "last_game": "2026-11-15",
-     "min": 30.9,
-     "pts": 14.5,
-     "reb": 10.9,
-     "ast": 1.9,
-     "stl": 1.2,
-     "blk": 2.2,
-     "tov": 1.7,
-     "plus_minus": 8.6,
-     "fg_pct": 68.0,
-     "fg3_pct": null,
-     "ft_pct": 66.0,
-     "injury_status": "Out"
-    },
-    {
-     "athlete_id": "4277811",
-     "name": "Collin Sexton",
-     "position": "G",
-     "team_id": "13",
-     "gp": 13,
-     "gs": 0,
-     "last_game": "2026-11-15",
-     "min": 18.2,
-     "pts": 10.7,
-     "reb": 1.7,
-     "ast": 2.6,
-     "stl": 0.5,
-     "blk": 0.2,
-     "tov": 1.3,
-     "plus_minus": -3.2,
-     "fg_pct": 44.5,
-     "fg3_pct": 28.9,
-     "ft_pct": 70.0,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "4433137",
-     "name": "Ziaire Williams",
-     "position": "F",
-     "team_id": "13",
-     "gp": 11,
-     "gs": 5,
-     "last_game": "2026-11-15",
-     "min": 23.6,
-     "pts": 10.5,
-     "reb": 2.5,
-     "ast": 2.1,
-     "stl": 1.5,
-     "blk": 0.2,
-     "tov": 0.5,
-     "plus_minus": 4.4,
-     "fg_pct": 56.8,
-     "fg3_pct": 45.5,
-     "ft_pct": 85.7,
-     "injury_status": null
-    }
-   ]
-  },
-  "away": {
-   "id": "30",
-   "abbr": "CHA",
-   "name": "Charlotte Hornets",
-   "standing": {
-    "team_id": "30",
-    "abbr": "CHA",
-    "conference": "Eastern Conference",
-    "seed": 11,
-    "wins": 4,
-    "losses": 9,
-    "win_pct": 0.30769232,
-    "games_behind": "7",
-    "home": "3-4",
-    "road": "1-5",
-    "last10": "2-8",
-    "streak": "L2",
-    "ppg": 99.07692,
-    "opp_ppg": 109.84615
-   },
-   "stats": {
-    "gp": 13,
-    "record": [
-     4,
-     9
-    ],
-    "home_record": [
-     3,
-     4
-    ],
-    "away_record": [
-     1,
-     5
-    ],
-    "ppg": 99.1,
-    "opp_ppg": 109.8,
-    "avg_margin": -10.8,
-    "last10_record": [
-     2,
-     8
-    ],
-    "last10_margin": -10.5,
-    "last_game": "2026-11-15T21:30Z",
-    "pace": 98.6,
-    "ortg": 100.5,
-    "drtg": 111.4,
-    "net_rtg": -10.9
-   },
-   "rest_days": 1,
-   "injuries": [
-    {
-     "team_id": "30",
-     "team": "Charlotte Hornets",
-     "athlete_id": "3135045",
-     "name": "Grayson Allen",
-     "position": "G",
-     "status": "Out",
-     "injury": "Concussion",
-     "return_date": "2026-11-20",
-     "updated": "2026-11-18T02:19Z",
-     "comment": "Allen (concussion-like symptoms) has been ruled out for Tuesday's game against the Lakers."
-    },
-    {
-     "team_id": "30",
-     "team": "Charlotte Hornets",
-     "athlete_id": "5061575",
-     "name": "Kon Knueppel",
-     "position": "G",
-     "status": "Out",
-     "injury": "Left Hamstring Strain",
-     "return_date": "2026-12-12",
-     "updated": "2026-11-08T22:31Z",
-     "comment": "Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks."
-    },
-    {
-     "team_id": "30",
-     "team": "Charlotte Hornets",
-     "athlete_id": "3032979",
-     "name": "Dennis Schroder",
-     "position": "G",
-     "status": "Out",
-     "injury": "Left Hamstring Strain",
-     "return_date": "2026-11-25",
-     "updated": "2026-11-08T22:26Z",
-     "comment": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports."
-    }
-   ],
-   "top_players": [
-    {
-     "athlete_id": "4433287",
-     "name": "Brandon Miller",
-     "position": "F",
-     "team_id": "30",
-     "gp": 11,
-     "gs": 11,
-     "last_game": "2026-11-15",
-     "min": 30.4,
-     "pts": 19.2,
-     "reb": 4.7,
-     "ast": 2.4,
-     "stl": 1.1,
-     "blk": 0.7,
-     "tov": 2.2,
-     "plus_minus": -6.1,
-     "fg_pct": 34.4,
-     "fg3_pct": 25.5,
-     "ft_pct": 85.4,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "4396971",
-     "name": "Naz Reid",
-     "position": "C",
-     "team_id": "30",
-     "gp": 13,
-     "gs": 13,
-     "last_game": "2026-11-15",
-     "min": 29.7,
-     "pts": 17.2,
-     "reb": 8.2,
-     "ast": 2.2,
-     "stl": 0.8,
-     "blk": 0.5,
-     "tov": 2.7,
-     "plus_minus": -8.4,
-     "fg_pct": 39.9,
-     "fg3_pct": 34.4,
-     "ft_pct": 63.3,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "3135045",
-     "name": "Grayson Allen",
-     "position": "G",
-     "team_id": "30",
-     "gp": 13,
-     "gs": 3,
-     "last_game": "2026-11-15",
-     "min": 27.2,
-     "pts": 14.9,
-     "reb": 3.1,
-     "ast": 3.3,
-     "stl": 0.8,
-     "blk": 0.3,
-     "tov": 2.6,
-     "plus_minus": -5.7,
-     "fg_pct": 44.8,
-     "fg3_pct": 45.8,
-     "ft_pct": 92.7,
-     "injury_status": "Out"
-    },
-    {
-     "athlete_id": "4395651",
-     "name": "Coby White",
-     "position": "G",
-     "team_id": "30",
-     "gp": 6,
-     "gs": 6,
-     "last_game": "2026-11-15",
-     "min": 18.3,
-     "pts": 11.7,
-     "reb": 1.8,
-     "ast": 3.2,
-     "stl": 0.0,
-     "blk": 0.2,
-     "tov": 2.8,
-     "plus_minus": -8.5,
-     "fg_pct": 35.8,
-     "fg3_pct": 17.6,
-     "ft_pct": 94.1,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "4066218",
-     "name": "Grant Williams",
-     "position": "F",
-     "team_id": "30",
-     "gp": 2,
-     "gs": 0,
-     "last_game": "2026-11-15",
-     "min": 18.0,
-     "pts": 11.0,
-     "reb": 2.0,
-     "ast": 1.0,
-     "stl": 0.0,
-     "blk": 0.5,
-     "tov": 0.5,
-     "plus_minus": -1.5,
-     "fg_pct": 50.0,
-     "fg3_pct": 45.5,
-     "ft_pct": 100.0,
-     "injury_status": null
-    }
-   ]
-  },
-  "head_to_head": {
-   "games": 6,
-   "wins": 4,
-   "losses": 2,
-   "avg_margin": 3.5,
-   "recent": [
-    {
-     "id": "401810441",
-     "date": "2026-01-16T03:30Z",
-     "season": 2026,
-     "home": "LAL",
-     "away": "CHA",
-     "home_score": 117,
-     "away_score": 135
-    },
-    {
-     "id": "401810053",
-     "date": "2025-11-11T00:00Z",
-     "season": 2026,
-     "home": "CHA",
-     "away": "LAL",
-     "home_score": 111,
-     "away_score": 121
-    },
-    {
-     "id": "401748704",
-     "date": "2025-02-20T03:00Z",
-     "season": 2025,
-     "home": "LAL",
-     "away": "CHA",
-     "home_score": 97,
-     "away_score": 100
-    },
-    {
-     "id": "401705214",
-     "date": "2025-01-28T00:00Z",
-     "season": 2025,
-     "home": "CHA",
-     "away": "LAL",
-     "home_score": 107,
-     "away_score": 112
-    },
-    {
-     "id": "401585341",
-     "date": "2024-02-06T00:00Z",
-     "season": 2024,
-     "home": "CHA",
-     "away": "LAL",
-     "home_score": 118,
-     "away_score": 124
-    },
-    {
-     "id": "401585056",
-     "date": "2023-12-29T03:30Z",
-     "season": 2024,
-     "home": "LAL",
-     "away": "CHA",
-     "home_score": 133,
-     "away_score": 112
-    }
-   ]
-  },
-  "pre_game_prediction": {
-   "home_points": 114.1,
-   "away_points": 106.8,
-   "home_margin": 7.3,
-   "home_win_prob": 0.698,
-   "margin_range80": [
-    -10.8,
-    25.5
-   ],
-   "total": 220.8
-  }
- },
- {
   "id": "401910007",
   "date": "2026-11-19T00:00Z",
   "season_type": 2,
@@ -468,10 +8,10 @@
   "venue": "Rocket Arena",
   "date_kst": "2026-11-19T09:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
-   "details": "CLE -5.5",
-   "spread": -5.5,
-   "over_under": 234.5
+   "provider": "DraftKings",
+   "details": "CLE -4.5",
+   "spread": -4.5,
+   "over_under": 235.5
   },
   "home": {
    "id": "5",
@@ -704,7 +244,7 @@
     "wins": 10,
     "losses": 4,
     "win_pct": 0.71428573,
-    "games_behind": "2",
+    "games_behind": "2.5",
     "home": "3-4",
     "road": "7-0",
     "last10": "6-4",
@@ -983,10 +523,10 @@
     -13.6,
     22.6
    ],
-   "total": 238.2,
+   "total": 238.4,
    "total_range80": [
-    214.5,
-    261.9
+    214.7,
+    262.1
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -1055,15 +595,15 @@
     },
     "away": {
      "offense": 3.8,
-     "defense": 3.2
+     "defense": 3.1
     }
    },
    "vs_line": {
-    "spread": -5.5,
-    "over_under": 234.5,
-    "home_cover_prob": 0.472,
-    "over_prob": 0.58,
-    "provider": "Draft Kings"
+    "spread": -4.5,
+    "over_under": 235.5,
+    "home_cover_prob": 0.5,
+    "over_prob": 0.561,
+    "provider": "DraftKings"
    }
   }
  },
@@ -1076,10 +616,10 @@
   "venue": "Gainbridge Fieldhouse",
   "date_kst": "2026-11-19T09:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
-   "details": "HOU -6.5",
-   "spread": 6.5,
-   "over_under": 224.5
+   "provider": "DraftKings",
+   "details": "HOU -7.5",
+   "spread": 7.5,
+   "over_under": 225.5
   },
   "home": {
    "id": "11",
@@ -1312,7 +852,7 @@
     "wins": 11,
     "losses": 4,
     "win_pct": 0.73333335,
-    "games_behind": "1.5",
+    "games_behind": "2",
     "home": "7-1",
     "road": "4-3",
     "last10": "6-4",
@@ -1559,7 +1099,7 @@
   },
   "prediction": {
    "home_points": 110.4,
-   "away_points": 117.1,
+   "away_points": 117.2,
    "home_margin": -6.7,
    "home_win_prob": 0.317,
    "away_win_prob": 0.683,
@@ -1567,10 +1107,10 @@
     -24.9,
     11.4
    ],
-   "total": 227.5,
+   "total": 227.6,
    "total_range80": [
-    203.8,
-    251.2
+    203.9,
+    251.3
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -1620,16 +1160,16 @@
      "defense": 1.8
     },
     "away": {
-     "offense": 0.2,
+     "offense": 0.1,
      "defense": -4.3
     }
    },
    "vs_line": {
-    "spread": 6.5,
-    "over_under": 224.5,
-    "home_cover_prob": 0.493,
-    "over_prob": 0.565,
-    "provider": "Draft Kings"
+    "spread": 7.5,
+    "over_under": 225.5,
+    "home_cover_prob": 0.521,
+    "over_prob": 0.546,
+    "provider": "DraftKings"
    }
   }
  },
@@ -1642,10 +1182,10 @@
   "venue": "Kaseya Center",
   "date_kst": "2026-11-19T09:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "MIA -12.5",
    "spread": -12.5,
-   "over_under": 236.5
+   "over_under": 237.5
   },
   "home": {
    "id": "14",
@@ -2113,7 +1653,7 @@
   },
   "prediction": {
    "home_points": 125.0,
-   "away_points": 115.1,
+   "away_points": 115.2,
    "home_margin": 9.9,
    "home_win_prob": 0.757,
    "away_win_prob": 0.243,
@@ -2121,10 +1661,10 @@
     -8.3,
     28.0
    ],
-   "total": 240.1,
+   "total": 240.2,
    "total_range80": [
-    216.4,
-    263.8
+    216.5,
+    263.9
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -2161,10 +1701,10 @@
    },
    "vs_line": {
     "spread": -12.5,
-    "over_under": 236.5,
+    "over_under": 237.5,
     "home_cover_prob": 0.426,
-    "over_prob": 0.577,
-    "provider": "Draft Kings"
+    "over_prob": 0.558,
+    "provider": "DraftKings"
    }
   }
  },
@@ -2177,9 +1717,9 @@
   "venue": "Kia Center",
   "date_kst": "2026-11-19T09:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
-   "details": "PHI -1.5",
-   "spread": 1.5,
+   "provider": "DraftKings",
+   "details": "PHI -2.5",
+   "spread": 2.5,
    "over_under": 222.5
   },
   "home": {
@@ -2704,10 +2244,10 @@
     -15.4,
     20.9
    ],
-   "total": 227.1,
+   "total": 227.2,
    "total_range80": [
-    203.4,
-    250.8
+    203.5,
+    250.9
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -2743,11 +2283,11 @@
     }
    },
    "vs_line": {
-    "spread": 1.5,
+    "spread": 2.5,
     "over_under": 222.5,
-    "home_cover_prob": 0.617,
-    "over_prob": 0.597,
-    "provider": "Draft Kings"
+    "home_cover_prob": 0.644,
+    "over_prob": 0.6,
+    "provider": "DraftKings"
    }
   }
  },
@@ -2760,10 +2300,10 @@
   "venue": "Barclays Center",
   "date_kst": "2026-11-19T09:30:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "BKN -2.5",
    "spread": -2.5,
-   "over_under": 237.5
+   "over_under": 238.5
   },
   "home": {
    "id": "17",
@@ -3217,7 +2757,7 @@
    ]
   },
   "prediction": {
-   "home_points": 121.3,
+   "home_points": 121.4,
    "away_points": 118.9,
    "home_margin": 2.5,
    "home_win_prob": 0.569,
@@ -3226,10 +2766,10 @@
     -15.7,
     20.6
    ],
-   "total": 240.2,
+   "total": 240.3,
    "total_range80": [
-    216.5,
-    263.9
+    216.6,
+    264.0
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -3272,10 +2812,10 @@
    },
    "vs_line": {
     "spread": -2.5,
-    "over_under": 237.5,
+    "over_under": 238.5,
     "home_cover_prob": 0.499,
-    "over_prob": 0.557,
-    "provider": "Draft Kings"
+    "over_prob": 0.539,
+    "provider": "DraftKings"
    }
   }
  },
@@ -3288,10 +2828,10 @@
   "venue": "Scotiabank Arena",
   "date_kst": "2026-11-19T09:30:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
-   "details": "TOR -7.5",
-   "spread": -7.5,
-   "over_under": 226.5
+   "provider": "DraftKings",
+   "details": "TOR -6.5",
+   "spread": -6.5,
+   "over_under": 227.5
   },
   "home": {
    "id": "28",
@@ -3807,7 +3347,7 @@
   },
   "prediction": {
    "home_points": 122.7,
-   "away_points": 114.4,
+   "away_points": 114.5,
    "home_margin": 8.3,
    "home_win_prob": 0.72,
    "away_win_prob": 0.28,
@@ -3815,10 +3355,10 @@
     -9.9,
     26.4
    ],
-   "total": 237.1,
+   "total": 237.2,
    "total_range80": [
-    213.4,
-    260.8
+    213.5,
+    260.9
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -3838,20 +3378,20 @@
    },
    "ratings": {
     "home": {
-     "offense": 0.5,
+     "offense": 0.4,
      "defense": -1.7
     },
     "away": {
-     "offense": 0.3,
+     "offense": 0.2,
      "defense": 7.4
     }
    },
    "vs_line": {
-    "spread": -7.5,
-    "over_under": 226.5,
-    "home_cover_prob": 0.522,
-    "over_prob": 0.717,
-    "provider": "Draft Kings"
+    "spread": -6.5,
+    "over_under": 227.5,
+    "home_cover_prob": 0.55,
+    "over_prob": 0.7,
+    "provider": "DraftKings"
    }
   }
  },
@@ -3864,10 +3404,10 @@
   "venue": "Smoothie King Center",
   "date_kst": "2026-11-19T10:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "DET -7.5",
    "spread": 7.5,
-   "over_under": 229.5
+   "over_under": 228.5
   },
   "home": {
    "id": "3",
@@ -3881,7 +3421,7 @@
     "wins": 5,
     "losses": 10,
     "win_pct": 0.33333334,
-    "games_behind": "7.5",
+    "games_behind": "8",
     "home": "4-6",
     "road": "1-4",
     "last10": "4-6",
@@ -4370,8 +3910,8 @@
    ]
   },
   "prediction": {
-   "home_points": 111.4,
-   "away_points": 117.8,
+   "home_points": 111.5,
+   "away_points": 117.9,
    "home_margin": -6.4,
    "home_win_prob": 0.326,
    "away_win_prob": 0.674,
@@ -4379,10 +3919,10 @@
     -24.5,
     11.8
    ],
-   "total": 229.2,
+   "total": 229.3,
    "total_range80": [
-    205.5,
-    252.9
+    205.6,
+    253.0
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -4444,10 +3984,10 @@
    },
    "vs_line": {
     "spread": 7.5,
-    "over_under": 229.5,
+    "over_under": 228.5,
     "home_cover_prob": 0.531,
-    "over_prob": 0.494,
-    "provider": "Draft Kings"
+    "over_prob": 0.518,
+    "provider": "DraftKings"
    }
   }
  },
@@ -4460,9 +4000,9 @@
   "venue": "Paycom Center",
   "date_kst": "2026-11-19T10:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
-   "details": "OKC -6.5",
-   "spread": -6.5,
+   "provider": "DraftKings",
+   "details": "OKC -7.5",
+   "spread": -7.5,
    "over_under": 228.5
   },
   "home": {
@@ -4477,7 +4017,7 @@
     "wins": 9,
     "losses": 5,
     "win_pct": 0.64285713,
-    "games_behind": "3",
+    "games_behind": "3.5",
     "home": "5-0",
     "road": "4-5",
     "last10": "5-5",
@@ -4987,10 +4527,10 @@
     -6.2,
     30.0
    ],
-   "total": 231.3,
+   "total": 231.4,
    "total_range80": [
-    207.6,
-    255.0
+    207.7,
+    255.1
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -5038,11 +4578,11 @@
     }
    },
    "vs_line": {
-    "spread": -6.5,
+    "spread": -7.5,
     "over_under": 228.5,
-    "home_cover_prob": 0.649,
-    "over_prob": 0.559,
-    "provider": "Draft Kings"
+    "home_cover_prob": 0.622,
+    "over_prob": 0.562,
+    "provider": "DraftKings"
    }
   }
  },
@@ -5055,7 +4595,7 @@
   "venue": "American Airlines Center",
   "date_kst": "2026-11-19T10:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "DAL -5.5",
    "spread": -5.5,
    "over_under": 222.5
@@ -5072,7 +4612,7 @@
     "wins": 7,
     "losses": 7,
     "win_pct": 0.5,
-    "games_behind": "5",
+    "games_behind": "5.5",
     "home": "5-2",
     "road": "2-5",
     "last10": "5-5",
@@ -5315,7 +4855,7 @@
     "wins": 8,
     "losses": 6,
     "win_pct": 0.5714286,
-    "games_behind": "4",
+    "games_behind": "4.5",
     "home": "6-1",
     "road": "2-5",
     "last10": "7-3",
@@ -5362,8 +4902,8 @@
      "status": "Day-To-Day",
      "injury": "Right Elbow Inflammation",
      "return_date": "2026-11-18",
-     "updated": "2026-11-18T05:50Z",
-     "comment": "Green recorded two points (1-3 FG, 0-1 3Pt), eight rebounds, five assists, one block and one steal over 25 minutes during Monday's 115-94 loss to the Pelicans."
+     "updated": "2026-11-18T05:49Z",
+     "comment": "Green is questionable for Wednesday's game in Dallas due to inflammation in his right elbow."
     },
     {
      "team_id": "9",
@@ -5645,8 +5185,8 @@
    ]
   },
   "prediction": {
-   "home_points": 116.4,
-   "away_points": 115.1,
+   "home_points": 116.5,
+   "away_points": 115.2,
    "home_margin": 1.3,
    "home_win_prob": 0.537,
    "away_win_prob": 0.463,
@@ -5654,10 +5194,10 @@
     -16.8,
     19.5
    ],
-   "total": 231.5,
+   "total": 231.7,
    "total_range80": [
-    207.8,
-    255.2
+    208.0,
+    255.4
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -5715,7 +5255,7 @@
    },
    "ratings": {
     "home": {
-     "offense": -0.4,
+     "offense": -0.5,
      "defense": 3.1
     },
     "away": {
@@ -5727,8 +5267,8 @@
     "spread": -5.5,
     "over_under": 222.5,
     "home_cover_prob": 0.384,
-    "over_prob": 0.688,
-    "provider": "Draft Kings"
+    "over_prob": 0.69,
+    "provider": "DraftKings"
    }
   }
  },
@@ -5741,10 +5281,10 @@
   "venue": "Ball Arena",
   "date_kst": "2026-11-19T11:30:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "BOS -2.5",
    "spread": 2.5,
-   "over_under": 221.5
+   "over_under": 222.5
   },
   "home": {
    "id": "7",
@@ -5758,7 +5298,7 @@
     "wins": 7,
     "losses": 5,
     "win_pct": 0.5833333,
-    "games_behind": "4",
+    "games_behind": "4.5",
     "home": "2-3",
     "road": "4-2",
     "last10": "6-4",
@@ -6138,8 +5678,8 @@
    ]
   },
   "prediction": {
-   "home_points": 111.2,
-   "away_points": 114.5,
+   "home_points": 111.3,
+   "away_points": 114.6,
    "home_margin": -3.3,
    "home_win_prob": 0.408,
    "away_win_prob": 0.592,
@@ -6147,10 +5687,10 @@
     -21.4,
     14.8
    ],
-   "total": 225.7,
+   "total": 225.9,
    "total_range80": [
-    202.0,
-    249.4
+    202.2,
+    249.5
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -6180,10 +5720,10 @@
    },
    "vs_line": {
     "spread": 2.5,
-    "over_under": 221.5,
+    "over_under": 222.5,
     "home_cover_prob": 0.477,
-    "over_prob": 0.591,
-    "provider": "Draft Kings"
+    "over_prob": 0.572,
+    "provider": "DraftKings"
    }
   }
  },
@@ -6195,6 +5735,12 @@
   "neutral": false,
   "venue": "crypto.com Arena",
   "date_kst": "2026-11-19T12:00:00+09:00",
+  "odds": {
+   "provider": "DraftKings",
+   "details": "LAL -10.5",
+   "spread": -10.5,
+   "over_under": 228.5
+  },
   "home": {
    "id": "13",
    "abbr": "LAL",
@@ -6204,44 +5750,44 @@
     "abbr": "LAL",
     "conference": "Western Conference",
     "seed": 1,
-    "wins": 12,
+    "wins": 13,
     "losses": 2,
-    "win_pct": 0.85714287,
+    "win_pct": 0.8666667,
     "games_behind": "-",
-    "home": "5-1",
+    "home": "6-1",
     "road": "7-1",
     "last10": "9-1",
-    "streak": "W8",
-    "ppg": 122.78571,
-    "opp_ppg": 114.85714
+    "streak": "W9",
+    "ppg": 122.46667,
+    "opp_ppg": 114.8
    },
    "stats": {
-    "gp": 14,
+    "gp": 15,
     "record": [
-     12,
+     13,
      2
     ],
     "home_record": [
-     5,
+     6,
      1
     ],
     "away_record": [
      7,
      1
     ],
-    "ppg": 122.8,
-    "opp_ppg": 114.9,
-    "avg_margin": 7.9,
+    "ppg": 122.5,
+    "opp_ppg": 114.8,
+    "avg_margin": 7.7,
     "last10_record": [
      9,
      1
     ],
-    "last10_margin": 7.9,
-    "last_game": "2026-11-15T21:00Z",
-    "pace": 103.0,
-    "ortg": 119.3,
-    "drtg": 111.6,
-    "net_rtg": 7.7
+    "last10_margin": 6.7,
+    "last_game": "2026-11-18T04:00Z",
+    "pace": 103.1,
+    "ortg": 118.8,
+    "drtg": 111.3,
+    "net_rtg": 7.5
    },
    "rest_days": 0,
    "injuries": [
@@ -6276,20 +5822,20 @@
      "name": "Luka Doncic",
      "position": "G",
      "team_id": "13",
-     "gp": 12,
-     "gs": 12,
-     "last_game": "2026-11-15",
-     "min": 35.8,
-     "pts": 39.0,
-     "reb": 7.2,
-     "ast": 7.8,
-     "stl": 1.9,
+     "gp": 13,
+     "gs": 13,
+     "last_game": "2026-11-18",
+     "min": 36.3,
+     "pts": 38.8,
+     "reb": 7.1,
+     "ast": 7.7,
+     "stl": 1.8,
      "blk": 0.7,
      "tov": 4.8,
-     "plus_minus": 14.6,
-     "fg_pct": 48.6,
-     "fg3_pct": 40.6,
-     "ft_pct": 86.5,
+     "plus_minus": 13.6,
+     "fg_pct": 47.6,
+     "fg3_pct": 39.8,
+     "ft_pct": 85.7,
      "injury_status": null
     },
     {
@@ -6335,45 +5881,45 @@
      "injury_status": "Out"
     },
     {
+     "athlete_id": "4397014",
+     "name": "Quentin Grimes",
+     "position": "G",
+     "team_id": "13",
+     "gp": 13,
+     "gs": 4,
+     "last_game": "2026-11-18",
+     "min": 28.2,
+     "pts": 12.1,
+     "reb": 3.1,
+     "ast": 2.5,
+     "stl": 1.0,
+     "blk": 0.2,
+     "tov": 1.6,
+     "plus_minus": 5.8,
+     "fg_pct": 51.5,
+     "fg3_pct": 43.4,
+     "ft_pct": 72.7,
+     "injury_status": null
+    },
+    {
      "athlete_id": "4277811",
      "name": "Collin Sexton",
      "position": "G",
      "team_id": "13",
-     "gp": 13,
+     "gp": 14,
      "gs": 0,
-     "last_game": "2026-11-15",
-     "min": 18.2,
-     "pts": 10.7,
-     "reb": 1.7,
+     "last_game": "2026-11-18",
+     "min": 18.7,
+     "pts": 10.6,
+     "reb": 1.9,
      "ast": 2.6,
      "stl": 0.5,
      "blk": 0.2,
-     "tov": 1.3,
-     "plus_minus": -3.2,
-     "fg_pct": 44.5,
-     "fg3_pct": 28.9,
-     "ft_pct": 70.0,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "4433137",
-     "name": "Ziaire Williams",
-     "position": "F",
-     "team_id": "13",
-     "gp": 11,
-     "gs": 5,
-     "last_game": "2026-11-15",
-     "min": 23.6,
-     "pts": 10.5,
-     "reb": 2.5,
-     "ast": 2.1,
-     "stl": 1.5,
-     "blk": 0.2,
-     "tov": 0.5,
-     "plus_minus": 4.4,
-     "fg_pct": 56.8,
-     "fg3_pct": 45.5,
-     "ft_pct": 85.7,
+     "tov": 1.4,
+     "plus_minus": -2.8,
+     "fg_pct": 42.6,
+     "fg3_pct": 26.9,
+     "ft_pct": 70.5,
      "injury_status": null
     }
    ]
@@ -6390,7 +5936,7 @@
     "wins": 2,
     "losses": 13,
     "win_pct": 0.13333334,
-    "games_behind": "10.5",
+    "games_behind": "11",
     "home": "1-7",
     "road": "1-6",
     "last10": "1-9",
@@ -6684,30 +6230,30 @@
    ]
   },
   "prediction": {
-   "home_points": 121.1,
-   "away_points": 110.6,
-   "home_margin": 10.5,
-   "home_win_prob": 0.77,
-   "away_win_prob": 0.23,
+   "home_points": 118.3,
+   "away_points": 111.0,
+   "home_margin": 7.3,
+   "home_win_prob": 0.698,
+   "away_win_prob": 0.302,
    "margin_range80": [
-    -7.7,
-    28.6
+    -10.8,
+    25.5
    ],
-   "total": 231.7,
+   "total": 229.4,
    "total_range80": [
-    208.0,
-    255.4
+    205.7,
+    253.1
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
    "factors": {
-    "team_strength": 7.3,
+    "team_strength": 7.2,
     "home_court": 2.0,
-    "rest": 3.0,
+    "rest": -0.0,
     "injuries": -1.8
    },
    "back_to_back": {
-    "home": false,
+    "home": true,
     "away": true
    },
    "injury_impact": {
@@ -6742,13 +6288,20 @@
    },
    "ratings": {
     "home": {
-     "offense": 3.8,
-     "defense": -0.6
+     "offense": 4.0,
+     "defense": -0.3
     },
     "away": {
      "offense": 1.2,
      "defense": 4.1
     }
+   },
+   "vs_line": {
+    "spread": -10.5,
+    "over_under": 228.5,
+    "home_cover_prob": 0.411,
+    "over_prob": 0.518,
+    "provider": "DraftKings"
    }
   }
  },
@@ -6761,7 +6314,7 @@
   "venue": "Golden 1 Center",
   "date_kst": "2026-11-19T12:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "PHX -6.5",
    "spread": 6.5,
    "over_under": 228.5
@@ -6778,7 +6331,7 @@
     "wins": 1,
     "losses": 12,
     "win_pct": 0.07692308,
-    "games_behind": "10.5",
+    "games_behind": "11",
     "home": "0-8",
     "road": "1-4",
     "last10": "1-9",
@@ -6985,7 +6538,7 @@
     "wins": 6,
     "losses": 7,
     "win_pct": 0.46153846,
-    "games_behind": "5.5",
+    "games_behind": "6",
     "home": "5-4",
     "road": "1-3",
     "last10": "5-5",
@@ -7243,7 +6796,7 @@
    ]
   },
   "prediction": {
-   "home_points": 114.4,
+   "home_points": 114.5,
    "away_points": 119.5,
    "home_margin": -5.0,
    "home_win_prob": 0.361,
@@ -7252,10 +6805,10 @@
     -23.2,
     13.1
    ],
-   "total": 233.9,
+   "total": 234.0,
    "total_range80": [
-    210.2,
-    257.6
+    210.3,
+    257.7
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -7300,8 +6853,8 @@
     "spread": 6.5,
     "over_under": 228.5,
     "home_cover_prob": 0.541,
-    "over_prob": 0.615,
-    "provider": "Draft Kings"
+    "over_prob": 0.617,
+    "provider": "DraftKings"
    }
   }
  },
@@ -7325,7 +6878,7 @@
     "wins": 10,
     "losses": 4,
     "win_pct": 0.71428573,
-    "games_behind": "2",
+    "games_behind": "2.5",
     "home": "3-4",
     "road": "7-0",
     "last10": "6-4",
@@ -7544,7 +7097,7 @@
     "wins": 8,
     "losses": 6,
     "win_pct": 0.5714286,
-    "games_behind": "4",
+    "games_behind": "4.5",
     "home": "6-1",
     "road": "2-5",
     "last10": "7-3",
@@ -7591,8 +7144,8 @@
      "status": "Day-To-Day",
      "injury": "Right Elbow Inflammation",
      "return_date": "2026-11-18",
-     "updated": "2026-11-18T05:50Z",
-     "comment": "Green recorded two points (1-3 FG, 0-1 3Pt), eight rebounds, five assists, one block and one steal over 25 minutes during Monday's 115-94 loss to the Pelicans."
+     "updated": "2026-11-18T05:49Z",
+     "comment": "Green is questionable for Wednesday's game in Dallas due to inflammation in his right elbow."
     },
     {
      "team_id": "9",
@@ -7874,7 +7427,7 @@
    ]
   },
   "prediction": {
-   "home_points": 117.6,
+   "home_points": 117.7,
    "away_points": 115.2,
    "home_margin": 2.5,
    "home_win_prob": 0.569,
@@ -7883,10 +7436,10 @@
     -15.7,
     20.6
    ],
-   "total": 232.8,
+   "total": 232.9,
    "total_range80": [
-    209.1,
-    256.5
+    209.2,
+    256.6
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -7951,7 +7504,7 @@
    "ratings": {
     "home": {
      "offense": 3.8,
-     "defense": 3.2
+     "defense": 3.1
     },
     "away": {
      "offense": 0.1,
@@ -8151,7 +7704,7 @@
     "wins": 9,
     "losses": 5,
     "win_pct": 0.64285713,
-    "games_behind": "3",
+    "games_behind": "3.5",
     "home": "3-2",
     "road": "6-3",
     "last10": "6-4",
@@ -8430,10 +7983,10 @@
     -23.6,
     12.6
    ],
-   "total": 226.4,
+   "total": 226.5,
    "total_range80": [
-    202.7,
-    250.1
+    202.8,
+    250.2
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -8496,7 +8049,7 @@
     "wins": 11,
     "losses": 4,
     "win_pct": 0.73333335,
-    "games_behind": "1.5",
+    "games_behind": "2",
     "home": "7-2",
     "road": "4-2",
     "last10": "8-2",
@@ -8924,7 +8477,7 @@
    ]
   },
   "prediction": {
-   "home_points": 108.8,
+   "home_points": 108.9,
    "away_points": 108.5,
    "home_margin": 0.4,
    "home_win_prob": 0.51,
@@ -8933,10 +8486,10 @@
     -17.8,
     18.5
    ],
-   "total": 217.3,
+   "total": 217.4,
    "total_range80": [
-    193.6,
-    241.0
+    193.7,
+    241.1
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -8993,7 +8546,7 @@
     "wins": 12,
     "losses": 3,
     "win_pct": 0.8,
-    "games_behind": "0.5",
+    "games_behind": "1",
     "home": "5-3",
     "road": "7-0",
     "last10": "9-1",
@@ -9188,7 +8741,7 @@
     "wins": 4,
     "losses": 9,
     "win_pct": 0.30769232,
-    "games_behind": "7.5",
+    "games_behind": "8",
     "home": "4-4",
     "road": "0-5",
     "last10": "3-7",
@@ -9483,7 +9036,7 @@
   },
   "prediction": {
    "home_points": 119.8,
-   "away_points": 107.8,
+   "away_points": 107.9,
    "home_margin": 11.9,
    "home_win_prob": 0.8,
    "away_win_prob": 0.2,
@@ -9491,10 +9044,10 @@
     -6.2,
     30.1
    ],
-   "total": 227.6,
+   "total": 227.7,
    "total_range80": [
-    203.9,
-    251.3
+    204.0,
+    251.4
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -9526,7 +9079,7 @@
     },
     "away": {
      "offense": -1.7,
-     "defense": 2.1
+     "defense": 2.0
     }
    }
   }

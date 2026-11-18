@@ -4393,20 +4393,20 @@
   "date": "2026-11-18T04:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_END_PERIOD",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "crypto.com Arena",
   "home": {
    "id": "13",
    "abbr": "LAL",
-   "score": 81
+   "score": 118
   },
   "away": {
    "id": "30",
    "abbr": "CHA",
-   "score": 94
+   "score": 114
   }
  },
  {
@@ -4430,10 +4430,10 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
-   "details": "CLE -5.5",
-   "spread": -5.5,
-   "over_under": 234.5
+   "provider": "DraftKings",
+   "details": "CLE -4.5",
+   "spread": -4.5,
+   "over_under": 235.5
   }
  },
  {
@@ -4457,10 +4457,10 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
-   "details": "HOU -6.5",
-   "spread": 6.5,
-   "over_under": 224.5
+   "provider": "DraftKings",
+   "details": "HOU -7.5",
+   "spread": 7.5,
+   "over_under": 225.5
   }
  },
  {
@@ -4484,10 +4484,10 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "MIA -12.5",
    "spread": -12.5,
-   "over_under": 236.5
+   "over_under": 237.5
   }
  },
  {
@@ -4511,9 +4511,9 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
-   "details": "PHI -1.5",
-   "spread": 1.5,
+   "provider": "DraftKings",
+   "details": "PHI -2.5",
+   "spread": 2.5,
    "over_under": 222.5
   }
  },
@@ -4538,10 +4538,10 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "BKN -2.5",
    "spread": -2.5,
-   "over_under": 237.5
+   "over_under": 238.5
   }
  },
  {
@@ -4565,10 +4565,10 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
-   "details": "TOR -7.5",
-   "spread": -7.5,
-   "over_under": 226.5
+   "provider": "DraftKings",
+   "details": "TOR -6.5",
+   "spread": -6.5,
+   "over_under": 227.5
   }
  },
  {
@@ -4592,10 +4592,10 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "DET -7.5",
    "spread": 7.5,
-   "over_under": 229.5
+   "over_under": 228.5
   }
  },
  {
@@ -4619,9 +4619,9 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
-   "details": "OKC -6.5",
-   "spread": -6.5,
+   "provider": "DraftKings",
+   "details": "OKC -7.5",
+   "spread": -7.5,
    "over_under": 228.5
   }
  },
@@ -4646,7 +4646,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "DAL -5.5",
    "spread": -5.5,
    "over_under": 222.5
@@ -4673,10 +4673,10 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "BOS -2.5",
    "spread": 2.5,
-   "over_under": 221.5
+   "over_under": 222.5
   }
  },
  {
@@ -4698,6 +4698,12 @@
    "id": "26",
    "abbr": "UTAH",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "LAL -10.5",
+   "spread": -10.5,
+   "over_under": 228.5
   }
  },
  {
@@ -4721,7 +4727,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "PHX -6.5",
    "spread": 6.5,
    "over_under": 228.5
