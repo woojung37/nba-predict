@@ -1,46 +1,5 @@
 [
  {
-  "id": "512112",
-  "date": "2026-11-18T10:00:00+00:00",
-  "status": "Q2",
-  "home": {
-   "id": 1109,
-   "name": "Seoul Thunders",
-   "ko": "삼성"
-  },
-  "away": {
-   "id": 1106,
-   "name": "LG Sakers",
-   "ko": "LG"
-  },
-  "prediction": {
-   "home_points": 77.5,
-   "away_points": 79.5,
-   "home_margin": -2.0,
-   "home_win_prob": 0.44,
-   "total": 157.0,
-   "margin_range80": [
-    -18.8,
-    14.9
-   ],
-   "total_range80": [
-    136.5,
-    177.5
-   ],
-   "sigma": 13.15,
-   "total_sigma": 15.99,
-   "factors": {
-    "team_strength": -3.0,
-    "home_court": 1.0,
-    "rest": -0.0
-   },
-   "back_to_back": {
-    "home": false,
-    "away": false
-   }
-  }
- },
- {
   "id": "512113",
   "date": "2026-11-19T10:00:00+00:00",
   "status": "NS",
@@ -55,18 +14,18 @@
    "ko": "KCC"
   },
   "prediction": {
-   "home_points": 82.0,
-   "away_points": 79.4,
+   "home_points": 82.1,
+   "away_points": 79.5,
    "home_margin": 2.6,
    "home_win_prob": 0.579,
-   "total": 161.4,
+   "total": 161.6,
    "margin_range80": [
     -14.2,
     19.5
    ],
    "total_range80": [
-    140.9,
-    181.9
+    141.1,
+    182.1
    ],
    "sigma": 13.15,
    "total_sigma": 15.99,
@@ -101,18 +60,18 @@
    "ko": "SK"
   },
   "prediction": {
-   "home_points": 78.2,
-   "away_points": 77.7,
+   "home_points": 78.3,
+   "away_points": 77.8,
    "home_margin": 0.5,
    "home_win_prob": 0.516,
-   "total": 155.9,
+   "total": 156.1,
    "margin_range80": [
     -16.3,
     17.4
    ],
    "total_range80": [
-    135.4,
-    176.4
+    135.6,
+    176.6
    ],
    "sigma": 13.15,
    "total_sigma": 15.99,

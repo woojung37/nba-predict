@@ -9648,17 +9648,17 @@
   "id": "213411",
   "date": "2026-11-18T10:00:00+00:00",
   "season": 2026,
-  "status": "S2",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 4452,
    "name": "SOOP SOOPers W",
-   "score": 0
+   "score": 1
   },
   "away": {
    "id": 1181,
    "name": "Hyundai E&C Hillstate W",
-   "score": 1
+   "score": 3
   },
   "sets": [
    [
@@ -9666,8 +9666,16 @@
     25
    ],
    [
-    10,
-    15
+    16,
+    25
+   ],
+   [
+    25,
+    19
+   ],
+   [
+    16,
+    25
    ]
   ]
  },

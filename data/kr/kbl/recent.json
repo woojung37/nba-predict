@@ -1,5 +1,48 @@
 [
  {
+  "id": "512112",
+  "date": "2026-11-18T10:00:00+00:00",
+  "home": {
+   "id": 1109,
+   "name": "Seoul Thunders",
+   "ko": "삼성"
+  },
+  "away": {
+   "id": 1106,
+   "name": "LG Sakers",
+   "ko": "LG"
+  },
+  "home_score": 94,
+  "away_score": 88,
+  "sets": null,
+  "pre_game_prediction": {
+   "home_points": 77.5,
+   "away_points": 79.5,
+   "home_margin": -2.0,
+   "home_win_prob": 0.44,
+   "total": 157.0,
+   "margin_range80": [
+    -18.8,
+    14.9
+   ],
+   "total_range80": [
+    136.5,
+    177.5
+   ],
+   "sigma": 13.15,
+   "total_sigma": 15.99,
+   "factors": {
+    "team_strength": -3.0,
+    "home_court": 1.0,
+    "rest": -0.0
+   },
+   "back_to_back": {
+    "home": false,
+    "away": false
+   }
+  }
+ },
+ {
   "id": "512111",
   "date": "2026-11-17T10:00:00+00:00",
   "home": {
