@@ -4309,9 +4309,9 @@
   "date": "2026-11-18T00:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Scotiabank Arena",
   "home": {
@@ -4322,7 +4322,7 @@
   "away": {
    "id": "18",
    "abbr": "NY",
-   "score": 105
+   "score": 111
   }
  },
  {
@@ -4332,18 +4332,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "status": "STATUS_END_PERIOD",
   "neutral": false,
   "venue": "Target Center",
   "home": {
    "id": "16",
    "abbr": "MIN",
-   "score": 66
+   "score": 79
   },
   "away": {
    "id": "22",
    "abbr": "POR",
-   "score": 67
+   "score": 79
   }
  },
  {
@@ -4359,12 +4359,12 @@
   "home": {
    "id": "24",
    "abbr": "SA",
-   "score": 68
+   "score": 72
   },
   "away": {
    "id": "8",
    "abbr": "DET",
-   "score": 73
+   "score": 82
   }
  },
  {
@@ -4418,7 +4418,7 @@
    "provider": "DraftKings",
    "details": "LAL -7.5",
    "spread": -7.5,
-   "over_under": 221.5
+   "over_under": 220.5
   }
  },
  {
@@ -4622,7 +4622,7 @@
    "provider": "DraftKings",
    "details": "OKC -7.5",
    "spread": -7.5,
-   "over_under": 226.5
+   "over_under": 227.5
   }
  },
  {
@@ -4647,8 +4647,8 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "DAL -6.5",
-   "spread": -6.5,
+   "details": "DAL -5.5",
+   "spread": -5.5,
    "over_under": 221.5
   }
  },
