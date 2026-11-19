@@ -149,15 +149,15 @@
   "conference": "Eastern Conference",
   "seed": 10,
   "wins": 5,
-  "losses": 9,
-  "win_pct": 0.35714287,
-  "games_behind": "6.5",
-  "home": "2-4",
+  "losses": 10,
+  "win_pct": 0.33333334,
+  "games_behind": "7",
+  "home": "2-5",
   "road": "3-4",
   "last10": "3-7",
-  "streak": "L1",
-  "ppg": 112.07143,
-  "opp_ppg": 114.5
+  "streak": "L2",
+  "ppg": 111.53333,
+  "opp_ppg": 114.8
  },
  {
   "team_id": "30",
@@ -272,10 +272,26 @@
   "opp_ppg": 105.86667
  },
  {
+  "team_id": "10",
+  "abbr": "HOU",
+  "conference": "Western Conference",
+  "seed": 3,
+  "wins": 12,
+  "losses": 4,
+  "win_pct": 0.75,
+  "games_behind": "1.5",
+  "home": "7-1",
+  "road": "5-3",
+  "last10": "7-3",
+  "streak": "W1",
+  "ppg": 117.875,
+  "opp_ppg": 109.1875
+ },
+ {
   "team_id": "16",
   "abbr": "MIN",
   "conference": "Western Conference",
-  "seed": 3,
+  "seed": 4,
   "wins": 11,
   "losses": 4,
   "win_pct": 0.73333335,
@@ -286,22 +302,6 @@
   "streak": "W2",
   "ppg": 116.666664,
   "opp_ppg": 106.066666
- },
- {
-  "team_id": "10",
-  "abbr": "HOU",
-  "conference": "Western Conference",
-  "seed": 4,
-  "wins": 11,
-  "losses": 4,
-  "win_pct": 0.73333335,
-  "games_behind": "2",
-  "home": "7-1",
-  "road": "4-3",
-  "last10": "6-4",
-  "streak": "L1",
-  "ppg": 117.8,
-  "opp_ppg": 109.53333
  },
  {
   "team_id": "29",
