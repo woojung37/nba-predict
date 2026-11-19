@@ -661,7 +661,7 @@
    "provider": "DraftKings",
    "details": "POR -10.5",
    "spread": 10.5,
-   "over_under": 227.5
+   "over_under": 228.5
   },
   "home": {
    "id": "15",
@@ -1226,9 +1226,9 @@
    },
    "vs_line": {
     "spread": 10.5,
-    "over_under": 227.5,
+    "over_under": 228.5,
     "home_cover_prob": 0.52,
-    "over_prob": 0.43,
+    "over_prob": 0.409,
     "provider": "DraftKings"
    }
   }
@@ -1245,7 +1245,7 @@
    "provider": "DraftKings",
    "details": "NY -1.5",
    "spread": 1.5,
-   "over_under": 216.5
+   "over_under": 217.5
   },
   "home": {
    "id": "16",
@@ -1736,9 +1736,9 @@
    },
    "vs_line": {
     "spread": 1.5,
-    "over_under": 216.5,
+    "over_under": 217.5,
     "home_cover_prob": 0.569,
-    "over_prob": 0.523,
+    "over_prob": 0.501,
     "provider": "DraftKings"
    }
   }
@@ -1755,7 +1755,7 @@
    "provider": "DraftKings",
    "details": "SA -15.5",
    "spread": -15.5,
-   "over_under": 225.5
+   "over_under": 226.5
   },
   "home": {
    "id": "24",
@@ -2295,9 +2295,9 @@
    },
    "vs_line": {
     "spread": -15.5,
-    "over_under": 225.5,
+    "over_under": 226.5,
     "home_cover_prob": 0.365,
-    "over_prob": 0.51,
+    "over_prob": 0.488,
     "provider": "DraftKings"
    }
   }
