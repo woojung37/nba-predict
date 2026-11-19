@@ -72,6 +72,18 @@
   "comment": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday."
  },
  {
+  "team_id": "17",
+  "team": "Brooklyn Nets",
+  "athlete_id": "4702670",
+  "name": "Grant Nelson",
+  "position": "F",
+  "status": "Day-To-Day",
+  "injury": "Right Ankle Sprain",
+  "return_date": "2026-11-24",
+  "updated": "2026-11-19T15:45Z",
+  "comment": "Nelson signed a two-way contract with the Nets on Friday, Michael Scotto of HoopsHype.com reports."
+ },
+ {
   "team_id": "30",
   "team": "Charlotte Hornets",
   "athlete_id": "3135045",
@@ -242,6 +254,18 @@
  {
   "team_id": "8",
   "team": "Detroit Pistons",
+  "athlete_id": "5037878",
+  "name": "Ugonna Onyenso",
+  "position": "C",
+  "status": "Day-To-Day",
+  "injury": "Left Foot",
+  "return_date": "2026-11-21",
+  "updated": "2026-11-19T16:15Z",
+  "comment": "Onyenso agreed to a two-way contract with the Pistons on Thursday."
+ },
+ {
+  "team_id": "8",
+  "team": "Detroit Pistons",
   "athlete_id": "2990962",
   "name": "Taurean Prince",
   "position": "F",
@@ -305,23 +329,23 @@
   "athlete_id": "6589",
   "name": "Draymond Green",
   "position": "F",
-  "status": "Day-To-Day",
+  "status": "Out",
   "injury": "Not Specified Rest",
-  "return_date": "2026-11-19",
-  "updated": "2026-11-19T14:59Z",
-  "comment": "Green (elbow) is available for Wednesday's game against the Mavericks."
+  "return_date": "2026-11-22",
+  "updated": "2026-11-19T18:51Z",
+  "comment": "Green (elbow) is out for Thursday's game against the Grizzlies."
  },
  {
   "team_id": "9",
   "team": "Golden State Warriors",
-  "athlete_id": "3213",
-  "name": "Al Horford",
-  "position": "C",
+  "athlete_id": "4433149",
+  "name": "LJ Cryer",
+  "position": "G",
   "status": "Day-To-Day",
   "injury": "Back",
   "return_date": "2026-11-19",
-  "updated": "2026-11-19T14:51Z",
-  "comment": "Horford (back) is out for Wednesday's game against the Mavericks, but will play Thursday against the Grizzlies, Nick Friedell of The Athletic reports."
+  "updated": "2026-11-19T18:46Z",
+  "comment": "Cryer (back) is questionable for Thursday's game against Memphis."
  },
  {
   "team_id": "9",
@@ -524,8 +548,32 @@
   "status": "Day-To-Day",
   "injury": "Illness",
   "return_date": "2026-11-19",
-  "updated": "2026-11-19T14:44Z",
-  "comment": "Stewart (illness) won't play Wednesday against the Cavs."
+  "updated": "2026-11-19T19:11Z",
+  "comment": "Stewart is questionable for Thursday's game against the Warriors due to an illness."
+ },
+ {
+  "team_id": "29",
+  "team": "Memphis Grizzlies",
+  "athlete_id": "4600663",
+  "name": "Zach Edey",
+  "position": "C",
+  "status": "Out",
+  "injury": "Ankle",
+  "return_date": "2026-11-21",
+  "updated": "2026-11-19T19:09Z",
+  "comment": "Edey (hip) has been ruled out for Thursday's game against the Warriors."
+ },
+ {
+  "team_id": "29",
+  "team": "Memphis Grizzlies",
+  "athlete_id": "4065733",
+  "name": "Ty Jerome",
+  "position": "G",
+  "status": "Out",
+  "injury": "Right Hip",
+  "return_date": "2026-11-21",
+  "updated": "2026-11-19T19:07Z",
+  "comment": "Jerome (hip) has been ruled out for Thursday's game against the Warriors."
  },
  {
   "team_id": "29",
@@ -538,18 +586,6 @@
   "return_date": "2027-01-18",
   "updated": "2026-11-17T23:18Z",
   "comment": "Jackson underwent a procedure Wednesday to repair a broken fifth metatarsal in his left foot. He is expected to recover fully and will be re-evaluated in approximately three months."
- },
- {
-  "team_id": "29",
-  "team": "Memphis Grizzlies",
-  "athlete_id": "4065733",
-  "name": "Ty Jerome",
-  "position": "G",
-  "status": "Out",
-  "injury": "Right Hip",
-  "return_date": "2026-11-19",
-  "updated": "2026-11-17T22:07Z",
-  "comment": "Jerome (hip) has been ruled out for Wednesday's game in Cleveland."
  },
  {
   "team_id": "29",
@@ -590,14 +626,26 @@
  {
   "team_id": "15",
   "team": "Milwaukee Bucks",
-  "athlete_id": "4591725",
-  "name": "Ryan Rollins",
-  "position": "G",
-  "status": "Day-To-Day",
-  "injury": "Illness",
-  "return_date": "2026-11-19",
-  "updated": "2026-11-19T14:45Z",
-  "comment": "Rollins (illness) has been ruled out for Wednesday's game at Miami."
+  "athlete_id": "3134907",
+  "name": "Kyle Kuzma",
+  "position": "F",
+  "status": "Out",
+  "injury": "Right Shoulder Bruise",
+  "return_date": "2026-11-21",
+  "updated": "2026-11-19T19:20Z",
+  "comment": "Kuzma (shoulder) has been ruled out for Thursday's game against Portland due to a right shoulder contusion."
+ },
+ {
+  "team_id": "15",
+  "team": "Milwaukee Bucks",
+  "athlete_id": "3133628",
+  "name": "Myles Turner",
+  "position": "C",
+  "status": "Out",
+  "injury": "Left Shoulder Bruise",
+  "return_date": "2026-11-21",
+  "updated": "2026-11-19T19:15Z",
+  "comment": "Turner (shoulder) has been ruled out for Thursday's game against Portland due to a left shoulder contusion,"
  },
  {
   "team_id": "15",
@@ -610,18 +658,6 @@
   "return_date": "2026-12-14",
   "updated": "2026-11-15T23:46Z",
   "comment": "Dieng will undergo a procedure to repair a fractured left finger Monday, Justin Garcia of the Milwaukee Bucks Radio Network reports."
- },
- {
-  "team_id": "16",
-  "team": "Minnesota Timberwolves",
-  "athlete_id": "4592979",
-  "name": "Zyon Pullin",
-  "position": "G",
-  "status": "Day-To-Day",
-  "injury": "Right Quadriceps Bruise",
-  "return_date": "2026-11-19",
-  "updated": "2026-11-18T23:11Z",
-  "comment": "Pullin (quadriceps) is listed as questionable for Thursday's game against the Knicks."
  },
  {
   "team_id": "16",
@@ -727,7 +763,7 @@
   "position": "G",
   "status": "Out",
   "injury": "Ankle",
-  "return_date": "2026-11-20",
+  "return_date": "2026-11-27",
   "updated": "2026-11-13T20:19Z",
   "comment": "Murray (ankle) is out for Friday's game against Memphis."
  },
@@ -1039,9 +1075,9 @@
   "position": "G",
   "status": "Out",
   "injury": "Hip Soreness",
-  "return_date": "2026-11-21",
-  "updated": "2026-11-18T23:05Z",
-  "comment": "Harper (hip) won't play in Thursday's game against the Clippers, Jeff McDonald of the San Antonio Express-News reports."
+  "return_date": "2026-12-13",
+  "updated": "2026-11-19T20:07Z",
+  "comment": "Harper (hip) is expected to miss two to three weeks, Brett Siegel of ClutchPoints.com reports."
  },
  {
   "team_id": "24",

@@ -9,9 +9,9 @@
   "date_kst": "2026-11-20T10:00:00+09:00",
   "odds": {
    "provider": "DraftKings",
-   "details": "MEM -6.5",
-   "spread": -6.5,
-   "over_under": 225.5
+   "details": "MEM -5.5",
+   "spread": -5.5,
+   "over_under": 224.5
   },
   "home": {
    "id": "29",
@@ -72,8 +72,32 @@
      "status": "Day-To-Day",
      "injury": "Illness",
      "return_date": "2026-11-19",
-     "updated": "2026-11-19T14:44Z",
-     "comment": "Stewart (illness) won't play Wednesday against the Cavs."
+     "updated": "2026-11-19T19:11Z",
+     "comment": "Stewart is questionable for Thursday's game against the Warriors due to an illness."
+    },
+    {
+     "team_id": "29",
+     "team": "Memphis Grizzlies",
+     "athlete_id": "4600663",
+     "name": "Zach Edey",
+     "position": "C",
+     "status": "Out",
+     "injury": "Ankle",
+     "return_date": "2026-11-21",
+     "updated": "2026-11-19T19:09Z",
+     "comment": "Edey (hip) has been ruled out for Thursday's game against the Warriors."
+    },
+    {
+     "team_id": "29",
+     "team": "Memphis Grizzlies",
+     "athlete_id": "4065733",
+     "name": "Ty Jerome",
+     "position": "G",
+     "status": "Out",
+     "injury": "Right Hip",
+     "return_date": "2026-11-21",
+     "updated": "2026-11-19T19:07Z",
+     "comment": "Jerome (hip) has been ruled out for Thursday's game against the Warriors."
     },
     {
      "team_id": "29",
@@ -86,18 +110,6 @@
      "return_date": "2027-01-18",
      "updated": "2026-11-17T23:18Z",
      "comment": "Jackson underwent a procedure Wednesday to repair a broken fifth metatarsal in his left foot. He is expected to recover fully and will be re-evaluated in approximately three months."
-    },
-    {
-     "team_id": "29",
-     "team": "Memphis Grizzlies",
-     "athlete_id": "4065733",
-     "name": "Ty Jerome",
-     "position": "G",
-     "status": "Out",
-     "injury": "Right Hip",
-     "return_date": "2026-11-19",
-     "updated": "2026-11-17T22:07Z",
-     "comment": "Jerome (hip) has been ruled out for Wednesday's game in Cleveland."
     },
     {
      "team_id": "29",
@@ -288,23 +300,23 @@
      "athlete_id": "6589",
      "name": "Draymond Green",
      "position": "F",
-     "status": "Day-To-Day",
+     "status": "Out",
      "injury": "Not Specified Rest",
-     "return_date": "2026-11-19",
-     "updated": "2026-11-19T14:59Z",
-     "comment": "Green (elbow) is available for Wednesday's game against the Mavericks."
+     "return_date": "2026-11-22",
+     "updated": "2026-11-19T18:51Z",
+     "comment": "Green (elbow) is out for Thursday's game against the Grizzlies."
     },
     {
      "team_id": "9",
      "team": "Golden State Warriors",
-     "athlete_id": "3213",
-     "name": "Al Horford",
-     "position": "C",
+     "athlete_id": "4433149",
+     "name": "LJ Cryer",
+     "position": "G",
      "status": "Day-To-Day",
      "injury": "Back",
      "return_date": "2026-11-19",
-     "updated": "2026-11-19T14:51Z",
-     "comment": "Horford (back) is out for Wednesday's game against the Mavericks, but will play Thursday against the Grizzlies, Nick Friedell of The Athletic reports."
+     "updated": "2026-11-19T18:46Z",
+     "comment": "Cryer (back) is questionable for Thursday's game against Memphis."
     },
     {
      "team_id": "9",
@@ -574,19 +586,19 @@
    ]
   },
   "prediction": {
-   "home_points": 114.9,
-   "away_points": 111.0,
-   "home_margin": 3.9,
-   "home_win_prob": 0.608,
-   "away_win_prob": 0.392,
+   "home_points": 114.2,
+   "away_points": 110.9,
+   "home_margin": 3.3,
+   "home_win_prob": 0.592,
+   "away_win_prob": 0.408,
    "margin_range80": [
-    -14.3,
-    22.0
+    -14.8,
+    21.4
    ],
-   "total": 225.9,
+   "total": 225.0,
    "total_range80": [
-    202.2,
-    249.6
+    201.3,
+    248.7
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -594,7 +606,7 @@
     "team_strength": 1.3,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 0.6
+    "injuries": 0.0
    },
    "back_to_back": {
     "home": true,
@@ -607,6 +619,12 @@
       "name": "Ty Jerome",
       "status": "Out",
       "impact": -2.4
+     },
+     {
+      "athlete_id": "4600663",
+      "name": "Zach Edey",
+      "status": "Out",
+      "impact": -0.7
      },
      {
       "athlete_id": "4431785",
@@ -643,8 +661,8 @@
      {
       "athlete_id": "6589",
       "name": "Draymond Green",
-      "status": "Day-To-Day",
-      "impact": -0.1
+      "status": "Out",
+      "impact": -0.2
      }
     ]
    },
@@ -659,10 +677,10 @@
     }
    },
    "vs_line": {
-    "spread": -6.5,
-    "over_under": 225.5,
-    "home_cover_prob": 0.427,
-    "over_prob": 0.509,
+    "spread": -5.5,
+    "over_under": 224.5,
+    "home_cover_prob": 0.438,
+    "over_prob": 0.512,
     "provider": "DraftKings"
    }
   }
@@ -679,7 +697,7 @@
    "provider": "DraftKings",
    "details": "POR -10.5",
    "spread": 10.5,
-   "over_under": 229.5
+   "over_under": 230.5
   },
   "home": {
    "id": "15",
@@ -734,14 +752,26 @@
     {
      "team_id": "15",
      "team": "Milwaukee Bucks",
-     "athlete_id": "4591725",
-     "name": "Ryan Rollins",
-     "position": "G",
-     "status": "Day-To-Day",
-     "injury": "Illness",
-     "return_date": "2026-11-19",
-     "updated": "2026-11-19T14:45Z",
-     "comment": "Rollins (illness) has been ruled out for Wednesday's game at Miami."
+     "athlete_id": "3134907",
+     "name": "Kyle Kuzma",
+     "position": "F",
+     "status": "Out",
+     "injury": "Right Shoulder Bruise",
+     "return_date": "2026-11-21",
+     "updated": "2026-11-19T19:20Z",
+     "comment": "Kuzma (shoulder) has been ruled out for Thursday's game against Portland due to a right shoulder contusion."
+    },
+    {
+     "team_id": "15",
+     "team": "Milwaukee Bucks",
+     "athlete_id": "3133628",
+     "name": "Myles Turner",
+     "position": "C",
+     "status": "Out",
+     "injury": "Left Shoulder Bruise",
+     "return_date": "2026-11-21",
+     "updated": "2026-11-19T19:15Z",
+     "comment": "Turner (shoulder) has been ruled out for Thursday's game against Portland due to a left shoulder contusion,"
     },
     {
      "team_id": "15",
@@ -818,7 +848,7 @@
      "fg_pct": 46.2,
      "fg3_pct": 32.9,
      "ft_pct": 58.1,
-     "injury_status": null
+     "injury_status": "Out"
     },
     {
      "athlete_id": "4591725",
@@ -839,7 +869,7 @@
      "fg_pct": 38.9,
      "fg3_pct": 34.4,
      "ft_pct": 70.0,
-     "injury_status": "Day-To-Day"
+     "injury_status": null
     },
     {
      "athlete_id": "5082206",
@@ -1170,19 +1200,19 @@
    ]
   },
   "prediction": {
-   "home_points": 107.7,
+   "home_points": 106.8,
    "away_points": 117.0,
-   "home_margin": -9.3,
-   "home_win_prob": 0.256,
-   "away_win_prob": 0.744,
+   "home_margin": -10.2,
+   "home_win_prob": 0.236,
+   "away_win_prob": 0.764,
    "margin_range80": [
-    -27.4,
-    8.8
+    -28.3,
+    7.9
    ],
-   "total": 224.7,
+   "total": 223.8,
    "total_range80": [
-    201.0,
-    248.4
+    200.2,
+    247.5
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -1190,7 +1220,7 @@
     "team_strength": -11.8,
     "home_court": 2.0,
     "rest": -3.0,
-    "injuries": 3.5
+    "injuries": 2.6
    },
    "back_to_back": {
     "home": true,
@@ -1199,9 +1229,15 @@
    "injury_impact": {
     "home": [
      {
-      "athlete_id": "4591725",
-      "name": "Ryan Rollins",
-      "status": "Day-To-Day",
+      "athlete_id": "3134907",
+      "name": "Kyle Kuzma",
+      "status": "Out",
+      "impact": -0.8
+     },
+     {
+      "athlete_id": "3133628",
+      "name": "Myles Turner",
+      "status": "Out",
       "impact": -0.3
      }
     ],
@@ -1244,9 +1280,9 @@
    },
    "vs_line": {
     "spread": 10.5,
-    "over_under": 229.5,
-    "home_cover_prob": 0.534,
-    "over_prob": 0.399,
+    "over_under": 230.5,
+    "home_cover_prob": 0.509,
+    "over_prob": 0.36,
     "provider": "DraftKings"
    }
   }
@@ -1315,18 +1351,6 @@
    },
    "rest_days": 1,
    "injuries": [
-    {
-     "team_id": "16",
-     "team": "Minnesota Timberwolves",
-     "athlete_id": "4592979",
-     "name": "Zyon Pullin",
-     "position": "G",
-     "status": "Day-To-Day",
-     "injury": "Right Quadriceps Bruise",
-     "return_date": "2026-11-19",
-     "updated": "2026-11-18T23:11Z",
-     "comment": "Pullin (quadriceps) is listed as questionable for Thursday's game against the Knicks."
-    },
     {
      "team_id": "16",
      "team": "Minnesota Timberwolves",
@@ -1773,7 +1797,7 @@
    "provider": "DraftKings",
    "details": "SA -15.5",
    "spread": -15.5,
-   "over_under": 225.5
+   "over_under": 224.5
   },
   "home": {
    "id": "24",
@@ -1833,9 +1857,9 @@
      "position": "G",
      "status": "Out",
      "injury": "Hip Soreness",
-     "return_date": "2026-11-21",
-     "updated": "2026-11-18T23:05Z",
-     "comment": "Harper (hip) won't play in Thursday's game against the Clippers, Jeff McDonald of the San Antonio Express-News reports."
+     "return_date": "2026-12-13",
+     "updated": "2026-11-19T20:07Z",
+     "comment": "Harper (hip) is expected to miss two to three weeks, Brett Siegel of ClutchPoints.com reports."
     },
     {
      "team_id": "24",
@@ -2313,9 +2337,9 @@
    },
    "vs_line": {
     "spread": -15.5,
-    "over_under": 225.5,
+    "over_under": 224.5,
     "home_cover_prob": 0.365,
-    "over_prob": 0.51,
+    "over_prob": 0.531,
     "provider": "DraftKings"
    }
   }
@@ -2984,7 +3008,20 @@
     "net_rtg": -8.2
    },
    "rest_days": 1,
-   "injuries": [],
+   "injuries": [
+    {
+     "team_id": "17",
+     "team": "Brooklyn Nets",
+     "athlete_id": "4702670",
+     "name": "Grant Nelson",
+     "position": "F",
+     "status": "Day-To-Day",
+     "injury": "Right Ankle Sprain",
+     "return_date": "2026-11-24",
+     "updated": "2026-11-19T15:45Z",
+     "comment": "Nelson signed a two-way contract with the Nets on Friday, Michael Scotto of HoopsHype.com reports."
+    }
+   ],
    "top_players": [
     {
      "athlete_id": "3064514",
@@ -4094,6 +4131,18 @@
    },
    "rest_days": 1,
    "injuries": [
+    {
+     "team_id": "8",
+     "team": "Detroit Pistons",
+     "athlete_id": "5037878",
+     "name": "Ugonna Onyenso",
+     "position": "C",
+     "status": "Day-To-Day",
+     "injury": "Left Foot",
+     "return_date": "2026-11-21",
+     "updated": "2026-11-19T16:15Z",
+     "comment": "Onyenso agreed to a two-way contract with the Pistons on Thursday."
+    },
     {
      "team_id": "8",
      "team": "Detroit Pistons",
@@ -5552,7 +5601,7 @@
      "position": "G",
      "status": "Out",
      "injury": "Ankle",
-     "return_date": "2026-11-20",
+     "return_date": "2026-11-27",
      "updated": "2026-11-13T20:19Z",
      "comment": "Murray (ankle) is out for Friday's game against Memphis."
     }
@@ -7666,14 +7715,26 @@
     {
      "team_id": "15",
      "team": "Milwaukee Bucks",
-     "athlete_id": "4591725",
-     "name": "Ryan Rollins",
-     "position": "G",
-     "status": "Day-To-Day",
-     "injury": "Illness",
-     "return_date": "2026-11-19",
-     "updated": "2026-11-19T14:45Z",
-     "comment": "Rollins (illness) has been ruled out for Wednesday's game at Miami."
+     "athlete_id": "3134907",
+     "name": "Kyle Kuzma",
+     "position": "F",
+     "status": "Out",
+     "injury": "Right Shoulder Bruise",
+     "return_date": "2026-11-21",
+     "updated": "2026-11-19T19:20Z",
+     "comment": "Kuzma (shoulder) has been ruled out for Thursday's game against Portland due to a right shoulder contusion."
+    },
+    {
+     "team_id": "15",
+     "team": "Milwaukee Bucks",
+     "athlete_id": "3133628",
+     "name": "Myles Turner",
+     "position": "C",
+     "status": "Out",
+     "injury": "Left Shoulder Bruise",
+     "return_date": "2026-11-21",
+     "updated": "2026-11-19T19:15Z",
+     "comment": "Turner (shoulder) has been ruled out for Thursday's game against Portland due to a left shoulder contusion,"
     },
     {
      "team_id": "15",
@@ -7750,7 +7811,7 @@
      "fg_pct": 46.2,
      "fg3_pct": 32.9,
      "ft_pct": 58.1,
-     "injury_status": null
+     "injury_status": "Out"
     },
     {
      "athlete_id": "4591725",
@@ -7771,7 +7832,7 @@
      "fg_pct": 38.9,
      "fg3_pct": 34.4,
      "ft_pct": 70.0,
-     "injury_status": "Day-To-Day"
+     "injury_status": null
     },
     {
      "athlete_id": "5082206",
@@ -7896,18 +7957,18 @@
   },
   "prediction": {
    "home_points": 119.6,
-   "away_points": 110.9,
-   "home_margin": 8.7,
-   "home_win_prob": 0.731,
-   "away_win_prob": 0.269,
+   "away_points": 110.0,
+   "home_margin": 9.6,
+   "home_win_prob": 0.752,
+   "away_win_prob": 0.248,
    "margin_range80": [
-    -9.4,
-    26.9
+    -8.5,
+    27.8
    ],
-   "total": 230.5,
+   "total": 229.6,
    "total_range80": [
-    206.8,
-    254.2
+    205.9,
+    253.3
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -7915,7 +7976,7 @@
     "team_strength": 10.1,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": -3.4
+    "injuries": -2.5
    },
    "back_to_back": {
     "home": false,
@@ -7944,9 +8005,15 @@
     ],
     "away": [
      {
-      "athlete_id": "4591725",
-      "name": "Ryan Rollins",
-      "status": "Day-To-Day",
+      "athlete_id": "3134907",
+      "name": "Kyle Kuzma",
+      "status": "Out",
+      "impact": -0.8
+     },
+     {
+      "athlete_id": "3133628",
+      "name": "Myles Turner",
+      "status": "Out",
       "impact": -0.3
      }
     ]
@@ -9114,18 +9181,6 @@
     {
      "team_id": "16",
      "team": "Minnesota Timberwolves",
-     "athlete_id": "4592979",
-     "name": "Zyon Pullin",
-     "position": "G",
-     "status": "Day-To-Day",
-     "injury": "Right Quadriceps Bruise",
-     "return_date": "2026-11-19",
-     "updated": "2026-11-18T23:11Z",
-     "comment": "Pullin (quadriceps) is listed as questionable for Thursday's game against the Knicks."
-    },
-    {
-     "team_id": "16",
-     "team": "Minnesota Timberwolves",
      "athlete_id": "4433247",
      "name": "Jonathan Kuminga",
      "position": "F",
@@ -9339,8 +9394,32 @@
      "status": "Day-To-Day",
      "injury": "Illness",
      "return_date": "2026-11-19",
-     "updated": "2026-11-19T14:44Z",
-     "comment": "Stewart (illness) won't play Wednesday against the Cavs."
+     "updated": "2026-11-19T19:11Z",
+     "comment": "Stewart is questionable for Thursday's game against the Warriors due to an illness."
+    },
+    {
+     "team_id": "29",
+     "team": "Memphis Grizzlies",
+     "athlete_id": "4600663",
+     "name": "Zach Edey",
+     "position": "C",
+     "status": "Out",
+     "injury": "Ankle",
+     "return_date": "2026-11-21",
+     "updated": "2026-11-19T19:09Z",
+     "comment": "Edey (hip) has been ruled out for Thursday's game against the Warriors."
+    },
+    {
+     "team_id": "29",
+     "team": "Memphis Grizzlies",
+     "athlete_id": "4065733",
+     "name": "Ty Jerome",
+     "position": "G",
+     "status": "Out",
+     "injury": "Right Hip",
+     "return_date": "2026-11-21",
+     "updated": "2026-11-19T19:07Z",
+     "comment": "Jerome (hip) has been ruled out for Thursday's game against the Warriors."
     },
     {
      "team_id": "29",
@@ -9353,18 +9432,6 @@
      "return_date": "2027-01-18",
      "updated": "2026-11-17T23:18Z",
      "comment": "Jackson underwent a procedure Wednesday to repair a broken fifth metatarsal in his left foot. He is expected to recover fully and will be re-evaluated in approximately three months."
-    },
-    {
-     "team_id": "29",
-     "team": "Memphis Grizzlies",
-     "athlete_id": "4065733",
-     "name": "Ty Jerome",
-     "position": "G",
-     "status": "Out",
-     "injury": "Right Hip",
-     "return_date": "2026-11-19",
-     "updated": "2026-11-17T22:07Z",
-     "comment": "Jerome (hip) has been ruled out for Wednesday's game in Cleveland."
     },
     {
      "team_id": "29",
@@ -9599,18 +9666,18 @@
   },
   "prediction": {
    "home_points": 120.8,
-   "away_points": 111.6,
-   "home_margin": 9.3,
-   "home_win_prob": 0.744,
-   "away_win_prob": 0.256,
+   "away_points": 110.8,
+   "home_margin": 10.0,
+   "home_win_prob": 0.76,
+   "away_win_prob": 0.24,
    "margin_range80": [
-    -8.9,
-    27.4
+    -8.1,
+    28.1
    ],
-   "total": 232.4,
+   "total": 231.7,
    "total_range80": [
-    208.7,
-    256.1
+    208.0,
+    255.4
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -9618,7 +9685,7 @@
     "team_strength": 4.3,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 3.0
+    "injuries": 3.7
    },
    "back_to_back": {
     "home": false,
@@ -9639,6 +9706,12 @@
       "name": "Ty Jerome",
       "status": "Out",
       "impact": -2.4
+     },
+     {
+      "athlete_id": "4600663",
+      "name": "Zach Edey",
+      "status": "Out",
+      "impact": -0.7
      },
      {
       "athlete_id": "4431785",
@@ -9738,9 +9811,9 @@
      "position": "G",
      "status": "Out",
      "injury": "Hip Soreness",
-     "return_date": "2026-11-21",
-     "updated": "2026-11-18T23:05Z",
-     "comment": "Harper (hip) won't play in Thursday's game against the Clippers, Jeff McDonald of the San Antonio Express-News reports."
+     "return_date": "2026-12-13",
+     "updated": "2026-11-19T20:07Z",
+     "comment": "Harper (hip) is expected to miss two to three weeks, Brett Siegel of ClutchPoints.com reports."
     },
     {
      "team_id": "24",
@@ -9981,7 +10054,7 @@
      "position": "G",
      "status": "Out",
      "injury": "Ankle",
-     "return_date": "2026-11-20",
+     "return_date": "2026-11-27",
      "updated": "2026-11-13T20:19Z",
      "comment": "Murray (ankle) is out for Friday's game against Memphis."
     }
