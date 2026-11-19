@@ -4414,9 +4414,9 @@
   "date": "2026-11-19T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Rocket Arena",
   "home": {
@@ -4427,7 +4427,7 @@
   "away": {
    "id": "29",
    "abbr": "MEM",
-   "score": 122
+   "score": 124
   }
  },
  {
@@ -4456,20 +4456,20 @@
   "date": "2026-11-19T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Kaseya Center",
   "home": {
    "id": "14",
    "abbr": "MIA",
-   "score": 127
+   "score": 137
   },
   "away": {
    "id": "15",
    "abbr": "MIL",
-   "score": 97
+   "score": 130
   }
  },
  {
@@ -4477,20 +4477,20 @@
   "date": "2026-11-19T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Kia Center",
   "home": {
    "id": "19",
    "abbr": "ORL",
-   "score": 112
+   "score": 116
   },
   "away": {
    "id": "20",
    "abbr": "PHI",
-   "score": 116
+   "score": 121
   }
  },
  {
@@ -4498,20 +4498,20 @@
   "date": "2026-11-19T00:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Barclays Center",
   "home": {
    "id": "17",
    "abbr": "BKN",
-   "score": 90
+   "score": 107
   },
   "away": {
    "id": "4",
    "abbr": "CHI",
-   "score": 124
+   "score": 137
   }
  },
  {
@@ -4519,20 +4519,20 @@
   "date": "2026-11-19T00:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Scotiabank Arena",
   "home": {
    "id": "28",
    "abbr": "TOR",
-   "score": 82
+   "score": 99
   },
   "away": {
    "id": "27",
    "abbr": "WSH",
-   "score": 91
+   "score": 103
   }
  },
  {
@@ -4548,12 +4548,12 @@
   "home": {
    "id": "3",
    "abbr": "NO",
-   "score": 60
+   "score": 88
   },
   "away": {
    "id": "8",
    "abbr": "DET",
-   "score": 67
+   "score": 99
   }
  },
  {
@@ -4569,12 +4569,12 @@
   "home": {
    "id": "25",
    "abbr": "OKC",
-   "score": 67
+   "score": 95
   },
   "away": {
    "id": "1",
    "abbr": "ATL",
-   "score": 74
+   "score": 104
   }
  },
  {
@@ -4590,12 +4590,12 @@
   "home": {
    "id": "6",
    "abbr": "DAL",
-   "score": 64
+   "score": 97
   },
   "away": {
    "id": "9",
    "abbr": "GS",
-   "score": 49
+   "score": 74
   }
  },
  {
@@ -4603,26 +4603,20 @@
   "date": "2026-11-19T02:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Ball Arena",
   "home": {
    "id": "7",
    "abbr": "DEN",
-   "score": null
+   "score": 12
   },
   "away": {
    "id": "2",
    "abbr": "BOS",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "BOS -2.5",
-   "spread": 2.5,
-   "over_under": 218.5
+   "score": 17
   }
  },
  {
@@ -4646,7 +4640,7 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "LAL -11.5",
    "spread": -11.5,
    "over_under": 229.5
@@ -4673,10 +4667,10 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "PHX -7.5",
    "spread": 7.5,
-   "over_under": 227.5
+   "over_under": 226.5
   }
  },
  {
@@ -4761,6 +4755,12 @@
    "id": "12",
    "abbr": "LAC",
    "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "SA -16.5",
+   "spread": -16.5,
+   "over_under": 225.5
   }
  },
  {
