@@ -2,7 +2,7 @@
  {
   "id": "512113",
   "date": "2026-11-19T10:00:00+00:00",
-  "status": "NS",
+  "status": "Q2",
   "home": {
    "id": 1102,
    "name": "Anyang JungKwanJang",
@@ -38,17 +38,12 @@
     "home": false,
     "away": false
    }
-  },
-  "data_games": {
-   "home": 5,
-   "away": 4
-  },
-  "low_confidence": true
+  }
  },
  {
   "id": "512114",
   "date": "2026-11-19T10:00:00+00:00",
-  "status": "NS",
+  "status": "Q2",
   "home": {
    "id": 3173,
    "name": "Suwon KT",
@@ -84,11 +79,6 @@
     "home": false,
     "away": false
    }
-  },
-  "data_games": {
-   "home": 4,
-   "away": 6
-  },
-  "low_confidence": true
+  }
  }
 ]

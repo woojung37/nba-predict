@@ -9,9 +9,9 @@
   "date_kst": "2026-11-20T10:00:00+09:00",
   "odds": {
    "provider": "DraftKings",
-   "details": "MEM -8.5",
-   "spread": -8.5,
-   "over_under": 225.5
+   "details": "MEM -7.5",
+   "spread": -7.5,
+   "over_under": 226.5
   },
   "home": {
    "id": "29",
@@ -641,10 +641,10 @@
     }
    },
    "vs_line": {
-    "spread": -8.5,
-    "over_under": 225.5,
-    "home_cover_prob": 0.366,
-    "over_prob": 0.507,
+    "spread": -7.5,
+    "over_under": 226.5,
+    "home_cover_prob": 0.393,
+    "over_prob": 0.485,
     "provider": "DraftKings"
    }
   }
@@ -659,9 +659,9 @@
   "date_kst": "2026-11-20T10:00:00+09:00",
   "odds": {
    "provider": "DraftKings",
-   "details": "POR -9.5",
-   "spread": 9.5,
-   "over_under": 225.5
+   "details": "POR -10.5",
+   "spread": 10.5,
+   "over_under": 227.5
   },
   "home": {
    "id": "15",
@@ -1225,10 +1225,10 @@
     }
    },
    "vs_line": {
-    "spread": 9.5,
-    "over_under": 225.5,
-    "home_cover_prob": 0.492,
-    "over_prob": 0.473,
+    "spread": 10.5,
+    "over_under": 227.5,
+    "home_cover_prob": 0.52,
+    "over_prob": 0.43,
     "provider": "DraftKings"
    }
   }
@@ -1245,7 +1245,7 @@
    "provider": "DraftKings",
    "details": "NY -1.5",
    "spread": 1.5,
-   "over_under": 217.5
+   "over_under": 216.5
   },
   "home": {
    "id": "16",
@@ -1736,9 +1736,9 @@
    },
    "vs_line": {
     "spread": 1.5,
-    "over_under": 217.5,
+    "over_under": 216.5,
     "home_cover_prob": 0.569,
-    "over_prob": 0.501,
+    "over_prob": 0.523,
     "provider": "DraftKings"
    }
   }
@@ -1753,8 +1753,8 @@
   "date_kst": "2026-11-20T10:00:00+09:00",
   "odds": {
    "provider": "DraftKings",
-   "details": "SA -16.5",
-   "spread": -16.5,
+   "details": "SA -15.5",
+   "spread": -15.5,
    "over_under": 225.5
   },
   "home": {
@@ -2294,9 +2294,9 @@
     }
    },
    "vs_line": {
-    "spread": -16.5,
+    "spread": -15.5,
     "over_under": 225.5,
-    "home_cover_prob": 0.338,
+    "home_cover_prob": 0.365,
     "over_prob": 0.51,
     "provider": "DraftKings"
    }
