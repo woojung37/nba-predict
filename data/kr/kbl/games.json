@@ -10947,17 +10947,17 @@
   "id": "512113",
   "date": "2026-11-19T10:00:00+00:00",
   "season": 2026,
-  "status": "Q2",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 1102,
    "name": "Anyang JungKwanJang",
-   "score": 39
+   "score": 86
   },
   "away": {
    "id": 1105,
    "name": "KCC Egis",
-   "score": 33
+   "score": 82
   },
   "overtime": false
  },
@@ -10965,17 +10965,17 @@
   "id": "512114",
   "date": "2026-11-19T10:00:00+00:00",
   "season": 2026,
-  "status": "Q2",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 3173,
    "name": "Suwon KT",
-   "score": 36
+   "score": 85
   },
   "away": {
    "id": 1108,
    "name": "Seoul Knights",
-   "score": 35
+   "score": 75
   },
   "overtime": false
  }

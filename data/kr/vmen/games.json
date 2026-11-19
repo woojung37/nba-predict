@@ -9605,17 +9605,17 @@
   "id": "213286",
   "date": "2026-11-19T10:00:00+00:00",
   "season": 2026,
-  "status": "S2",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 1172,
    "name": "KB Stars",
-   "score": 0
+   "score": 1
   },
   "away": {
    "id": 1171,
    "name": "KAL Jumbos",
-   "score": 1
+   "score": 3
   },
   "sets": [
    [
@@ -9623,8 +9623,16 @@
     25
    ],
    [
-    14,
-    13
+    25,
+    27
+   ],
+   [
+    25,
+    21
+   ],
+   [
+    20,
+    25
    ]
   ]
  },

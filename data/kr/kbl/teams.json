@@ -3,21 +3,21 @@
   "id": 1102,
   "name": "Anyang JungKwanJang",
   "ko": "정관장",
-  "wins": 5,
+  "wins": 6,
   "losses": 0,
-  "points_for": 420,
-  "points_against": 392,
-  "rating": 1.5
+  "points_for": 506,
+  "points_against": 474,
+  "rating": 1.6
  },
  {
   "id": 1105,
   "name": "KCC Egis",
   "ko": "KCC",
   "wins": 4,
-  "losses": 0,
-  "points_for": 344,
-  "points_against": 323,
-  "rating": -0.1
+  "losses": 1,
+  "points_for": 426,
+  "points_against": 409,
+  "rating": -0.2
  },
  {
   "id": 1103,
@@ -50,6 +50,16 @@
   "rating": 1.3
  },
  {
+  "id": 3173,
+  "name": "Suwon KT",
+  "ko": "KT",
+  "wins": 2,
+  "losses": 3,
+  "points_for": 419,
+  "points_against": 418,
+  "rating": 0.2
+ },
+ {
   "id": 1111,
   "name": "Wonju DB",
   "ko": "DB",
@@ -64,19 +74,9 @@
   "name": "Seoul Knights",
   "ko": "SK",
   "wins": 2,
-  "losses": 4,
-  "points_for": 470,
-  "points_against": 482,
-  "rating": 0.2
- },
- {
-  "id": 3173,
-  "name": "Suwon KT",
-  "ko": "KT",
-  "wins": 1,
-  "losses": 3,
-  "points_for": 334,
-  "points_against": 343,
+  "losses": 5,
+  "points_for": 545,
+  "points_against": 567,
   "rating": -0.3
  },
  {
