@@ -9718,19 +9718,24 @@
   "id": "213413",
   "date": "2026-11-20T10:00:00+00:00",
   "season": 2026,
-  "status": "NS",
+  "status": "S1",
   "completed": false,
   "home": {
    "id": 1178,
    "name": "Expressway Co W",
-   "score": null
+   "score": 0
   },
   "away": {
    "id": 1182,
    "name": "IBK W",
-   "score": null
+   "score": 0
   },
-  "sets": []
+  "sets": [
+   [
+    23,
+    19
+   ]
+  ]
  },
  {
   "id": "213414",

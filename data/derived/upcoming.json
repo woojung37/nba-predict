@@ -11,7 +11,7 @@
    "provider": "DraftKings",
    "details": "ATL -6.5",
    "spread": -6.5,
-   "over_under": 218.5
+   "over_under": 219.5
   },
   "home": {
    "id": "1",
@@ -630,9 +630,9 @@
    },
    "vs_line": {
     "spread": -6.5,
-    "over_under": 218.5,
+    "over_under": 219.5,
     "home_cover_prob": 0.469,
-    "over_prob": 0.603,
+    "over_prob": 0.582,
     "provider": "DraftKings"
    }
   }
@@ -649,7 +649,7 @@
    "provider": "DraftKings",
    "details": "ORL -5.5",
    "spread": 5.5,
-   "over_under": 223.5
+   "over_under": 224.5
   },
   "home": {
    "id": "17",
@@ -1170,9 +1170,9 @@
    },
    "vs_line": {
     "spread": 5.5,
-    "over_under": 223.5,
+    "over_under": 224.5,
     "home_cover_prob": 0.522,
-    "over_prob": 0.62,
+    "over_prob": 0.599,
     "provider": "DraftKings"
    }
   }
@@ -1189,7 +1189,7 @@
    "provider": "DraftKings",
    "details": "CLE -7.5",
    "spread": -7.5,
-   "over_under": 234.5
+   "over_under": 235.5
   },
   "home": {
    "id": "5",
@@ -1796,9 +1796,9 @@
    },
    "vs_line": {
     "spread": -7.5,
-    "over_under": 234.5,
+    "over_under": 235.5,
     "home_cover_prob": 0.416,
-    "over_prob": 0.528,
+    "over_prob": 0.507,
     "provider": "DraftKings"
    }
   }
@@ -1815,7 +1815,7 @@
    "provider": "DraftKings",
    "details": "DET -7.5",
    "spread": -7.5,
-   "over_under": 216.5
+   "over_under": 215.5
   },
   "home": {
    "id": "8",
@@ -2440,9 +2440,9 @@
    },
    "vs_line": {
     "spread": -7.5,
-    "over_under": 216.5,
+    "over_under": 215.5,
     "home_cover_prob": 0.44,
-    "over_prob": 0.62,
+    "over_prob": 0.641,
     "provider": "DraftKings"
    }
   }
@@ -3668,7 +3668,7 @@
    "provider": "DraftKings",
    "details": "PHX -4.5",
    "spread": 4.5,
-   "over_under": 227.5
+   "over_under": 226.5
   },
   "home": {
    "id": "26",
@@ -4184,9 +4184,9 @@
    },
    "vs_line": {
     "spread": 4.5,
-    "over_under": 227.5,
+    "over_under": 226.5,
     "home_cover_prob": 0.582,
-    "over_prob": 0.649,
+    "over_prob": 0.669,
     "provider": "DraftKings"
    }
   }
@@ -4203,7 +4203,7 @@
    "provider": "DraftKings",
    "details": "DEN -1.5",
    "spread": -1.5,
-   "over_under": 224.5
+   "over_under": 225.5
   },
   "home": {
    "id": "7",
@@ -4725,9 +4725,9 @@
    },
    "vs_line": {
     "spread": -1.5,
-    "over_under": 224.5,
+    "over_under": 225.5,
     "home_cover_prob": 0.459,
-    "over_prob": 0.565,
+    "over_prob": 0.544,
     "provider": "DraftKings"
    }
   }
@@ -4744,7 +4744,7 @@
    "provider": "DraftKings",
    "details": "LAL -14.5",
    "spread": -14.5,
-   "over_under": 230.5
+   "over_under": 229.5
   },
   "home": {
    "id": "13",
@@ -5285,9 +5285,9 @@
    },
    "vs_line": {
     "spread": -14.5,
-    "over_under": 230.5,
+    "over_under": 229.5,
     "home_cover_prob": 0.42,
-    "over_prob": 0.589,
+    "over_prob": 0.61,
     "provider": "DraftKings"
    }
   }
@@ -8641,6 +8641,667 @@
     "away": {
      "offense": -1.4,
      "defense": -7.7
+    }
+   }
+  }
+ },
+ {
+  "id": "401910029",
+  "date": "2026-11-22T20:30Z",
+  "season_type": 2,
+  "state": "pre",
+  "neutral": false,
+  "venue": "State Farm Arena",
+  "date_kst": "2026-11-23T05:30:00+09:00",
+  "home": {
+   "id": "1",
+   "abbr": "ATL",
+   "name": "Atlanta Hawks",
+   "standing": {
+    "team_id": "1",
+    "abbr": "ATL",
+    "conference": "Eastern Conference",
+    "seed": 5,
+    "wins": 9,
+    "losses": 6,
+    "win_pct": 0.6,
+    "games_behind": "3.5",
+    "home": "3-3",
+    "road": "6-3",
+    "last10": "7-3",
+    "streak": "W2",
+    "ppg": 117.73333,
+    "opp_ppg": 115.8
+   },
+   "stats": {
+    "gp": 15,
+    "record": [
+     9,
+     6
+    ],
+    "home_record": [
+     3,
+     3
+    ],
+    "away_record": [
+     6,
+     3
+    ],
+    "ppg": 117.7,
+    "opp_ppg": 115.8,
+    "avg_margin": 1.9,
+    "last10_record": [
+     7,
+     3
+    ],
+    "last10_margin": 0.4,
+    "last_game": "2026-11-19T01:00Z",
+    "pace": 106.4,
+    "ortg": 110.6,
+    "drtg": 108.8,
+    "net_rtg": 1.8
+   },
+   "rest_days": 1,
+   "injuries": [
+    {
+     "team_id": "1",
+     "team": "Atlanta Hawks",
+     "athlete_id": "3146557",
+     "name": "Jock Landale",
+     "position": "C",
+     "status": "Out",
+     "injury": "Right Hip Inflammation",
+     "return_date": "2026-11-22",
+     "updated": "2026-11-19T22:07Z",
+     "comment": "Landale (hip) won't play in Friday's game against the Hornets, Brad Rowland of the Locked On Podcast Network reports."
+    },
+    {
+     "team_id": "1",
+     "team": "Atlanta Hawks",
+     "athlete_id": "5149077",
+     "name": "Kingston Flemings",
+     "position": "G",
+     "status": "Day-To-Day",
+     "injury": "Back Strain",
+     "return_date": "2026-11-20",
+     "updated": "2026-11-19T22:05Z",
+     "comment": "Flemings (back) is questionable for Friday's game against the Hornets, Brad Rowland of the Locked On Podcast Network reports."
+    },
+    {
+     "team_id": "1",
+     "team": "Atlanta Hawks",
+     "athlete_id": "4873201",
+     "name": "Asa Newell",
+     "position": "F",
+     "status": "Out",
+     "injury": "Left Toe",
+     "return_date": "2027-03-17",
+     "updated": "2026-11-17T21:16Z",
+     "comment": "Newell underwent surgery Tuesday for a plantar plate tear in his left great toe, and he will be re-evaluated in approximately four months, Brad Rowland of the Locked On Podcast Network reports."
+    },
+    {
+     "team_id": "1",
+     "team": "Atlanta Hawks",
+     "athlete_id": "2490149",
+     "name": "CJ McCollum",
+     "position": "G",
+     "status": "Out",
+     "injury": "Left Calf Strain",
+     "return_date": "2026-12-19",
+     "updated": "2026-11-17T21:08Z",
+     "comment": "McCollum (calf) will miss at least four weeks, per Brad Rowland of the Locked On Podcast Network."
+    },
+    {
+     "team_id": "1",
+     "team": "Atlanta Hawks",
+     "athlete_id": "4712863",
+     "name": "Mouhamed Gueye",
+     "position": "F",
+     "status": "Out",
+     "injury": "Left Foot Fracture",
+     "return_date": "2026-12-12",
+     "updated": "2026-11-13T00:06Z",
+     "comment": "Gueye (foot) is ready to begin on-court activities and will be re-evaluated in four weeks, Brad Rowland of the Locked On Podcast Network reports."
+    },
+    {
+     "team_id": "1",
+     "team": "Atlanta Hawks",
+     "athlete_id": "5105571",
+     "name": "Henri Veesaar",
+     "position": "C",
+     "status": "Out",
+     "injury": "Right Knee",
+     "return_date": "2027-07-01",
+     "updated": "2026-09-21T19:50Z",
+     "comment": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday."
+    }
+   ],
+   "top_players": [
+    {
+     "athlete_id": "4278039",
+     "name": "Nickeil Alexander-Walker",
+     "position": "G",
+     "team_id": "1",
+     "gp": 15,
+     "gs": 15,
+     "last_game": "2026-11-19",
+     "min": 31.8,
+     "pts": 21.2,
+     "reb": 3.6,
+     "ast": 3.0,
+     "stl": 1.5,
+     "blk": 0.4,
+     "tov": 2.0,
+     "plus_minus": 1.6,
+     "fg_pct": 41.7,
+     "fg3_pct": 34.9,
+     "ft_pct": 85.5,
+     "injury_status": null
+    },
+    {
+     "athlete_id": "4701230",
+     "name": "Jalen Johnson",
+     "position": "F",
+     "team_id": "1",
+     "gp": 12,
+     "gs": 12,
+     "last_game": "2026-11-19",
+     "min": 34.3,
+     "pts": 19.2,
+     "reb": 9.2,
+     "ast": 7.7,
+     "stl": 0.9,
+     "blk": 0.6,
+     "tov": 3.4,
+     "plus_minus": 0.0,
+     "fg_pct": 43.2,
+     "fg3_pct": 18.0,
+     "ft_pct": 79.7,
+     "injury_status": null
+    },
+    {
+     "athlete_id": "4431680",
+     "name": "Onyeka Okongwu",
+     "position": "F",
+     "team_id": "1",
+     "gp": 15,
+     "gs": 15,
+     "last_game": "2026-11-19",
+     "min": 30.8,
+     "pts": 15.0,
+     "reb": 8.2,
+     "ast": 2.5,
+     "stl": 1.0,
+     "blk": 0.9,
+     "tov": 1.4,
+     "plus_minus": 3.3,
+     "fg_pct": 50.0,
+     "fg3_pct": 33.7,
+     "ft_pct": 67.6,
+     "injury_status": null
+    },
+    {
+     "athlete_id": "2490149",
+     "name": "CJ McCollum",
+     "position": "G",
+     "team_id": "1",
+     "gp": 14,
+     "gs": 9,
+     "last_game": "2026-11-16",
+     "min": 26.4,
+     "pts": 14.5,
+     "reb": 3.1,
+     "ast": 3.9,
+     "stl": 1.1,
+     "blk": 0.5,
+     "tov": 1.9,
+     "plus_minus": 1.7,
+     "fg_pct": 43.3,
+     "fg3_pct": 35.2,
+     "ft_pct": 88.2,
+     "injury_status": "Out"
+    },
+    {
+     "athlete_id": "4397183",
+     "name": "Aaron Wiggins",
+     "position": "G",
+     "team_id": "1",
+     "gp": 15,
+     "gs": 1,
+     "last_game": "2026-11-19",
+     "min": 25.9,
+     "pts": 13.9,
+     "reb": 3.6,
+     "ast": 2.4,
+     "stl": 0.9,
+     "blk": 0.3,
+     "tov": 1.5,
+     "plus_minus": 0.9,
+     "fg_pct": 45.2,
+     "fg3_pct": 40.0,
+     "ft_pct": 63.6,
+     "injury_status": null
+    }
+   ]
+  },
+  "away": {
+   "id": "8",
+   "abbr": "DET",
+   "name": "Detroit Pistons",
+   "standing": {
+    "team_id": "8",
+    "abbr": "DET",
+    "conference": "Eastern Conference",
+    "seed": 3,
+    "wins": 10,
+    "losses": 4,
+    "win_pct": 0.71428573,
+    "games_behind": "2",
+    "home": "3-2",
+    "road": "7-2",
+    "last10": "7-3",
+    "streak": "W2",
+    "ppg": 115.35714,
+    "opp_ppg": 108.92857
+   },
+   "stats": {
+    "gp": 14,
+    "record": [
+     10,
+     4
+    ],
+    "home_record": [
+     3,
+     2
+    ],
+    "away_record": [
+     7,
+     2
+    ],
+    "ppg": 115.4,
+    "opp_ppg": 108.9,
+    "avg_margin": 6.4,
+    "last10_record": [
+     7,
+     3
+    ],
+    "last10_margin": 6.6,
+    "last_game": "2026-11-19T01:00Z",
+    "pace": 101.9,
+    "ortg": 113.2,
+    "drtg": 106.9,
+    "net_rtg": 6.3
+   },
+   "rest_days": 1,
+   "injuries": [
+    {
+     "team_id": "8",
+     "team": "Detroit Pistons",
+     "athlete_id": "2990962",
+     "name": "Taurean Prince",
+     "position": "F",
+     "status": "Out",
+     "injury": "Right Knee Surgery",
+     "return_date": "2026-12-13",
+     "updated": "2026-11-19T21:53Z",
+     "comment": "Prince underwent right knee surgery and is listed as out for Friday's game against the Raptors."
+    },
+    {
+     "team_id": "8",
+     "team": "Detroit Pistons",
+     "athlete_id": "5258459",
+     "name": "Ebuka Okorie",
+     "position": "G",
+     "status": "Out",
+     "injury": "Left Oblique Strain",
+     "return_date": "2026-11-22",
+     "updated": "2026-11-19T21:43Z",
+     "comment": "Okorie (oblique) has been ruled out for Friday's game against Toronto."
+    },
+    {
+     "team_id": "8",
+     "team": "Detroit Pistons",
+     "athlete_id": "4683771",
+     "name": "Ronald Holland II",
+     "position": "F",
+     "status": "Out",
+     "injury": "Left Knee Bruise",
+     "return_date": "2026-11-22",
+     "updated": "2026-11-19T21:41Z",
+     "comment": "Holland (knee) won't play in Friday's game against the Raptors, Blake Murphy of Sportsnet.ca reports."
+    },
+    {
+     "team_id": "8",
+     "team": "Detroit Pistons",
+     "athlete_id": "4432166",
+     "name": "Cade Cunningham",
+     "position": "G",
+     "status": "Day-To-Day",
+     "injury": "Right Knee Soreness",
+     "return_date": "2026-11-20",
+     "updated": "2026-11-19T21:36Z",
+     "comment": "Cunningham (knee) is expected to play in Friday's game against the Raptors, Blake Murphy of Sportsnet.ca reports."
+    },
+    {
+     "team_id": "8",
+     "team": "Detroit Pistons",
+     "athlete_id": "5037878",
+     "name": "Ugonna Onyenso",
+     "position": "C",
+     "status": "Day-To-Day",
+     "injury": "Left Foot",
+     "return_date": "2026-11-21",
+     "updated": "2026-11-19T16:15Z",
+     "comment": "Onyenso agreed to a two-way contract with the Pistons on Thursday."
+    },
+    {
+     "team_id": "8",
+     "team": "Detroit Pistons",
+     "athlete_id": "3157465",
+     "name": "Duncan Robinson",
+     "position": "F",
+     "status": "Out",
+     "injury": "Left Quadriceps Strain",
+     "return_date": "2026-11-27",
+     "updated": "2026-11-17T16:25Z",
+     "comment": "Robinson will be re-evaluated in one week due to a left quadriceps strain, Coty M. Davis of The Detroit News reports."
+    },
+    {
+     "team_id": "8",
+     "team": "Detroit Pistons",
+     "athlete_id": "4433621",
+     "name": "Jalen Duren",
+     "position": "C",
+     "status": "Out",
+     "injury": "Right Hamstring Strain",
+     "return_date": "2026-11-24",
+     "updated": "2026-11-08T16:05Z",
+     "comment": "Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunter Patterson of The Athletic reports."
+    }
+   ],
+   "top_players": [
+    {
+     "athlete_id": "4432166",
+     "name": "Cade Cunningham",
+     "position": "G",
+     "team_id": "8",
+     "gp": 13,
+     "gs": 13,
+     "last_game": "2026-11-18",
+     "min": 35.0,
+     "pts": 25.8,
+     "reb": 5.2,
+     "ast": 7.8,
+     "stl": 1.4,
+     "blk": 1.0,
+     "tov": 3.1,
+     "plus_minus": 3.7,
+     "fg_pct": 47.7,
+     "fg3_pct": 31.7,
+     "ft_pct": 85.6,
+     "injury_status": "Day-To-Day"
+    },
+    {
+     "athlete_id": "3157465",
+     "name": "Duncan Robinson",
+     "position": "F",
+     "team_id": "8",
+     "gp": 12,
+     "gs": 12,
+     "last_game": "2026-11-15",
+     "min": 30.6,
+     "pts": 17.4,
+     "reb": 1.8,
+     "ast": 2.1,
+     "stl": 1.3,
+     "blk": 0.2,
+     "tov": 0.9,
+     "plus_minus": 7.6,
+     "fg_pct": 45.0,
+     "fg3_pct": 43.1,
+     "ft_pct": 83.7,
+     "injury_status": "Out"
+    },
+    {
+     "athlete_id": "5107199",
+     "name": "Daniss Jenkins",
+     "position": "G",
+     "team_id": "8",
+     "gp": 14,
+     "gs": 6,
+     "last_game": "2026-11-19",
+     "min": 29.3,
+     "pts": 14.3,
+     "reb": 3.7,
+     "ast": 4.7,
+     "stl": 0.9,
+     "blk": 0.1,
+     "tov": 1.6,
+     "plus_minus": 5.6,
+     "fg_pct": 45.2,
+     "fg3_pct": 43.7,
+     "ft_pct": 90.6,
+     "injury_status": null
+    },
+    {
+     "athlete_id": "4433621",
+     "name": "Jalen Duren",
+     "position": "C",
+     "team_id": "8",
+     "gp": 2,
+     "gs": 2,
+     "last_game": "2026-10-24",
+     "min": 19.0,
+     "pts": 13.0,
+     "reb": 7.5,
+     "ast": 2.0,
+     "stl": 1.0,
+     "blk": 1.0,
+     "tov": 1.0,
+     "plus_minus": 5.5,
+     "fg_pct": 58.8,
+     "fg3_pct": null,
+     "ft_pct": 85.7,
+     "injury_status": "Out"
+    },
+    {
+     "athlete_id": "4278562",
+     "name": "Paul Reed",
+     "position": "F",
+     "team_id": "8",
+     "gp": 14,
+     "gs": 7,
+     "last_game": "2026-11-19",
+     "min": 26.1,
+     "pts": 11.6,
+     "reb": 7.6,
+     "ast": 2.2,
+     "stl": 1.1,
+     "blk": 0.9,
+     "tov": 1.7,
+     "plus_minus": 7.3,
+     "fg_pct": 57.6,
+     "fg3_pct": 50.0,
+     "ft_pct": 64.7,
+     "injury_status": null
+    }
+   ]
+  },
+  "head_to_head": {
+   "games": 11,
+   "wins": 5,
+   "losses": 6,
+   "avg_margin": -2.6,
+   "recent": [
+    {
+     "id": "401810906",
+     "date": "2026-03-25T23:00Z",
+     "season": 2026,
+     "home": "DET",
+     "away": "ATL",
+     "home_score": 129,
+     "away_score": 130
+    },
+    {
+     "id": "401836751",
+     "date": "2025-12-13T00:00Z",
+     "season": 2026,
+     "home": "DET",
+     "away": "ATL",
+     "home_score": 142,
+     "away_score": 115
+    },
+    {
+     "id": "401810164",
+     "date": "2025-12-02T00:00Z",
+     "season": 2026,
+     "home": "DET",
+     "away": "ATL",
+     "home_score": 99,
+     "away_score": 98
+    },
+    {
+     "id": "401810106",
+     "date": "2025-11-19T00:30Z",
+     "season": 2026,
+     "home": "ATL",
+     "away": "DET",
+     "home_score": 112,
+     "away_score": 120
+    },
+    {
+     "id": "401705380",
+     "date": "2025-02-23T23:00Z",
+     "season": 2025,
+     "home": "ATL",
+     "away": "DET",
+     "home_score": 143,
+     "away_score": 148
+    },
+    {
+     "id": "401705267",
+     "date": "2025-02-04T00:00Z",
+     "season": 2025,
+     "home": "DET",
+     "away": "ATL",
+     "home_score": 130,
+     "away_score": 132
+    },
+    {
+     "id": "401705178",
+     "date": "2025-01-23T00:30Z",
+     "season": 2025,
+     "home": "ATL",
+     "away": "DET",
+     "home_score": 104,
+     "away_score": 114
+    },
+    {
+     "id": "401704751",
+     "date": "2024-11-09T00:00Z",
+     "season": 2025,
+     "home": "DET",
+     "away": "ATL",
+     "home_score": 122,
+     "away_score": 121
+    },
+    {
+     "id": "401585732",
+     "date": "2024-04-03T23:30Z",
+     "season": 2024,
+     "home": "ATL",
+     "away": "DET",
+     "home_score": 121,
+     "away_score": 113
+    },
+    {
+     "id": "401584980",
+     "date": "2023-12-19T00:30Z",
+     "season": 2024,
+     "home": "ATL",
+     "away": "DET",
+     "home_score": 130,
+     "away_score": 124
+    }
+   ]
+  },
+  "prediction": {
+   "home_points": 112.8,
+   "away_points": 115.6,
+   "home_margin": -2.8,
+   "home_win_prob": 0.42,
+   "away_win_prob": 0.58,
+   "margin_range80": [
+    -21.0,
+    15.3
+   ],
+   "total": 228.4,
+   "total_range80": [
+    204.7,
+    252.1
+   ],
+   "sigma": 14.15,
+   "total_sigma": 18.49,
+   "factors": {
+    "team_strength": -6.3,
+    "home_court": 2.0,
+    "rest": -0.0,
+    "injuries": 1.4
+   },
+   "back_to_back": {
+    "home": false,
+    "away": false
+   },
+   "injury_impact": {
+    "home": [
+     {
+      "athlete_id": "2490149",
+      "name": "CJ McCollum",
+      "status": "Out",
+      "impact": -1.0
+     },
+     {
+      "athlete_id": "3146557",
+      "name": "Jock Landale",
+      "status": "Out",
+      "impact": -0.3
+     },
+     {
+      "athlete_id": "5149077",
+      "name": "Kingston Flemings",
+      "status": "Day-To-Day",
+      "impact": -0.1
+     }
+    ],
+    "away": [
+     {
+      "athlete_id": "3157465",
+      "name": "Duncan Robinson",
+      "status": "Out",
+      "impact": -1.3
+     },
+     {
+      "athlete_id": "4432166",
+      "name": "Cade Cunningham",
+      "status": "Day-To-Day",
+      "impact": -1.0
+     },
+     {
+      "athlete_id": "2990962",
+      "name": "Taurean Prince",
+      "status": "Out",
+      "impact": -0.5
+     }
+    ]
+   },
+   "ratings": {
+    "home": {
+     "offense": 1.0,
+     "defense": 1.7
+    },
+    "away": {
+     "offense": 1.1,
+     "defense": -4.4
     }
    }
   }
