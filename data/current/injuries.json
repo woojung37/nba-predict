@@ -134,6 +134,18 @@
  {
   "team_id": "4",
   "team": "Chicago Bulls",
+  "athlete_id": "4397189",
+  "name": "Jalen Smith",
+  "position": "F",
+  "status": "Day-To-Day",
+  "injury": "Illness",
+  "return_date": "2026-11-20",
+  "updated": "2026-11-20T17:41Z",
+  "comment": "Smith (illness) has been downgraded to questionable for Friday's game against the Wizards."
+ },
+ {
+  "team_id": "4",
+  "team": "Chicago Bulls",
   "athlete_id": "5242496",
   "name": "Noa Essengue",
   "position": "F",
@@ -218,6 +230,18 @@
  {
   "team_id": "6",
   "team": "Dallas Mavericks",
+  "athlete_id": "4683688",
+  "name": "Dereck Lively II",
+  "position": "C",
+  "status": "Out",
+  "injury": "Right Foot Surgery",
+  "return_date": "2026-11-27",
+  "updated": "2026-11-20T19:31Z",
+  "comment": "Head coach Dusty May said Friday that Lively (foot) is moving well and progressing in his recovery, and the big man told May he's \"close\" to returning, Mike Curtis of The Dallas Morning News reports."
+ },
+ {
+  "team_id": "6",
+  "team": "Dallas Mavericks",
   "athlete_id": "5106040",
   "name": "Tobi Lawal",
   "position": "F",
@@ -238,18 +262,6 @@
   "return_date": "2026-11-27",
   "updated": "2026-11-17T22:53Z",
   "comment": "De Larrea (knee) is listed as out for Wednesday's game against the Warriors."
- },
- {
-  "team_id": "6",
-  "team": "Dallas Mavericks",
-  "athlete_id": "4683688",
-  "name": "Dereck Lively II",
-  "position": "C",
-  "status": "Out",
-  "injury": "Right Foot Surgery",
-  "return_date": "2026-11-27",
-  "updated": "2026-11-17T22:45Z",
-  "comment": "Lively (foot) is out for Wednesday's game against the Warriors."
  },
  {
   "team_id": "6",
@@ -278,6 +290,18 @@
  {
   "team_id": "8",
   "team": "Detroit Pistons",
+  "athlete_id": "4683771",
+  "name": "Ronald Holland II",
+  "position": "F",
+  "status": "Day-To-Day",
+  "injury": "Left Knee Bruise",
+  "return_date": "2026-11-20",
+  "updated": "2026-11-20T17:46Z",
+  "comment": "Holland (knee) has been upgraded to doubtful for Friday's game against Toronto, Hunter Patterson of The Athletic reports."
+ },
+ {
+  "team_id": "8",
+  "team": "Detroit Pistons",
   "athlete_id": "2990962",
   "name": "Taurean Prince",
   "position": "F",
@@ -298,18 +322,6 @@
   "return_date": "2026-11-22",
   "updated": "2026-11-19T21:43Z",
   "comment": "Okorie (oblique) has been ruled out for Friday's game against Toronto."
- },
- {
-  "team_id": "8",
-  "team": "Detroit Pistons",
-  "athlete_id": "4683771",
-  "name": "Ronald Holland II",
-  "position": "F",
-  "status": "Out",
-  "injury": "Left Knee Bruise",
-  "return_date": "2026-11-22",
-  "updated": "2026-11-19T21:41Z",
-  "comment": "Holland (knee) won't play in Friday's game against the Raptors, Blake Murphy of Sportsnet.ca reports."
  },
  {
   "team_id": "8",
@@ -470,6 +482,18 @@
  {
   "team_id": "11",
   "team": "Indiana Pacers",
+  "athlete_id": "4396993",
+  "name": "Tyrese Haliburton",
+  "position": "G",
+  "status": "Out",
+  "injury": "Left Hamstring Strain",
+  "return_date": "2026-12-13",
+  "updated": "2026-11-20T20:41Z",
+  "comment": "Haliburton (hamstring) is expected to miss at least two more weeks, Shams Charania of ESPN reports."
+ },
+ {
+  "team_id": "11",
+  "team": "Indiana Pacers",
   "athlete_id": "2530530",
   "name": "T.J. McConnell",
   "position": "G",
@@ -506,18 +530,6 @@
  {
   "team_id": "11",
   "team": "Indiana Pacers",
-  "athlete_id": "4396993",
-  "name": "Tyrese Haliburton",
-  "position": "G",
-  "status": "Out",
-  "injury": "Left Hamstring Strain",
-  "return_date": "2026-11-28",
-  "updated": "2026-11-17T18:46Z",
-  "comment": "Head coach Rick Carlisle said Tuesday that Haliburton (hamstring) is \"getting there,\" but there's still no definitive timetable for his return to game action, Dustin Dopirak of The Indianapolis Star reports."
- },
- {
-  "team_id": "11",
-  "team": "Indiana Pacers",
   "athlete_id": "5157066",
   "name": "Johnny Furphy",
   "position": "G",
@@ -547,9 +559,9 @@
   "position": "F",
   "status": "Out",
   "injury": "Right Achilles Surgery",
-  "return_date": "2026-11-21",
-  "updated": "2026-11-18T23:11Z",
-  "comment": "Ingram (heel/Achilles) will remain on the inactive list for Thursday's game in San Antonio."
+  "return_date": "2026-11-23",
+  "updated": "2026-11-20T20:20Z",
+  "comment": "Ingram (Achilles) is expected to make his season and team debut Monday against the Rockets, per Shams Charania of ESPN."
  },
  {
   "team_id": "12",
@@ -806,6 +818,18 @@
  {
   "team_id": "25",
   "team": "Oklahoma City Thunder",
+  "athlete_id": "5159925",
+  "name": "Nikola Topic",
+  "position": "G",
+  "status": "Out",
+  "injury": "Left Hip Soreness",
+  "return_date": "2026-11-22",
+  "updated": "2026-11-20T17:02Z",
+  "comment": "Topic (hip) is out for Friday's game against New Orleans."
+ },
+ {
+  "team_id": "25",
+  "team": "Oklahoma City Thunder",
   "athlete_id": "2991350",
   "name": "Alex Caruso",
   "position": "G",
@@ -914,14 +938,14 @@
  {
   "team_id": "20",
   "team": "Philadelphia 76ers",
-  "athlete_id": "3912848",
-  "name": "Dean Wade",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Left Hamstring Soreness",
-  "return_date": "2026-11-21",
-  "updated": "2026-11-19T14:47Z",
-  "comment": "Wade (hamstring) is out for Wednesday's game in Orlando."
+  "athlete_id": "5105637",
+  "name": "Adem Bona",
+  "position": "C",
+  "status": "Out",
+  "injury": "Back Sprain",
+  "return_date": "2026-11-23",
+  "updated": "2026-11-20T17:33Z",
+  "comment": "Bona (back) participated in Friday's practice, though he still needs to go through a full practice with contact before being cleared to return to game action, Adam Aaronson of PhillyVoice.com reports."
  },
  {
   "team_id": "20",
@@ -932,8 +956,8 @@
   "status": "Day-To-Day",
   "injury": "Right Foot Soreness",
   "return_date": "2026-11-21",
-  "updated": "2026-11-19T14:46Z",
-  "comment": "Maxey (foot) is out for Wednesday's game in Orlando, Ky Carlin of USA Today reports."
+  "updated": "2026-11-20T17:28Z",
+  "comment": "Maxey (foot) was a full participant in Friday's practice, Tony Jones of The Athletic reports."
  },
  {
   "team_id": "20",
@@ -944,8 +968,8 @@
   "status": "Out",
   "injury": "Left Hamstring Not Specified",
   "return_date": "2026-11-23",
-  "updated": "2026-11-18T22:21Z",
-  "comment": "Brown (hamstring) will be re-evaluated at some point this weekend, per Kris Rihm of ESPN.com."
+  "updated": "2026-11-20T17:26Z",
+  "comment": "Brown (hamstring) went through individual work during Friday's practice, Tony Jones of The Athletic reports."
  },
  {
   "team_id": "20",
@@ -956,20 +980,8 @@
   "status": "Out",
   "injury": "Not Specified Back Fracture",
   "return_date": "2026-11-21",
-  "updated": "2026-11-17T22:12Z",
-  "comment": "Barlow (back) is out for Wednesday's game against Orlando."
- },
- {
-  "team_id": "20",
-  "team": "Philadelphia 76ers",
-  "athlete_id": "5105637",
-  "name": "Adem Bona",
-  "position": "C",
-  "status": "Out",
-  "injury": "Back Sprain",
-  "return_date": "2026-11-21",
-  "updated": "2026-11-12T16:36Z",
-  "comment": "Bona (back) will be re-evaluated in approximately one week after seeing a specialist, Ky Carlin of USA Today reports."
+  "updated": "2026-11-20T17:20Z",
+  "comment": "Barlow (back) is trending toward making his season debut in Saturday's game against the Bucks, Tony Jones of The Athletic reports."
  },
  {
   "team_id": "20",
@@ -1154,6 +1166,18 @@
  {
   "team_id": "28",
   "team": "Toronto Raptors",
+  "athlete_id": "6450",
+  "name": "Kawhi Leonard",
+  "position": "F",
+  "status": "Out",
+  "injury": "Left Knee Inflammation",
+  "return_date": "2026-12-03",
+  "updated": "2026-11-20T20:42Z",
+  "comment": "Leonard (knee) could return in the next few weeks, per Shams Charania of ESPN."
+ },
+ {
+  "team_id": "28",
+  "team": "Toronto Raptors",
   "athlete_id": "5093267",
   "name": "Collin Murray-Boyles",
   "position": "F",
@@ -1174,18 +1198,6 @@
   "return_date": "2026-12-13",
   "updated": "2026-11-19T21:13Z",
   "comment": "Barrett has been diagnosed with a right hamstring strain and will be re-evaluated in two weeks, Brett Siegel of ClutchPoints.com reports."
- },
- {
-  "team_id": "28",
-  "team": "Toronto Raptors",
-  "athlete_id": "6450",
-  "name": "Kawhi Leonard",
-  "position": "F",
-  "status": "Out",
-  "injury": "Left Knee Inflammation",
-  "return_date": "2026-11-27",
-  "updated": "2026-11-17T22:25Z",
-  "comment": "Leonard (knee) has progressed in his strength and conditioning program but will miss at least one more week, Michael Scotto of HoopsHype.com reports."
  },
  {
   "team_id": "28",
