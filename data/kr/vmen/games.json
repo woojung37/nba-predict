@@ -9640,12 +9640,12 @@
   "id": "213287",
   "date": "2026-11-20T10:00:00+00:00",
   "season": 2026,
-  "status": "S2",
+  "status": "S3",
   "completed": false,
   "home": {
    "id": 1170,
    "name": "Hyundai Skywalkers",
-   "score": 0
+   "score": 1
   },
   "away": {
    "id": 1173,
@@ -9658,8 +9658,12 @@
     25
    ],
    [
-    0,
-    0
+    25,
+    21
+   ],
+   [
+    13,
+    14
    ]
   ]
  },
