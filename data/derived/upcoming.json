@@ -60,6 +60,18 @@
     {
      "team_id": "29",
      "team": "Memphis Grizzlies",
+     "athlete_id": "2991070",
+     "name": "Jerami Grant",
+     "position": "F",
+     "status": "Day-To-Day",
+     "injury": "Left Calf Not Specified",
+     "return_date": "2026-11-21",
+     "updated": "2026-11-20T01:48Z",
+     "comment": "Grant went to the locker room during the second quarter of Thursday's game against Golden State due to an undisclosed injury, Drew Hill of The Daily Memphian reports."
+    },
+    {
+     "team_id": "29",
+     "team": "Memphis Grizzlies",
      "athlete_id": "4600663",
      "name": "Zach Edey",
      "position": "C",
@@ -222,7 +234,7 @@
      "fg_pct": 46.6,
      "fg3_pct": 44.6,
      "ft_pct": 76.7,
-     "injury_status": null
+     "injury_status": "Day-To-Day"
     }
    ]
   },
@@ -6192,6 +6204,12 @@
   "neutral": false,
   "venue": "Ball Arena",
   "date_kst": "2026-11-21T12:00:00+09:00",
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "DEN -1.5",
+   "spread": -1.5,
+   "over_under": 223.5
+  },
   "home": {
    "id": "7",
    "abbr": "DEN",
@@ -6709,6 +6727,13 @@
      "offense": 0.3,
      "defense": -4.5
     }
+   },
+   "vs_line": {
+    "spread": -1.5,
+    "over_under": 223.5,
+    "home_cover_prob": 0.459,
+    "over_prob": 0.584,
+    "provider": "Draft Kings"
    }
   }
  },
@@ -9207,6 +9232,18 @@
     {
      "team_id": "29",
      "team": "Memphis Grizzlies",
+     "athlete_id": "2991070",
+     "name": "Jerami Grant",
+     "position": "F",
+     "status": "Day-To-Day",
+     "injury": "Left Calf Not Specified",
+     "return_date": "2026-11-21",
+     "updated": "2026-11-20T01:48Z",
+     "comment": "Grant went to the locker room during the second quarter of Thursday's game against Golden State due to an undisclosed injury, Drew Hill of The Daily Memphian reports."
+    },
+    {
+     "team_id": "29",
+     "team": "Memphis Grizzlies",
      "athlete_id": "4600663",
      "name": "Zach Edey",
      "position": "C",
@@ -9369,7 +9406,7 @@
      "fg_pct": 46.6,
      "fg3_pct": 44.6,
      "ft_pct": 76.7,
-     "injury_status": null
+     "injury_status": "Day-To-Day"
     }
    ]
   },
@@ -9473,18 +9510,18 @@
   },
   "prediction": {
    "home_points": 121.2,
-   "away_points": 110.9,
-   "home_margin": 10.3,
-   "home_win_prob": 0.766,
-   "away_win_prob": 0.234,
+   "away_points": 110.7,
+   "home_margin": 10.5,
+   "home_win_prob": 0.771,
+   "away_win_prob": 0.229,
    "margin_range80": [
-    -7.9,
-    28.4
+    -7.7,
+    28.6
    ],
-   "total": 232.1,
+   "total": 231.9,
    "total_range80": [
-    208.4,
-    255.8
+    208.2,
+    255.6
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -9492,7 +9529,7 @@
     "team_strength": 4.3,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 4.0
+    "injuries": 4.2
    },
    "back_to_back": {
     "home": false,
@@ -9524,6 +9561,12 @@
       "name": "GG Jackson",
       "status": "Out",
       "impact": -0.3
+     },
+     {
+      "athlete_id": "2991070",
+      "name": "Jerami Grant",
+      "status": "Day-To-Day",
+      "impact": -0.2
      }
     ]
    },

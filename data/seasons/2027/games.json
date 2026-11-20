@@ -4668,18 +4668,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "status": "STATUS_HALFTIME",
   "neutral": false,
   "venue": "FedExForum",
   "home": {
    "id": "29",
    "abbr": "MEM",
-   "score": 45
+   "score": 55
   },
   "away": {
    "id": "9",
    "abbr": "GS",
-   "score": 30
+   "score": 47
   }
  },
  {
@@ -4689,18 +4689,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "status": "STATUS_HALFTIME",
   "neutral": false,
   "venue": "Fiserv Forum",
   "home": {
    "id": "15",
    "abbr": "MIL",
-   "score": 34
+   "score": 58
   },
   "away": {
    "id": "22",
    "abbr": "POR",
-   "score": 38
+   "score": 60
   }
  },
  {
@@ -4710,18 +4710,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "status": "STATUS_HALFTIME",
   "neutral": false,
   "venue": "Target Center",
   "home": {
    "id": "16",
    "abbr": "MIN",
-   "score": 43
+   "score": 50
   },
   "away": {
    "id": "18",
    "abbr": "NY",
-   "score": 52
+   "score": 65
   }
  },
  {
@@ -4731,18 +4731,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "status": "STATUS_HALFTIME",
   "neutral": false,
   "venue": "Frost Bank Center",
   "home": {
    "id": "24",
    "abbr": "SA",
-   "score": 49
+   "score": 57
   },
   "away": {
    "id": "12",
    "abbr": "LAC",
-   "score": 40
+   "score": 54
   }
  },
  {
@@ -4941,6 +4941,12 @@
    "id": "10",
    "abbr": "HOU",
    "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "DEN -1.5",
+   "spread": -1.5,
+   "over_under": 223.5
   }
  },
  {
