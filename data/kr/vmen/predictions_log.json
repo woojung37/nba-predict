@@ -790,7 +790,7 @@
   "date": "2026-11-20T10:00:00+00:00",
   "home": "현대캐피탈",
   "away": "한국전력",
-  "predicted_at": "2026-11-19T21:03:40+00:00",
+  "predicted_at": "2026-11-20T01:53:57+00:00",
   "prediction": {
    "home_win_prob": 0.66,
    "scores": {
@@ -813,6 +813,35 @@
    "away_minus_1_5": 0.191,
    "full_five_sets": 0.351,
    "edge": 0.094
+  }
+ },
+ "213288": {
+  "date": "2026-11-21T05:00:00+00:00",
+  "home": "삼성화재",
+  "away": "OK저축은행",
+  "predicted_at": "2026-11-20T01:53:57+00:00",
+  "prediction": {
+   "home_win_prob": 0.693,
+   "scores": {
+    "3-0": 0.226,
+    "0-3": 0.06,
+    "3-1": 0.265,
+    "1-3": 0.109,
+    "3-2": 0.203,
+    "2-3": 0.138
+   },
+   "set_win_prob": 0.609,
+   "expected_sets": 4.05,
+   "total": 174.0,
+   "total_range80": [
+    131.4,
+    216.7
+   ],
+   "total_sigma": 33.26,
+   "home_minus_1_5": 0.49,
+   "away_minus_1_5": 0.169,
+   "full_five_sets": 0.34,
+   "edge": 0.112
   }
  }
 }
