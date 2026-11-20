@@ -793,13 +793,37 @@
    "away_minus_1_5": 0.153,
    "full_five_sets": 0.331,
    "edge": 0.099
+  },
+  "result": {
+   "home_score": 3,
+   "away_score": 1,
+   "home_margin": 2,
+   "total": 184,
+   "sets": [
+    [
+     25,
+     23
+    ],
+    [
+     21,
+     25
+    ],
+    [
+     25,
+     20
+    ],
+    [
+     25,
+     20
+    ]
+   ]
   }
  },
  "213414": {
   "date": "2026-11-21T07:00:00+00:00",
   "home": "SOOP SOOPers W",
   "away": "정관장",
-  "predicted_at": "2026-11-20T11:23:31+00:00",
+  "predicted_at": "2026-11-20T14:22:16+00:00",
   "prediction": {
    "home_win_prob": 0.454,
    "scores": {

@@ -813,13 +813,37 @@
    "away_minus_1_5": 0.191,
    "full_five_sets": 0.351,
    "edge": 0.094
+  },
+  "result": {
+   "home_score": 1,
+   "away_score": 3,
+   "home_margin": -2,
+   "total": 188,
+   "sets": [
+    [
+     20,
+     25
+    ],
+    [
+     25,
+     21
+    ],
+    [
+     24,
+     26
+    ],
+    [
+     22,
+     25
+    ]
+   ]
   }
  },
  "213288": {
   "date": "2026-11-21T05:00:00+00:00",
   "home": "삼성화재",
   "away": "OK저축은행",
-  "predicted_at": "2026-11-20T11:23:31+00:00",
+  "predicted_at": "2026-11-20T14:22:16+00:00",
   "prediction": {
    "home_win_prob": 0.693,
    "scores": {

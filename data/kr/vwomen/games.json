@@ -9718,12 +9718,12 @@
   "id": "213413",
   "date": "2026-11-20T10:00:00+00:00",
   "season": 2026,
-  "status": "S3",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 1178,
    "name": "Expressway Co W",
-   "score": 1
+   "score": 3
   },
   "away": {
    "id": 1182,
@@ -9740,8 +9740,12 @@
     25
    ],
    [
-    8,
-    6
+    25,
+    20
+   ],
+   [
+    25,
+    20
    ]
   ]
  },

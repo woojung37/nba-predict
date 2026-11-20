@@ -9640,8 +9640,8 @@
   "id": "213287",
   "date": "2026-11-20T10:00:00+00:00",
   "season": 2026,
-  "status": "S3",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 1170,
    "name": "Hyundai Skywalkers",
@@ -9650,7 +9650,7 @@
   "away": {
    "id": 1173,
    "name": "Kepco",
-   "score": 1
+   "score": 3
   },
   "sets": [
    [
@@ -9662,8 +9662,12 @@
     21
    ],
    [
-    13,
-    14
+    24,
+    26
+   ],
+   [
+    22,
+    25
    ]
   ]
  },
