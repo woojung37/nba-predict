@@ -66,8 +66,8 @@
      "status": "Day-To-Day",
      "injury": "Left Calf Not Specified",
      "return_date": "2026-11-21",
-     "updated": "2026-11-20T01:48Z",
-     "comment": "Grant went to the locker room during the second quarter of Thursday's game against Golden State due to an undisclosed injury, Drew Hill of The Daily Memphian reports."
+     "updated": "2026-11-20T02:08Z",
+     "comment": "Grant won't return to Thursday's game against the Warriors due to a left calf injury. He'll finish with three points (1-2 FG, 1-1 3Pt) across five minutes."
     },
     {
      "team_id": "29",
@@ -2039,7 +2039,7 @@
   "venue": "State Farm Arena",
   "date_kst": "2026-11-21T09:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "ATL -5.5",
    "spread": -5.5,
    "over_under": 218.5
@@ -2664,7 +2664,7 @@
     "over_under": 218.5,
     "home_cover_prob": 0.497,
     "over_prob": 0.602,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -2677,7 +2677,7 @@
   "venue": "Barclays Center",
   "date_kst": "2026-11-21T09:30:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "ORL -5.5",
    "spread": 5.5,
    "over_under": 222.5
@@ -3204,7 +3204,7 @@
     "over_under": 222.5,
     "home_cover_prob": 0.522,
     "over_prob": 0.639,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -3217,7 +3217,7 @@
   "venue": "Rocket Arena",
   "date_kst": "2026-11-21T09:30:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "CLE -7.5",
    "spread": -7.5,
    "over_under": 234.5
@@ -3830,7 +3830,7 @@
     "over_under": 234.5,
     "home_cover_prob": 0.416,
     "over_prob": 0.527,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -3843,7 +3843,7 @@
   "venue": "Little Caesars Arena",
   "date_kst": "2026-11-21T09:30:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "DET -8.5",
    "spread": -8.5,
    "over_under": 215.5
@@ -4474,7 +4474,7 @@
     "over_under": 215.5,
     "home_cover_prob": 0.413,
     "over_prob": 0.639,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -4487,7 +4487,7 @@
   "venue": "United Center",
   "date_kst": "2026-11-21T10:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "CHI -3.5",
    "spread": -3.5,
    "over_under": 240.5
@@ -5057,7 +5057,7 @@
     "over_under": 240.5,
     "home_cover_prob": 0.509,
     "over_prob": 0.637,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -5069,6 +5069,12 @@
   "neutral": false,
   "venue": "Paycom Center",
   "date_kst": "2026-11-21T10:00:00+09:00",
+  "odds": {
+   "provider": "DraftKings",
+   "details": "OKC -11.5",
+   "spread": -11.5,
+   "over_under": 228.5
+  },
   "home": {
    "id": "25",
    "abbr": "OKC",
@@ -5671,6 +5677,13 @@
      "offense": 0.8,
      "defense": 6.4
     }
+   },
+   "vs_line": {
+    "spread": -11.5,
+    "over_under": 228.5,
+    "home_cover_prob": 0.634,
+    "over_prob": 0.609,
+    "provider": "DraftKings"
    }
   }
  },
@@ -5682,6 +5695,12 @@
   "neutral": false,
   "venue": "Delta Center",
   "date_kst": "2026-11-21T11:30:00+09:00",
+  "odds": {
+   "provider": "DraftKings",
+   "details": "PHX -4.5",
+   "spread": 4.5,
+   "over_under": 226.5
+  },
   "home": {
    "id": "26",
    "abbr": "UTAH",
@@ -6193,6 +6212,13 @@
      "offense": -0.6,
      "defense": -0.2
     }
+   },
+   "vs_line": {
+    "spread": 4.5,
+    "over_under": 226.5,
+    "home_cover_prob": 0.582,
+    "over_prob": 0.667,
+    "provider": "DraftKings"
    }
   }
  },
@@ -6205,7 +6231,7 @@
   "venue": "Ball Arena",
   "date_kst": "2026-11-21T12:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "DEN -1.5",
    "spread": -1.5,
    "over_under": 223.5
@@ -6733,7 +6759,7 @@
     "over_under": 223.5,
     "home_cover_prob": 0.459,
     "over_prob": 0.584,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -6746,7 +6772,7 @@
   "venue": "crypto.com Arena",
   "date_kst": "2026-11-21T12:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "LAL -14.5",
    "spread": -14.5,
    "over_under": 230.5
@@ -7293,7 +7319,7 @@
     "over_under": 230.5,
     "home_cover_prob": 0.42,
     "over_prob": 0.588,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -9238,8 +9264,8 @@
      "status": "Day-To-Day",
      "injury": "Left Calf Not Specified",
      "return_date": "2026-11-21",
-     "updated": "2026-11-20T01:48Z",
-     "comment": "Grant went to the locker room during the second quarter of Thursday's game against Golden State due to an undisclosed injury, Drew Hill of The Daily Memphian reports."
+     "updated": "2026-11-20T02:08Z",
+     "comment": "Grant won't return to Thursday's game against the Warriors due to a left calf injury. He'll finish with three points (1-2 FG, 1-1 3Pt) across five minutes."
     },
     {
      "team_id": "29",

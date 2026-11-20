@@ -4668,18 +4668,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_HALFTIME",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "FedExForum",
   "home": {
    "id": "29",
    "abbr": "MEM",
-   "score": 55
+   "score": 102
   },
   "away": {
    "id": "9",
    "abbr": "GS",
-   "score": 47
+   "score": 79
   }
  },
  {
@@ -4689,18 +4689,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_HALFTIME",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Fiserv Forum",
   "home": {
    "id": "15",
    "abbr": "MIL",
-   "score": 58
+   "score": 94
   },
   "away": {
    "id": "22",
    "abbr": "POR",
-   "score": 60
+   "score": 96
   }
  },
  {
@@ -4710,18 +4710,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_HALFTIME",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Target Center",
   "home": {
    "id": "16",
    "abbr": "MIN",
-   "score": 50
+   "score": 88
   },
   "away": {
    "id": "18",
    "abbr": "NY",
-   "score": 65
+   "score": 97
   }
  },
  {
@@ -4731,18 +4731,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_HALFTIME",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Frost Bank Center",
   "home": {
    "id": "24",
    "abbr": "SA",
-   "score": 57
+   "score": 98
   },
   "away": {
    "id": "12",
    "abbr": "LAC",
-   "score": 54
+   "score": 95
   }
  },
  {
@@ -4766,7 +4766,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "ATL -5.5",
    "spread": -5.5,
    "over_under": 218.5
@@ -4793,7 +4793,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "ORL -5.5",
    "spread": 5.5,
    "over_under": 222.5
@@ -4820,7 +4820,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "CLE -7.5",
    "spread": -7.5,
    "over_under": 234.5
@@ -4847,7 +4847,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "DET -8.5",
    "spread": -8.5,
    "over_under": 215.5
@@ -4874,7 +4874,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "CHI -3.5",
    "spread": -3.5,
    "over_under": 240.5
@@ -4899,6 +4899,12 @@
    "id": "3",
    "abbr": "NO",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "OKC -11.5",
+   "spread": -11.5,
+   "over_under": 228.5
   }
  },
  {
@@ -4920,6 +4926,12 @@
    "id": "21",
    "abbr": "PHX",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "PHX -4.5",
+   "spread": 4.5,
+   "over_under": 226.5
   }
  },
  {
@@ -4943,7 +4955,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "DEN -1.5",
    "spread": -1.5,
    "over_under": 223.5
@@ -4970,7 +4982,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "LAL -14.5",
    "spread": -14.5,
    "over_under": 230.5
