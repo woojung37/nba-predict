@@ -4771,9 +4771,9 @@
   "date": "2026-11-21T00:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Barclays Center",
   "home": {
@@ -4784,7 +4784,7 @@
   "away": {
    "id": "19",
    "abbr": "ORL",
-   "score": 111
+   "score": 113
   }
  },
  {
@@ -4813,20 +4813,20 @@
   "date": "2026-11-21T00:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Little Caesars Arena",
   "home": {
    "id": "8",
    "abbr": "DET",
-   "score": 99
+   "score": 102
   },
   "away": {
    "id": "28",
    "abbr": "TOR",
-   "score": 101
+   "score": 105
   }
  },
  {
@@ -4834,20 +4834,20 @@
   "date": "2026-11-21T01:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "United Center",
   "home": {
    "id": "4",
    "abbr": "CHI",
-   "score": 87
+   "score": 94
   },
   "away": {
    "id": "27",
    "abbr": "WSH",
-   "score": 93
+   "score": 98
   }
  },
  {
@@ -4855,20 +4855,20 @@
   "date": "2026-11-21T01:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Paycom Center",
   "home": {
    "id": "25",
    "abbr": "OKC",
-   "score": 106
+   "score": 126
   },
   "away": {
    "id": "3",
    "abbr": "NO",
-   "score": 102
+   "score": 120
   }
  },
  {
@@ -4876,20 +4876,20 @@
   "date": "2026-11-21T02:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Delta Center",
   "home": {
    "id": "26",
    "abbr": "UTAH",
-   "score": 16
+   "score": 101
   },
   "away": {
    "id": "21",
    "abbr": "PHX",
-   "score": 19
+   "score": 111
   }
  },
  {
@@ -4897,26 +4897,20 @@
   "date": "2026-11-21T03:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
-  "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Ball Arena",
   "home": {
    "id": "7",
    "abbr": "DEN",
-   "score": null
+   "score": 133
   },
   "away": {
    "id": "10",
    "abbr": "HOU",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "HOU -1.5",
-   "spread": 1.5,
-   "over_under": 227.5
+   "score": 124
   }
  },
  {
@@ -4924,26 +4918,20 @@
   "date": "2026-11-21T03:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
-  "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "crypto.com Arena",
   "home": {
    "id": "13",
    "abbr": "LAL",
-   "score": null
+   "score": 106
   },
   "away": {
    "id": "23",
    "abbr": "SAC",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "LAL -14.5",
-   "spread": -14.5,
-   "over_under": 229.5
+   "score": 104
   }
  },
  {
@@ -4970,7 +4958,7 @@
    "provider": "DraftKings",
    "details": "PHI -11.5",
    "spread": -11.5,
-   "over_under": 228.5
+   "over_under": 229.5
   }
  },
  {
@@ -4997,7 +4985,7 @@
    "provider": "DraftKings",
    "details": "NY -5.5",
    "spread": -5.5,
-   "over_under": 218.5
+   "over_under": 217.5
   }
  },
  {
@@ -5078,7 +5066,7 @@
    "provider": "DraftKings",
    "details": "SA -16.5",
    "spread": -16.5,
-   "over_under": 226.5
+   "over_under": 227.5
   }
  },
  {
@@ -5100,6 +5088,12 @@
    "id": "2",
    "abbr": "BOS",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "BOS -12.5",
+   "spread": 12.5,
+   "over_under": 217.5
   }
  },
  {
