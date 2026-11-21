@@ -846,13 +846,41 @@
    "away_minus_1_5": 0.351,
    "full_five_sets": 0.373,
    "edge": -0.022
+  },
+  "result": {
+   "home_score": 2,
+   "away_score": 3,
+   "home_margin": -1,
+   "total": 206,
+   "sets": [
+    [
+     23,
+     25
+    ],
+    [
+     25,
+     23
+    ],
+    [
+     25,
+     18
+    ],
+    [
+     16,
+     25
+    ],
+    [
+     11,
+     15
+    ]
+   ]
   }
  },
  "213415": {
   "date": "2026-11-22T05:00:00+00:00",
   "home": "현대건설",
   "away": "흥국생명",
-  "predicted_at": "2026-11-21T06:03:21+00:00",
+  "predicted_at": "2026-11-21T10:13:34+00:00",
   "prediction": {
    "home_win_prob": 0.536,
    "scores": {

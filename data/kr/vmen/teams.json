@@ -20,6 +20,16 @@
   "rating": 0.062
  },
  {
+  "id": 1175,
+  "name": "Samsung Blue Fangs",
+  "ko": "삼성화재",
+  "wins": 3,
+  "losses": 2,
+  "points_for": 470,
+  "points_against": 432,
+  "rating": 0.124
+ },
+ {
   "id": 1176,
   "name": "Woori",
   "ko": "우리카드",
@@ -30,26 +40,6 @@
   "rating": -0.021
  },
  {
-  "id": 1175,
-  "name": "Samsung Blue Fangs",
-  "ko": "삼성화재",
-  "wins": 2,
-  "losses": 2,
-  "points_for": 370,
-  "points_against": 354,
-  "rating": 0.082
- },
- {
-  "id": 2100,
-  "name": "Busan OK",
-  "ko": "OK저축은행",
-  "wins": 1,
-  "losses": 3,
-  "points_for": 373,
-  "points_against": 392,
-  "rating": -0.029
- },
- {
   "id": 1171,
   "name": "KAL Jumbos",
   "ko": "대한항공",
@@ -58,6 +48,16 @@
   "points_for": 381,
   "points_against": 391,
   "rating": -0.041
+ },
+ {
+  "id": 2100,
+  "name": "Busan OK",
+  "ko": "OK저축은행",
+  "wins": 1,
+  "losses": 4,
+  "points_for": 451,
+  "points_against": 492,
+  "rating": -0.07
  },
  {
   "id": 1172,

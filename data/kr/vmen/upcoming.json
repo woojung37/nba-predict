@@ -1,43 +1,5 @@
 [
  {
-  "id": "213288",
-  "date": "2026-11-21T05:00:00+00:00",
-  "status": "S2",
-  "home": {
-   "id": 1175,
-   "name": "Samsung Blue Fangs",
-   "ko": "삼성화재"
-  },
-  "away": {
-   "id": 2100,
-   "name": "Busan OK",
-   "ko": "OK저축은행"
-  },
-  "prediction": {
-   "home_win_prob": 0.693,
-   "scores": {
-    "3-0": 0.226,
-    "0-3": 0.06,
-    "3-1": 0.265,
-    "1-3": 0.109,
-    "3-2": 0.203,
-    "2-3": 0.138
-   },
-   "set_win_prob": 0.609,
-   "expected_sets": 4.05,
-   "total": 174.0,
-   "total_range80": [
-    131.4,
-    216.7
-   ],
-   "total_sigma": 33.26,
-   "home_minus_1_5": 0.49,
-   "away_minus_1_5": 0.169,
-   "full_five_sets": 0.34,
-   "edge": 0.112
-  }
- },
- {
   "id": "213289",
   "date": "2026-11-22T05:00:00+00:00",
   "status": "NS",

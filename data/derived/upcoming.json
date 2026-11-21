@@ -8,7 +8,7 @@
   "venue": "Xfinity Mobile Arena",
   "date_kst": "2026-11-22T03:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "PHI -11.5",
    "spread": -11.5,
    "over_under": 229.5
@@ -578,7 +578,7 @@
     "over_under": 229.5,
     "home_cover_prob": 0.413,
     "over_prob": 0.524,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },
@@ -591,7 +591,7 @@
   "venue": "Madison Square Garden",
   "date_kst": "2026-11-22T09:30:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "NY -5.5",
    "spread": -5.5,
    "over_under": 217.5
@@ -1120,7 +1120,7 @@
     "over_under": 217.5,
     "home_cover_prob": 0.482,
     "over_prob": 0.521,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },
@@ -1133,10 +1133,10 @@
   "venue": "American Airlines Center",
   "date_kst": "2026-11-22T10:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "DAL -5.5",
    "spread": -5.5,
-   "over_under": 229.5
+   "over_under": 228.5
   },
   "home": {
    "id": "6",
@@ -1718,10 +1718,10 @@
    },
    "vs_line": {
     "spread": -5.5,
-    "over_under": 229.5,
+    "over_under": 228.5,
     "home_cover_prob": 0.422,
-    "over_prob": 0.608,
-    "provider": "DraftKings"
+    "over_prob": 0.628,
+    "provider": "Draft Kings"
    }
   }
  },
@@ -1734,10 +1734,10 @@
   "venue": "Target Center",
   "date_kst": "2026-11-22T10:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "MIN -5.5",
    "spread": -5.5,
-   "over_under": 227.5
+   "over_under": 226.5
   },
   "home": {
    "id": "16",
@@ -1987,6 +1987,18 @@
     {
      "team_id": "29",
      "team": "Memphis Grizzlies",
+     "athlete_id": "2991070",
+     "name": "Jerami Grant",
+     "position": "F",
+     "status": "Out",
+     "injury": "Left Calf Not Specified",
+     "return_date": "2026-11-23",
+     "updated": "2026-11-21T08:08Z",
+     "comment": "Grant (calf) is out for Saturday's game against the Timberwolves."
+    },
+    {
+     "team_id": "29",
+     "team": "Memphis Grizzlies",
      "athlete_id": "4781746",
      "name": "Javon Small",
      "position": "G",
@@ -2019,18 +2031,6 @@
      "return_date": "2026-11-21",
      "updated": "2026-11-20T23:11Z",
      "comment": "Jerome (hip) is probable for Saturday's game in Minnesota."
-    },
-    {
-     "team_id": "29",
-     "team": "Memphis Grizzlies",
-     "athlete_id": "2991070",
-     "name": "Jerami Grant",
-     "position": "F",
-     "status": "Day-To-Day",
-     "injury": "Left Calf Not Specified",
-     "return_date": "2026-11-21",
-     "updated": "2026-11-20T02:08Z",
-     "comment": "Grant won't return to Thursday's game against the Warriors due to a left calf injury. He'll finish with three points (1-2 FG, 1-1 3Pt) across five minutes."
     },
     {
      "team_id": "29",
@@ -2277,18 +2277,18 @@
   },
   "prediction": {
    "home_points": 119.8,
-   "away_points": 109.0,
-   "home_margin": 10.8,
-   "home_win_prob": 0.777,
-   "away_win_prob": 0.223,
+   "away_points": 108.6,
+   "home_margin": 11.1,
+   "home_win_prob": 0.784,
+   "away_win_prob": 0.216,
    "margin_range80": [
-    -7.3,
-    28.9
+    -7.0,
+    29.3
    ],
-   "total": 228.7,
+   "total": 228.4,
    "total_range80": [
-    205.0,
-    252.4
+    204.7,
+    252.1
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -2296,7 +2296,7 @@
     "team_strength": 3.0,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 5.8
+    "injuries": 6.1
    },
    "back_to_back": {
     "home": false,
@@ -2324,16 +2324,16 @@
       "impact": -0.9
      },
      {
+      "athlete_id": "2991070",
+      "name": "Jerami Grant",
+      "status": "Out",
+      "impact": -0.5
+     },
+     {
       "athlete_id": "5105550",
       "name": "GG Jackson",
       "status": "Out",
       "impact": -0.3
-     },
-     {
-      "athlete_id": "2991070",
-      "name": "Jerami Grant",
-      "status": "Day-To-Day",
-      "impact": -0.2
      }
     ]
    },
@@ -2349,10 +2349,10 @@
    },
    "vs_line": {
     "spread": -5.5,
-    "over_under": 227.5,
-    "home_cover_prob": 0.646,
-    "over_prob": 0.527,
-    "provider": "DraftKings"
+    "over_under": 226.5,
+    "home_cover_prob": 0.655,
+    "over_prob": 0.541,
+    "provider": "Draft Kings"
    }
   }
  },
@@ -2365,9 +2365,9 @@
   "venue": "Frost Bank Center",
   "date_kst": "2026-11-22T10:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
-   "details": "SA -16.5",
-   "spread": -16.5,
+   "provider": "Draft Kings",
+   "details": "SA -17.5",
+   "spread": -17.5,
    "over_under": 227.5
   },
   "home": {
@@ -2932,11 +2932,11 @@
     }
    },
    "vs_line": {
-    "spread": -16.5,
+    "spread": -17.5,
     "over_under": 227.5,
-    "home_cover_prob": 0.498,
+    "home_cover_prob": 0.47,
     "over_prob": 0.527,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },
@@ -2949,7 +2949,7 @@
   "venue": "Golden 1 Center",
   "date_kst": "2026-11-22T12:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "BOS -12.5",
    "spread": 12.5,
    "over_under": 217.5
@@ -3460,7 +3460,7 @@
     "over_under": 217.5,
     "home_cover_prob": 0.44,
     "over_prob": 0.529,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },

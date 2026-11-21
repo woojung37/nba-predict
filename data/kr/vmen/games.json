@@ -9675,12 +9675,12 @@
   "id": "213288",
   "date": "2026-11-21T05:00:00+00:00",
   "season": 2026,
-  "status": "S2",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 1175,
    "name": "Samsung Blue Fangs",
-   "score": 0
+   "score": 3
   },
   "away": {
    "id": 2100,
@@ -9693,8 +9693,16 @@
     27
    ],
    [
-    19,
-    16
+    25,
+    20
+   ],
+   [
+    25,
+    18
+   ],
+   [
+    25,
+    13
    ]
   ]
  },
