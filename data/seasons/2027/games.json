@@ -4939,26 +4939,20 @@
   "date": "2026-11-21T18:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
-  "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Xfinity Mobile Arena",
   "home": {
    "id": "20",
    "abbr": "PHI",
-   "score": null
+   "score": 132
   },
   "away": {
    "id": "15",
    "abbr": "MIL",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "PHI -11.5",
-   "spread": -11.5,
-   "over_under": 229.5
+   "score": 129
   }
  },
  {
@@ -4983,9 +4977,9 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "NY -5.5",
-   "spread": -5.5,
-   "over_under": 216.5
+   "details": "NY -3.5",
+   "spread": -3.5,
+   "over_under": 215.5
   }
  },
  {
@@ -5010,8 +5004,8 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "DAL -5.5",
-   "spread": -5.5,
+   "details": "DAL -4.5",
+   "spread": -4.5,
    "over_under": 230.5
   }
  },
@@ -5039,7 +5033,7 @@
    "provider": "DraftKings",
    "details": "MIN -6.5",
    "spread": -6.5,
-   "over_under": 227.5
+   "over_under": 228.5
   }
  },
  {
@@ -5064,8 +5058,8 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "SA -17.5",
-   "spread": -17.5,
+   "details": "SA -18.5",
+   "spread": -18.5,
    "over_under": 228.5
   }
  },
@@ -5091,8 +5085,8 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "BOS -13.5",
-   "spread": 13.5,
+   "details": "BOS -12.5",
+   "spread": 12.5,
    "over_under": 216.5
   }
  },
