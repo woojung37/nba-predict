@@ -3988,18 +3988,6 @@
     {
      "team_id": "10",
      "team": "Houston Rockets",
-     "athlete_id": "2991235",
-     "name": "Steven Adams",
-     "position": "C",
-     "status": "Day-To-Day",
-     "injury": "Right Quadriceps Bruise",
-     "return_date": "2026-11-20",
-     "updated": "2026-11-19T23:22Z",
-     "comment": "Adams (quadriceps) is listed as questionable for Friday's game against Denver."
-    },
-    {
-     "team_id": "10",
-     "team": "Houston Rockets",
      "athlete_id": "3102529",
      "name": "Clint Capela",
      "position": "C",
@@ -4008,18 +3996,6 @@
      "return_date": "2026-11-23",
      "updated": "2026-11-19T23:19Z",
      "comment": "Capela (ankle) is out for Friday's game against Denver."
-    },
-    {
-     "team_id": "10",
-     "team": "Houston Rockets",
-     "athlete_id": "4871144",
-     "name": "Alperen Sengun",
-     "position": "C",
-     "status": "Day-To-Day",
-     "injury": null,
-     "return_date": null,
-     "updated": "2026-11-19T23:17Z",
-     "comment": "Sengun (eye) is questionable for Friday's game against the Nuggets."
     }
    ],
    "top_players": [
@@ -4042,7 +4018,7 @@
      "fg_pct": 54.5,
      "fg3_pct": 50.0,
      "ft_pct": 74.4,
-     "injury_status": "Day-To-Day"
+     "injury_status": null
     },
     {
      "athlete_id": "3202",
@@ -4230,18 +4206,18 @@
   },
   "prediction": {
    "home_points": 113.8,
-   "away_points": 113.7,
-   "home_margin": 0.0,
-   "home_win_prob": 0.501,
-   "away_win_prob": 0.499,
+   "away_points": 114.9,
+   "home_margin": -1.1,
+   "home_win_prob": 0.468,
+   "away_win_prob": 0.532,
    "margin_range80": [
-    -18.1,
-    18.2
+    -19.3,
+    17.0
    ],
-   "total": 227.5,
+   "total": 228.7,
    "total_range80": [
-    203.8,
-    251.2
+    205.0,
+    252.4
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -4249,7 +4225,7 @@
     "team_strength": -3.1,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 1.2
+    "injuries": -0.0
    },
    "back_to_back": {
     "home": false,
@@ -4257,20 +4233,7 @@
    },
    "injury_impact": {
     "home": [],
-    "away": [
-     {
-      "athlete_id": "4871144",
-      "name": "Alperen Sengun",
-      "status": "Day-To-Day",
-      "impact": -1.0
-     },
-     {
-      "athlete_id": "2991235",
-      "name": "Steven Adams",
-      "status": "Day-To-Day",
-      "impact": -0.1
-     }
-    ]
+    "away": []
    },
    "ratings": {
     "home": {
@@ -4285,8 +4248,8 @@
    "vs_line": {
     "spread": 1.5,
     "over_under": 227.5,
-    "home_cover_prob": 0.543,
-    "over_prob": 0.5,
+    "home_cover_prob": 0.511,
+    "over_prob": 0.525,
     "provider": "DraftKings"
    }
   }
@@ -7216,6 +7179,12 @@
   "neutral": false,
   "venue": "Frost Bank Center",
   "date_kst": "2026-11-22T10:00:00+09:00",
+  "odds": {
+   "provider": "DraftKings",
+   "details": "SA -16.5",
+   "spread": -16.5,
+   "over_under": 226.5
+  },
   "home": {
    "id": "24",
    "abbr": "SA",
@@ -7776,6 +7745,13 @@
      "offense": 0.8,
      "defense": 6.4
     }
+   },
+   "vs_line": {
+    "spread": -16.5,
+    "over_under": 226.5,
+    "home_cover_prob": 0.425,
+    "over_prob": 0.616,
+    "provider": "DraftKings"
    }
   }
  },

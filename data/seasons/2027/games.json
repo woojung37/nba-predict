@@ -4758,12 +4758,12 @@
   "home": {
    "id": "1",
    "abbr": "ATL",
-   "score": 86
+   "score": 104
   },
   "away": {
    "id": "30",
    "abbr": "CHA",
-   "score": 76
+   "score": 92
   }
  },
  {
@@ -4779,12 +4779,12 @@
   "home": {
    "id": "17",
    "abbr": "BKN",
-   "score": 59
+   "score": 63
   },
   "away": {
    "id": "19",
    "abbr": "ORL",
-   "score": 58
+   "score": 72
   }
  },
  {
@@ -4794,18 +4794,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_HALFTIME",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Rocket Arena",
   "home": {
    "id": "5",
    "abbr": "CLE",
-   "score": 62
+   "score": 85
   },
   "away": {
    "id": "11",
    "abbr": "IND",
-   "score": 61
+   "score": 75
   }
  },
  {
@@ -4815,18 +4815,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_HALFTIME",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Little Caesars Arena",
   "home": {
    "id": "8",
    "abbr": "DET",
-   "score": 48
+   "score": 55
   },
   "away": {
    "id": "28",
    "abbr": "TOR",
-   "score": 54
+   "score": 67
   }
  },
  {
@@ -4836,18 +4836,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "status": "STATUS_HALFTIME",
   "neutral": false,
   "venue": "United Center",
   "home": {
    "id": "4",
    "abbr": "CHI",
-   "score": 36
+   "score": 60
   },
   "away": {
    "id": "27",
    "abbr": "WSH",
-   "score": 25
+   "score": 52
   }
  },
  {
@@ -4857,18 +4857,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "status": "STATUS_HALFTIME",
   "neutral": false,
   "venue": "Paycom Center",
   "home": {
    "id": "25",
    "abbr": "OKC",
-   "score": 38
+   "score": 56
   },
   "away": {
    "id": "3",
    "abbr": "NO",
-   "score": 41
+   "score": 64
   }
  },
  {
@@ -5079,6 +5079,12 @@
    "id": "3",
    "abbr": "NO",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "SA -16.5",
+   "spread": -16.5,
+   "over_under": 226.5
   }
  },
  {
