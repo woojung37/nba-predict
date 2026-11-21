@@ -98,6 +98,18 @@
  {
   "team_id": "17",
   "team": "Brooklyn Nets",
+  "athlete_id": "5279130",
+  "name": "Nolan Traore",
+  "position": "G",
+  "status": "Out",
+  "injury": "Right Hamstring",
+  "return_date": "2026-11-20",
+  "updated": "2026-11-21T02:25Z",
+  "comment": "Traore (hamstring) won't return to Friday's game against Orlando, Meghan Triplett of YES Network reports. He finished with four points (2-6 FG, 0-2 3Pt) and two assists over 18 minutes."
+ },
+ {
+  "team_id": "17",
+  "team": "Brooklyn Nets",
   "athlete_id": "4702670",
   "name": "Grant Nelson",
   "position": "F",
@@ -106,18 +118,6 @@
   "return_date": "2026-11-23",
   "updated": "2026-11-19T21:18Z",
   "comment": "Nelson (ankle) has been ruled out for Friday's game against Orlando."
- },
- {
-  "team_id": "30",
-  "team": "Charlotte Hornets",
-  "athlete_id": "4433287",
-  "name": "Brandon Miller",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Right Ankle Not Specified",
-  "return_date": "2026-11-20",
-  "updated": "2026-11-21T00:35Z",
-  "comment": "Miller amassed 28 points (10-19 FG, 5-12 3Pt, 3-3 FT), two rebounds, four assists and one block in 32 minutes during Tuesday's 118-114 overtime loss to the Lakers."
  },
  {
   "team_id": "30",
@@ -1054,18 +1054,6 @@
   "return_date": "2026-11-21",
   "updated": "2026-11-20T21:21Z",
   "comment": "Achiuwa (lower leg) has been ruled out for Friday's game against the Lakers."
- },
- {
-  "team_id": "23",
-  "team": "Sacramento Kings",
-  "athlete_id": "4065732",
-  "name": "De'Andre Hunter",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Left Hip Soreness",
-  "return_date": "2026-11-20",
-  "updated": "2026-11-20T01:21Z",
-  "comment": "Hunter (hip) is listed as questionable for Friday's game against the Lakers."
  },
  {
   "team_id": "23",

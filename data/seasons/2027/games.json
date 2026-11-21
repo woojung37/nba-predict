@@ -4750,20 +4750,20 @@
   "date": "2026-11-21T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "State Farm Arena",
   "home": {
    "id": "1",
    "abbr": "ATL",
-   "score": 104
+   "score": 111
   },
   "away": {
    "id": "30",
    "abbr": "CHA",
-   "score": 92
+   "score": 97
   }
  },
  {
@@ -4779,12 +4779,12 @@
   "home": {
    "id": "17",
    "abbr": "BKN",
-   "score": 63
+   "score": 111
   },
   "away": {
    "id": "19",
    "abbr": "ORL",
-   "score": 72
+   "score": 111
   }
  },
  {
@@ -4792,20 +4792,20 @@
   "date": "2026-11-21T00:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Rocket Arena",
   "home": {
    "id": "5",
    "abbr": "CLE",
-   "score": 85
+   "score": 128
   },
   "away": {
    "id": "11",
    "abbr": "IND",
-   "score": 75
+   "score": 119
   }
  },
  {
@@ -4821,12 +4821,12 @@
   "home": {
    "id": "8",
    "abbr": "DET",
-   "score": 55
+   "score": 99
   },
   "away": {
    "id": "28",
    "abbr": "TOR",
-   "score": 67
+   "score": 101
   }
  },
  {
@@ -4836,18 +4836,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_HALFTIME",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "United Center",
   "home": {
    "id": "4",
    "abbr": "CHI",
-   "score": 60
+   "score": 87
   },
   "away": {
    "id": "27",
    "abbr": "WSH",
-   "score": 52
+   "score": 93
   }
  },
  {
@@ -4857,18 +4857,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_HALFTIME",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Paycom Center",
   "home": {
    "id": "25",
    "abbr": "OKC",
-   "score": 56
+   "score": 106
   },
   "away": {
    "id": "3",
    "abbr": "NO",
-   "score": 64
+   "score": 102
   }
  },
  {
@@ -4876,26 +4876,20 @@
   "date": "2026-11-21T02:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Delta Center",
   "home": {
    "id": "26",
    "abbr": "UTAH",
-   "score": null
+   "score": 16
   },
   "away": {
    "id": "21",
    "abbr": "PHX",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "PHX -4.5",
-   "spread": 4.5,
-   "over_under": 225.5
+   "score": 19
   }
  },
  {
