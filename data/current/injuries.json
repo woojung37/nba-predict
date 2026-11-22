@@ -182,6 +182,18 @@
  {
   "team_id": "4",
   "team": "Chicago Bulls",
+  "athlete_id": "4431687",
+  "name": "Patrick Williams",
+  "position": "F",
+  "status": "Day-To-Day",
+  "injury": "Left Thumb",
+  "return_date": "2026-11-22",
+  "updated": "2026-11-22T06:06Z",
+  "comment": "Williams is probable for Sunday's game against the Nuggets due to a left thumb sprain."
+ },
+ {
+  "team_id": "4",
+  "team": "Chicago Bulls",
   "athlete_id": "2595516",
   "name": "Norman Powell",
   "position": "G",
@@ -422,26 +434,14 @@
  {
   "team_id": "9",
   "team": "Golden State Warriors",
-  "athlete_id": "6589",
-  "name": "Draymond Green",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Not Specified Rest",
-  "return_date": "2026-11-22",
-  "updated": "2026-11-20T03:53Z",
-  "comment": "Green (elbow) is out for Thursday's game against the Grizzlies."
- },
- {
-  "team_id": "9",
-  "team": "Golden State Warriors",
   "athlete_id": "4397040",
   "name": "Brandon Williams",
   "position": "G",
   "status": "Out",
   "injury": "Left Hamstring Strain",
-  "return_date": "2026-11-22",
-  "updated": "2026-11-18T17:12Z",
-  "comment": "Williams (hamstring) has progressed to on-court activities and will be re-evaluated Saturday."
+  "return_date": "2026-11-25",
+  "updated": "2026-11-22T06:10Z",
+  "comment": "Williams (hamstring) is out for Sunday's game against the Celtics."
  },
  {
   "team_id": "9",
@@ -967,7 +967,7 @@
   "position": "F",
   "status": "Out",
   "injury": "Left Knee Not Specified",
-  "return_date": "2026-11-29",
+  "return_date": "2026-11-28",
   "updated": "2026-11-21T21:09Z",
   "comment": "Isaac (knee) is out for Sunday's game against the Wizards."
  },

@@ -34,10 +34,10 @@
   "name": "Woori",
   "ko": "우리카드",
   "wins": 3,
-  "losses": 2,
-  "points_for": 413,
-  "points_against": 402,
-  "rating": -0.021
+  "losses": 3,
+  "points_for": 513,
+  "points_against": 512,
+  "rating": -0.078
  },
  {
   "id": 1171,
@@ -50,6 +50,16 @@
   "rating": -0.041
  },
  {
+  "id": 1172,
+  "name": "KB Stars",
+  "ko": "KB손해보험",
+  "wins": 1,
+  "losses": 4,
+  "points_for": 438,
+  "points_against": 477,
+  "rating": -0.059
+ },
+ {
   "id": 2100,
   "name": "Busan OK",
   "ko": "OK저축은행",
@@ -58,15 +68,5 @@
   "points_for": 451,
   "points_against": 492,
   "rating": -0.07
- },
- {
-  "id": 1172,
-  "name": "KB Stars",
-  "ko": "KB손해보험",
-  "wins": 0,
-  "losses": 4,
-  "points_for": 328,
-  "points_against": 377,
-  "rating": -0.117
  }
 ]
