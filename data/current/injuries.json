@@ -8,8 +8,8 @@
   "status": "Out",
   "injury": "Back Strain",
   "return_date": "2026-11-22",
-  "updated": "2026-11-20T22:15Z",
-  "comment": "Flemings (back) is out for Friday's game against the Hornets, Brad Rowland of the Locked On Podcast Network reports."
+  "updated": "2026-11-21T22:16Z",
+  "comment": "Flemings (back) is questionable to play Sunday against the Pistons."
  },
  {
   "team_id": "1",
@@ -19,9 +19,9 @@
   "position": "C",
   "status": "Out",
   "injury": "Right Hip Inflammation",
-  "return_date": "2026-11-22",
-  "updated": "2026-11-19T22:07Z",
-  "comment": "Landale (hip) won't play in Friday's game against the Hornets, Brad Rowland of the Locked On Podcast Network reports."
+  "return_date": "2026-11-27",
+  "updated": "2026-11-21T22:12Z",
+  "comment": "Landale (hip) won't play Sunday against the Pistons."
  },
  {
   "team_id": "1",
@@ -182,6 +182,18 @@
  {
   "team_id": "4",
   "team": "Chicago Bulls",
+  "athlete_id": "2595516",
+  "name": "Norman Powell",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Right Hamstring",
+  "return_date": "2026-11-22",
+  "updated": "2026-11-22T00:11Z",
+  "comment": "Powell is questionable for Sunday's game against the Nuggets due to a right hamstring strain."
+ },
+ {
+  "team_id": "4",
+  "team": "Chicago Bulls",
   "athlete_id": "4397189",
   "name": "Jalen Smith",
   "position": "F",
@@ -257,11 +269,11 @@
   "athlete_id": "4278078",
   "name": "P.J. Washington",
   "position": "F",
-  "status": "Day-To-Day",
+  "status": "Out",
   "injury": "Illness",
-  "return_date": "2026-11-21",
-  "updated": "2026-11-21T19:22Z",
-  "comment": "Washington (illness/shoulder) has been downgraded from questionable to doubtful ahead of Saturday's game against the Clippers."
+  "return_date": "2026-11-22",
+  "updated": "2026-11-21T23:14Z",
+  "comment": "Washington (illness/shoulder) is listed as out for Saturday's game against the Clippers."
  },
  {
   "team_id": "6",
@@ -274,18 +286,6 @@
   "return_date": "2026-11-22",
   "updated": "2026-11-21T15:08Z",
   "comment": "Lawal (groin) is out for Saturday's game against the Clippers."
- },
- {
-  "team_id": "6",
-  "team": "Dallas Mavericks",
-  "athlete_id": "4896372",
-  "name": "Walter Clayton Jr.",
-  "position": "G",
-  "status": "Day-To-Day",
-  "injury": "Knee",
-  "return_date": "2026-11-21",
-  "updated": "2026-11-20T22:35Z",
-  "comment": "Clayton (knee) is questionable for Saturday's game against the Clippers."
  },
  {
   "team_id": "6",
@@ -338,26 +338,38 @@
  {
   "team_id": "8",
   "team": "Detroit Pistons",
-  "athlete_id": "5258459",
-  "name": "Ebuka Okorie",
-  "position": "G",
-  "status": "Day-To-Day",
-  "injury": "Left Oblique Strain",
-  "return_date": "2026-11-22",
-  "updated": "2026-11-21T14:53Z",
-  "comment": "Okorie (oblique) has been ruled out for Friday's game against Toronto."
- },
- {
-  "team_id": "8",
-  "team": "Detroit Pistons",
   "athlete_id": "4683771",
   "name": "Ronald Holland II",
   "position": "F",
   "status": "Out",
   "injury": "Left Knee Bruise",
   "return_date": "2026-11-22",
-  "updated": "2026-11-21T00:34Z",
-  "comment": "Holland (knee) is listed as out for Friday's game against Toronto."
+  "updated": "2026-11-21T23:05Z",
+  "comment": "Holland (knee) is listed as questionable for Sunday's game against Atlanta."
+ },
+ {
+  "team_id": "8",
+  "team": "Detroit Pistons",
+  "athlete_id": "5258459",
+  "name": "Ebuka Okorie",
+  "position": "G",
+  "status": "Out",
+  "injury": "Left Oblique Strain",
+  "return_date": "2026-11-24",
+  "updated": "2026-11-21T22:34Z",
+  "comment": "Okorie (oblique) is out for Sunday's game in Atlanta."
+ },
+ {
+  "team_id": "8",
+  "team": "Detroit Pistons",
+  "athlete_id": "4432166",
+  "name": "Cade Cunningham",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Right Knee Soreness",
+  "return_date": "2026-11-22",
+  "updated": "2026-11-21T22:23Z",
+  "comment": "Cunningham (knee) is probable to play Sunday in Atlanta."
  },
  {
   "team_id": "8",
@@ -497,11 +509,23 @@
   "athlete_id": "2530530",
   "name": "T.J. McConnell",
   "position": "G",
-  "status": "Day-To-Day",
+  "status": "Out",
   "injury": "Left Hamstring",
+  "return_date": "2026-11-23",
+  "updated": "2026-11-21T22:29Z",
+  "comment": "McConnell (hamstring) is listed as out for Sunday's game in New York."
+ },
+ {
+  "team_id": "11",
+  "team": "Indiana Pacers",
+  "athlete_id": "3149673",
+  "name": "Pascal Siakam",
+  "position": "F",
+  "status": "Day-To-Day",
+  "injury": "Left Hip Soreness",
   "return_date": "2026-11-22",
-  "updated": "2026-11-21T14:51Z",
-  "comment": "Rick Carlisle revealed during his postgame interview that McConnell exited Friday's 128-119 loss with a left hamstring issue, Tony East of Forbes.com reports."
+  "updated": "2026-11-21T22:19Z",
+  "comment": "Siakam (hip) is listed as questionable for Sunday's game against New York."
  },
  {
   "team_id": "11",
@@ -794,26 +818,26 @@
  {
   "team_id": "18",
   "team": "New York Knicks",
-  "athlete_id": "3934719",
-  "name": "OG Anunoby",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Calf",
-  "return_date": "2026-11-21",
-  "updated": "2026-11-21T16:09Z",
-  "comment": "Anunoby (calf) has been downgraded to doubtful for Saturday's game against the Trail Bllazers."
+  "athlete_id": "3136195",
+  "name": "Karl-Anthony Towns",
+  "position": "C",
+  "status": "Out",
+  "injury": "Illness",
+  "return_date": "2026-11-22",
+  "updated": "2026-11-21T22:51Z",
+  "comment": "Towns (illness) won't play in Saturday's game versus the Trail Blazers."
  },
  {
   "team_id": "18",
   "team": "New York Knicks",
-  "athlete_id": "3136195",
-  "name": "Karl-Anthony Towns",
-  "position": "C",
-  "status": "Day-To-Day",
-  "injury": "Illness",
-  "return_date": "2026-11-21",
-  "updated": "2026-11-21T16:05Z",
-  "comment": "Towns is questionable for Saturday's game against the Trail Blazers due to an illness."
+  "athlete_id": "3934719",
+  "name": "OG Anunoby",
+  "position": "F",
+  "status": "Out",
+  "injury": "Calf",
+  "return_date": "2026-11-22",
+  "updated": "2026-11-21T21:49Z",
+  "comment": "Anunoby (calf) has been ruled out for Saturday's game against the Trail Blazers."
  },
  {
   "team_id": "18",
@@ -830,14 +854,38 @@
  {
   "team_id": "25",
   "team": "Oklahoma City Thunder",
+  "athlete_id": "4278073",
+  "name": "Shai Gilgeous-Alexander",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Back Bruise",
+  "return_date": "2026-11-22",
+  "updated": "2026-11-21T22:45Z",
+  "comment": "Gilgeous-Alexander (back/neck) is listed as questionable for Sunday's game versus Miami."
+ },
+ {
+  "team_id": "25",
+  "team": "Oklahoma City Thunder",
   "athlete_id": "5159925",
   "name": "Nikola Topic",
   "position": "G",
-  "status": "Day-To-Day",
+  "status": "Out",
   "injury": "Left Hip Soreness",
-  "return_date": "2026-11-22",
-  "updated": "2026-11-21T14:54Z",
-  "comment": "Topic (hip) is out for Friday's game against New Orleans."
+  "return_date": "2026-11-23",
+  "updated": "2026-11-21T22:39Z",
+  "comment": "Topic (hip) is listed as out for Sunday's game versus the Heat."
+ },
+ {
+  "team_id": "25",
+  "team": "Oklahoma City Thunder",
+  "athlete_id": "4432823",
+  "name": "Jaylin Williams",
+  "position": "F",
+  "status": "Out",
+  "injury": "Back Spasms",
+  "return_date": "2026-11-23",
+  "updated": "2026-11-21T22:34Z",
+  "comment": "Williams (back) is listed as out for Sunday's game against Miami."
  },
  {
   "team_id": "25",
@@ -845,11 +893,11 @@
   "athlete_id": "2991350",
   "name": "Alex Caruso",
   "position": "G",
-  "status": "Day-To-Day",
+  "status": "Out",
   "injury": "Right Hip Soreness",
-  "return_date": "2026-11-22",
-  "updated": "2026-11-21T14:54Z",
-  "comment": "Caruso (hip) is listed as out for Friday's game against the Pelicans."
+  "return_date": "2026-11-23",
+  "updated": "2026-11-21T22:29Z",
+  "comment": "Caruso (hip) won't play Sunday against the Heat."
  },
  {
   "team_id": "25",
@@ -902,6 +950,18 @@
  {
   "team_id": "19",
   "team": "Orlando Magic",
+  "athlete_id": "4065654",
+  "name": "Jonathan Isaac",
+  "position": "F",
+  "status": "Out",
+  "injury": "Left Knee Not Specified",
+  "return_date": "2026-11-29",
+  "updated": "2026-11-21T21:09Z",
+  "comment": "Isaac (knee) is out for Sunday's game against the Wizards."
+ },
+ {
+  "team_id": "19",
+  "team": "Orlando Magic",
   "athlete_id": "5107251",
   "name": "Izaiyah Nelson",
   "position": "F",
@@ -914,24 +974,12 @@
  {
   "team_id": "19",
   "team": "Orlando Magic",
-  "athlete_id": "4065654",
-  "name": "Jonathan Isaac",
-  "position": "F",
-  "status": "Out",
-  "injury": "Left Knee Not Specified",
-  "return_date": "2026-11-22",
-  "updated": "2026-11-15T18:22Z",
-  "comment": "Isaac (knee) has been ruled out for Monday's game against the Celtics."
- },
- {
-  "team_id": "19",
-  "team": "Orlando Magic",
   "athlete_id": "5214637",
   "name": "Noah Penda",
   "position": "F",
   "status": "Out",
   "injury": "Right Hamstring Strain",
-  "return_date": "2026-11-22",
+  "return_date": "2026-11-29",
   "updated": "2026-11-14T17:33Z",
   "comment": "Penda (hamstring) is making progress but remains without a timetable to return to game action, Jason Beede of the Orlando Sentinel reports."
  },
@@ -1034,18 +1082,6 @@
  {
   "team_id": "22",
   "team": "Portland Trail Blazers",
-  "athlete_id": "4683021",
-  "name": "Deni Avdija",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Foot",
-  "return_date": "2026-11-21",
-  "updated": "2026-11-20T22:08Z",
-  "comment": "Avdija (foot) is listed as questionable for Saturday's game against the Knicks."
- },
- {
-  "team_id": "22",
-  "team": "Portland Trail Blazers",
   "athlete_id": "4578893",
   "name": "Vit Krejci",
   "position": "G",
@@ -1088,8 +1124,8 @@
   "status": "Day-To-Day",
   "injury": "Left Lower Leg Bruise",
   "return_date": "2026-11-21",
-  "updated": "2026-11-21T14:55Z",
-  "comment": "Achiuwa (lower leg) has been ruled out for Friday's game against the Lakers."
+  "updated": "2026-11-21T21:19Z",
+  "comment": "Achiuwa (lower leg) is questionable for Saturday's game against the Celtics."
  },
  {
   "team_id": "23",

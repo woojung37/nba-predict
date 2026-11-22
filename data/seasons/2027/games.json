@@ -4977,9 +4977,9 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "NY -3.5",
-   "spread": -3.5,
-   "over_under": 215.5
+   "details": "POR -1.5",
+   "spread": 1.5,
+   "over_under": 213.5
   }
  },
  {
@@ -5031,9 +5031,9 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "MIN -6.5",
-   "spread": -6.5,
-   "over_under": 228.5
+   "details": "MIN -5.5",
+   "spread": -5.5,
+   "over_under": 227.5
   }
  },
  {
@@ -5060,7 +5060,7 @@
    "provider": "DraftKings",
    "details": "SA -18.5",
    "spread": -18.5,
-   "over_under": 228.5
+   "over_under": 229.5
   }
  },
  {
@@ -5087,7 +5087,7 @@
    "provider": "DraftKings",
    "details": "BOS -12.5",
    "spread": 12.5,
-   "over_under": 216.5
+   "over_under": 215.5
   }
  },
  {
@@ -5109,6 +5109,12 @@
    "id": "8",
    "abbr": "DET",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "DET -2.5",
+   "spread": 2.5,
+   "over_under": 227.5
   }
  },
  {
@@ -5130,6 +5136,12 @@
    "id": "25",
    "abbr": "OKC",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "MIA -2.5",
+   "spread": -2.5,
+   "over_under": 231.5
   }
  },
  {
@@ -5151,6 +5163,12 @@
    "id": "19",
    "abbr": "ORL",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "ORL -5.5",
+   "spread": 5.5,
+   "over_under": 222.5
   }
  },
  {
@@ -5172,6 +5190,12 @@
    "id": "7",
    "abbr": "DEN",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "DEN -8.5",
+   "spread": 8.5,
+   "over_under": 237.5
   }
  },
  {
