@@ -2,7 +2,7 @@
  {
   "id": "213415",
   "date": "2026-11-22T05:00:00+00:00",
-  "status": "NS",
+  "status": "S3",
   "home": {
    "id": 1181,
    "name": "Hyundai E&C Hillstate W",
@@ -35,11 +35,6 @@
    "away_minus_1_5": 0.283,
    "full_five_sets": 0.374,
    "edge": 0.017
-  },
-  "data_games": {
-   "home": 5,
-   "away": 4
-  },
-  "low_confidence": true
+  }
  }
 ]
