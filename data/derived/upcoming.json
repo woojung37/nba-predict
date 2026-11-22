@@ -3,16 +3,10 @@
   "id": "401910024",
   "date": "2026-11-22T00:30Z",
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "neutral": false,
   "venue": "Madison Square Garden",
   "date_kst": "2026-11-22T09:30:00+09:00",
-  "odds": {
-   "provider": "DraftKings",
-   "details": "POR -1.5",
-   "spread": 1.5,
-   "over_under": 213.5
-  },
   "home": {
    "id": "18",
    "abbr": "NY",
@@ -477,67 +471,16 @@
     }
    ]
   },
-  "prediction": {
-   "home_points": 108.2,
-   "away_points": 107.9,
-   "home_margin": 0.3,
-   "home_win_prob": 0.508,
-   "away_win_prob": 0.492,
+  "pre_game_prediction": {
+   "home_points": 110.8,
+   "away_points": 107.0,
+   "home_margin": 3.9,
+   "home_win_prob": 0.608,
    "margin_range80": [
-    -17.8,
-    18.4
+    -14.2,
+    22.0
    ],
-   "total": 216.0,
-   "total_range80": [
-    192.3,
-    239.7
-   ],
-   "sigma": 14.15,
-   "total_sigma": 18.49,
-   "factors": {
-    "team_strength": 2.4,
-    "home_court": 2.0,
-    "rest": -0.0,
-    "injuries": -4.1
-   },
-   "back_to_back": {
-    "home": false,
-    "away": false
-   },
-   "injury_impact": {
-    "home": [
-     {
-      "athlete_id": "3136195",
-      "name": "Karl-Anthony Towns",
-      "status": "Out",
-      "impact": -2.8
-     },
-     {
-      "athlete_id": "3934719",
-      "name": "OG Anunoby",
-      "status": "Out",
-      "impact": -1.3
-     }
-    ],
-    "away": []
-   },
-   "ratings": {
-    "home": {
-     "offense": -2.6,
-     "defense": -8.8
-    },
-    "away": {
-     "offense": 1.5,
-     "defense": -2.3
-    }
-   },
-   "vs_line": {
-    "spread": 1.5,
-    "over_under": 213.5,
-    "home_cover_prob": 0.55,
-    "over_prob": 0.555,
-    "provider": "DraftKings"
-   }
+   "total": 217.8
   }
  },
  {
@@ -1746,9 +1689,9 @@
   "date_kst": "2026-11-22T10:00:00+09:00",
   "odds": {
    "provider": "DraftKings",
-   "details": "SA -18.5",
-   "spread": -18.5,
-   "over_under": 229.5
+   "details": "SA -19.5",
+   "spread": -19.5,
+   "over_under": 226.5
   },
   "home": {
    "id": "24",
@@ -1998,6 +1941,18 @@
     {
      "team_id": "3",
      "team": "New Orleans Pelicans",
+     "athlete_id": "4395628",
+     "name": "Zion Williamson",
+     "position": "F",
+     "status": "Out",
+     "injury": "Left Thigh Bruise",
+     "return_date": "2026-11-23",
+     "updated": "2026-11-22T00:39Z",
+     "comment": "Williamson is out for Saturday's game against the Spurs due to a left thigh contusion."
+    },
+    {
+     "team_id": "3",
+     "team": "New Orleans Pelicans",
      "athlete_id": "4397688",
      "name": "Trey Murphy III",
      "position": "F",
@@ -2076,7 +2031,7 @@
      "fg_pct": 58.5,
      "fg3_pct": 46.2,
      "ft_pct": 76.2,
-     "injury_status": null
+     "injury_status": "Out"
     },
     {
      "athlete_id": "4397136",
@@ -2264,18 +2219,18 @@
   },
   "prediction": {
    "home_points": 122.7,
-   "away_points": 104.8,
-   "home_margin": 17.9,
-   "home_win_prob": 0.898,
-   "away_win_prob": 0.102,
+   "away_points": 102.1,
+   "home_margin": 20.7,
+   "home_win_prob": 0.928,
+   "away_win_prob": 0.072,
    "margin_range80": [
-    -0.2,
-    36.1
+    2.5,
+    38.8
    ],
-   "total": 227.5,
+   "total": 224.8,
    "total_range80": [
-    203.8,
-    251.2
+    201.1,
+    248.5
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -2283,7 +2238,7 @@
     "team_strength": 12.2,
     "home_court": 2.0,
     "rest": 3.0,
-    "injuries": 0.7
+    "injuries": 3.4
    },
    "back_to_back": {
     "home": false,
@@ -2299,6 +2254,12 @@
      }
     ],
     "away": [
+     {
+      "athlete_id": "4395628",
+      "name": "Zion Williamson",
+      "status": "Out",
+      "impact": -2.7
+     },
      {
       "athlete_id": "4397688",
       "name": "Trey Murphy III",
@@ -2330,10 +2291,10 @@
     }
    },
    "vs_line": {
-    "spread": -18.5,
-    "over_under": 229.5,
-    "home_cover_prob": 0.484,
-    "over_prob": 0.457,
+    "spread": -19.5,
+    "over_under": 226.5,
+    "home_cover_prob": 0.533,
+    "over_prob": 0.463,
     "provider": "DraftKings"
    }
   }
@@ -2348,8 +2309,8 @@
   "date_kst": "2026-11-22T12:00:00+09:00",
   "odds": {
    "provider": "DraftKings",
-   "details": "BOS -12.5",
-   "spread": 12.5,
+   "details": "BOS -11.5",
+   "spread": 11.5,
    "over_under": 215.5
   },
   "home": {
@@ -2872,9 +2833,9 @@
     }
    },
    "vs_line": {
-    "spread": 12.5,
+    "spread": 11.5,
     "over_under": 215.5,
-    "home_cover_prob": 0.531,
+    "home_cover_prob": 0.503,
     "over_prob": 0.532,
     "provider": "DraftKings"
    }
@@ -10440,6 +10401,18 @@
     {
      "team_id": "3",
      "team": "New Orleans Pelicans",
+     "athlete_id": "4395628",
+     "name": "Zion Williamson",
+     "position": "F",
+     "status": "Out",
+     "injury": "Left Thigh Bruise",
+     "return_date": "2026-11-23",
+     "updated": "2026-11-22T00:39Z",
+     "comment": "Williamson is out for Saturday's game against the Spurs due to a left thigh contusion."
+    },
+    {
+     "team_id": "3",
+     "team": "New Orleans Pelicans",
      "athlete_id": "4397688",
      "name": "Trey Murphy III",
      "position": "F",
@@ -10518,7 +10491,7 @@
      "fg_pct": 58.5,
      "fg3_pct": 46.2,
      "ft_pct": 76.2,
-     "injury_status": null
+     "injury_status": "Out"
     },
     {
      "athlete_id": "4397136",
@@ -10888,19 +10861,19 @@
    ]
   },
   "prediction": {
-   "home_points": 115.0,
+   "home_points": 112.3,
    "away_points": 121.0,
-   "home_margin": -6.0,
-   "home_win_prob": 0.336,
-   "away_win_prob": 0.664,
+   "home_margin": -8.7,
+   "home_win_prob": 0.269,
+   "away_win_prob": 0.731,
    "margin_range80": [
-    -24.1,
-    12.1
+    -26.8,
+    9.4
    ],
-   "total": 235.9,
+   "total": 233.2,
    "total_range80": [
-    212.2,
-    259.6
+    209.5,
+    256.9
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -10908,7 +10881,7 @@
     "team_strength": -5.2,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": -2.8
+    "injuries": -5.5
    },
    "back_to_back": {
     "home": false,
@@ -10916,6 +10889,12 @@
    },
    "injury_impact": {
     "home": [
+     {
+      "athlete_id": "4395628",
+      "name": "Zion Williamson",
+      "status": "Out",
+      "impact": -2.7
+     },
      {
       "athlete_id": "4397688",
       "name": "Trey Murphy III",

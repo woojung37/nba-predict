@@ -4960,26 +4960,20 @@
   "date": "2026-11-22T00:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Madison Square Garden",
   "home": {
    "id": "18",
    "abbr": "NY",
-   "score": null
+   "score": 42
   },
   "away": {
    "id": "22",
    "abbr": "POR",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "POR -1.5",
-   "spread": 1.5,
-   "over_under": 213.5
+   "score": 25
   }
  },
  {
@@ -5058,9 +5052,9 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "SA -18.5",
-   "spread": -18.5,
-   "over_under": 229.5
+   "details": "SA -19.5",
+   "spread": -19.5,
+   "over_under": 226.5
   }
  },
  {
@@ -5085,8 +5079,8 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "BOS -12.5",
-   "spread": 12.5,
+   "details": "BOS -11.5",
+   "spread": 11.5,
    "over_under": 215.5
   }
  },
