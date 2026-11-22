@@ -64,10 +64,26 @@
   "opp_ppg": 114.625
  },
  {
+  "team_id": "18",
+  "abbr": "NY",
+  "conference": "Eastern Conference",
+  "seed": 5,
+  "wins": 10,
+  "losses": 6,
+  "win_pct": 0.625,
+  "games_behind": "3.5",
+  "home": "5-3",
+  "road": "5-3",
+  "last10": "8-2",
+  "streak": "W4",
+  "ppg": 108.6875,
+  "opp_ppg": 103.0625
+ },
+ {
   "team_id": "14",
   "abbr": "MIA",
   "conference": "Eastern Conference",
-  "seed": 5,
+  "seed": 6,
   "wins": 9,
   "losses": 6,
   "win_pct": 0.6,
@@ -78,22 +94,6 @@
   "streak": "W6",
   "ppg": 120.53333,
   "opp_ppg": 119.86667
- },
- {
-  "team_id": "18",
-  "abbr": "NY",
-  "conference": "Eastern Conference",
-  "seed": 6,
-  "wins": 9,
-  "losses": 6,
-  "win_pct": 0.6,
-  "games_behind": "4",
-  "home": "4-3",
-  "road": "5-3",
-  "last10": "7-3",
-  "streak": "W3",
-  "ppg": 109.46667,
-  "opp_ppg": 103.53333
  },
  {
   "team_id": "5",
@@ -320,26 +320,10 @@
   "opp_ppg": 105.8125
  },
  {
-  "team_id": "22",
-  "abbr": "POR",
-  "conference": "Western Conference",
-  "seed": 6,
-  "wins": 10,
-  "losses": 5,
-  "win_pct": 0.6666667,
-  "games_behind": "3",
-  "home": "3-2",
-  "road": "7-3",
-  "last10": "6-4",
-  "streak": "W1",
-  "ppg": 117.46667,
-  "opp_ppg": 111.2
- },
- {
   "team_id": "7",
   "abbr": "DEN",
   "conference": "Western Conference",
-  "seed": 7,
+  "seed": 6,
   "wins": 9,
   "losses": 5,
   "win_pct": 0.64285713,
@@ -350,6 +334,22 @@
   "streak": "W2",
   "ppg": 114.57143,
   "opp_ppg": 113.07143
+ },
+ {
+  "team_id": "22",
+  "abbr": "POR",
+  "conference": "Western Conference",
+  "seed": 7,
+  "wins": 10,
+  "losses": 6,
+  "win_pct": 0.625,
+  "games_behind": "3.5",
+  "home": "3-2",
+  "road": "7-4",
+  "last10": "5-5",
+  "streak": "L1",
+  "ppg": 116.125,
+  "opp_ppg": 110.3125
  },
  {
   "team_id": "25",
