@@ -5065,20 +5065,20 @@
   "date": "2026-11-22T20:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "State Farm Arena",
   "home": {
    "id": "1",
    "abbr": "ATL",
-   "score": 25
+   "score": 107
   },
   "away": {
    "id": "8",
    "abbr": "DET",
-   "score": 21
+   "score": 97
   }
  },
  {
@@ -5086,26 +5086,20 @@
   "date": "2026-11-22T23:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Kaseya Center",
   "home": {
    "id": "14",
    "abbr": "MIA",
-   "score": null
+   "score": 109
   },
   "away": {
    "id": "25",
    "abbr": "OKC",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "MIA -3.5",
-   "spread": -3.5,
-   "over_under": 231.5
+   "score": 93
   }
  },
  {
@@ -5113,26 +5107,20 @@
   "date": "2026-11-23T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_HALFTIME",
   "neutral": false,
   "venue": "Capital One Arena",
   "home": {
    "id": "27",
    "abbr": "WSH",
-   "score": null
+   "score": 63
   },
   "away": {
    "id": "19",
    "abbr": "ORL",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "ORL -4.5",
-   "spread": 4.5,
-   "over_under": 220.5
+   "score": 51
   }
  },
  {
@@ -5140,26 +5128,20 @@
   "date": "2026-11-23T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_HALFTIME",
   "neutral": false,
   "venue": "United Center",
   "home": {
    "id": "4",
    "abbr": "CHI",
-   "score": null
+   "score": 70
   },
   "away": {
    "id": "7",
    "abbr": "DEN",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "DEN -9.5",
-   "spread": 9.5,
-   "over_under": 235.5
+   "score": 72
   }
  },
  {
@@ -5167,26 +5149,20 @@
   "date": "2026-11-23T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_HALFTIME",
   "neutral": false,
   "venue": "Delta Center",
   "home": {
    "id": "26",
    "abbr": "UTAH",
-   "score": null
+   "score": 57
   },
   "away": {
    "id": "6",
    "abbr": "DAL",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "DAL -2.5",
-   "spread": 2.5,
-   "over_under": 225.5
+   "score": 64
   }
  },
  {
@@ -5210,10 +5186,10 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
-   "details": "NY -7.5",
-   "spread": -7.5,
-   "over_under": 213.5
+   "provider": "Draft Kings",
+   "details": "NY -6.5",
+   "spread": -6.5,
+   "over_under": 214.5
   }
  },
  {
@@ -5235,6 +5211,12 @@
    "id": "2",
    "abbr": "BOS",
    "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "BOS -8.5",
+   "spread": 8.5,
+   "over_under": 212.5
   }
  },
  {
@@ -5256,6 +5238,12 @@
    "id": "29",
    "abbr": "MEM",
    "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "MEM -3.5",
+   "spread": 3.5,
+   "over_under": 218.5
   }
  },
  {
@@ -5277,6 +5265,12 @@
    "id": "22",
    "abbr": "POR",
    "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "PHI -2.5",
+   "spread": -2.5,
+   "over_under": 228.5
   }
  },
  {
@@ -5403,6 +5397,12 @@
    "id": "12",
    "abbr": "LAC",
    "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "HOU -13.5",
+   "spread": -13.5,
+   "over_under": 225.5
   }
  },
  {
