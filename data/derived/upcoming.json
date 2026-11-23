@@ -619,7 +619,7 @@
    "provider": "Draft Kings",
    "details": "PHI -4.5",
    "spread": -4.5,
-   "over_under": 229.5
+   "over_under": 230.5
   },
   "home": {
    "id": "20",
@@ -1153,9 +1153,9 @@
    },
    "vs_line": {
     "spread": -4.5,
-    "over_under": 229.5,
+    "over_under": 230.5,
     "home_cover_prob": 0.35,
-    "over_prob": 0.53,
+    "over_prob": 0.509,
     "provider": "Draft Kings"
    }
   }
@@ -5147,7 +5147,7 @@
    "provider": "Draft Kings",
    "details": "SA -10.5",
    "spread": 10.5,
-   "over_under": 224.5
+   "over_under": 223.5
   },
   "home": {
    "id": "23",
@@ -5723,9 +5723,9 @@
    },
    "vs_line": {
     "spread": 10.5,
-    "over_under": 224.5,
+    "over_under": 223.5,
     "home_cover_prob": 0.562,
-    "over_prob": 0.425,
+    "over_prob": 0.447,
     "provider": "Draft Kings"
    }
   }
@@ -7947,6 +7947,613 @@
     "away": {
      "offense": 5.6,
      "defense": 4.9
+    }
+   }
+  }
+ },
+ {
+  "id": "401909318",
+  "date": "2026-11-26T00:00Z",
+  "season_type": 2,
+  "state": "pre",
+  "neutral": false,
+  "venue": "Spectrum Center",
+  "date_kst": "2026-11-26T09:00:00+09:00",
+  "home": {
+   "id": "30",
+   "abbr": "CHA",
+   "name": "Charlotte Hornets",
+   "standing": {
+    "team_id": "30",
+    "abbr": "CHA",
+    "conference": "Eastern Conference",
+    "seed": 12,
+    "wins": 4,
+    "losses": 11,
+    "win_pct": 0.26666668,
+    "games_behind": "9",
+    "home": "3-4",
+    "road": "1-7",
+    "last10": "1-9",
+    "streak": "L4",
+    "ppg": 99.933334,
+    "opp_ppg": 110.46667
+   },
+   "stats": {
+    "gp": 15,
+    "record": [
+     4,
+     11
+    ],
+    "home_record": [
+     3,
+     4
+    ],
+    "away_record": [
+     1,
+     7
+    ],
+    "ppg": 99.9,
+    "opp_ppg": 110.5,
+    "avg_margin": -10.5,
+    "last10_record": [
+     1,
+     9
+    ],
+    "last10_margin": -12.2,
+    "last_game": "2026-11-21T00:00Z",
+    "pace": 98.9,
+    "ortg": 101.0,
+    "drtg": 111.7,
+    "net_rtg": -10.7
+   },
+   "rest_days": 1,
+   "injuries": [
+    {
+     "team_id": "30",
+     "team": "Charlotte Hornets",
+     "athlete_id": "3135045",
+     "name": "Grayson Allen",
+     "position": "G",
+     "status": "Out",
+     "injury": "Concussion",
+     "return_date": "2026-11-25",
+     "updated": "2026-11-22T22:08Z",
+     "comment": "Allen (concussion) has been ruled out for Monday's game against the Grizzlies."
+    },
+    {
+     "team_id": "30",
+     "team": "Charlotte Hornets",
+     "athlete_id": "4433287",
+     "name": "Brandon Miller",
+     "position": "F",
+     "status": "Day-To-Day",
+     "injury": "Right Knee Bruise",
+     "return_date": "2026-11-23",
+     "updated": "2026-11-22T22:08Z",
+     "comment": "Miller is probable for Monday's game against the Grizzlies due to a right knee contusion."
+    },
+    {
+     "team_id": "30",
+     "team": "Charlotte Hornets",
+     "athlete_id": "4066218",
+     "name": "Grant Williams",
+     "position": "F",
+     "status": "Out",
+     "injury": "Right Hamstring",
+     "return_date": "2026-11-25",
+     "updated": "2026-11-22T22:05Z",
+     "comment": "Williams (hamstring) won't play Monday's game against the Grizzlies."
+    },
+    {
+     "team_id": "30",
+     "team": "Charlotte Hornets",
+     "athlete_id": "5061575",
+     "name": "Kon Knueppel",
+     "position": "G",
+     "status": "Out",
+     "injury": "Left Hamstring Strain",
+     "return_date": "2026-12-12",
+     "updated": "2026-11-08T22:31Z",
+     "comment": "Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks."
+    },
+    {
+     "team_id": "30",
+     "team": "Charlotte Hornets",
+     "athlete_id": "3032979",
+     "name": "Dennis Schroder",
+     "position": "G",
+     "status": "Out",
+     "injury": "Left Hamstring Strain",
+     "return_date": "2026-11-25",
+     "updated": "2026-11-08T22:26Z",
+     "comment": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports."
+    }
+   ],
+   "top_players": [
+    {
+     "athlete_id": "4433287",
+     "name": "Brandon Miller",
+     "position": "F",
+     "team_id": "30",
+     "gp": 13,
+     "gs": 13,
+     "last_game": "2026-11-21",
+     "min": 30.7,
+     "pts": 19.8,
+     "reb": 4.8,
+     "ast": 2.5,
+     "stl": 1.0,
+     "blk": 0.7,
+     "tov": 2.5,
+     "plus_minus": -4.5,
+     "fg_pct": 36.1,
+     "fg3_pct": 28.1,
+     "ft_pct": 86.4,
+     "injury_status": "Day-To-Day"
+    },
+    {
+     "athlete_id": "4396971",
+     "name": "Naz Reid",
+     "position": "C",
+     "team_id": "30",
+     "gp": 15,
+     "gs": 15,
+     "last_game": "2026-11-21",
+     "min": 31.1,
+     "pts": 17.3,
+     "reb": 8.5,
+     "ast": 2.4,
+     "stl": 0.9,
+     "blk": 0.6,
+     "tov": 2.5,
+     "plus_minus": -8.2,
+     "fg_pct": 38.8,
+     "fg3_pct": 33.6,
+     "ft_pct": 63.2,
+     "injury_status": null
+    },
+    {
+     "athlete_id": "3135045",
+     "name": "Grayson Allen",
+     "position": "G",
+     "team_id": "30",
+     "gp": 13,
+     "gs": 3,
+     "last_game": "2026-11-15",
+     "min": 27.2,
+     "pts": 14.9,
+     "reb": 3.1,
+     "ast": 3.3,
+     "stl": 0.8,
+     "blk": 0.3,
+     "tov": 2.6,
+     "plus_minus": -5.7,
+     "fg_pct": 44.8,
+     "fg3_pct": 45.8,
+     "ft_pct": 92.7,
+     "injury_status": "Out"
+    },
+    {
+     "athlete_id": "4395651",
+     "name": "Coby White",
+     "position": "G",
+     "team_id": "30",
+     "gp": 8,
+     "gs": 8,
+     "last_game": "2026-11-21",
+     "min": 20.2,
+     "pts": 12.5,
+     "reb": 2.2,
+     "ast": 4.0,
+     "stl": 0.5,
+     "blk": 0.2,
+     "tov": 3.0,
+     "plus_minus": -5.4,
+     "fg_pct": 36.5,
+     "fg3_pct": 17.8,
+     "ft_pct": 88.0,
+     "injury_status": null
+    },
+    {
+     "athlete_id": "4066218",
+     "name": "Grant Williams",
+     "position": "F",
+     "team_id": "30",
+     "gp": 3,
+     "gs": 1,
+     "last_game": "2026-11-18",
+     "min": 22.0,
+     "pts": 11.3,
+     "reb": 2.7,
+     "ast": 0.7,
+     "stl": 0.3,
+     "blk": 0.3,
+     "tov": 0.3,
+     "plus_minus": -5.7,
+     "fg_pct": 42.9,
+     "fg3_pct": 35.0,
+     "ft_pct": 100.0,
+     "injury_status": "Out"
+    }
+   ]
+  },
+  "away": {
+   "id": "4",
+   "abbr": "CHI",
+   "name": "Chicago Bulls",
+   "standing": {
+    "team_id": "4",
+    "abbr": "CHI",
+    "conference": "Eastern Conference",
+    "seed": 13,
+    "wins": 4,
+    "losses": 12,
+    "win_pct": 0.25,
+    "games_behind": "9.5",
+    "home": "1-6",
+    "road": "3-6",
+    "last10": "3-7",
+    "streak": "L2",
+    "ppg": 116.625,
+    "opp_ppg": 124.5625
+   },
+   "stats": {
+    "gp": 16,
+    "record": [
+     4,
+     12
+    ],
+    "home_record": [
+     1,
+     6
+    ],
+    "away_record": [
+     3,
+     6
+    ],
+    "ppg": 116.6,
+    "opp_ppg": 124.6,
+    "avg_margin": -7.9,
+    "last10_record": [
+     3,
+     7
+    ],
+    "last10_margin": -3.2,
+    "last_game": "2026-11-23T00:00Z",
+    "pace": 107.2,
+    "ortg": 108.8,
+    "drtg": 116.2,
+    "net_rtg": -7.4
+   },
+   "rest_days": 1,
+   "injuries": [
+    {
+     "team_id": "4",
+     "team": "Chicago Bulls",
+     "athlete_id": "4278067",
+     "name": "Nic Claxton",
+     "position": "C",
+     "status": "Out",
+     "injury": "Illness",
+     "return_date": "2026-11-23",
+     "updated": "2026-11-22T20:22Z",
+     "comment": "Claxton (illness) won't play in Sunday's game against the Nuggets."
+    },
+    {
+     "team_id": "4",
+     "team": "Chicago Bulls",
+     "athlete_id": "2595516",
+     "name": "Norman Powell",
+     "position": "G",
+     "status": "Out",
+     "injury": "Right Hamstring Strain",
+     "return_date": "2026-11-28",
+     "updated": "2026-11-22T15:25Z",
+     "comment": "Powell has been diagnosed with a mild right hamstring strain and will be re-evaluated later this week."
+    },
+    {
+     "team_id": "4",
+     "team": "Chicago Bulls",
+     "athlete_id": "5095151",
+     "name": "Caleb Wilson",
+     "position": "F",
+     "status": "Out",
+     "injury": "Right Hand",
+     "return_date": "2026-12-13",
+     "updated": "2026-11-12T21:35Z",
+     "comment": "Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports."
+    }
+   ],
+   "top_players": [
+    {
+     "athlete_id": "2595516",
+     "name": "Norman Powell",
+     "position": "G",
+     "team_id": "4",
+     "gp": 13,
+     "gs": 13,
+     "last_game": "2026-11-21",
+     "min": 29.5,
+     "pts": 20.8,
+     "reb": 2.8,
+     "ast": 2.4,
+     "stl": 1.4,
+     "blk": 0.2,
+     "tov": 2.0,
+     "plus_minus": -3.6,
+     "fg_pct": 44.6,
+     "fg3_pct": 34.1,
+     "ft_pct": 76.7,
+     "injury_status": "Out"
+    },
+    {
+     "athlete_id": "5095151",
+     "name": "Caleb Wilson",
+     "position": "F",
+     "team_id": "4",
+     "gp": 10,
+     "gs": 10,
+     "last_game": "2026-11-12",
+     "min": 30.7,
+     "pts": 18.9,
+     "reb": 6.2,
+     "ast": 1.9,
+     "stl": 1.8,
+     "blk": 0.9,
+     "tov": 2.7,
+     "plus_minus": -9.6,
+     "fg_pct": 42.0,
+     "fg3_pct": 32.4,
+     "ft_pct": 73.2,
+     "injury_status": "Out"
+    },
+    {
+     "athlete_id": "4711294",
+     "name": "Matas Buzelis",
+     "position": "F",
+     "team_id": "4",
+     "gp": 16,
+     "gs": 16,
+     "last_game": "2026-11-23",
+     "min": 27.9,
+     "pts": 15.1,
+     "reb": 4.8,
+     "ast": 2.0,
+     "stl": 0.6,
+     "blk": 0.8,
+     "tov": 2.6,
+     "plus_minus": -6.6,
+     "fg_pct": 45.3,
+     "fg3_pct": 36.2,
+     "ft_pct": 86.7,
+     "injury_status": null
+    },
+    {
+     "athlete_id": "4397189",
+     "name": "Jalen Smith",
+     "position": "F",
+     "team_id": "4",
+     "gp": 14,
+     "gs": 14,
+     "last_game": "2026-11-23",
+     "min": 25.3,
+     "pts": 14.3,
+     "reb": 7.6,
+     "ast": 2.1,
+     "stl": 0.8,
+     "blk": 1.1,
+     "tov": 1.0,
+     "plus_minus": -4.1,
+     "fg_pct": 54.6,
+     "fg3_pct": 41.1,
+     "ft_pct": 76.2,
+     "injury_status": null
+    },
+    {
+     "athlete_id": "4871145",
+     "name": "Josh Giddey",
+     "position": "G",
+     "team_id": "4",
+     "gp": 16,
+     "gs": 16,
+     "last_game": "2026-11-23",
+     "min": 28.6,
+     "pts": 10.8,
+     "reb": 6.4,
+     "ast": 9.2,
+     "stl": 0.4,
+     "blk": 0.6,
+     "tov": 3.4,
+     "plus_minus": -5.1,
+     "fg_pct": 43.8,
+     "fg3_pct": 31.7,
+     "ft_pct": 63.3,
+     "injury_status": null
+    }
+   ]
+  },
+  "head_to_head": {
+   "games": 12,
+   "wins": 4,
+   "losses": 8,
+   "avg_margin": -1.8,
+   "recent": [
+    {
+     "id": "401810691",
+     "date": "2026-02-25T01:00Z",
+     "season": 2026,
+     "home": "CHI",
+     "away": "CHA",
+     "home_score": 99,
+     "away_score": 131
+    },
+    {
+     "id": "401810344",
+     "date": "2026-01-04T01:00Z",
+     "season": 2026,
+     "home": "CHI",
+     "away": "CHA",
+     "home_score": 99,
+     "away_score": 112
+    },
+    {
+     "id": "401836750",
+     "date": "2025-12-13T00:00Z",
+     "season": 2026,
+     "home": "CHA",
+     "away": "CHI",
+     "home_score": 126,
+     "away_score": 129
+    },
+    {
+     "id": "401809813",
+     "date": "2025-11-29T00:30Z",
+     "season": 2026,
+     "home": "CHA",
+     "away": "CHI",
+     "home_score": 123,
+     "away_score": 116
+    },
+    {
+     "id": "401705699",
+     "date": "2025-04-06T17:00Z",
+     "season": 2025,
+     "home": "CHA",
+     "away": "CHI",
+     "home_score": 117,
+     "away_score": 131
+    },
+    {
+     "id": "401705150",
+     "date": "2025-01-18T01:00Z",
+     "season": 2025,
+     "home": "CHI",
+     "away": "CHA",
+     "home_score": 123,
+     "away_score": 125
+    },
+    {
+     "id": "401705008",
+     "date": "2024-12-31T00:00Z",
+     "season": 2025,
+     "home": "CHA",
+     "away": "CHI",
+     "home_score": 108,
+     "away_score": 115
+    },
+    {
+     "id": "401736806",
+     "date": "2024-12-14T01:00Z",
+     "season": 2025,
+     "home": "CHI",
+     "away": "CHA",
+     "home_score": 109,
+     "away_score": 95
+    },
+    {
+     "id": "401585302",
+     "date": "2024-02-01T00:00Z",
+     "season": 2024,
+     "home": "CHA",
+     "away": "CHI",
+     "home_score": 110,
+     "away_score": 117
+    },
+    {
+     "id": "401585134",
+     "date": "2024-01-09T00:00Z",
+     "season": 2024,
+     "home": "CHA",
+     "away": "CHI",
+     "home_score": 112,
+     "away_score": 119
+    }
+   ]
+  },
+  "prediction": {
+   "home_points": 114.0,
+   "away_points": 110.6,
+   "home_margin": 3.4,
+   "home_win_prob": 0.594,
+   "away_win_prob": 0.406,
+   "margin_range80": [
+    -14.8,
+    21.5
+   ],
+   "total": 224.6,
+   "total_range80": [
+    200.9,
+    248.3
+   ],
+   "sigma": 14.15,
+   "total_sigma": 18.49,
+   "factors": {
+    "team_strength": -0.3,
+    "home_court": 2.0,
+    "rest": -0.0,
+    "injuries": 1.6
+   },
+   "back_to_back": {
+    "home": false,
+    "away": false
+   },
+   "injury_impact": {
+    "home": [
+     {
+      "athlete_id": "3135045",
+      "name": "Grayson Allen",
+      "status": "Out",
+      "impact": -1.1
+     },
+     {
+      "athlete_id": "5061575",
+      "name": "Kon Knueppel",
+      "status": "Out",
+      "impact": -0.6
+     },
+     {
+      "athlete_id": "4433287",
+      "name": "Brandon Miller",
+      "status": "Day-To-Day",
+      "impact": -0.4
+     },
+     {
+      "athlete_id": "4066218",
+      "name": "Grant Williams",
+      "status": "Out",
+      "impact": -0.1
+     }
+    ],
+    "away": [
+     {
+      "athlete_id": "2595516",
+      "name": "Norman Powell",
+      "status": "Out",
+      "impact": -1.7
+     },
+     {
+      "athlete_id": "5095151",
+      "name": "Caleb Wilson",
+      "status": "Out",
+      "impact": -1.5
+     },
+     {
+      "athlete_id": "4278067",
+      "name": "Nic Claxton",
+      "status": "Out",
+      "impact": -0.7
+     }
+    ]
+   },
+   "ratings": {
+    "home": {
+     "offense": -6.8,
+     "defense": -2.7
+    },
+    "away": {
+     "offense": 3.0,
+     "defense": 6.8
     }
    }
   }
