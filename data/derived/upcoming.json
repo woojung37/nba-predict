@@ -8,10 +8,10 @@
   "venue": "Spectrum Center",
   "date_kst": "2026-11-24T09:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "MEM -2.5",
    "spread": 2.5,
-   "over_under": 214.5
+   "over_under": 213.5
   },
   "home": {
    "id": "30",
@@ -600,10 +600,10 @@
    },
    "vs_line": {
     "spread": 2.5,
-    "over_under": 214.5,
+    "over_under": 213.5,
     "home_cover_prob": 0.47,
-    "over_prob": 0.661,
-    "provider": "Draft Kings"
+    "over_prob": 0.681,
+    "provider": "DraftKings"
    }
   }
  },
@@ -616,9 +616,9 @@
   "venue": "Xfinity Mobile Arena",
   "date_kst": "2026-11-24T09:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
-   "details": "PHI -3.5",
-   "spread": -3.5,
+   "provider": "DraftKings",
+   "details": "PHI -2.5",
+   "spread": -2.5,
    "over_under": 231.5
   },
   "home": {
@@ -671,6 +671,18 @@
    },
    "rest_days": 1,
    "injuries": [
+    {
+     "team_id": "20",
+     "team": "Philadelphia 76ers",
+     "athlete_id": "3059318",
+     "name": "Joel Embiid",
+     "position": "C",
+     "status": "Day-To-Day",
+     "injury": "Illness",
+     "return_date": "2026-11-23",
+     "updated": "2026-11-23T16:49Z",
+     "comment": "Embiid (knee) has been downgraded to questionable for Monday's game against Portland."
+    },
     {
      "team_id": "20",
      "team": "Philadelphia 76ers",
@@ -782,7 +794,7 @@
      "fg_pct": 40.0,
      "fg3_pct": 14.3,
      "ft_pct": 88.1,
-     "injury_status": null
+     "injury_status": "Day-To-Day"
     },
     {
      "athlete_id": "1966",
@@ -1098,19 +1110,19 @@
    ]
   },
   "prediction": {
-   "home_points": 115.0,
+   "home_points": 114.2,
    "away_points": 115.9,
-   "home_margin": -0.9,
-   "home_win_prob": 0.473,
-   "away_win_prob": 0.527,
+   "home_margin": -1.7,
+   "home_win_prob": 0.451,
+   "away_win_prob": 0.549,
    "margin_range80": [
-    -19.1,
-    17.2
+    -19.9,
+    16.4
    ],
-   "total": 230.9,
+   "total": 230.1,
    "total_range80": [
-    207.2,
-    254.6
+    206.4,
+    253.8
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -1118,7 +1130,7 @@
     "team_strength": -2.0,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": -0.9
+    "injuries": -1.7
    },
    "back_to_back": {
     "home": false,
@@ -1129,6 +1141,12 @@
      {
       "athlete_id": "3917376",
       "name": "Jaylen Brown",
+      "status": "Day-To-Day",
+      "impact": -0.8
+     },
+     {
+      "athlete_id": "3059318",
+      "name": "Joel Embiid",
       "status": "Day-To-Day",
       "impact": -0.8
      },
@@ -1152,11 +1170,11 @@
     }
    },
    "vs_line": {
-    "spread": -3.5,
+    "spread": -2.5,
     "over_under": 231.5,
-    "home_cover_prob": 0.377,
-    "over_prob": 0.487,
-    "provider": "Draft Kings"
+    "home_cover_prob": 0.383,
+    "over_prob": 0.47,
+    "provider": "DraftKings"
    }
   }
  },
@@ -1169,7 +1187,7 @@
   "venue": "Gainbridge Fieldhouse",
   "date_kst": "2026-11-24T09:30:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "OKC -4.5",
    "spread": 4.5,
    "over_under": 221.5
@@ -1818,7 +1836,7 @@
     "over_under": 221.5,
     "home_cover_prob": 0.52,
     "over_prob": 0.535,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -1831,7 +1849,7 @@
   "venue": "Scotiabank Arena",
   "date_kst": "2026-11-24T09:30:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "TOR -10.5",
    "spread": -10.5,
    "over_under": 222.5
@@ -1886,6 +1904,18 @@
    },
    "rest_days": 2,
    "injuries": [
+    {
+     "team_id": "28",
+     "team": "Toronto Raptors",
+     "athlete_id": "4432737",
+     "name": "Jaden Bradley",
+     "position": "G",
+     "status": "Day-To-Day",
+     "injury": "Right Ankle Sprain",
+     "return_date": "2026-11-23",
+     "updated": "2026-11-23T17:37Z",
+     "comment": "Bradley is questionable for Monday's game against the Bucks due to an ankle sprain, Blake Murphy of Sportsnet.ca reports."
+    },
     {
      "team_id": "28",
      "team": "Toronto Raptors",
@@ -2371,7 +2401,7 @@
     "over_under": 222.5,
     "home_cover_prob": 0.484,
     "over_prob": 0.628,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -2384,10 +2414,10 @@
   "venue": "Target Center",
   "date_kst": "2026-11-24T09:30:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "MIN -11.5",
    "spread": -11.5,
-   "over_under": 224.5
+   "over_under": 223.5
   },
   "home": {
    "id": "16",
@@ -2645,18 +2675,6 @@
      "return_date": "2027-01-27",
      "updated": "2026-11-23T15:22Z",
      "comment": "Traore will be re-evaluated in approximately 8-10 weeks due to a right hamstring strain, Michael Scotto of HoopsHype.com reports."
-    },
-    {
-     "team_id": "17",
-     "team": "Brooklyn Nets",
-     "athlete_id": "4702670",
-     "name": "Grant Nelson",
-     "position": "F",
-     "status": "Day-To-Day",
-     "injury": "Right Ankle Sprain",
-     "return_date": "2026-11-23",
-     "updated": "2026-11-22T20:39Z",
-     "comment": "Nelson (ankle) is probable for Monday's game against the Timberwolves."
     }
    ],
    "top_players": [
@@ -2879,10 +2897,10 @@
    },
    "vs_line": {
     "spread": -11.5,
-    "over_under": 224.5,
+    "over_under": 223.5,
     "home_cover_prob": 0.608,
-    "over_prob": 0.477,
-    "provider": "Draft Kings"
+    "over_prob": 0.499,
+    "provider": "DraftKings"
    }
   }
  },
@@ -2895,7 +2913,7 @@
   "venue": "United Center",
   "date_kst": "2026-11-24T10:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "CLE -8.5",
    "spread": 8.5,
    "over_under": 241.5
@@ -3460,7 +3478,7 @@
     "over_under": 241.5,
     "home_cover_prob": 0.512,
     "over_prob": 0.396,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -3473,7 +3491,7 @@
   "venue": "Smoothie King Center",
   "date_kst": "2026-11-24T10:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "PHX -3.5",
    "spread": 3.5,
    "over_under": 233.5
@@ -4068,7 +4086,7 @@
     "over_under": 233.5,
     "home_cover_prob": 0.429,
     "over_prob": 0.508,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -4081,7 +4099,7 @@
   "venue": "Toyota Center (Houston)",
   "date_kst": "2026-11-24T10:30:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "HOU -12.5",
    "spread": -12.5,
    "over_under": 223.5
@@ -4571,7 +4589,7 @@
     "over_under": 223.5,
     "home_cover_prob": 0.441,
     "over_prob": 0.604,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -4584,7 +4602,7 @@
   "venue": "crypto.com Arena",
   "date_kst": "2026-11-24T12:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "LAL -13.5",
    "spread": -13.5,
    "over_under": 224.5
@@ -5131,7 +5149,7 @@
     "over_under": 224.5,
     "home_cover_prob": 0.409,
     "over_prob": 0.583,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -5144,7 +5162,7 @@
   "venue": "Golden 1 Center",
   "date_kst": "2026-11-24T12:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "SA -10.5",
    "spread": 10.5,
    "over_under": 223.5
@@ -5726,7 +5744,7 @@
     "over_under": 223.5,
     "home_cover_prob": 0.562,
     "over_prob": 0.447,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -7465,6 +7483,18 @@
     {
      "team_id": "20",
      "team": "Philadelphia 76ers",
+     "athlete_id": "3059318",
+     "name": "Joel Embiid",
+     "position": "C",
+     "status": "Day-To-Day",
+     "injury": "Illness",
+     "return_date": "2026-11-23",
+     "updated": "2026-11-23T16:49Z",
+     "comment": "Embiid (knee) has been downgraded to questionable for Monday's game against Portland."
+    },
+    {
+     "team_id": "20",
+     "team": "Philadelphia 76ers",
      "athlete_id": "5105637",
      "name": "Adem Bona",
      "position": "C",
@@ -7573,7 +7603,7 @@
      "fg_pct": 40.0,
      "fg3_pct": 14.3,
      "ft_pct": 88.1,
-     "injury_status": null
+     "injury_status": "Day-To-Day"
     },
     {
      "athlete_id": "1966",
@@ -7889,19 +7919,19 @@
    ]
   },
   "prediction": {
-   "home_points": 122.4,
+   "home_points": 121.6,
    "away_points": 119.0,
-   "home_margin": 3.4,
-   "home_win_prob": 0.596,
-   "away_win_prob": 0.404,
+   "home_margin": 2.7,
+   "home_win_prob": 0.574,
+   "away_win_prob": 0.426,
    "margin_range80": [
-    -14.7,
-    21.6
+    -15.5,
+    20.8
    ],
-   "total": 241.4,
+   "total": 240.6,
    "total_range80": [
-    217.7,
-    265.1
+    216.9,
+    264.3
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -7909,7 +7939,7 @@
     "team_strength": 1.0,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 0.5
+    "injuries": -0.3
    },
    "back_to_back": {
     "home": false,
@@ -7920,6 +7950,12 @@
      {
       "athlete_id": "3917376",
       "name": "Jaylen Brown",
+      "status": "Day-To-Day",
+      "impact": -0.8
+     },
+     {
+      "athlete_id": "3059318",
+      "name": "Joel Embiid",
       "status": "Day-To-Day",
       "impact": -0.8
      },
@@ -10557,18 +10593,6 @@
      "return_date": "2027-01-27",
      "updated": "2026-11-23T15:22Z",
      "comment": "Traore will be re-evaluated in approximately 8-10 weeks due to a right hamstring strain, Michael Scotto of HoopsHype.com reports."
-    },
-    {
-     "team_id": "17",
-     "team": "Brooklyn Nets",
-     "athlete_id": "4702670",
-     "name": "Grant Nelson",
-     "position": "F",
-     "status": "Day-To-Day",
-     "injury": "Right Ankle Sprain",
-     "return_date": "2026-11-23",
-     "updated": "2026-11-22T20:39Z",
-     "comment": "Nelson (ankle) is probable for Monday's game against the Timberwolves."
     }
    ],
    "top_players": [
