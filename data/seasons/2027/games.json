@@ -5107,20 +5107,20 @@
   "date": "2026-11-23T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Capital One Arena",
   "home": {
    "id": "27",
    "abbr": "WSH",
-   "score": 76
+   "score": 116
   },
   "away": {
    "id": "19",
    "abbr": "ORL",
-   "score": 60
+   "score": 96
   }
  },
  {
@@ -5128,20 +5128,20 @@
   "date": "2026-11-23T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "United Center",
   "home": {
    "id": "4",
    "abbr": "CHI",
-   "score": 88
+   "score": 145
   },
   "away": {
    "id": "7",
    "abbr": "DEN",
-   "score": 94
+   "score": 151
   }
  },
  {
@@ -5149,20 +5149,20 @@
   "date": "2026-11-23T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Delta Center",
   "home": {
    "id": "26",
    "abbr": "UTAH",
-   "score": 62
+   "score": 114
   },
   "away": {
    "id": "6",
    "abbr": "DAL",
-   "score": 80
+   "score": 116
   }
  },
  {
@@ -5172,18 +5172,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "status": "STATUS_END_PERIOD",
   "neutral": false,
   "venue": "Madison Square Garden",
   "home": {
    "id": "18",
    "abbr": "NY",
-   "score": 24
+   "score": 89
   },
   "away": {
    "id": "11",
    "abbr": "IND",
-   "score": 26
+   "score": 78
   }
  },
  {
@@ -5191,26 +5191,20 @@
   "date": "2026-11-23T01:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Chase Center",
   "home": {
    "id": "9",
    "abbr": "GS",
-   "score": null
+   "score": 53
   },
   "away": {
    "id": "2",
    "abbr": "BOS",
-   "score": null
-  },
-  "odds": {
-   "provider": "Draft Kings",
-   "details": "BOS -8.5",
-   "spread": 8.5,
-   "over_under": 211.5
+   "score": 58
   }
  },
  {
@@ -5234,10 +5228,10 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
-   "details": null,
-   "spread": null,
-   "over_under": 218.5
+   "provider": "DraftKings",
+   "details": "MEM -3.5",
+   "spread": 3.5,
+   "over_under": 216.5
   }
  },
  {
@@ -5261,10 +5255,10 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
-   "details": "PHI -2.5",
-   "spread": -2.5,
-   "over_under": 228.5
+   "provider": "DraftKings",
+   "details": "PHI -3.5",
+   "spread": -3.5,
+   "over_under": 229.5
   }
  },
  {
@@ -5309,10 +5303,10 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
-   "details": "TOR -11.5",
-   "spread": -11.5,
-   "over_under": 225.5
+   "provider": "DraftKings",
+   "details": "TOR -10.5",
+   "spread": -10.5,
+   "over_under": 223.5
   }
  },
  {
@@ -5336,10 +5330,10 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
-   "details": "MIN -11.5",
-   "spread": -11.5,
-   "over_under": 225.5
+   "provider": "DraftKings",
+   "details": "MIN -12.5",
+   "spread": -12.5,
+   "over_under": 224.5
   }
  },
  {
@@ -5361,6 +5355,12 @@
    "id": "5",
    "abbr": "CLE",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "CLE -9.5",
+   "spread": 9.5,
+   "over_under": 241.5
   }
  },
  {
@@ -5382,6 +5382,12 @@
    "id": "21",
    "abbr": "PHX",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "PHX -3.5",
+   "spread": 3.5,
+   "over_under": 234.5
   }
  },
  {
@@ -5405,10 +5411,10 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
-   "details": "HOU -13.5",
-   "spread": -13.5,
-   "over_under": 225.5
+   "provider": "DraftKings",
+   "details": "HOU -12.5",
+   "spread": -12.5,
+   "over_under": 224.5
   }
  },
  {
@@ -5430,6 +5436,12 @@
    "id": "26",
    "abbr": "UTAH",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "LAL -13.5",
+   "spread": -13.5,
+   "over_under": 230.5
   }
  },
  {
@@ -5451,6 +5463,12 @@
    "id": "24",
    "abbr": "SA",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "SA -10.5",
+   "spread": 10.5,
+   "over_under": 224.5
   }
  },
  {
