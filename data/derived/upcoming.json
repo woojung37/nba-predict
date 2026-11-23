@@ -8,10 +8,10 @@
   "venue": "Spectrum Center",
   "date_kst": "2026-11-24T09:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "MEM -2.5",
    "spread": 2.5,
-   "over_under": 213.5
+   "over_under": 212.5
   },
   "home": {
    "id": "30",
@@ -600,10 +600,10 @@
    },
    "vs_line": {
     "spread": 2.5,
-    "over_under": 213.5,
+    "over_under": 212.5,
     "home_cover_prob": 0.47,
-    "over_prob": 0.681,
-    "provider": "DraftKings"
+    "over_prob": 0.7,
+    "provider": "Draft Kings"
    }
   }
  },
@@ -616,7 +616,7 @@
   "venue": "Xfinity Mobile Arena",
   "date_kst": "2026-11-24T09:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "PHI -2.5",
    "spread": -2.5,
    "over_under": 231.5
@@ -1174,7 +1174,7 @@
     "over_under": 231.5,
     "home_cover_prob": 0.383,
     "over_prob": 0.47,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },
@@ -1187,10 +1187,10 @@
   "venue": "Gainbridge Fieldhouse",
   "date_kst": "2026-11-24T09:30:00+09:00",
   "odds": {
-   "provider": "DraftKings",
-   "details": "OKC -4.5",
-   "spread": 4.5,
-   "over_under": 221.5
+   "provider": "Draft Kings",
+   "details": "OKC -5.5",
+   "spread": 5.5,
+   "over_under": 224.5
   },
   "home": {
    "id": "11",
@@ -1248,11 +1248,35 @@
      "athlete_id": "2530530",
      "name": "T.J. McConnell",
      "position": "G",
-     "status": "Day-To-Day",
+     "status": "Out",
      "injury": "Left Hamstring",
+     "return_date": "2026-11-27",
+     "updated": "2026-11-23T18:25Z",
+     "comment": "McConnell is out for Monday's game against the Thunder due to left hamstring soreness."
+    },
+    {
+     "team_id": "11",
+     "team": "Indiana Pacers",
+     "athlete_id": "4396909",
+     "name": "Aaron Nesmith",
+     "position": "G",
+     "status": "Out",
+     "injury": "Foot",
+     "return_date": "2026-11-27",
+     "updated": "2026-11-23T18:22Z",
+     "comment": "Nesmith is out for Monday's game against the Thunder due to right foot soreness."
+    },
+    {
+     "team_id": "11",
+     "team": "Indiana Pacers",
+     "athlete_id": "3149673",
+     "name": "Pascal Siakam",
+     "position": "F",
+     "status": "Day-To-Day",
+     "injury": "Left Hip Not Specified",
      "return_date": "2026-11-23",
-     "updated": "2026-11-23T15:06Z",
-     "comment": "McConnell (hamstring) is listed as out for Sunday's game in New York."
+     "updated": "2026-11-23T18:22Z",
+     "comment": "Siakam is questionable for Monday's game against Oklahoma City due to left hip injury management, according to the NBA's injury report."
     },
     {
      "team_id": "11",
@@ -1311,7 +1335,7 @@
      "fg_pct": 50.7,
      "fg3_pct": 36.8,
      "ft_pct": 72.9,
-     "injury_status": null
+     "injury_status": "Day-To-Day"
     },
     {
      "athlete_id": "4396993",
@@ -1452,26 +1476,14 @@
     {
      "team_id": "25",
      "team": "Oklahoma City Thunder",
-     "athlete_id": "5174983",
-     "name": "Aday Mara",
-     "position": "C",
-     "status": "Day-To-Day",
-     "injury": "Right Lower Leg Bruise",
-     "return_date": "2026-11-23",
-     "updated": "2026-11-23T15:04Z",
-     "comment": "Mara (shin) is listed as out for Sunday's game versus Miami."
-    },
-    {
-     "team_id": "25",
-     "team": "Oklahoma City Thunder",
      "athlete_id": "4432823",
      "name": "Jaylin Williams",
      "position": "F",
-     "status": "Day-To-Day",
+     "status": "Out",
      "injury": "Back Spasms",
-     "return_date": "2026-11-23",
-     "updated": "2026-11-23T15:03Z",
-     "comment": "Williams (back) is listed as out for Sunday's game against Miami."
+     "return_date": "2026-11-25",
+     "updated": "2026-11-23T19:09Z",
+     "comment": "Williams (back) has been ruled out for Monday's game against the Pacers"
     },
     {
      "team_id": "25",
@@ -1479,23 +1491,35 @@
      "athlete_id": "5159925",
      "name": "Nikola Topic",
      "position": "G",
-     "status": "Day-To-Day",
-     "injury": "Left Hip Soreness",
-     "return_date": "2026-11-23",
-     "updated": "2026-11-23T15:03Z",
-     "comment": "Topic (hip) is listed as out for Sunday's game versus the Heat."
+     "status": "Out",
+     "injury": "Left Hip Strain",
+     "return_date": "2026-11-25",
+     "updated": "2026-11-23T18:49Z",
+     "comment": "Topic (hip) has been ruled out for Monday's game against the Pacers, according to the NBA's official injury report."
     },
     {
      "team_id": "25",
      "team": "Oklahoma City Thunder",
-     "athlete_id": "4278073",
-     "name": "Shai Gilgeous-Alexander",
+     "athlete_id": "5174983",
+     "name": "Aday Mara",
+     "position": "C",
+     "status": "Out",
+     "injury": "Right Lower Leg Bruise",
+     "return_date": "2026-11-25",
+     "updated": "2026-11-23T18:45Z",
+     "comment": "Mara (shin) has been ruled out for Monday's game against the Pacers."
+    },
+    {
+     "team_id": "25",
+     "team": "Oklahoma City Thunder",
+     "athlete_id": "4593803",
+     "name": "Jalen Williams",
      "position": "G",
-     "status": "Day-To-Day",
-     "injury": "Back Bruise",
-     "return_date": "2026-11-23",
-     "updated": "2026-11-23T15:03Z",
-     "comment": "Gilgeous-Alexander (back/neck) is listed as out for Sunday's game against the Heat."
+     "status": "Out",
+     "injury": "Left Leg Fracture",
+     "return_date": "2027-03-02",
+     "updated": "2026-11-23T18:43Z",
+     "comment": "Williams (ankle) has been ruled out for Monday's game against the Pacers, according to the NBA's official injury report."
     },
     {
      "team_id": "25",
@@ -1503,11 +1527,11 @@
      "athlete_id": "2991350",
      "name": "Alex Caruso",
      "position": "G",
-     "status": "Day-To-Day",
+     "status": "Out",
      "injury": "Right Hip Soreness",
-     "return_date": "2026-11-23",
-     "updated": "2026-11-23T15:03Z",
-     "comment": "Caruso (hip) won't play Sunday against the Heat."
+     "return_date": "2026-11-25",
+     "updated": "2026-11-23T18:38Z",
+     "comment": "Caruso (hip) has been ruled out for Monday's game against the Pacers, according to the NBA's official injury report."
     },
     {
      "team_id": "25",
@@ -1544,18 +1568,6 @@
      "return_date": "2027-01-02",
      "updated": "2026-10-31T01:02Z",
      "comment": "Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Slam reports."
-    },
-    {
-     "team_id": "25",
-     "team": "Oklahoma City Thunder",
-     "athlete_id": "4593803",
-     "name": "Jalen Williams",
-     "position": "G",
-     "status": "Out",
-     "injury": "Left Leg Fracture",
-     "return_date": "2027-03-02",
-     "updated": "2026-10-28T23:41Z",
-     "comment": "Williams (leg) underwent successful surgery Wednesday to \"address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation.\" He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports."
     }
    ],
    "top_players": [
@@ -1578,7 +1590,7 @@
      "fg_pct": 48.3,
      "fg3_pct": 37.3,
      "ft_pct": 82.6,
-     "injury_status": "Day-To-Day"
+     "injury_status": null
     },
     {
      "athlete_id": "4900671",
@@ -1765,19 +1777,19 @@
    ]
   },
   "prediction": {
-   "home_points": 109.6,
-   "away_points": 113.5,
-   "home_margin": -3.8,
-   "home_win_prob": 0.394,
-   "away_win_prob": 0.606,
+   "home_points": 107.9,
+   "away_points": 113.6,
+   "home_margin": -5.7,
+   "home_win_prob": 0.343,
+   "away_win_prob": 0.657,
    "margin_range80": [
-    -21.9,
-    14.3
+    -23.8,
+    12.4
    ],
-   "total": 223.1,
+   "total": 221.4,
    "total_range80": [
-    199.4,
-    246.8
+    197.7,
+    245.1
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -1785,7 +1797,7 @@
     "team_strength": -7.3,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 1.5
+    "injuries": -0.4
    },
    "back_to_back": {
     "home": true,
@@ -1796,28 +1808,34 @@
      {
       "athlete_id": "2530530",
       "name": "T.J. McConnell",
+      "status": "Out",
+      "impact": -0.9
+     },
+     {
+      "athlete_id": "3149673",
+      "name": "Pascal Siakam",
       "status": "Day-To-Day",
+      "impact": -0.8
+     },
+     {
+      "athlete_id": "4396909",
+      "name": "Aaron Nesmith",
+      "status": "Out",
       "impact": -0.3
      }
     ],
     "away": [
      {
-      "athlete_id": "4278073",
-      "name": "Shai Gilgeous-Alexander",
-      "status": "Day-To-Day",
-      "impact": -1.2
-     },
-     {
       "athlete_id": "5174983",
       "name": "Aday Mara",
-      "status": "Day-To-Day",
-      "impact": -0.4
+      "status": "Out",
+      "impact": -1.0
      },
      {
       "athlete_id": "2991350",
       "name": "Alex Caruso",
-      "status": "Day-To-Day",
-      "impact": -0.2
+      "status": "Out",
+      "impact": -0.7
      }
     ]
    },
@@ -1832,11 +1850,11 @@
     }
    },
    "vs_line": {
-    "spread": 4.5,
-    "over_under": 221.5,
-    "home_cover_prob": 0.52,
-    "over_prob": 0.535,
-    "provider": "DraftKings"
+    "spread": 5.5,
+    "over_under": 224.5,
+    "home_cover_prob": 0.494,
+    "over_prob": 0.434,
+    "provider": "Draft Kings"
    }
   }
  },
@@ -1849,7 +1867,7 @@
   "venue": "Scotiabank Arena",
   "date_kst": "2026-11-24T09:30:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "TOR -10.5",
    "spread": -10.5,
    "over_under": 222.5
@@ -2122,20 +2140,7 @@
     "net_rtg": -12.1
    },
    "rest_days": 1,
-   "injuries": [
-    {
-     "team_id": "15",
-     "team": "Milwaukee Bucks",
-     "athlete_id": "4997526",
-     "name": "Ousmane Dieng",
-     "position": "F",
-     "status": "Out",
-     "injury": "Left Finger Surgery",
-     "return_date": "2026-11-23",
-     "updated": "2026-11-22T21:37Z",
-     "comment": "Dieng (finger) is questionable for Monday's game against the Raptors."
-    }
-   ],
+   "injuries": [],
    "top_players": [
     {
      "athlete_id": "4395725",
@@ -2401,7 +2406,7 @@
     "over_under": 222.5,
     "home_cover_prob": 0.484,
     "over_prob": 0.628,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },
@@ -2414,7 +2419,7 @@
   "venue": "Target Center",
   "date_kst": "2026-11-24T09:30:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "MIN -11.5",
    "spread": -11.5,
    "over_under": 223.5
@@ -2900,7 +2905,7 @@
     "over_under": 223.5,
     "home_cover_prob": 0.608,
     "over_prob": 0.499,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },
@@ -2913,7 +2918,7 @@
   "venue": "United Center",
   "date_kst": "2026-11-24T10:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "CLE -8.5",
    "spread": 8.5,
    "over_under": 241.5
@@ -2971,14 +2976,26 @@
     {
      "team_id": "4",
      "team": "Chicago Bulls",
+     "athlete_id": "4397189",
+     "name": "Jalen Smith",
+     "position": "F",
+     "status": "Day-To-Day",
+     "injury": "Illness",
+     "return_date": "2026-11-23",
+     "updated": "2026-11-23T18:40Z",
+     "comment": "Smith (illness) is probable for Monday's game against Cleveland."
+    },
+    {
+     "team_id": "4",
+     "team": "Chicago Bulls",
      "athlete_id": "4278067",
      "name": "Nic Claxton",
      "position": "C",
      "status": "Day-To-Day",
      "injury": "Illness",
      "return_date": "2026-11-23",
-     "updated": "2026-11-23T15:06Z",
-     "comment": "Claxton (illness) won't play in Sunday's game against the Nuggets."
+     "updated": "2026-11-23T18:35Z",
+     "comment": "Claxton (illness) is questionable for Monday's game against Cleveland."
     },
     {
      "team_id": "4",
@@ -3088,7 +3105,7 @@
      "fg_pct": 54.6,
      "fg3_pct": 41.1,
      "ft_pct": 76.2,
-     "injury_status": null
+     "injury_status": "Day-To-Day"
     },
     {
      "athlete_id": "4871145",
@@ -3407,19 +3424,19 @@
    ]
   },
   "prediction": {
-   "home_points": 114.3,
+   "home_points": 113.8,
    "away_points": 122.3,
-   "home_margin": -8.1,
-   "home_win_prob": 0.284,
-   "away_win_prob": 0.716,
+   "home_margin": -8.6,
+   "home_win_prob": 0.272,
+   "away_win_prob": 0.728,
    "margin_range80": [
-    -26.2,
-    10.1
+    -26.7,
+    9.5
    ],
-   "total": 236.6,
+   "total": 236.1,
    "total_range80": [
-    212.9,
-    260.3
+    212.4,
+    259.8
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -3427,7 +3444,7 @@
     "team_strength": -5.6,
     "home_court": 2.0,
     "rest": -3.0,
-    "injuries": -1.5
+    "injuries": -2.0
    },
    "back_to_back": {
     "home": true,
@@ -3446,6 +3463,12 @@
       "name": "Caleb Wilson",
       "status": "Out",
       "impact": -1.5
+     },
+     {
+      "athlete_id": "4397189",
+      "name": "Jalen Smith",
+      "status": "Day-To-Day",
+      "impact": -0.5
      },
      {
       "athlete_id": "4278067",
@@ -3476,9 +3499,9 @@
    "vs_line": {
     "spread": 8.5,
     "over_under": 241.5,
-    "home_cover_prob": 0.512,
-    "over_prob": 0.396,
-    "provider": "DraftKings"
+    "home_cover_prob": 0.498,
+    "over_prob": 0.385,
+    "provider": "Draft Kings"
    }
   }
  },
@@ -3491,10 +3514,10 @@
   "venue": "Smoothie King Center",
   "date_kst": "2026-11-24T10:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "PHX -3.5",
    "spread": 3.5,
-   "over_under": 233.5
+   "over_under": 232.5
   },
   "home": {
    "id": "3",
@@ -3546,30 +3569,6 @@
    },
    "rest_days": 1,
    "injuries": [
-    {
-     "team_id": "3",
-     "team": "New Orleans Pelicans",
-     "athlete_id": "4397688",
-     "name": "Trey Murphy III",
-     "position": "F",
-     "status": "Day-To-Day",
-     "injury": "Knee",
-     "return_date": "2026-11-23",
-     "updated": "2026-11-22T21:02Z",
-     "comment": "Murphy (knees) is listed as probable for Monday's game against the Suns."
-    },
-    {
-     "team_id": "3",
-     "team": "New Orleans Pelicans",
-     "athlete_id": "4576086",
-     "name": "Bryce McGowens",
-     "position": "G",
-     "status": "Out",
-     "injury": "Left Elbow Infection",
-     "return_date": "2026-11-23",
-     "updated": "2026-11-22T20:53Z",
-     "comment": "McGowens (elbow) is listed as probable for Monday's game against Phoenix."
-    },
     {
      "team_id": "3",
      "team": "New Orleans Pelicans",
@@ -3702,7 +3701,7 @@
      "fg_pct": 46.8,
      "fg3_pct": 37.7,
      "ft_pct": 85.7,
-     "injury_status": "Day-To-Day"
+     "injury_status": null
     },
     {
      "athlete_id": "3907497",
@@ -3777,18 +3776,6 @@
    },
    "rest_days": 2,
    "injuries": [
-    {
-     "team_id": "21",
-     "team": "Phoenix Suns",
-     "athlete_id": "4888725",
-     "name": "Ryan Dunn",
-     "position": "F",
-     "status": "Day-To-Day",
-     "injury": "Right Quadriceps Soreness",
-     "return_date": "2026-11-23",
-     "updated": "2026-11-22T23:24Z",
-     "comment": "Dunn (quadriceps) is listed as questionable for Monday's game against the Pelicans."
-    },
     {
      "team_id": "21",
      "team": "Phoenix Suns",
@@ -4009,19 +3996,19 @@
    ]
   },
   "prediction": {
-   "home_points": 113.9,
+   "home_points": 114.6,
    "away_points": 120.0,
-   "home_margin": -6.0,
-   "home_win_prob": 0.335,
-   "away_win_prob": 0.665,
+   "home_margin": -5.4,
+   "home_win_prob": 0.351,
+   "away_win_prob": 0.649,
    "margin_range80": [
-    -24.2,
-    12.1
+    -23.5,
+    12.7
    ],
-   "total": 233.9,
+   "total": 234.5,
    "total_range80": [
-    210.2,
-    257.6
+    210.8,
+    258.2
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -4029,7 +4016,7 @@
     "team_strength": -5.3,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": -2.7
+    "injuries": -2.1
    },
    "back_to_back": {
     "home": false,
@@ -4048,28 +4035,9 @@
       "name": "Zion Williamson",
       "status": "Day-To-Day",
       "impact": -1.0
-     },
-     {
-      "athlete_id": "4397688",
-      "name": "Trey Murphy III",
-      "status": "Day-To-Day",
-      "impact": -0.5
-     },
-     {
-      "athlete_id": "4576086",
-      "name": "Bryce McGowens",
-      "status": "Out",
-      "impact": -0.1
      }
     ],
-    "away": [
-     {
-      "athlete_id": "4888725",
-      "name": "Ryan Dunn",
-      "status": "Day-To-Day",
-      "impact": -0.0
-     }
-    ]
+    "away": []
    },
    "ratings": {
     "home": {
@@ -4083,10 +4051,10 @@
    },
    "vs_line": {
     "spread": 3.5,
-    "over_under": 233.5,
-    "home_cover_prob": 0.429,
-    "over_prob": 0.508,
-    "provider": "DraftKings"
+    "over_under": 232.5,
+    "home_cover_prob": 0.447,
+    "over_prob": 0.544,
+    "provider": "Draft Kings"
    }
   }
  },
@@ -4099,7 +4067,7 @@
   "venue": "Toyota Center (Houston)",
   "date_kst": "2026-11-24T10:30:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "HOU -12.5",
    "spread": -12.5,
    "over_under": 223.5
@@ -4589,7 +4557,7 @@
     "over_under": 223.5,
     "home_cover_prob": 0.441,
     "over_prob": 0.604,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },
@@ -4602,7 +4570,7 @@
   "venue": "crypto.com Arena",
   "date_kst": "2026-11-24T12:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "LAL -13.5",
    "spread": -13.5,
    "over_under": 224.5
@@ -5149,7 +5117,7 @@
     "over_under": 224.5,
     "home_cover_prob": 0.409,
     "over_prob": 0.583,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },
@@ -5162,10 +5130,10 @@
   "venue": "Golden 1 Center",
   "date_kst": "2026-11-24T12:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
-   "details": "SA -10.5",
-   "spread": 10.5,
-   "over_under": 223.5
+   "provider": "Draft Kings",
+   "details": "SA -12.5",
+   "spread": 12.5,
+   "over_under": 224.5
   },
   "home": {
    "id": "23",
@@ -5740,11 +5708,11 @@
     }
    },
    "vs_line": {
-    "spread": 10.5,
-    "over_under": 223.5,
-    "home_cover_prob": 0.562,
-    "over_prob": 0.447,
-    "provider": "DraftKings"
+    "spread": 12.5,
+    "over_under": 224.5,
+    "home_cover_prob": 0.617,
+    "over_prob": 0.425,
+    "provider": "Draft Kings"
    }
   }
  },
@@ -8267,14 +8235,26 @@
     {
      "team_id": "4",
      "team": "Chicago Bulls",
+     "athlete_id": "4397189",
+     "name": "Jalen Smith",
+     "position": "F",
+     "status": "Day-To-Day",
+     "injury": "Illness",
+     "return_date": "2026-11-23",
+     "updated": "2026-11-23T18:40Z",
+     "comment": "Smith (illness) is probable for Monday's game against Cleveland."
+    },
+    {
+     "team_id": "4",
+     "team": "Chicago Bulls",
      "athlete_id": "4278067",
      "name": "Nic Claxton",
      "position": "C",
      "status": "Day-To-Day",
      "injury": "Illness",
      "return_date": "2026-11-23",
-     "updated": "2026-11-23T15:06Z",
-     "comment": "Claxton (illness) won't play in Sunday's game against the Nuggets."
+     "updated": "2026-11-23T18:35Z",
+     "comment": "Claxton (illness) is questionable for Monday's game against Cleveland."
     },
     {
      "team_id": "4",
@@ -8384,7 +8364,7 @@
      "fg_pct": 54.6,
      "fg3_pct": 41.1,
      "ft_pct": 76.2,
-     "injury_status": null
+     "injury_status": "Day-To-Day"
     },
     {
      "athlete_id": "4871145",
@@ -8509,18 +8489,18 @@
   },
   "prediction": {
    "home_points": 114.0,
-   "away_points": 111.1,
-   "home_margin": 2.9,
-   "home_win_prob": 0.581,
-   "away_win_prob": 0.419,
+   "away_points": 110.5,
+   "home_margin": 3.4,
+   "home_win_prob": 0.595,
+   "away_win_prob": 0.405,
    "margin_range80": [
-    -15.2,
-    21.0
+    -14.7,
+    21.6
    ],
-   "total": 225.0,
+   "total": 224.5,
    "total_range80": [
-    201.3,
-    248.7
+    200.8,
+    248.2
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -8528,7 +8508,7 @@
     "team_strength": -0.3,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 1.2
+    "injuries": 1.7
    },
    "back_to_back": {
     "home": false,
@@ -8573,6 +8553,12 @@
       "name": "Caleb Wilson",
       "status": "Out",
       "impact": -1.5
+     },
+     {
+      "athlete_id": "4397189",
+      "name": "Jalen Smith",
+      "status": "Day-To-Day",
+      "impact": -0.5
      },
      {
       "athlete_id": "4278067",
@@ -9214,26 +9200,14 @@
     {
      "team_id": "25",
      "team": "Oklahoma City Thunder",
-     "athlete_id": "5174983",
-     "name": "Aday Mara",
-     "position": "C",
-     "status": "Day-To-Day",
-     "injury": "Right Lower Leg Bruise",
-     "return_date": "2026-11-23",
-     "updated": "2026-11-23T15:04Z",
-     "comment": "Mara (shin) is listed as out for Sunday's game versus Miami."
-    },
-    {
-     "team_id": "25",
-     "team": "Oklahoma City Thunder",
      "athlete_id": "4432823",
      "name": "Jaylin Williams",
      "position": "F",
-     "status": "Day-To-Day",
+     "status": "Out",
      "injury": "Back Spasms",
-     "return_date": "2026-11-23",
-     "updated": "2026-11-23T15:03Z",
-     "comment": "Williams (back) is listed as out for Sunday's game against Miami."
+     "return_date": "2026-11-25",
+     "updated": "2026-11-23T19:09Z",
+     "comment": "Williams (back) has been ruled out for Monday's game against the Pacers"
     },
     {
      "team_id": "25",
@@ -9241,23 +9215,35 @@
      "athlete_id": "5159925",
      "name": "Nikola Topic",
      "position": "G",
-     "status": "Day-To-Day",
-     "injury": "Left Hip Soreness",
-     "return_date": "2026-11-23",
-     "updated": "2026-11-23T15:03Z",
-     "comment": "Topic (hip) is listed as out for Sunday's game versus the Heat."
+     "status": "Out",
+     "injury": "Left Hip Strain",
+     "return_date": "2026-11-25",
+     "updated": "2026-11-23T18:49Z",
+     "comment": "Topic (hip) has been ruled out for Monday's game against the Pacers, according to the NBA's official injury report."
     },
     {
      "team_id": "25",
      "team": "Oklahoma City Thunder",
-     "athlete_id": "4278073",
-     "name": "Shai Gilgeous-Alexander",
+     "athlete_id": "5174983",
+     "name": "Aday Mara",
+     "position": "C",
+     "status": "Out",
+     "injury": "Right Lower Leg Bruise",
+     "return_date": "2026-11-25",
+     "updated": "2026-11-23T18:45Z",
+     "comment": "Mara (shin) has been ruled out for Monday's game against the Pacers."
+    },
+    {
+     "team_id": "25",
+     "team": "Oklahoma City Thunder",
+     "athlete_id": "4593803",
+     "name": "Jalen Williams",
      "position": "G",
-     "status": "Day-To-Day",
-     "injury": "Back Bruise",
-     "return_date": "2026-11-23",
-     "updated": "2026-11-23T15:03Z",
-     "comment": "Gilgeous-Alexander (back/neck) is listed as out for Sunday's game against the Heat."
+     "status": "Out",
+     "injury": "Left Leg Fracture",
+     "return_date": "2027-03-02",
+     "updated": "2026-11-23T18:43Z",
+     "comment": "Williams (ankle) has been ruled out for Monday's game against the Pacers, according to the NBA's official injury report."
     },
     {
      "team_id": "25",
@@ -9265,11 +9251,11 @@
      "athlete_id": "2991350",
      "name": "Alex Caruso",
      "position": "G",
-     "status": "Day-To-Day",
+     "status": "Out",
      "injury": "Right Hip Soreness",
-     "return_date": "2026-11-23",
-     "updated": "2026-11-23T15:03Z",
-     "comment": "Caruso (hip) won't play Sunday against the Heat."
+     "return_date": "2026-11-25",
+     "updated": "2026-11-23T18:38Z",
+     "comment": "Caruso (hip) has been ruled out for Monday's game against the Pacers, according to the NBA's official injury report."
     },
     {
      "team_id": "25",
@@ -9306,18 +9292,6 @@
      "return_date": "2027-01-02",
      "updated": "2026-10-31T01:02Z",
      "comment": "Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Slam reports."
-    },
-    {
-     "team_id": "25",
-     "team": "Oklahoma City Thunder",
-     "athlete_id": "4593803",
-     "name": "Jalen Williams",
-     "position": "G",
-     "status": "Out",
-     "injury": "Left Leg Fracture",
-     "return_date": "2027-03-02",
-     "updated": "2026-10-28T23:41Z",
-     "comment": "Williams (leg) underwent successful surgery Wednesday to \"address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation.\" He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports."
     }
    ],
    "top_players": [
@@ -9340,7 +9314,7 @@
      "fg_pct": 48.3,
      "fg3_pct": 37.3,
      "ft_pct": 82.6,
-     "injury_status": "Day-To-Day"
+     "injury_status": null
     },
     {
      "athlete_id": "4900671",
@@ -9722,19 +9696,19 @@
    ]
   },
   "prediction": {
-   "home_points": 110.3,
+   "home_points": 110.4,
    "away_points": 110.1,
-   "home_margin": 0.2,
-   "home_win_prob": 0.506,
-   "away_win_prob": 0.494,
+   "home_margin": 0.3,
+   "home_win_prob": 0.509,
+   "away_win_prob": 0.491,
    "margin_range80": [
-    -17.9,
-    18.3
+    -17.8,
+    18.5
    ],
-   "total": 220.3,
+   "total": 220.5,
    "total_range80": [
-    196.6,
-    244.0
+    196.8,
+    244.2
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -9742,7 +9716,7 @@
     "team_strength": 0.0,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": -1.8
+    "injuries": -1.7
    },
    "back_to_back": {
     "home": false,
@@ -9751,22 +9725,16 @@
    "injury_impact": {
     "home": [
      {
-      "athlete_id": "4278073",
-      "name": "Shai Gilgeous-Alexander",
-      "status": "Day-To-Day",
-      "impact": -1.2
-     },
-     {
       "athlete_id": "5174983",
       "name": "Aday Mara",
-      "status": "Day-To-Day",
-      "impact": -0.4
+      "status": "Out",
+      "impact": -1.0
      },
      {
       "athlete_id": "2991350",
       "name": "Alex Caruso",
-      "status": "Day-To-Day",
-      "impact": -0.2
+      "status": "Out",
+      "impact": -0.7
      }
     ],
     "away": []
@@ -10410,20 +10378,7 @@
     "net_rtg": -12.1
    },
    "rest_days": 1,
-   "injuries": [
-    {
-     "team_id": "15",
-     "team": "Milwaukee Bucks",
-     "athlete_id": "4997526",
-     "name": "Ousmane Dieng",
-     "position": "F",
-     "status": "Out",
-     "injury": "Left Finger Surgery",
-     "return_date": "2026-11-23",
-     "updated": "2026-11-22T21:37Z",
-     "comment": "Dieng (finger) is questionable for Monday's game against the Raptors."
-    }
-   ],
+   "injuries": [],
    "top_players": [
     {
      "athlete_id": "4395725",
@@ -11070,18 +11025,6 @@
     {
      "team_id": "21",
      "team": "Phoenix Suns",
-     "athlete_id": "4888725",
-     "name": "Ryan Dunn",
-     "position": "F",
-     "status": "Day-To-Day",
-     "injury": "Right Quadriceps Soreness",
-     "return_date": "2026-11-23",
-     "updated": "2026-11-22T23:24Z",
-     "comment": "Dunn (quadriceps) is listed as questionable for Monday's game against the Pelicans."
-    },
-    {
-     "team_id": "21",
-     "team": "Phoenix Suns",
      "athlete_id": "4701232",
      "name": "Mark Williams",
      "position": "C",
@@ -11319,7 +11262,7 @@
     "team_strength": 4.3,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 0.0
+    "injuries": -0.0
    },
    "back_to_back": {
     "home": false,
@@ -11327,14 +11270,7 @@
    },
    "injury_impact": {
     "home": [],
-    "away": [
-     {
-      "athlete_id": "4888725",
-      "name": "Ryan Dunn",
-      "status": "Day-To-Day",
-      "impact": -0.0
-     }
-    ]
+    "away": []
    },
    "ratings": {
     "home": {
@@ -11415,8 +11351,8 @@
      "status": "Out",
      "injury": "Left Hamstring Strain",
      "return_date": "2026-11-25",
-     "updated": "2026-11-22T06:10Z",
-     "comment": "Williams (hamstring) is out for Sunday's game against the Celtics."
+     "updated": "2026-11-23T20:52Z",
+     "comment": "Head coach Steve Kerr said Monday that Williams (hamstring) is on track to return Wednesday against the Kings, Kenzo Fukuda of ClutchPoints.com reports."
     },
     {
      "team_id": "9",
