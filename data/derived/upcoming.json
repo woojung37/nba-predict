@@ -1,525 +1,5 @@
 [
  {
-  "id": "401910030",
-  "date": "2026-11-22T23:00Z",
-  "season_type": 2,
-  "state": "in",
-  "neutral": false,
-  "venue": "Kaseya Center",
-  "date_kst": "2026-11-23T08:00:00+09:00",
-  "home": {
-   "id": "14",
-   "abbr": "MIA",
-   "name": "Miami Heat",
-   "standing": {
-    "team_id": "14",
-    "abbr": "MIA",
-    "conference": "Eastern Conference",
-    "seed": 6,
-    "wins": 9,
-    "losses": 6,
-    "win_pct": 0.6,
-    "games_behind": "4",
-    "home": "5-3",
-    "road": "4-3",
-    "last10": "8-2",
-    "streak": "W6",
-    "ppg": 120.53333,
-    "opp_ppg": 119.86667
-   },
-   "stats": {
-    "gp": 15,
-    "record": [
-     9,
-     6
-    ],
-    "home_record": [
-     5,
-     3
-    ],
-    "away_record": [
-     4,
-     3
-    ],
-    "ppg": 120.5,
-    "opp_ppg": 119.9,
-    "avg_margin": 0.7,
-    "last10_record": [
-     8,
-     2
-    ],
-    "last10_margin": 4.9,
-    "last_game": "2026-11-19T00:00Z",
-    "pace": 105.2,
-    "ortg": 114.5,
-    "drtg": 113.9,
-    "net_rtg": 0.6
-   },
-   "rest_days": 3,
-   "injuries": [
-    {
-     "team_id": "14",
-     "team": "Miami Heat",
-     "athlete_id": "3032977",
-     "name": "Giannis Antetokounmpo",
-     "position": "F",
-     "status": "Out",
-     "injury": "Groin",
-     "return_date": "2026-11-25",
-     "updated": "2026-11-22T22:09Z",
-     "comment": "Antetokounmpo (groin) won't play in Sunday's game against Oklahoma City, Clemente Almanza of USA Today reports."
-    }
-   ],
-   "top_players": [
-    {
-     "athlete_id": "3032977",
-     "name": "Giannis Antetokounmpo",
-     "position": "F",
-     "team_id": "14",
-     "gp": 15,
-     "gs": 15,
-     "last_game": "2026-11-19",
-     "min": 32.2,
-     "pts": 28.2,
-     "reb": 12.5,
-     "ast": 5.5,
-     "stl": 0.9,
-     "blk": 1.3,
-     "tov": 3.1,
-     "plus_minus": 2.3,
-     "fg_pct": 60.4,
-     "fg3_pct": 24.2,
-     "ft_pct": 64.5,
-     "injury_status": "Out"
-    },
-    {
-     "athlete_id": "4066261",
-     "name": "Bam Adebayo",
-     "position": "C",
-     "team_id": "14",
-     "gp": 15,
-     "gs": 15,
-     "last_game": "2026-11-19",
-     "min": 32.3,
-     "pts": 18.9,
-     "reb": 7.7,
-     "ast": 3.1,
-     "stl": 2.1,
-     "blk": 0.7,
-     "tov": 1.5,
-     "plus_minus": 1.6,
-     "fg_pct": 52.4,
-     "fg3_pct": 24.5,
-     "ft_pct": 74.0,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "4278053",
-     "name": "Davion Mitchell",
-     "position": "G",
-     "team_id": "14",
-     "gp": 15,
-     "gs": 15,
-     "last_game": "2026-11-19",
-     "min": 35.5,
-     "pts": 17.2,
-     "reb": 2.4,
-     "ast": 9.0,
-     "stl": 1.3,
-     "blk": 0.7,
-     "tov": 2.5,
-     "plus_minus": 1.3,
-     "fg_pct": 50.8,
-     "fg3_pct": 43.7,
-     "ft_pct": 76.2,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "6475",
-     "name": "Klay Thompson",
-     "position": "G",
-     "team_id": "14",
-     "gp": 14,
-     "gs": 14,
-     "last_game": "2026-11-19",
-     "min": 24.1,
-     "pts": 15.3,
-     "reb": 1.4,
-     "ast": 2.0,
-     "stl": 0.1,
-     "blk": 0.8,
-     "tov": 0.9,
-     "plus_minus": 1.4,
-     "fg_pct": 44.8,
-     "fg3_pct": 43.2,
-     "ft_pct": 100.0,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "4601025",
-     "name": "Pelle Larsson",
-     "position": "G",
-     "team_id": "14",
-     "gp": 12,
-     "gs": 3,
-     "last_game": "2026-11-19",
-     "min": 28.3,
-     "pts": 10.8,
-     "reb": 3.3,
-     "ast": 3.4,
-     "stl": 1.2,
-     "blk": 0.1,
-     "tov": 2.0,
-     "plus_minus": -1.3,
-     "fg_pct": 46.8,
-     "fg3_pct": 47.1,
-     "ft_pct": 88.6,
-     "injury_status": null
-    }
-   ]
-  },
-  "away": {
-   "id": "25",
-   "abbr": "OKC",
-   "name": "Oklahoma City Thunder",
-   "standing": {
-    "team_id": "25",
-    "abbr": "OKC",
-    "conference": "Western Conference",
-    "seed": 8,
-    "wins": 10,
-    "losses": 6,
-    "win_pct": 0.625,
-    "games_behind": "3.5",
-    "home": "6-1",
-    "road": "4-5",
-    "last10": "6-4",
-    "streak": "W1",
-    "ppg": 113.0,
-    "opp_ppg": 108.5
-   },
-   "stats": {
-    "gp": 16,
-    "record": [
-     10,
-     6
-    ],
-    "home_record": [
-     6,
-     1
-    ],
-    "away_record": [
-     4,
-     5
-    ],
-    "ppg": 113.0,
-    "opp_ppg": 108.5,
-    "avg_margin": 4.5,
-    "last10_record": [
-     6,
-     4
-    ],
-    "last10_margin": 7.5,
-    "last_game": "2026-11-21T01:00Z",
-    "pace": 102.1,
-    "ortg": 110.6,
-    "drtg": 106.2,
-    "net_rtg": 4.4
-   },
-   "rest_days": 1,
-   "injuries": [
-    {
-     "team_id": "25",
-     "team": "Oklahoma City Thunder",
-     "athlete_id": "5174983",
-     "name": "Aday Mara",
-     "position": "C",
-     "status": "Out",
-     "injury": "Right Lower Leg Bruise",
-     "return_date": "2026-11-23",
-     "updated": "2026-11-22T22:35Z",
-     "comment": "Mara (shin) is listed as out for Sunday's game versus Miami."
-    },
-    {
-     "team_id": "25",
-     "team": "Oklahoma City Thunder",
-     "athlete_id": "4278073",
-     "name": "Shai Gilgeous-Alexander",
-     "position": "G",
-     "status": "Out",
-     "injury": "Back Bruise",
-     "return_date": "2026-11-23",
-     "updated": "2026-11-22T21:35Z",
-     "comment": "Gilgeous-Alexander (back/neck) is listed as out for Sunday's game against the Heat."
-    },
-    {
-     "team_id": "25",
-     "team": "Oklahoma City Thunder",
-     "athlete_id": "5159925",
-     "name": "Nikola Topic",
-     "position": "G",
-     "status": "Out",
-     "injury": "Left Hip Soreness",
-     "return_date": "2026-11-23",
-     "updated": "2026-11-21T22:39Z",
-     "comment": "Topic (hip) is listed as out for Sunday's game versus the Heat."
-    },
-    {
-     "team_id": "25",
-     "team": "Oklahoma City Thunder",
-     "athlete_id": "4432823",
-     "name": "Jaylin Williams",
-     "position": "F",
-     "status": "Out",
-     "injury": "Back Spasms",
-     "return_date": "2026-11-23",
-     "updated": "2026-11-21T22:34Z",
-     "comment": "Williams (back) is listed as out for Sunday's game against Miami."
-    },
-    {
-     "team_id": "25",
-     "team": "Oklahoma City Thunder",
-     "athlete_id": "2991350",
-     "name": "Alex Caruso",
-     "position": "G",
-     "status": "Out",
-     "injury": "Right Hip Soreness",
-     "return_date": "2026-11-23",
-     "updated": "2026-11-21T22:29Z",
-     "comment": "Caruso (hip) won't play Sunday against the Heat."
-    },
-    {
-     "team_id": "25",
-     "team": "Oklahoma City Thunder",
-     "athlete_id": "5061603",
-     "name": "Thomas Sorber",
-     "position": "C",
-     "status": "Out",
-     "injury": "Knee",
-     "return_date": "2027-01-31",
-     "updated": "2026-11-18T00:01Z",
-     "comment": "Sorber underwent an arthroscopic knee procedure Tuesday to address inflammation at the patellofemoral joint in his right knee, and he's expected to return to on-court activities in 6-8 weeks, Steve McGehee of News 9 Oklahoma City reports."
-    },
-    {
-     "team_id": "25",
-     "team": "Oklahoma City Thunder",
-     "athlete_id": "4683692",
-     "name": "Cason Wallace",
-     "position": "G",
-     "status": "Out",
-     "injury": "Left Shoulder Surgery",
-     "return_date": "2027-03-02",
-     "updated": "2026-10-31T01:16Z",
-     "comment": "Wallace underwent surgery Friday to repair a torn labrum in his left shoulder and will be re-evaluated before the end of the regular season, Clemente Almanza of USA Today reports."
-    },
-    {
-     "team_id": "25",
-     "team": "Oklahoma City Thunder",
-     "athlete_id": "4433255",
-     "name": "Chet Holmgren",
-     "position": "C",
-     "status": "Out",
-     "injury": "Right Knee",
-     "return_date": "2027-01-02",
-     "updated": "2026-10-31T01:02Z",
-     "comment": "Holmgren underwent a biological treatment Friday to address a small patellar tendon tear and will miss at least 8-10 weeks, Nick Crain of Slam reports."
-    },
-    {
-     "team_id": "25",
-     "team": "Oklahoma City Thunder",
-     "athlete_id": "4593803",
-     "name": "Jalen Williams",
-     "position": "G",
-     "status": "Out",
-     "injury": "Left Leg Fracture",
-     "return_date": "2027-03-02",
-     "updated": "2026-10-28T23:41Z",
-     "comment": "Williams (leg) underwent successful surgery Wednesday to \"address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation.\" He will be re-evaluated before the end of the regular season, Tim MacMahon of ESPN.com reports."
-    }
-   ],
-   "top_players": [
-    {
-     "athlete_id": "4278073",
-     "name": "Shai Gilgeous-Alexander",
-     "position": "G",
-     "team_id": "25",
-     "gp": 16,
-     "gs": 16,
-     "last_game": "2026-11-21",
-     "min": 33.5,
-     "pts": 31.7,
-     "reb": 4.1,
-     "ast": 4.5,
-     "stl": 0.9,
-     "blk": 0.9,
-     "tov": 2.2,
-     "plus_minus": 4.9,
-     "fg_pct": 48.3,
-     "fg3_pct": 37.3,
-     "ft_pct": 82.6,
-     "injury_status": "Out"
-    },
-    {
-     "athlete_id": "4900671",
-     "name": "Ajay Mitchell",
-     "position": "G",
-     "team_id": "25",
-     "gp": 14,
-     "gs": 11,
-     "last_game": "2026-11-21",
-     "min": 28.0,
-     "pts": 17.0,
-     "reb": 3.6,
-     "ast": 3.6,
-     "stl": 1.1,
-     "blk": 0.4,
-     "tov": 1.4,
-     "plus_minus": 4.9,
-     "fg_pct": 49.5,
-     "fg3_pct": 25.6,
-     "ft_pct": 84.1,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "4683778",
-     "name": "Jared McCain",
-     "position": "G",
-     "team_id": "25",
-     "gp": 16,
-     "gs": 10,
-     "last_game": "2026-11-21",
-     "min": 27.4,
-     "pts": 13.9,
-     "reb": 3.3,
-     "ast": 1.7,
-     "stl": 0.9,
-     "blk": 0.2,
-     "tov": 1.6,
-     "plus_minus": 1.9,
-     "fg_pct": 41.5,
-     "fg3_pct": 34.2,
-     "ft_pct": 78.1,
-     "injury_status": null
-    },
-    {
-     "athlete_id": "4593803",
-     "name": "Jalen Williams",
-     "position": "G",
-     "team_id": "25",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 31.7,
-     "pts": 13.7,
-     "reb": 4.7,
-     "ast": 3.3,
-     "stl": 1.0,
-     "blk": 0.7,
-     "tov": 1.3,
-     "plus_minus": 0.7,
-     "fg_pct": 38.5,
-     "fg3_pct": 33.3,
-     "ft_pct": 80.0,
-     "injury_status": "Out"
-    },
-    {
-     "athlete_id": "4433255",
-     "name": "Chet Holmgren",
-     "position": "C",
-     "team_id": "25",
-     "gp": 3,
-     "gs": 3,
-     "last_game": "2026-10-25",
-     "min": 30.0,
-     "pts": 12.0,
-     "reb": 9.3,
-     "ast": 1.3,
-     "stl": 0.7,
-     "blk": 3.0,
-     "tov": 1.7,
-     "plus_minus": 1.7,
-     "fg_pct": 40.7,
-     "fg3_pct": 33.3,
-     "ft_pct": 100.0,
-     "injury_status": "Out"
-    }
-   ]
-  },
-  "head_to_head": {
-   "games": 6,
-   "wins": 1,
-   "losses": 5,
-   "avg_margin": -7.7,
-   "recent": [
-    {
-     "id": "401810452",
-     "date": "2026-01-18T01:00Z",
-     "season": 2026,
-     "home": "MIA",
-     "away": "OKC",
-     "home_score": 122,
-     "away_score": 120
-    },
-    {
-     "id": "401810408",
-     "date": "2026-01-12T00:00Z",
-     "season": 2026,
-     "home": "OKC",
-     "away": "MIA",
-     "home_score": 124,
-     "away_score": 112
-    },
-    {
-     "id": "401705344",
-     "date": "2025-02-13T01:00Z",
-     "season": 2025,
-     "home": "OKC",
-     "away": "MIA",
-     "home_score": 115,
-     "away_score": 101
-    },
-    {
-     "id": "401704941",
-     "date": "2024-12-21T01:00Z",
-     "season": 2025,
-     "home": "MIA",
-     "away": "OKC",
-     "home_score": 97,
-     "away_score": 104
-    },
-    {
-     "id": "401585542",
-     "date": "2024-03-09T01:00Z",
-     "season": 2024,
-     "home": "OKC",
-     "away": "MIA",
-     "home_score": 107,
-     "away_score": 100
-    },
-    {
-     "id": "401585150",
-     "date": "2024-01-11T00:30Z",
-     "season": 2024,
-     "home": "MIA",
-     "away": "OKC",
-     "home_score": 120,
-     "away_score": 128
-    }
-   ]
-  },
-  "pre_game_prediction": {
-   "home_points": 115.9,
-   "away_points": 118.9,
-   "home_margin": -3.0,
-   "home_win_prob": 0.416,
-   "margin_range80": [
-    -21.1,
-    15.1
-   ],
-   "total": 234.8
-  }
- },
- {
   "id": "401910031",
   "date": "2026-11-23T00:00Z",
   "season_type": 2,
@@ -1560,6 +1040,18 @@
     {
      "team_id": "26",
      "team": "Utah Jazz",
+     "athlete_id": "4397077",
+     "name": "Jaxson Hayes",
+     "position": "C",
+     "status": "Out",
+     "injury": "Left Knee Not Specified",
+     "return_date": "2026-11-23",
+     "updated": "2026-11-23T01:16Z",
+     "comment": "Hayes (knee) has been ruled out for the remainder of Sunday's game against the Mavericks, Grant Afseth of DallasHoopsJournal.com reports."
+    },
+    {
+     "team_id": "26",
+     "team": "Utah Jazz",
      "athlete_id": "3102530",
      "name": "Jusuf Nurkic",
      "position": "C",
@@ -2035,16 +1527,10 @@
   "id": "401910034",
   "date": "2026-11-23T01:00Z",
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "neutral": false,
   "venue": "Madison Square Garden",
   "date_kst": "2026-11-23T10:00:00+09:00",
-  "odds": {
-   "provider": "Draft Kings",
-   "details": "NY -6.5",
-   "spread": -6.5,
-   "over_under": 214.5
-  },
   "home": {
    "id": "18",
    "abbr": "NY",
@@ -2053,7 +1539,7 @@
     "team_id": "18",
     "abbr": "NY",
     "conference": "Eastern Conference",
-    "seed": 4,
+    "seed": 6,
     "wins": 10,
     "losses": 6,
     "win_pct": 0.625,
@@ -2545,74 +2031,16 @@
     }
    ]
   },
-  "prediction": {
-   "home_points": 111.3,
-   "away_points": 104.4,
+  "pre_game_prediction": {
+   "home_points": 110.5,
+   "away_points": 103.6,
    "home_margin": 6.9,
-   "home_win_prob": 0.688,
-   "away_win_prob": 0.312,
+   "home_win_prob": 0.687,
    "margin_range80": [
-    -11.2,
-    25.1
+    -11.3,
+    25.0
    ],
-   "total": 215.7,
-   "total_range80": [
-    192.0,
-    239.4
-   ],
-   "sigma": 14.15,
-   "total_sigma": 18.49,
-   "factors": {
-    "team_strength": 8.4,
-    "home_court": 2.0,
-    "rest": -3.0,
-    "injuries": -0.4
-   },
-   "back_to_back": {
-    "home": true,
-    "away": false
-   },
-   "injury_impact": {
-    "home": [
-     {
-      "athlete_id": "3934719",
-      "name": "OG Anunoby",
-      "status": "Out",
-      "impact": -1.3
-     },
-     {
-      "athlete_id": "4431823",
-      "name": "Miles McBride",
-      "status": "Out",
-      "impact": -0.1
-     }
-    ],
-    "away": [
-     {
-      "athlete_id": "2530530",
-      "name": "T.J. McConnell",
-      "status": "Out",
-      "impact": -0.9
-     }
-    ]
-   },
-   "ratings": {
-    "home": {
-     "offense": -2.9,
-     "defense": -9.1
-    },
-    "away": {
-     "offense": 0.4,
-     "defense": 2.6
-    }
-   },
-   "vs_line": {
-    "spread": -6.5,
-    "over_under": 214.5,
-    "home_cover_prob": 0.512,
-    "over_prob": 0.526,
-    "provider": "Draft Kings"
-   }
+   "total": 214.1
   }
  },
  {
@@ -2627,7 +2055,7 @@
    "provider": "Draft Kings",
    "details": "BOS -8.5",
    "spread": 8.5,
-   "over_under": 212.5
+   "over_under": 211.5
   },
   "home": {
    "id": "9",
@@ -3103,10 +2531,10 @@
     -22.1,
     14.2
    ],
-   "total": 211.0,
+   "total": 211.1,
    "total_range80": [
-    187.3,
-    234.7
+    187.4,
+    234.8
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -3162,9 +2590,9 @@
    },
    "vs_line": {
     "spread": 8.5,
-    "over_under": 212.5,
+    "over_under": 211.5,
     "home_cover_prob": 0.626,
-    "over_prob": 0.467,
+    "over_prob": 0.49,
     "provider": "Draft Kings"
    }
   }
@@ -3179,8 +2607,8 @@
   "date_kst": "2026-11-24T09:00:00+09:00",
   "odds": {
    "provider": "Draft Kings",
-   "details": "MEM -3.5",
-   "spread": 3.5,
+   "details": null,
+   "spread": null,
    "over_under": 218.5
   },
   "home": {
@@ -3460,9 +2888,9 @@
      "position": "F",
      "status": "Day-To-Day",
      "injury": "Left Calf Not Specified",
-     "return_date": "2026-11-23",
-     "updated": "2026-11-22T22:21Z",
-     "comment": "Grant (calf) has been ruled out for Monday's game against the Hornets."
+     "return_date": "2026-12-12",
+     "updated": "2026-11-23T01:14Z",
+     "comment": "Grant was diagnosed with a grade 1 left calf strain and will be re-evaluated in two weeks."
     },
     {
      "team_id": "29",
@@ -3684,8 +3112,8 @@
    ]
   },
   "prediction": {
-   "home_points": 109.2,
-   "away_points": 113.1,
+   "home_points": 109.3,
+   "away_points": 113.2,
    "home_margin": -3.9,
    "home_win_prob": 0.391,
    "away_win_prob": 0.609,
@@ -3760,7 +3188,7 @@
    },
    "ratings": {
     "home": {
-     "offense": -6.7,
+     "offense": -6.8,
      "defense": -2.7
     },
     "away": {
@@ -3769,10 +3197,9 @@
     }
    },
    "vs_line": {
-    "spread": 3.5,
+    "spread": null,
     "over_under": 218.5,
-    "home_cover_prob": 0.489,
-    "over_prob": 0.583,
+    "over_prob": 0.584,
     "provider": "Draft Kings"
    }
   }
@@ -4269,7 +3696,7 @@
   },
   "prediction": {
    "home_points": 114.9,
-   "away_points": 115.8,
+   "away_points": 115.9,
    "home_margin": -0.9,
    "home_win_prob": 0.473,
    "away_win_prob": 0.527,
@@ -4280,7 +3707,7 @@
    "total": 230.8,
    "total_range80": [
     207.1,
-    254.4
+    254.5
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -4325,7 +3752,7 @@
     "spread": -2.5,
     "over_under": 228.5,
     "home_cover_prob": 0.404,
-    "over_prob": 0.548,
+    "over_prob": 0.55,
     "provider": "Draft Kings"
    }
   }
@@ -4555,21 +3982,21 @@
     "conference": "Western Conference",
     "seed": 8,
     "wins": 10,
-    "losses": 6,
-    "win_pct": 0.625,
-    "games_behind": "3.5",
+    "losses": 7,
+    "win_pct": 0.5882353,
+    "games_behind": "4",
     "home": "6-1",
-    "road": "4-5",
-    "last10": "6-4",
-    "streak": "W1",
+    "road": "4-6",
+    "last10": "5-5",
+    "streak": "L1",
     "ppg": 113.0,
-    "opp_ppg": 108.5
+    "opp_ppg": 109.35294
    },
    "stats": {
-    "gp": 16,
+    "gp": 17,
     "record": [
      10,
-     6
+     7
     ],
     "home_record": [
      6,
@@ -4577,21 +4004,21 @@
     ],
     "away_record": [
      4,
-     5
+     6
     ],
     "ppg": 113.0,
-    "opp_ppg": 108.5,
-    "avg_margin": 4.5,
+    "opp_ppg": 109.4,
+    "avg_margin": 3.6,
     "last10_record": [
-     6,
-     4
+     5,
+     5
     ],
-    "last10_margin": 7.5,
-    "last_game": "2026-11-21T01:00Z",
+    "last10_margin": 6.0,
+    "last_game": "2026-11-22T23:00Z",
     "pace": 102.1,
-    "ortg": 110.6,
-    "drtg": 106.2,
-    "net_rtg": 4.4
+    "ortg": 110.7,
+    "drtg": 107.2,
+    "net_rtg": 3.5
    },
    "rest_days": 0,
    "injuries": [
@@ -4731,20 +4158,20 @@
      "name": "Ajay Mitchell",
      "position": "G",
      "team_id": "25",
-     "gp": 14,
-     "gs": 11,
-     "last_game": "2026-11-21",
-     "min": 28.0,
+     "gp": 15,
+     "gs": 12,
+     "last_game": "2026-11-22",
+     "min": 27.6,
      "pts": 17.0,
      "reb": 3.6,
      "ast": 3.6,
-     "stl": 1.1,
+     "stl": 1.2,
      "blk": 0.4,
-     "tov": 1.4,
-     "plus_minus": 4.9,
-     "fg_pct": 49.5,
-     "fg3_pct": 25.6,
-     "ft_pct": 84.1,
+     "tov": 1.5,
+     "plus_minus": 4.2,
+     "fg_pct": 48.3,
+     "fg3_pct": 28.3,
+     "ft_pct": 81.6,
      "injury_status": null
     },
     {
@@ -4752,20 +4179,20 @@
      "name": "Jared McCain",
      "position": "G",
      "team_id": "25",
-     "gp": 16,
-     "gs": 10,
-     "last_game": "2026-11-21",
-     "min": 27.4,
-     "pts": 13.9,
-     "reb": 3.3,
-     "ast": 1.7,
+     "gp": 17,
+     "gs": 11,
+     "last_game": "2026-11-22",
+     "min": 27.5,
+     "pts": 14.3,
+     "reb": 3.2,
+     "ast": 1.8,
      "stl": 0.9,
      "blk": 0.2,
      "tov": 1.6,
-     "plus_minus": 1.9,
-     "fg_pct": 41.5,
-     "fg3_pct": 34.2,
-     "ft_pct": 78.1,
+     "plus_minus": 0.5,
+     "fg_pct": 41.4,
+     "fg3_pct": 33.9,
+     "ft_pct": 78.4,
      "injury_status": null
     },
     {
@@ -4911,31 +4338,31 @@
    ]
   },
   "prediction": {
-   "home_points": 111.4,
-   "away_points": 113.0,
-   "home_margin": -1.6,
-   "home_win_prob": 0.454,
-   "away_win_prob": 0.546,
+   "home_points": 111.9,
+   "away_points": 110.0,
+   "home_margin": 1.9,
+   "home_win_prob": 0.554,
+   "away_win_prob": 0.446,
    "margin_range80": [
-    -19.8,
-    16.5
+    -16.2,
+    20.1
    ],
-   "total": 224.5,
+   "total": 221.9,
    "total_range80": [
-    200.8,
-    248.2
+    198.2,
+    245.6
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
    "factors": {
-    "team_strength": -7.9,
+    "team_strength": -7.3,
     "home_court": 2.0,
-    "rest": -0.0,
+    "rest": 3.0,
     "injuries": 4.2
    },
    "back_to_back": {
     "home": false,
-    "away": false
+    "away": true
    },
    "injury_impact": {
     "home": [
@@ -4973,8 +4400,8 @@
      "defense": 2.6
     },
     "away": {
-     "offense": 1.6,
-     "defense": -4.1
+     "offense": 1.5,
+     "defense": -3.6
     }
    }
   }
@@ -4987,6 +4414,12 @@
   "neutral": false,
   "venue": "Scotiabank Arena",
   "date_kst": "2026-11-24T09:30:00+09:00",
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "TOR -11.5",
+   "spread": -11.5,
+   "over_under": 225.5
+  },
   "home": {
    "id": "28",
    "abbr": "TOR",
@@ -5464,7 +4897,7 @@
    ]
   },
   "prediction": {
-   "home_points": 119.1,
+   "home_points": 119.2,
    "away_points": 109.2,
    "home_margin": 9.9,
    "home_win_prob": 0.759,
@@ -5516,6 +4949,13 @@
      "offense": -2.5,
      "defense": 5.4
     }
+   },
+   "vs_line": {
+    "spread": -11.5,
+    "over_under": 225.5,
+    "home_cover_prob": 0.456,
+    "over_prob": 0.563,
+    "provider": "Draft Kings"
    }
   }
  },
@@ -5527,6 +4967,12 @@
   "neutral": false,
   "venue": "Target Center",
   "date_kst": "2026-11-24T09:30:00+09:00",
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "MIN -11.5",
+   "spread": -11.5,
+   "over_under": 225.5
+  },
   "home": {
    "id": "16",
    "abbr": "MIN",
@@ -5968,7 +5414,7 @@
    ]
   },
   "prediction": {
-   "home_points": 119.3,
+   "home_points": 119.4,
    "away_points": 104.0,
    "home_margin": 15.4,
    "home_win_prob": 0.861,
@@ -6007,13 +5453,20 @@
    },
    "ratings": {
     "home": {
-     "offense": -0.4,
-     "defense": -5.5
+     "offense": -0.5,
+     "defense": -5.6
     },
     "away": {
-     "offense": -3.6,
+     "offense": -3.7,
      "defense": 3.7
     }
+   },
+   "vs_line": {
+    "spread": -11.5,
+    "over_under": 225.5,
+    "home_cover_prob": 0.608,
+    "over_prob": 0.454,
+    "provider": "Draft Kings"
    }
   }
  },
@@ -6523,10 +5976,10 @@
     -23.7,
     12.6
    ],
-   "total": 236.3,
+   "total": 236.4,
    "total_range80": [
-    212.6,
-    260.0
+    212.7,
+    260.1
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -7112,10 +6565,10 @@
     -24.2,
     12.1
    ],
-   "total": 233.7,
+   "total": 233.8,
    "total_range80": [
-    210.0,
-    257.4
+    210.1,
+    257.5
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -7631,7 +7084,7 @@
    ]
   },
   "prediction": {
-   "home_points": 119.3,
+   "home_points": 119.4,
    "away_points": 108.9,
    "home_margin": 10.4,
    "home_win_prob": 0.769,
@@ -7640,10 +7093,10 @@
     -7.7,
     28.5
    ],
-   "total": 228.2,
+   "total": 228.3,
    "total_range80": [
-    204.5,
-    251.9
+    204.6,
+    252.0
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -7675,7 +7128,7 @@
     "spread": -13.5,
     "over_under": 225.5,
     "home_cover_prob": 0.413,
-    "over_prob": 0.559,
+    "over_prob": 0.56,
     "provider": "Draft Kings"
    }
   }
@@ -7746,9 +7199,9 @@
      "position": "G",
      "status": "Out",
      "injury": "Left Heel Bruise",
-     "return_date": "2026-11-23",
-     "updated": "2026-11-22T20:25Z",
-     "comment": "Reaves (heel) was a full participant in Sunday's practice, Thuc Nhi Nguyen of the Los Angeles Times reports."
+     "return_date": "2026-11-27",
+     "updated": "2026-11-23T01:09Z",
+     "comment": "Reaves (heel) has been ruled out for Monday's game against the Jazz, Jovan Buha of The Athletic reports."
     }
    ],
    "top_players": [
@@ -7909,6 +7362,18 @@
    },
    "rest_days": 0,
    "injuries": [
+    {
+     "team_id": "26",
+     "team": "Utah Jazz",
+     "athlete_id": "4397077",
+     "name": "Jaxson Hayes",
+     "position": "C",
+     "status": "Out",
+     "injury": "Left Knee Not Specified",
+     "return_date": "2026-11-23",
+     "updated": "2026-11-23T01:16Z",
+     "comment": "Hayes (knee) has been ruled out for the remainder of Sunday's game against the Mavericks, Grant Afseth of DallasHoopsJournal.com reports."
+    },
     {
      "team_id": "26",
      "team": "Utah Jazz",
@@ -8154,18 +7619,18 @@
   },
   "prediction": {
    "home_points": 119.1,
-   "away_points": 112.4,
-   "home_margin": 6.7,
-   "home_win_prob": 0.682,
-   "away_win_prob": 0.318,
+   "away_points": 111.4,
+   "home_margin": 7.7,
+   "home_win_prob": 0.707,
+   "away_win_prob": 0.293,
    "margin_range80": [
-    -11.5,
-    24.8
+    -10.4,
+    25.8
    ],
-   "total": 231.5,
+   "total": 230.6,
    "total_range80": [
-    207.8,
-    255.2
+    206.9,
+    254.3
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -8173,7 +7638,7 @@
     "team_strength": 5.2,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": -0.5
+    "injuries": 0.5
    },
    "back_to_back": {
     "home": false,
@@ -8194,6 +7659,12 @@
       "name": "Lauri Markkanen",
       "status": "Out",
       "impact": -2.0
+     },
+     {
+      "athlete_id": "4397077",
+      "name": "Jaxson Hayes",
+      "status": "Out",
+      "impact": -1.0
      }
     ]
    },
@@ -8703,10 +8174,10 @@
     -28.5,
     7.7
    ],
-   "total": 223.0,
+   "total": 223.1,
    "total_range80": [
-    199.3,
-    246.7
+    199.4,
+    246.8
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -8966,7 +8437,7 @@
     "team_id": "8",
     "abbr": "DET",
     "conference": "Eastern Conference",
-    "seed": 5,
+    "seed": 4,
     "wins": 10,
     "losses": 6,
     "win_pct": 0.625,
@@ -9264,7 +8735,7 @@
    ]
   },
   "prediction": {
-   "home_points": 109.4,
+   "home_points": 109.5,
    "away_points": 111.1,
    "home_margin": -1.6,
    "home_win_prob": 0.454,
@@ -9273,9 +8744,9 @@
     -19.8,
     16.5
    ],
-   "total": 220.5,
+   "total": 220.6,
    "total_range80": [
-    196.8,
+    196.9,
     244.2
    ],
    "sigma": 14.15,
@@ -9817,7 +9288,7 @@
   },
   "prediction": {
    "home_points": 107.5,
-   "away_points": 115.7,
+   "away_points": 115.8,
    "home_margin": -8.2,
    "home_win_prob": 0.28,
    "away_win_prob": 0.72,
@@ -9825,10 +9296,10 @@
     -26.4,
     9.9
    ],
-   "total": 223.2,
+   "total": 223.3,
    "total_range80": [
-    199.5,
-    246.9
+    199.6,
+    247.0
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,

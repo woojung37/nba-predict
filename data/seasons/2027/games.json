@@ -5086,20 +5086,20 @@
   "date": "2026-11-22T23:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Kaseya Center",
   "home": {
    "id": "14",
    "abbr": "MIA",
-   "score": 109
+   "score": 123
   },
   "away": {
    "id": "25",
    "abbr": "OKC",
-   "score": 93
+   "score": 113
   }
  },
  {
@@ -5109,18 +5109,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_HALFTIME",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Capital One Arena",
   "home": {
    "id": "27",
    "abbr": "WSH",
-   "score": 63
+   "score": 76
   },
   "away": {
    "id": "19",
    "abbr": "ORL",
-   "score": 51
+   "score": 60
   }
  },
  {
@@ -5130,18 +5130,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_HALFTIME",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "United Center",
   "home": {
    "id": "4",
    "abbr": "CHI",
-   "score": 70
+   "score": 88
   },
   "away": {
    "id": "7",
    "abbr": "DEN",
-   "score": 72
+   "score": 94
   }
  },
  {
@@ -5151,18 +5151,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_HALFTIME",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Delta Center",
   "home": {
    "id": "26",
    "abbr": "UTAH",
-   "score": 57
+   "score": 62
   },
   "away": {
    "id": "6",
    "abbr": "DAL",
-   "score": 64
+   "score": 80
   }
  },
  {
@@ -5170,26 +5170,20 @@
   "date": "2026-11-23T01:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Madison Square Garden",
   "home": {
    "id": "18",
    "abbr": "NY",
-   "score": null
+   "score": 24
   },
   "away": {
    "id": "11",
    "abbr": "IND",
-   "score": null
-  },
-  "odds": {
-   "provider": "Draft Kings",
-   "details": "NY -6.5",
-   "spread": -6.5,
-   "over_under": 214.5
+   "score": 26
   }
  },
  {
@@ -5216,7 +5210,7 @@
    "provider": "Draft Kings",
    "details": "BOS -8.5",
    "spread": 8.5,
-   "over_under": 212.5
+   "over_under": 211.5
   }
  },
  {
@@ -5241,8 +5235,8 @@
   },
   "odds": {
    "provider": "Draft Kings",
-   "details": "MEM -3.5",
-   "spread": 3.5,
+   "details": null,
+   "spread": null,
    "over_under": 218.5
   }
  },
@@ -5313,6 +5307,12 @@
    "id": "15",
    "abbr": "MIL",
    "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "TOR -11.5",
+   "spread": -11.5,
+   "over_under": 225.5
   }
  },
  {
@@ -5334,6 +5334,12 @@
    "id": "17",
    "abbr": "BKN",
    "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "MIN -11.5",
+   "spread": -11.5,
+   "over_under": 225.5
   }
  },
  {
