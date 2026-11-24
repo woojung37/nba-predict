@@ -5212,26 +5212,20 @@
   "date": "2026-11-24T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
-  "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Spectrum Center",
   "home": {
    "id": "30",
    "abbr": "CHA",
-   "score": null
+   "score": 111
   },
   "away": {
    "id": "29",
    "abbr": "MEM",
-   "score": null
-  },
-  "odds": {
-   "provider": "Draft Kings",
-   "details": "MEM -2.5",
-   "spread": 2.5,
-   "over_under": 212.5
+   "score": 117
   }
  },
  {
@@ -5239,26 +5233,20 @@
   "date": "2026-11-24T00:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
-  "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Xfinity Mobile Arena",
   "home": {
    "id": "20",
    "abbr": "PHI",
-   "score": null
+   "score": 111
   },
   "away": {
    "id": "22",
    "abbr": "POR",
-   "score": null
-  },
-  "odds": {
-   "provider": "Draft Kings",
-   "details": "PHI -2.5",
-   "spread": -2.5,
-   "over_under": 231.5
+   "score": 128
   }
  },
  {
@@ -5266,26 +5254,20 @@
   "date": "2026-11-24T00:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
-  "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Gainbridge Fieldhouse",
   "home": {
    "id": "11",
    "abbr": "IND",
-   "score": null
+   "score": 125
   },
   "away": {
    "id": "25",
    "abbr": "OKC",
-   "score": null
-  },
-  "odds": {
-   "provider": "Draft Kings",
-   "details": "OKC -5.5",
-   "spread": 5.5,
-   "over_under": 224.5
+   "score": 120
   }
  },
  {
@@ -5293,26 +5275,20 @@
   "date": "2026-11-24T00:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Scotiabank Arena",
   "home": {
    "id": "28",
    "abbr": "TOR",
-   "score": null
+   "score": 111
   },
   "away": {
    "id": "15",
    "abbr": "MIL",
-   "score": null
-  },
-  "odds": {
-   "provider": "Draft Kings",
-   "details": "TOR -10.5",
-   "spread": -10.5,
-   "over_under": 222.5
+   "score": 116
   }
  },
  {
@@ -5320,26 +5296,20 @@
   "date": "2026-11-24T00:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
-  "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Target Center",
   "home": {
    "id": "16",
    "abbr": "MIN",
-   "score": null
+   "score": 142
   },
   "away": {
    "id": "17",
    "abbr": "BKN",
-   "score": null
-  },
-  "odds": {
-   "provider": "Draft Kings",
-   "details": "MIN -11.5",
-   "spread": -11.5,
-   "over_under": 223.5
+   "score": 116
   }
  },
  {
@@ -5347,26 +5317,20 @@
   "date": "2026-11-24T01:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "United Center",
   "home": {
    "id": "4",
    "abbr": "CHI",
-   "score": null
+   "score": 108
   },
   "away": {
    "id": "5",
    "abbr": "CLE",
-   "score": null
-  },
-  "odds": {
-   "provider": "Draft Kings",
-   "details": "CLE -8.5",
-   "spread": 8.5,
-   "over_under": 241.5
+   "score": 97
   }
  },
  {
@@ -5374,26 +5338,20 @@
   "date": "2026-11-24T01:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Smoothie King Center",
   "home": {
    "id": "3",
    "abbr": "NO",
-   "score": null
+   "score": 89
   },
   "away": {
    "id": "21",
    "abbr": "PHX",
-   "score": null
-  },
-  "odds": {
-   "provider": "Draft Kings",
-   "details": "PHX -3.5",
-   "spread": 3.5,
-   "over_under": 232.5
+   "score": 86
   }
  },
  {
@@ -5401,26 +5359,20 @@
   "date": "2026-11-24T01:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Toyota Center (Houston)",
   "home": {
    "id": "10",
    "abbr": "HOU",
-   "score": null
+   "score": 65
   },
   "away": {
    "id": "12",
    "abbr": "LAC",
-   "score": null
-  },
-  "odds": {
-   "provider": "Draft Kings",
-   "details": "HOU -12.5",
-   "spread": -12.5,
-   "over_under": 223.5
+   "score": 65
   }
  },
  {
@@ -5472,9 +5424,9 @@
   },
   "odds": {
    "provider": "Draft Kings",
-   "details": "SA -12.5",
-   "spread": 12.5,
-   "over_under": 224.5
+   "details": "SA -8.5",
+   "spread": 8.5,
+   "over_under": 222.5
   }
  },
  {
@@ -5496,6 +5448,12 @@
    "id": "8",
    "abbr": "DET",
    "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "DET -1.5",
+   "spread": 1.5,
+   "over_under": 213.5
   }
  },
  {
@@ -5517,6 +5475,12 @@
    "id": "2",
    "abbr": "BOS",
    "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "BOS -10.5",
+   "spread": 10.5,
+   "over_under": 216.5
   }
  },
  {
@@ -5538,6 +5502,12 @@
    "id": "6",
    "abbr": "DAL",
    "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "DEN -8.5",
+   "spread": -8.5,
+   "over_under": 231.5
   }
  },
  {

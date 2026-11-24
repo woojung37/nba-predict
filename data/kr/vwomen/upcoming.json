@@ -41,5 +41,48 @@
    "away": 4
   },
   "low_confidence": true
+ },
+ {
+  "id": "213417",
+  "date": "2026-11-25T10:00:00+00:00",
+  "status": "NS",
+  "home": {
+   "id": 1182,
+   "name": "IBK W",
+   "ko": "IBK기업은행"
+  },
+  "away": {
+   "id": 1178,
+   "name": "Expressway Co W",
+   "ko": "한국도로공사"
+  },
+  "prediction": {
+   "home_win_prob": 0.464,
+   "scores": {
+    "3-0": 0.11,
+    "0-3": 0.141,
+    "3-1": 0.172,
+    "1-3": 0.203,
+    "3-2": 0.181,
+    "2-3": 0.193
+   },
+   "set_win_prob": 0.48,
+   "expected_sets": 4.12,
+   "total": 175.7,
+   "total_range80": [
+    136.8,
+    214.6
+   ],
+   "total_sigma": 30.34,
+   "home_minus_1_5": 0.283,
+   "away_minus_1_5": 0.343,
+   "full_five_sets": 0.374,
+   "edge": -0.017
+  },
+  "data_games": {
+   "home": 6,
+   "away": 5
+  },
+  "low_confidence": false
  }
 ]
