@@ -5382,18 +5382,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_END_PERIOD",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "crypto.com Arena",
   "home": {
    "id": "13",
    "abbr": "LAL",
-   "score": 78
+   "score": 95
   },
   "away": {
    "id": "26",
    "abbr": "UTAH",
-   "score": 77
+   "score": 84
   }
  },
  {
@@ -5409,12 +5409,12 @@
   "home": {
    "id": "23",
    "abbr": "SAC",
-   "score": 85
+   "score": 101
   },
   "away": {
    "id": "24",
    "abbr": "SA",
-   "score": 98
+   "score": 115
   }
  },
  {
@@ -5438,7 +5438,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "DET -1.5",
    "spread": 1.5,
    "over_under": 213.5
@@ -5465,7 +5465,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "BOS -10.5",
    "spread": 10.5,
    "over_under": 217.5
@@ -5492,7 +5492,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "DEN -8.5",
    "spread": -8.5,
    "over_under": 231.5
@@ -6507,29 +6507,8 @@
   }
  },
  {
-  "id": "401910074",
-  "date": "2026-12-02T03:00Z",
-  "season": 2027,
-  "season_type": 2,
-  "state": "pre",
-  "completed": false,
-  "status": "STATUS_SCHEDULED",
-  "neutral": false,
-  "venue": "Moda Center",
-  "home": {
-   "id": "22",
-   "abbr": "POR",
-   "score": null
-  },
-  "away": {
-   "id": "16",
-   "abbr": "MIN",
-   "score": null
-  }
- },
- {
   "id": "401910075",
-  "date": "2026-12-02T04:00Z",
+  "date": "2026-12-02T03:00Z",
   "season": 2027,
   "season_type": 2,
   "state": "pre",
@@ -6545,6 +6524,27 @@
   "away": {
    "id": "26",
    "abbr": "UTAH",
+   "score": null
+  }
+ },
+ {
+  "id": "401910074",
+  "date": "2026-12-02T04:00Z",
+  "season": 2027,
+  "season_type": 2,
+  "state": "pre",
+  "completed": false,
+  "status": "STATUS_SCHEDULED",
+  "neutral": false,
+  "venue": "Moda Center",
+  "home": {
+   "id": "22",
+   "abbr": "POR",
+   "score": null
+  },
+  "away": {
+   "id": "16",
+   "abbr": "MIN",
    "score": null
   }
  },
