@@ -976,13 +976,41 @@
    "away_minus_1_5": 0.354,
    "full_five_sets": 0.373,
    "edge": -0.029
+  },
+  "result": {
+   "home_score": 2,
+   "away_score": 3,
+   "home_margin": -1,
+   "total": 231,
+   "sets": [
+    [
+     17,
+     25
+    ],
+    [
+     22,
+     25
+    ],
+    [
+     30,
+     28
+    ],
+    [
+     25,
+     23
+    ],
+    [
+     17,
+     19
+    ]
+   ]
   }
  },
  "213291": {
   "date": "2026-11-25T10:00:00+00:00",
   "home": "한국전력",
   "away": "현대캐피탈",
-  "predicted_at": "2026-11-24T06:03:07+00:00",
+  "predicted_at": "2026-11-24T12:56:29+00:00",
   "prediction": {
    "home_win_prob": 0.5,
    "scores": {

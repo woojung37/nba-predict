@@ -9823,19 +9823,36 @@
   "id": "213416",
   "date": "2026-11-24T10:00:00+00:00",
   "season": 2026,
-  "status": "NS",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 3820,
    "name": "Daejeon JKJ W",
-   "score": null
+   "score": 1
   },
   "away": {
    "id": 1179,
    "name": "GS Caltex W",
-   "score": null
+   "score": 3
   },
-  "sets": []
+  "sets": [
+   [
+    21,
+    25
+   ],
+   [
+    30,
+    28
+   ],
+   [
+    16,
+    25
+   ],
+   [
+    13,
+    25
+   ]
+  ]
  },
  {
   "id": "213417",

@@ -8,9 +8,9 @@
   "venue": "Kia Center",
   "date_kst": "2026-11-25T09:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
-   "details": "DET -1.5",
-   "spread": 1.5,
+   "provider": "Draft Kings",
+   "details": "DET -2.5",
+   "spread": 2.5,
    "over_under": 213.5
   },
   "home": {
@@ -598,11 +598,11 @@
     }
    },
    "vs_line": {
-    "spread": 1.5,
+    "spread": 2.5,
     "over_under": 213.5,
-    "home_cover_prob": 0.495,
+    "home_cover_prob": 0.523,
     "over_prob": 0.622,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },
@@ -615,7 +615,7 @@
   "venue": "Capital One Arena",
   "date_kst": "2026-11-25T10:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "BOS -10.5",
    "spread": 10.5,
    "over_under": 217.5
@@ -1149,7 +1149,7 @@
     "over_under": 217.5,
     "home_cover_prob": 0.548,
     "over_prob": 0.621,
-    "provider": "DraftKings"
+    "provider": "Draft Kings"
    }
   }
  },
@@ -1162,10 +1162,10 @@
   "venue": "Ball Arena",
   "date_kst": "2026-11-25T12:00:00+09:00",
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "DEN -8.5",
    "spread": -8.5,
-   "over_under": 232.5
+   "over_under": 233.5
   },
   "home": {
    "id": "7",
@@ -1692,10 +1692,10 @@
    },
    "vs_line": {
     "spread": -8.5,
-    "over_under": 232.5,
+    "over_under": 233.5,
     "home_cover_prob": 0.443,
-    "over_prob": 0.575,
-    "provider": "DraftKings"
+    "over_prob": 0.554,
+    "provider": "Draft Kings"
    }
   }
  },
@@ -1707,6 +1707,12 @@
   "neutral": false,
   "venue": "Xfinity Mobile Arena",
   "date_kst": "2026-11-26T07:00:00+09:00",
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "PHI -3.5",
+   "spread": -3.5,
+   "over_under": 238.5
+  },
   "home": {
    "id": "20",
    "abbr": "PHI",
@@ -2213,6 +2219,13 @@
      "offense": 5.5,
      "defense": 4.8
     }
+   },
+   "vs_line": {
+    "spread": -3.5,
+    "over_under": 238.5,
+    "home_cover_prob": 0.485,
+    "over_prob": 0.585,
+    "provider": "Draft Kings"
    }
   }
  },
@@ -2813,6 +2826,12 @@
   "neutral": false,
   "venue": "Madison Square Garden",
   "date_kst": "2026-11-26T09:30:00+09:00",
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "NY -5.5",
+   "spread": -5.5,
+   "over_under": 220.5
+  },
   "home": {
    "id": "18",
    "abbr": "NY",
@@ -3349,6 +3368,13 @@
      "offense": 2.6,
      "defense": 1.8
     }
+   },
+   "vs_line": {
+    "spread": -5.5,
+    "over_under": 220.5,
+    "home_cover_prob": 0.593,
+    "over_prob": 0.51,
+    "provider": "Draft Kings"
    }
   }
  },
@@ -3360,6 +3386,12 @@
   "neutral": false,
   "venue": "Paycom Center",
   "date_kst": "2026-11-26T09:30:00+09:00",
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "OKC -3.5",
+   "spread": -3.5,
+   "over_under": 223.5
+  },
   "home": {
    "id": "25",
    "abbr": "OKC",
@@ -3961,6 +3993,13 @@
      "offense": 0.5,
      "defense": -5.1
     }
+   },
+   "vs_line": {
+    "spread": -3.5,
+    "over_under": 223.5,
+    "home_cover_prob": 0.404,
+    "over_prob": 0.514,
+    "provider": "Draft Kings"
    }
   }
  },
@@ -5027,6 +5066,12 @@
   "neutral": false,
   "venue": "Toyota Center (Houston)",
   "date_kst": "2026-11-26T10:30:00+09:00",
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "HOU -10.5",
+   "spread": -10.5,
+   "over_under": 223.5
+  },
   "home": {
    "id": "10",
    "abbr": "HOU",
@@ -5494,6 +5539,13 @@
      "offense": -0.6,
      "defense": -0.5
     }
+   },
+   "vs_line": {
+    "spread": -10.5,
+    "over_under": 223.5,
+    "home_cover_prob": 0.386,
+    "over_prob": 0.58,
+    "provider": "Draft Kings"
    }
   }
  },
@@ -6329,26 +6381,26 @@
     {
      "team_id": "24",
      "team": "San Antonio Spurs",
-     "athlete_id": "4066259",
-     "name": "De'Aaron Fox",
-     "position": "G",
-     "status": "Out",
-     "injury": "Right Lower Leg Bruise",
+     "athlete_id": "5104157",
+     "name": "Victor Wembanyama",
+     "position": "F",
+     "status": "Day-To-Day",
+     "injury": "Back",
      "return_date": "2026-11-25",
-     "updated": "2026-11-24T01:24Z",
-     "comment": "Fox (shin) has been ruled out for Monday's game against the Kings, Jeff McDonald of the San Antonio Express-News reports."
+     "updated": "2026-11-24T06:06Z",
+     "comment": "Wembanyama (back) won't play Monday against the Kings, Jeff McDonald of the San Antonio Express-News reports."
     },
     {
      "team_id": "24",
      "team": "San Antonio Spurs",
-     "athlete_id": "5104157",
-     "name": "Victor Wembanyama",
-     "position": "F",
-     "status": "Out",
-     "injury": "Back",
+     "athlete_id": "4066259",
+     "name": "De'Aaron Fox",
+     "position": "G",
+     "status": "Day-To-Day",
+     "injury": "Right Lower Leg Bruise",
      "return_date": "2026-11-25",
-     "updated": "2026-11-24T01:24Z",
-     "comment": "Wembanyama (back) won't play Monday against the Kings, Jeff McDonald of the San Antonio Express-News reports."
+     "updated": "2026-11-24T06:06Z",
+     "comment": "Fox (shin) has been ruled out for Monday's game against the Kings, Jeff McDonald of the San Antonio Express-News reports."
     },
     {
      "team_id": "24",
@@ -6407,7 +6459,7 @@
      "fg_pct": 54.1,
      "fg3_pct": 31.5,
      "ft_pct": 78.4,
-     "injury_status": "Out"
+     "injury_status": "Day-To-Day"
     },
     {
      "athlete_id": "5037871",
@@ -6470,7 +6522,7 @@
      "fg_pct": 47.1,
      "fg3_pct": 26.5,
      "ft_pct": 85.1,
-     "injury_status": "Out"
+     "injury_status": "Day-To-Day"
     },
     {
      "athlete_id": "4395630",
@@ -6595,18 +6647,18 @@
   },
   "prediction": {
    "home_points": 111.9,
-   "away_points": 105.0,
-   "home_margin": 6.9,
-   "home_win_prob": 0.687,
-   "away_win_prob": 0.313,
+   "away_points": 109.0,
+   "home_margin": 3.0,
+   "home_win_prob": 0.583,
+   "away_win_prob": 0.417,
    "margin_range80": [
-    -11.2,
-    25.0
+    -15.2,
+    21.1
    ],
-   "total": 217.0,
+   "total": 220.9,
    "total_range80": [
-    193.3,
-    240.7
+    197.2,
+    244.6
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -6614,7 +6666,7 @@
     "team_strength": -3.2,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 8.1
+    "injuries": 4.1
    },
    "back_to_back": {
     "home": false,
@@ -6624,22 +6676,22 @@
     "home": [],
     "away": [
      {
-      "athlete_id": "5104157",
-      "name": "Victor Wembanyama",
-      "status": "Out",
-      "impact": -4.8
-     },
-     {
       "athlete_id": "5037871",
       "name": "Dylan Harper",
       "status": "Out",
       "impact": -2.0
      },
      {
+      "athlete_id": "5104157",
+      "name": "Victor Wembanyama",
+      "status": "Day-To-Day",
+      "impact": -1.7
+     },
+     {
       "athlete_id": "4066259",
       "name": "De'Aaron Fox",
-      "status": "Out",
-      "impact": -1.2
+      "status": "Day-To-Day",
+      "impact": -0.4
      }
     ]
    },

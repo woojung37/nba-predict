@@ -952,13 +952,37 @@
    "away_minus_1_5": 0.343,
    "full_five_sets": 0.374,
    "edge": -0.016
+  },
+  "result": {
+   "home_score": 1,
+   "away_score": 3,
+   "home_margin": -2,
+   "total": 183,
+   "sets": [
+    [
+     21,
+     25
+    ],
+    [
+     30,
+     28
+    ],
+    [
+     16,
+     25
+    ],
+    [
+     13,
+     25
+    ]
+   ]
   }
  },
  "213417": {
   "date": "2026-11-25T10:00:00+00:00",
   "home": "IBK기업은행",
   "away": "한국도로공사",
-  "predicted_at": "2026-11-24T06:03:07+00:00",
+  "predicted_at": "2026-11-24T12:56:29+00:00",
   "prediction": {
    "home_win_prob": 0.464,
    "scores": {

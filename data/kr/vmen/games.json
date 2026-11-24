@@ -9749,19 +9749,40 @@
   "id": "213290",
   "date": "2026-11-24T10:00:00+00:00",
   "season": 2026,
-  "status": "NS",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 2100,
    "name": "Busan OK",
-   "score": null
+   "score": 2
   },
   "away": {
    "id": 1171,
    "name": "KAL Jumbos",
-   "score": null
+   "score": 3
   },
-  "sets": []
+  "sets": [
+   [
+    17,
+    25
+   ],
+   [
+    22,
+    25
+   ],
+   [
+    30,
+    28
+   ],
+   [
+    25,
+    23
+   ],
+   [
+    17,
+    19
+   ]
+  ]
  },
  {
   "id": "213291",
