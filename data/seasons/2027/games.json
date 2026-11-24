@@ -5380,20 +5380,20 @@
   "date": "2026-11-24T03:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "crypto.com Arena",
   "home": {
    "id": "13",
    "abbr": "LAL",
-   "score": 95
+   "score": 109
   },
   "away": {
    "id": "26",
    "abbr": "UTAH",
-   "score": 84
+   "score": 94
   }
  },
  {
@@ -5401,20 +5401,20 @@
   "date": "2026-11-24T03:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Golden 1 Center",
   "home": {
    "id": "23",
    "abbr": "SAC",
-   "score": 101
+   "score": 107
   },
   "away": {
    "id": "24",
    "abbr": "SA",
-   "score": 115
+   "score": 123
   }
  },
  {
@@ -5495,7 +5495,7 @@
    "provider": "DraftKings",
    "details": "DEN -8.5",
    "spread": -8.5,
-   "over_under": 231.5
+   "over_under": 232.5
   }
  },
  {
