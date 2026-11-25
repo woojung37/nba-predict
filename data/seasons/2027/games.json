@@ -5464,20 +5464,20 @@
   "date": "2026-11-25T03:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Ball Arena",
   "home": {
    "id": "7",
    "abbr": "DEN",
-   "score": 39
+   "score": 101
   },
   "away": {
    "id": "6",
    "abbr": "DAL",
-   "score": 52
+   "score": 120
   }
  },
  {
@@ -5504,7 +5504,7 @@
    "provider": "DraftKings",
    "details": "PHI -1.5",
    "spread": -1.5,
-   "over_under": 237.5
+   "over_under": 238.5
   }
  },
  {
@@ -5639,7 +5639,7 @@
    "provider": "DraftKings",
    "details": "MIL -1.5",
    "spread": -1.5,
-   "over_under": 230.5
+   "over_under": 231.5
   }
  },
  {
@@ -5664,8 +5664,8 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "HOU -8.5",
-   "spread": -8.5,
+   "details": "HOU -9.5",
+   "spread": -9.5,
    "over_under": 224.5
   }
  },
