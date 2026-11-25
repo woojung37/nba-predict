@@ -1005,13 +1005,33 @@
    "away_minus_1_5": 0.343,
    "full_five_sets": 0.374,
    "edge": -0.017
+  },
+  "result": {
+   "home_score": 0,
+   "away_score": 3,
+   "home_margin": -3,
+   "total": 136,
+   "sets": [
+    [
+     23,
+     25
+    ],
+    [
+     16,
+     25
+    ],
+    [
+     22,
+     25
+    ]
+   ]
   }
  },
  "213418": {
   "date": "2026-11-26T10:00:00+00:00",
   "home": "현대건설",
   "away": "SOOP SOOPers W",
-  "predicted_at": "2026-11-25T06:03:20+00:00",
+  "predicted_at": "2026-11-25T11:43:55+00:00",
   "prediction": {
    "home_win_prob": 0.715,
    "scores": {
