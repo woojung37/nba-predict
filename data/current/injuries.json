@@ -89,11 +89,23 @@
   "athlete_id": "4576060",
   "name": "Ryan Kalkbrenner",
   "position": "C",
-  "status": "Day-To-Day",
+  "status": "Out",
   "injury": "Left Hip Soreness",
-  "return_date": "2026-11-25",
-  "updated": "2026-11-24T22:33Z",
-  "comment": "Kalkbrenner (hip) is doubtful to play Wednesday against the Bulls."
+  "return_date": "2026-11-28",
+  "updated": "2026-11-25T17:41Z",
+  "comment": "Kalkbrenner (hip) has been ruled out for Wednesday's matchup with Chicago."
+ },
+ {
+  "team_id": "30",
+  "team": "Charlotte Hornets",
+  "athlete_id": "3135045",
+  "name": "Grayson Allen",
+  "position": "G",
+  "status": "Out",
+  "injury": "Concussion",
+  "return_date": "2026-11-28",
+  "updated": "2026-11-25T17:39Z",
+  "comment": "Allen (concussion) has been ruled out for Wednesday's game against Chicago."
  },
  {
   "team_id": "30",
@@ -118,18 +130,6 @@
   "return_date": "2026-11-25",
   "updated": "2026-11-24T22:30Z",
   "comment": "James is probable for Wednesday's game against the Bulls due to general soreness."
- },
- {
-  "team_id": "30",
-  "team": "Charlotte Hornets",
-  "athlete_id": "3135045",
-  "name": "Grayson Allen",
-  "position": "G",
-  "status": "Out",
-  "injury": "Concussion",
-  "return_date": "2026-11-25",
-  "updated": "2026-11-24T22:29Z",
-  "comment": "Allen (concussion) is listed as questionable for Wednesday's game versus Chicago."
  },
  {
   "team_id": "30",
@@ -257,10 +257,10 @@
   "athlete_id": "4432166",
   "name": "Cade Cunningham",
   "position": "G",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Knee",
   "return_date": "2026-11-27",
-  "updated": "2026-11-24T23:36Z",
+  "updated": "2026-11-25T19:00Z",
   "comment": "Cunningham (knee) is listed as out for Tuesday's game against Orlando."
  },
  {
@@ -476,8 +476,8 @@
   "status": "Out",
   "injury": "Left Heel Bruise",
   "return_date": "2026-11-27",
-  "updated": "2026-11-24T01:31Z",
-  "comment": "Coach JJ Redick stated Monday that the team is optimistic Reaves (heel) will return for Friday's game against San Antonio, Daniel Starkand of LakersNation.com reports."
+  "updated": "2026-11-25T20:33Z",
+  "comment": "Reaves (heel) was a full participant in Wednesday's practice, Daniel Starkand of LakersNation.com reports."
  },
  {
   "team_id": "29",
@@ -548,8 +548,8 @@
   "status": "Day-To-Day",
   "injury": "Groin",
   "return_date": "2026-11-25",
-  "updated": "2026-11-24T22:07Z",
-  "comment": "Antetokounmpo (groin) is questionable for Wednesday's game in Philadelphia."
+  "updated": "2026-11-25T20:20Z",
+  "comment": "Antetokounmpo (groin) has been upgraded to probable for Wednesday's game against the 76ers."
  },
  {
   "team_id": "16",
@@ -638,14 +638,50 @@
  {
   "team_id": "18",
   "team": "New York Knicks",
+  "athlete_id": "3062679",
+  "name": "Josh Hart",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Right Shoulder Sprain",
+  "return_date": "2026-11-25",
+  "updated": "2026-11-25T17:57Z",
+  "comment": "Hart (shoulder) has been upgraded to probable for Wednesday's game against the Cavaliers."
+ },
+ {
+  "team_id": "18",
+  "team": "New York Knicks",
   "athlete_id": "4431823",
   "name": "Miles McBride",
   "position": "G",
-  "status": "Day-To-Day",
+  "status": "Out",
   "injury": "Left Groin Soreness",
+  "return_date": "2026-11-27",
+  "updated": "2026-11-25T17:57Z",
+  "comment": "McBride (adductor) has been ruled out for Wednesday's game against the Cavaliers."
+ },
+ {
+  "team_id": "18",
+  "team": "New York Knicks",
+  "athlete_id": "3136195",
+  "name": "Karl-Anthony Towns",
+  "position": "C",
+  "status": "Day-To-Day",
+  "injury": "Right Knee Inflammation",
   "return_date": "2026-11-25",
-  "updated": "2026-11-24T21:56Z",
-  "comment": "McBride (adductor) is listed as questionable for Wednesday's game versus Cleveland."
+  "updated": "2026-11-25T17:54Z",
+  "comment": "Towns (knee) is probable for Wednesday's game against Cleveland."
+ },
+ {
+  "team_id": "18",
+  "team": "New York Knicks",
+  "athlete_id": "3934672",
+  "name": "Jalen Brunson",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Illness",
+  "return_date": "2026-11-25",
+  "updated": "2026-11-25T17:53Z",
+  "comment": "Brunson (illness) has been downgraded to questionable for Wednesday's game against the Cavaliers."
  },
  {
   "team_id": "18",
@@ -662,18 +698,6 @@
  {
   "team_id": "18",
   "team": "New York Knicks",
-  "athlete_id": "3062679",
-  "name": "Josh Hart",
-  "position": "G",
-  "status": "Day-To-Day",
-  "injury": "Right Shoulder Sprain",
-  "return_date": "2026-11-25",
-  "updated": "2026-11-24T21:54Z",
-  "comment": "Hart (shoulder) is listed as questionable for Wednesday's game against Cleveland."
- },
- {
-  "team_id": "18",
-  "team": "New York Knicks",
   "athlete_id": "3934719",
   "name": "OG Anunoby",
   "position": "F",
@@ -682,18 +706,6 @@
   "return_date": "2026-11-27",
   "updated": "2026-11-24T21:53Z",
   "comment": "Anunoby (calf) is out for Wednesday's game against Cleveland."
- },
- {
-  "team_id": "18",
-  "team": "New York Knicks",
-  "athlete_id": "3136195",
-  "name": "Karl-Anthony Towns",
-  "position": "C",
-  "status": "Day-To-Day",
-  "injury": "Knee",
-  "return_date": "2026-11-25",
-  "updated": "2026-11-24T21:50Z",
-  "comment": "Towns (knee) is questionable for Wednesday's game against Cleveland."
  },
  {
   "team_id": "25",
@@ -833,11 +845,11 @@
   "athlete_id": "3059318",
   "name": "Joel Embiid",
   "position": "C",
-  "status": "Day-To-Day",
+  "status": "Out",
   "injury": "Illness",
   "return_date": "2026-11-27",
-  "updated": "2026-11-24T22:09Z",
-  "comment": "Embiid (illness) is listed as doubtful for Wednesday's game versus Miami."
+  "updated": "2026-11-25T20:07Z",
+  "comment": "Embiid (illness) is out for Wednesday's game against Miami, Ira Winderman of the South Florida Sun Sentinel reports."
  },
  {
   "team_id": "20",
@@ -910,6 +922,18 @@
   "return_date": "2027-03-02",
   "updated": "2026-08-24T20:23Z",
   "comment": "Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams Charania of ESPN."
+ },
+ {
+  "team_id": "23",
+  "team": "Sacramento Kings",
+  "athlete_id": "3064440",
+  "name": "Zach LaVine",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Right Knee Soreness",
+  "return_date": "2026-11-25",
+  "updated": "2026-11-25T20:48Z",
+  "comment": "LaVine posted 18 points (8-17 FG, 2-6 3Pt), six rebounds, two assists and one block over 30 minutes during Monday's 123-107 loss to San Antonio."
  },
  {
   "team_id": "23",
