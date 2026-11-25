@@ -86,26 +86,38 @@
  {
   "team_id": "30",
   "team": "Charlotte Hornets",
-  "athlete_id": "4066218",
-  "name": "Grant Williams",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Right Hamstring",
-  "return_date": "2026-11-25",
-  "updated": "2026-11-24T04:32Z",
-  "comment": "Williams (hamstring) won't play Monday's game against the Grizzlies."
- },
- {
-  "team_id": "30",
-  "team": "Charlotte Hornets",
   "athlete_id": "4576060",
   "name": "Ryan Kalkbrenner",
   "position": "C",
   "status": "Day-To-Day",
   "injury": "Left Hip Soreness",
   "return_date": "2026-11-25",
-  "updated": "2026-11-24T02:14Z",
-  "comment": "Kalkbrenner has been ruled out for the rest of Monday's game against Memphis due to left hip soreness. He'll end with two rebounds in nine minutes."
+  "updated": "2026-11-24T22:33Z",
+  "comment": "Kalkbrenner (hip) is doubtful to play Wednesday against the Bulls."
+ },
+ {
+  "team_id": "30",
+  "team": "Charlotte Hornets",
+  "athlete_id": "3032979",
+  "name": "Dennis Schroder",
+  "position": "G",
+  "status": "Out",
+  "injury": "Left Hamstring Strain",
+  "return_date": "2026-12-12",
+  "updated": "2026-11-24T22:32Z",
+  "comment": "Schroder (hamstring) is out for Wednesday's game the Bulls."
+ },
+ {
+  "team_id": "30",
+  "team": "Charlotte Hornets",
+  "athlete_id": "4602025",
+  "name": "Sion James",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Left Undisclosed",
+  "return_date": "2026-11-25",
+  "updated": "2026-11-24T22:30Z",
+  "comment": "James is probable for Wednesday's game against the Bulls due to general soreness."
  },
  {
   "team_id": "30",
@@ -116,8 +128,8 @@
   "status": "Out",
   "injury": "Concussion",
   "return_date": "2026-11-25",
-  "updated": "2026-11-22T22:08Z",
-  "comment": "Allen (concussion) has been ruled out for Monday's game against the Grizzlies."
+  "updated": "2026-11-24T22:29Z",
+  "comment": "Allen (concussion) is listed as questionable for Wednesday's game versus Chicago."
  },
  {
   "team_id": "30",
@@ -130,18 +142,6 @@
   "return_date": "2026-12-12",
   "updated": "2026-11-08T22:31Z",
   "comment": "Knueppel (hamstring) was diagnosed with a left hamstring strain Sunday and will be re-evaluated in four weeks."
- },
- {
-  "team_id": "30",
-  "team": "Charlotte Hornets",
-  "athlete_id": "3032979",
-  "name": "Dennis Schroder",
-  "position": "G",
-  "status": "Out",
-  "injury": "Left Hamstring Strain",
-  "return_date": "2026-11-25",
-  "updated": "2026-11-08T22:26Z",
-  "comment": "Schroder has been diagnosed with a left hamstring strain and will be reevaluated in two weeks, Michael Scotto of HoopsHype.com reports."
  },
  {
   "team_id": "4",
@@ -218,18 +218,6 @@
  {
   "team_id": "6",
   "team": "Dallas Mavericks",
-  "athlete_id": "4278078",
-  "name": "P.J. Washington",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Illness",
-  "return_date": "2026-11-24",
-  "updated": "2026-11-23T23:21Z",
-  "comment": "Washington (illness) is questionable for Tuesday's game against the Nuggets."
- },
- {
-  "team_id": "6",
-  "team": "Dallas Mavericks",
   "athlete_id": "4683688",
   "name": "Dereck Lively II",
   "position": "C",
@@ -262,6 +250,18 @@
   "return_date": "2026-11-27",
   "updated": "2026-11-17T22:42Z",
   "comment": "Biberovic (heel) is out for Wednesday's game against the Warriors."
+ },
+ {
+  "team_id": "8",
+  "team": "Detroit Pistons",
+  "athlete_id": "4432166",
+  "name": "Cade Cunningham",
+  "position": "G",
+  "status": "Out",
+  "injury": "Knee",
+  "return_date": "2026-11-27",
+  "updated": "2026-11-24T23:36Z",
+  "comment": "Cunningham (knee) is listed as out for Tuesday's game against Orlando."
  },
  {
   "team_id": "8",
@@ -312,16 +312,16 @@
   "comment": "Duren (hamstring) is being assigned to the Motor City Cruise on Wednesday for practice as he ramps up for a return, Eric Vincent of ClutchPoints.com reports."
  },
  {
-  "team_id": "8",
-  "team": "Detroit Pistons",
-  "athlete_id": "4432166",
-  "name": "Cade Cunningham",
-  "position": "G",
+  "team_id": "9",
+  "team": "Golden State Warriors",
+  "athlete_id": "5175737",
+  "name": "Yaxel Lendeborg",
+  "position": "F",
   "status": "Day-To-Day",
-  "injury": "Knee",
-  "return_date": "2026-11-24",
-  "updated": "2026-11-23T22:07Z",
-  "comment": "Cunningham (knee) is probable for Tuesday's game against the Orlando."
+  "injury": "Illness",
+  "return_date": "2026-11-25",
+  "updated": "2026-11-24T23:20Z",
+  "comment": "Lendeborg is questionable for Wednesday's game against the Kings with an illness."
  },
  {
   "team_id": "9",
@@ -332,8 +332,8 @@
   "status": "Out",
   "injury": "Left Hamstring Strain",
   "return_date": "2026-11-25",
-  "updated": "2026-11-23T20:52Z",
-  "comment": "Head coach Steve Kerr said Monday that Williams (hamstring) is on track to return Wednesday against the Kings, Kenzo Fukuda of ClutchPoints.com reports."
+  "updated": "2026-11-24T20:58Z",
+  "comment": "Head coach Steve Kerr said Tuesday that Williams (hamstring) is questionable to play Wednesday against the Kings, per Dalton Johnson of NBC Sports Bay Area."
  },
  {
   "team_id": "9",
@@ -482,6 +482,18 @@
  {
   "team_id": "29",
   "team": "Memphis Grizzlies",
+  "athlete_id": "4431785",
+  "name": "Scotty Pippen Jr.",
+  "position": "G",
+  "status": "Out",
+  "injury": "Back Soreness",
+  "return_date": "2026-12-12",
+  "updated": "2026-11-24T23:04Z",
+  "comment": "Pippen (back) is out for Wednesday's game against the Clippers."
+ },
+ {
+  "team_id": "29",
+  "team": "Memphis Grizzlies",
   "athlete_id": "5041935",
   "name": "Cameron Boozer",
   "position": "F",
@@ -518,18 +530,6 @@
  {
   "team_id": "29",
   "team": "Memphis Grizzlies",
-  "athlete_id": "4431785",
-  "name": "Scotty Pippen Jr.",
-  "position": "G",
-  "status": "Out",
-  "injury": "Back Soreness",
-  "return_date": "2026-11-25",
-  "updated": "2026-11-16T17:16Z",
-  "comment": "Pippen (back) is progressing in his recovery but is still considered week-to-week."
- },
- {
-  "team_id": "29",
-  "team": "Memphis Grizzlies",
   "athlete_id": "5105462",
   "name": "Richie Saunders",
   "position": "G",
@@ -548,8 +548,8 @@
   "status": "Day-To-Day",
   "injury": "Groin",
   "return_date": "2026-11-25",
-  "updated": "2026-11-24T18:56Z",
-  "comment": "Antetokounmpo (groin) participated in most of Tuesday's practice, Zachary Weinberger of ClutchPoints.com reports."
+  "updated": "2026-11-24T22:07Z",
+  "comment": "Antetokounmpo (groin) is questionable for Wednesday's game in Philadelphia."
  },
  {
   "team_id": "16",
@@ -626,14 +626,38 @@
  {
   "team_id": "18",
   "team": "New York Knicks",
+  "athlete_id": "4431823",
+  "name": "Miles McBride",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Left Groin Soreness",
+  "return_date": "2026-11-25",
+  "updated": "2026-11-24T21:56Z",
+  "comment": "McBride (adductor) is listed as questionable for Wednesday's game versus Cleveland."
+ },
+ {
+  "team_id": "18",
+  "team": "New York Knicks",
   "athlete_id": "2528426",
   "name": "Jordan Clarkson",
   "position": "G",
   "status": "Out",
   "injury": "Right Foot Plantar Fasciitis",
+  "return_date": "2026-11-27",
+  "updated": "2026-11-24T21:56Z",
+  "comment": "Clarkson (foot) is out for Wednesday's game against Cleveland."
+ },
+ {
+  "team_id": "18",
+  "team": "New York Knicks",
+  "athlete_id": "3062679",
+  "name": "Josh Hart",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Right Shoulder Sprain",
   "return_date": "2026-11-25",
-  "updated": "2026-11-24T18:48Z",
-  "comment": "Clarkson (foot) didn't participate in Tuesday's practice, Jared Schwartz of the New York Post reports."
+  "updated": "2026-11-24T21:54Z",
+  "comment": "Hart (shoulder) is listed as questionable for Wednesday's game against Cleveland."
  },
  {
   "team_id": "18",
@@ -641,47 +665,23 @@
   "athlete_id": "3934719",
   "name": "OG Anunoby",
   "position": "F",
-  "status": "Day-To-Day",
+  "status": "Out",
   "injury": "Left Calf Soreness",
-  "return_date": "2026-11-25",
-  "updated": "2026-11-24T18:42Z",
-  "comment": "Anunoby (calf) did not participate in Tuesday's practice, Jared Schwartz of the New York Post reports."
+  "return_date": "2026-11-27",
+  "updated": "2026-11-24T21:53Z",
+  "comment": "Anunoby (calf) is out for Wednesday's game against Cleveland."
  },
  {
   "team_id": "18",
   "team": "New York Knicks",
-  "athlete_id": "4431823",
-  "name": "Miles McBride",
-  "position": "G",
-  "status": "Day-To-Day",
-  "injury": "Left Abdomen",
-  "return_date": "2026-11-25",
-  "updated": "2026-11-24T18:40Z",
-  "comment": "McBride (groin) practiced Tuesday, per Jared Schwartz of the New York Post."
- },
- {
-  "team_id": "25",
-  "team": "Oklahoma City Thunder",
-  "athlete_id": "4432823",
-  "name": "Jaylin Williams",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Back Spasms",
-  "return_date": "2026-11-25",
-  "updated": "2026-11-24T04:36Z",
-  "comment": "Williams (back) has been ruled out for Monday's game against the Pacers"
- },
- {
-  "team_id": "25",
-  "team": "Oklahoma City Thunder",
-  "athlete_id": "5174983",
-  "name": "Aday Mara",
+  "athlete_id": "3136195",
+  "name": "Karl-Anthony Towns",
   "position": "C",
   "status": "Day-To-Day",
-  "injury": "Right Lower Leg Bruise",
+  "injury": "Knee",
   "return_date": "2026-11-25",
-  "updated": "2026-11-24T04:36Z",
-  "comment": "Mara (shin) has been ruled out for Monday's game against the Pacers."
+  "updated": "2026-11-24T21:50Z",
+  "comment": "Towns (knee) is questionable for Wednesday's game against Cleveland."
  },
  {
   "team_id": "25",
@@ -691,9 +691,33 @@
   "position": "G",
   "status": "Out",
   "injury": "Left Hip Strain",
-  "return_date": "2026-11-25",
-  "updated": "2026-11-23T18:49Z",
-  "comment": "Topic (hip) has been ruled out for Monday's game against the Pacers, according to the NBA's official injury report."
+  "return_date": "2026-11-28",
+  "updated": "2026-11-24T23:29Z",
+  "comment": "Topic (hip) is listed as out for Wednesday's game versus Minnesota."
+ },
+ {
+  "team_id": "25",
+  "team": "Oklahoma City Thunder",
+  "athlete_id": "4432823",
+  "name": "Jaylin Williams",
+  "position": "F",
+  "status": "Out",
+  "injury": "Back Spasms",
+  "return_date": "2026-11-28",
+  "updated": "2026-11-24T23:24Z",
+  "comment": "Williams (back) is listed as out for Wednesday's game against Minnesota."
+ },
+ {
+  "team_id": "25",
+  "team": "Oklahoma City Thunder",
+  "athlete_id": "5174983",
+  "name": "Aday Mara",
+  "position": "C",
+  "status": "Out",
+  "injury": "Right Lower Leg Bruise",
+  "return_date": "2026-11-28",
+  "updated": "2026-11-24T23:19Z",
+  "comment": "Mara (leg) is out for Wednesday's game versus the Timberwolves."
  },
  {
   "team_id": "25",
@@ -706,18 +730,6 @@
   "return_date": "2027-03-02",
   "updated": "2026-11-23T18:43Z",
   "comment": "Williams (ankle) has been ruled out for Monday's game against the Pacers, according to the NBA's official injury report."
- },
- {
-  "team_id": "25",
-  "team": "Oklahoma City Thunder",
-  "athlete_id": "2991350",
-  "name": "Alex Caruso",
-  "position": "G",
-  "status": "Out",
-  "injury": "Right Hip Soreness",
-  "return_date": "2026-11-25",
-  "updated": "2026-11-23T18:38Z",
-  "comment": "Caruso (hip) has been ruled out for Monday's game against the Pacers, according to the NBA's official injury report."
  },
  {
   "team_id": "25",
@@ -811,9 +823,9 @@
   "position": "C",
   "status": "Day-To-Day",
   "injury": "Illness",
-  "return_date": "2026-11-25",
-  "updated": "2026-11-24T04:33Z",
-  "comment": "Embiid (illness) is out for Monday's game against Portland, Austin Krell of OnPattison.com reports."
+  "return_date": "2026-11-27",
+  "updated": "2026-11-24T22:09Z",
+  "comment": "Embiid (illness) is listed as doubtful for Wednesday's game versus Miami."
  },
  {
   "team_id": "20",
@@ -914,26 +926,26 @@
  {
   "team_id": "24",
   "team": "San Antonio Spurs",
-  "athlete_id": "5104157",
-  "name": "Victor Wembanyama",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Back",
-  "return_date": "2026-11-25",
-  "updated": "2026-11-24T06:06Z",
-  "comment": "Wembanyama (back) won't play Monday against the Kings, Jeff McDonald of the San Antonio Express-News reports."
- },
- {
-  "team_id": "24",
-  "team": "San Antonio Spurs",
   "athlete_id": "4066259",
   "name": "De'Aaron Fox",
   "position": "G",
   "status": "Day-To-Day",
   "injury": "Right Lower Leg Bruise",
   "return_date": "2026-11-25",
-  "updated": "2026-11-24T06:06Z",
-  "comment": "Fox (shin) has been ruled out for Monday's game against the Kings, Jeff McDonald of the San Antonio Express-News reports."
+  "updated": "2026-11-25T01:27Z",
+  "comment": "Fox (shin) is questionable to play Wednesday's game against the Trail Blazers."
+ },
+ {
+  "team_id": "24",
+  "team": "San Antonio Spurs",
+  "athlete_id": "5104157",
+  "name": "Victor Wembanyama",
+  "position": "F",
+  "status": "Day-To-Day",
+  "injury": "Back",
+  "return_date": "2026-11-25",
+  "updated": "2026-11-25T01:23Z",
+  "comment": "Wembanyama (back) is questionable for Wednesday's game in Portland."
  },
  {
   "team_id": "24",
@@ -974,6 +986,18 @@
  {
   "team_id": "28",
   "team": "Toronto Raptors",
+  "athlete_id": "6450",
+  "name": "Kawhi Leonard",
+  "position": "F",
+  "status": "Out",
+  "injury": "Left Knee Inflammation",
+  "return_date": "2026-12-03",
+  "updated": "2026-11-24T21:15Z",
+  "comment": "Leonard has begun individual on-court workouts following treatment to address swelling in his left knee, and he will be re-evaluated in one week, Marc J. Spears of ESPN.com reports."
+ },
+ {
+  "team_id": "28",
+  "team": "Toronto Raptors",
   "athlete_id": "4432586",
   "name": "Nate Bittle",
   "position": "C",
@@ -982,18 +1006,6 @@
   "return_date": "2026-11-27",
   "updated": "2026-11-22T21:13Z",
   "comment": "Bittle (foot) has been ruled out for Monday's game against the Bucks, Blake Murphy of Sportsnet.ca reports."
- },
- {
-  "team_id": "28",
-  "team": "Toronto Raptors",
-  "athlete_id": "6450",
-  "name": "Kawhi Leonard",
-  "position": "F",
-  "status": "Out",
-  "injury": "Left Knee Inflammation",
-  "return_date": "2026-12-03",
-  "updated": "2026-11-20T20:42Z",
-  "comment": "Leonard (knee) could return in the next few weeks, per Shams Charania of ESPN."
  },
  {
   "team_id": "28",
@@ -1054,18 +1066,6 @@
   "return_date": "2026-12-14",
   "updated": "2026-10-27T19:25Z",
   "comment": "Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-to-8 weeks, per Shams Charania of ESPN."
- },
- {
-  "team_id": "27",
-  "team": "Washington Wizards",
-  "athlete_id": "4432819",
-  "name": "Tre Mann",
-  "position": "G",
-  "status": "Day-To-Day",
-  "injury": "Illness",
-  "return_date": "2026-11-24",
-  "updated": "2026-11-24T16:47Z",
-  "comment": "Mann (illness) has been downgraded to questionable for Tuesday's game against Boston."
  },
  {
   "team_id": "27",

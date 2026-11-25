@@ -41,5 +41,48 @@
    "away": 5
   },
   "low_confidence": false
+ },
+ {
+  "id": "213292",
+  "date": "2026-11-26T10:00:00+00:00",
+  "status": "NS",
+  "home": {
+   "id": 1176,
+   "name": "Woori",
+   "ko": "우리카드"
+  },
+  "away": {
+   "id": 1175,
+   "name": "Samsung Blue Fangs",
+   "ko": "삼성화재"
+  },
+  "prediction": {
+   "home_win_prob": 0.184,
+   "scores": {
+    "3-0": 0.03,
+    "0-3": 0.327,
+    "3-1": 0.062,
+    "1-3": 0.305,
+    "3-2": 0.092,
+    "2-3": 0.184
+   },
+   "set_win_prob": 0.311,
+   "expected_sets": 3.92,
+   "total": 167.8,
+   "total_range80": [
+    125.2,
+    210.5
+   ],
+   "total_sigma": 33.26,
+   "home_minus_1_5": 0.092,
+   "away_minus_1_5": 0.632,
+   "full_five_sets": 0.276,
+   "edge": -0.202
+  },
+  "data_games": {
+   "home": 6,
+   "away": 5
+  },
+  "low_confidence": false
  }
 ]
