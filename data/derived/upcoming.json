@@ -491,7 +491,7 @@
   "venue": "Xfinity Mobile Arena",
   "date_kst": "2026-11-26T07:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "PHI -1.5",
    "spread": -1.5,
    "over_under": 237.5
@@ -1008,7 +1008,7 @@
     "over_under": 237.5,
     "home_cover_prob": 0.541,
     "over_prob": 0.606,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -1021,10 +1021,10 @@
   "venue": "Spectrum Center",
   "date_kst": "2026-11-26T09:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "CHA -3.5",
    "spread": -3.5,
-   "over_under": 221.5
+   "over_under": 222.5
   },
   "home": {
    "id": "30",
@@ -1619,10 +1619,10 @@
    },
    "vs_line": {
     "spread": -3.5,
-    "over_under": 221.5,
+    "over_under": 222.5,
     "home_cover_prob": 0.473,
-    "over_prob": 0.586,
-    "provider": "Draft Kings"
+    "over_prob": 0.565,
+    "provider": "DraftKings"
    }
   }
  },
@@ -1635,7 +1635,7 @@
   "venue": "Madison Square Garden",
   "date_kst": "2026-11-26T09:30:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "NY -3.5",
    "spread": -3.5,
    "over_under": 219.5
@@ -2218,7 +2218,7 @@
     "over_under": 219.5,
     "home_cover_prob": 0.593,
     "over_prob": 0.487,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -2231,7 +2231,7 @@
   "venue": "Paycom Center",
   "date_kst": "2026-11-26T09:30:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "OKC -1.5",
    "spread": -1.5,
    "over_under": 223.5
@@ -2825,7 +2825,7 @@
     "over_under": 223.5,
     "home_cover_prob": 0.46,
     "over_prob": 0.514,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -2838,7 +2838,7 @@
   "venue": "FedExForum",
   "date_kst": "2026-11-26T10:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "MEM -6.5",
    "spread": -6.5,
    "over_under": 229.5
@@ -3408,7 +3408,7 @@
     "over_under": 229.5,
     "home_cover_prob": 0.475,
     "over_prob": 0.609,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -3421,7 +3421,7 @@
   "venue": "Fiserv Forum",
   "date_kst": "2026-11-26T10:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "MIL -1.5",
    "spread": -1.5,
    "over_under": 230.5
@@ -3906,7 +3906,7 @@
     "over_under": 230.5,
     "home_cover_prob": 0.557,
     "over_prob": 0.582,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -3919,7 +3919,7 @@
   "venue": "Toyota Center (Houston)",
   "date_kst": "2026-11-26T10:30:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "HOU -8.5",
    "spread": -8.5,
    "over_under": 224.5
@@ -4397,7 +4397,7 @@
     "over_under": 224.5,
     "home_cover_prob": 0.441,
     "over_prob": 0.558,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -4410,9 +4410,9 @@
   "venue": "Chase Center",
   "date_kst": "2026-11-26T12:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
-   "details": "GS -6.5",
-   "spread": -6.5,
+   "provider": "DraftKings",
+   "details": "GS -5.5",
+   "spread": -5.5,
    "over_under": 218.5
   },
   "home": {
@@ -4988,11 +4988,11 @@
     }
    },
    "vs_line": {
-    "spread": -6.5,
+    "spread": -5.5,
     "over_under": 218.5,
-    "home_cover_prob": 0.436,
+    "home_cover_prob": 0.464,
     "over_prob": 0.631,
-    "provider": "Draft Kings"
+    "provider": "DraftKings"
    }
   }
  },
@@ -5005,10 +5005,10 @@
   "venue": "Moda Center",
   "date_kst": "2026-11-26T12:00:00+09:00",
   "odds": {
-   "provider": "Draft Kings",
-   "details": "SA -2.5",
-   "spread": 2.5,
-   "over_under": 225.5
+   "provider": "DraftKings",
+   "details": "SA -3.5",
+   "spread": 3.5,
+   "over_under": 226.5
   },
   "home": {
    "id": "22",
@@ -5595,11 +5595,11 @@
     }
    },
    "vs_line": {
-    "spread": 2.5,
-    "over_under": 225.5,
-    "home_cover_prob": 0.65,
-    "over_prob": 0.401,
-    "provider": "Draft Kings"
+    "spread": 3.5,
+    "over_under": 226.5,
+    "home_cover_prob": 0.676,
+    "over_prob": 0.381,
+    "provider": "DraftKings"
    }
   }
  }
