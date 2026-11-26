@@ -5548,9 +5548,9 @@
   "date": "2026-11-26T00:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Paycom Center",
   "home": {
@@ -5561,7 +5561,7 @@
   "away": {
    "id": "16",
    "abbr": "MIN",
-   "score": 110
+   "score": 113
   }
  },
  {
@@ -5569,20 +5569,20 @@
   "date": "2026-11-26T01:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "FedExForum",
   "home": {
    "id": "29",
    "abbr": "MEM",
-   "score": 102
+   "score": 115
   },
   "away": {
    "id": "12",
    "abbr": "LAC",
-   "score": 81
+   "score": 97
   }
  },
  {
@@ -5590,20 +5590,20 @@
   "date": "2026-11-26T01:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Fiserv Forum",
   "home": {
    "id": "15",
    "abbr": "MIL",
-   "score": 78
+   "score": 97
   },
   "away": {
    "id": "17",
    "abbr": "BKN",
-   "score": 85
+   "score": 104
   }
  },
  {
@@ -5613,18 +5613,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_HALFTIME",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Toyota Center (Houston)",
   "home": {
    "id": "10",
    "abbr": "HOU",
-   "score": 66
+   "score": 92
   },
   "away": {
    "id": "21",
    "abbr": "PHX",
-   "score": 56
+   "score": 81
   }
  },
  {
@@ -5632,26 +5632,20 @@
   "date": "2026-11-26T03:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Chase Center",
   "home": {
    "id": "9",
    "abbr": "GS",
-   "score": null
+   "score": 30
   },
   "away": {
    "id": "23",
    "abbr": "SAC",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "GS -8.5",
-   "spread": -8.5,
-   "over_under": 216.5
+   "score": 14
   }
  },
  {
@@ -5659,26 +5653,20 @@
   "date": "2026-11-26T03:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "pre",
+  "state": "in",
   "completed": false,
-  "status": "STATUS_SCHEDULED",
+  "status": "STATUS_IN_PROGRESS",
   "neutral": false,
   "venue": "Moda Center",
   "home": {
    "id": "22",
    "abbr": "POR",
-   "score": null
+   "score": 22
   },
   "away": {
    "id": "24",
    "abbr": "SA",
-   "score": null
-  },
-  "odds": {
-   "provider": "DraftKings",
-   "details": "SA -3.5",
-   "spread": 3.5,
-   "over_under": 224.5
+   "score": 18
   }
  },
  {
