@@ -9889,12 +9889,12 @@
   "id": "213418",
   "date": "2026-11-26T10:00:00+00:00",
   "season": 2026,
-  "status": "S3",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 1181,
    "name": "Hyundai E&C Hillstate W",
-   "score": 1
+   "score": 3
   },
   "away": {
    "id": 4452,
@@ -9911,8 +9911,12 @@
     21
    ],
    [
-    20,
-    20
+    25,
+    23
+   ],
+   [
+    25,
+    23
    ]
   ]
  },
