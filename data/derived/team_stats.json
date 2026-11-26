@@ -112,10 +112,10 @@
   "net_rtg": 2.1
  },
  "24": {
-  "gp": 18,
+  "gp": 19,
   "record": [
    15,
-   3
+   4
   ],
   "home_record": [
    7,
@@ -123,21 +123,21 @@
   ],
   "away_record": [
    8,
-   0
-  ],
-  "ppg": 117.6,
-  "opp_ppg": 105.4,
-  "avg_margin": 12.2,
-  "last10_record": [
-   9,
    1
   ],
-  "last10_margin": 15.3,
-  "last_game": "2026-11-24T03:00Z",
+  "ppg": 117.3,
+  "opp_ppg": 106.0,
+  "avg_margin": 11.3,
+  "last10_record": [
+   8,
+   2
+  ],
+  "last10_margin": 13.3,
+  "last_game": "2026-11-26T03:00Z",
   "pace": 101.3,
-  "ortg": 116.1,
-  "drtg": 104.1,
-  "net_rtg": 12.0
+  "ortg": 115.7,
+  "drtg": 104.6,
+  "net_rtg": 11.1
  },
  "25": {
   "gp": 19,
@@ -560,32 +560,32 @@
   "net_rtg": -3.3
  },
  "10": {
-  "gp": 18,
+  "gp": 19,
   "record": [
-   13,
+   14,
    5
   ],
   "home_record": [
-   8,
+   9,
    1
   ],
   "away_record": [
    5,
    4
   ],
-  "ppg": 118.1,
-  "opp_ppg": 110.2,
-  "avg_margin": 7.9,
+  "ppg": 118.0,
+  "opp_ppg": 109.9,
+  "avg_margin": 8.1,
   "last10_record": [
-   6,
-   4
+   7,
+   3
   ],
-  "last10_margin": 3.9,
-  "last_game": "2026-11-24T01:30Z",
+  "last10_margin": 6.1,
+  "last_game": "2026-11-26T01:30Z",
   "pace": 99.8,
-  "ortg": 118.3,
-  "drtg": 110.4,
-  "net_rtg": 7.9
+  "ortg": 118.2,
+  "drtg": 110.1,
+  "net_rtg": 8.1
  },
  "6": {
   "gp": 18,
@@ -644,41 +644,41 @@
   "net_rtg": 6.5
  },
  "9": {
-  "gp": 17,
+  "gp": 18,
   "record": [
-   9,
+   10,
    8
   ],
   "home_record": [
-   7,
+   8,
    1
   ],
   "away_record": [
    2,
    7
   ],
-  "ppg": 111.2,
-  "opp_ppg": 112.1,
-  "avg_margin": -0.8,
+  "ppg": 112.2,
+  "opp_ppg": 111.9,
+  "avg_margin": 0.3,
   "last10_record": [
    5,
    5
   ],
-  "last10_margin": -3.4,
-  "last_game": "2026-11-23T01:30Z",
-  "pace": 100.9,
-  "ortg": 110.2,
-  "drtg": 111.0,
-  "net_rtg": -0.8
+  "last10_margin": -1.8,
+  "last_game": "2026-11-26T03:00Z",
+  "pace": 101.0,
+  "ortg": 111.1,
+  "drtg": 110.8,
+  "net_rtg": 0.3
  },
  "22": {
-  "gp": 17,
+  "gp": 18,
   "record": [
-   11,
+   12,
    6
   ],
   "home_record": [
-   3,
+   4,
    2
   ],
   "away_record": [
@@ -687,23 +687,23 @@
   ],
   "ppg": 116.8,
   "opp_ppg": 110.4,
-  "avg_margin": 6.5,
+  "avg_margin": 6.4,
   "last10_record": [
-   5,
-   5
+   6,
+   4
   ],
-  "last10_margin": 3.2,
-  "last_game": "2026-11-24T00:00Z",
+  "last10_margin": 4.3,
+  "last_game": "2026-11-26T03:00Z",
   "pace": 102.1,
-  "ortg": 114.5,
+  "ortg": 114.4,
   "drtg": 108.1,
-  "net_rtg": 6.4
+  "net_rtg": 6.3
  },
  "21": {
-  "gp": 16,
+  "gp": 17,
   "record": [
    9,
-   7
+   8
   ],
   "home_record": [
    5,
@@ -711,21 +711,21 @@
   ],
   "away_record": [
    4,
+   4
+  ],
+  "ppg": 113.8,
+  "opp_ppg": 115.1,
+  "avg_margin": -1.2,
+  "last10_record": [
+   7,
    3
   ],
-  "ppg": 114.4,
-  "opp_ppg": 115.0,
-  "avg_margin": -0.6,
-  "last10_record": [
-   8,
-   2
-  ],
-  "last10_margin": 5.7,
-  "last_game": "2026-11-24T01:00Z",
-  "pace": 101.8,
-  "ortg": 112.4,
-  "drtg": 112.9,
-  "net_rtg": -0.5
+  "last10_margin": 3.2,
+  "last_game": "2026-11-26T01:30Z",
+  "pace": 101.7,
+  "ortg": 112.0,
+  "drtg": 113.2,
+  "net_rtg": -1.2
  },
  "12": {
   "gp": 17,
@@ -756,10 +756,10 @@
   "net_rtg": -7.3
  },
  "23": {
-  "gp": 17,
+  "gp": 18,
   "record": [
    2,
-   15
+   16
   ],
   "home_record": [
    1,
@@ -767,21 +767,21 @@
   ],
   "away_record": [
    1,
-   5
+   6
   ],
-  "ppg": 106.8,
-  "opp_ppg": 119.4,
-  "avg_margin": -12.5,
+  "ppg": 107.0,
+  "opp_ppg": 119.9,
+  "avg_margin": -12.9,
   "last10_record": [
    1,
    9
   ],
-  "last10_margin": -11.4,
-  "last_game": "2026-11-24T03:00Z",
-  "pace": 101.8,
-  "ortg": 104.9,
-  "drtg": 117.2,
-  "net_rtg": -12.3
+  "last10_margin": -12.0,
+  "last_game": "2026-11-26T03:00Z",
+  "pace": 101.9,
+  "ortg": 105.0,
+  "drtg": 117.7,
+  "net_rtg": -12.7
  },
  "5": {
   "gp": 19,

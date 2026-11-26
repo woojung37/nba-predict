@@ -6232,6 +6232,11 @@
    "home_cover_prob": 0.414,
    "over_prob": 0.598,
    "provider": "Draft Kings"
+  },
+  "result": {
+   "home_score": 116,
+   "away_score": 104,
+   "home_margin": 12
   }
  },
  "401909324": {
@@ -6256,6 +6261,11 @@
    "home_cover_prob": 0.398,
    "over_prob": 0.676,
    "provider": "Draft Kings"
+  },
+  "result": {
+   "home_score": 129,
+   "away_score": 110,
+   "home_margin": 19
   }
  },
  "401909325": {
@@ -6280,66 +6290,85 @@
    "home_cover_prob": 0.676,
    "over_prob": 0.398,
    "provider": "Draft Kings"
+  },
+  "result": {
+   "home_score": 116,
+   "away_score": 111,
+   "home_margin": 5
   }
  },
  "401909326": {
   "date": "2026-11-28T00:00Z",
   "home": "NY",
   "away": "MIA",
-  "predicted_at": "2026-11-26T03:30:01+00:00",
+  "predicted_at": "2026-11-26T06:03:03+00:00",
   "prediction": {
-   "home_points": 116.4,
-   "away_points": 109.5,
+   "home_points": 116.5,
+   "away_points": 109.6,
    "home_margin": 6.9,
-   "home_win_prob": 0.686,
+   "home_win_prob": 0.687,
    "margin_range80": [
-    -11.3,
+    -11.2,
     25.0
    ],
-   "total": 225.9
+   "total": 226.1
+  },
+  "line": {
+   "spread": -4.5,
+   "over_under": 224.5,
+   "home_cover_prob": 0.568,
+   "over_prob": 0.534,
+   "provider": "DraftKings"
   }
  },
  "401909327": {
   "date": "2026-11-28T00:30Z",
   "home": "DET",
   "away": "MIL",
-  "predicted_at": "2026-11-26T03:30:01+00:00",
+  "predicted_at": "2026-11-26T06:03:03+00:00",
   "prediction": {
-   "home_points": 117.4,
-   "away_points": 105.2,
+   "home_points": 117.5,
+   "away_points": 105.3,
    "home_margin": 12.2,
    "home_win_prob": 0.806,
    "margin_range80": [
     -5.9,
     30.3
    ],
-   "total": 222.6
+   "total": 222.7
   }
  },
  "401909328": {
   "date": "2026-11-28T00:30Z",
   "home": "IND",
   "away": "PHI",
-  "predicted_at": "2026-11-26T03:30:01+00:00",
+  "predicted_at": "2026-11-26T06:03:03+00:00",
   "prediction": {
    "home_points": 117.0,
-   "away_points": 117.0,
+   "away_points": 117.1,
    "home_margin": -0.1,
    "home_win_prob": 0.498,
    "margin_range80": [
     -18.2,
     18.1
    ],
-   "total": 234.0
+   "total": 234.2
+  },
+  "line": {
+   "spread": 4.5,
+   "over_under": 234.5,
+   "home_cover_prob": 0.623,
+   "over_prob": 0.493,
+   "provider": "DraftKings"
   }
  },
  "401909329": {
   "date": "2026-11-28T00:30Z",
   "home": "TOR",
   "away": "BKN",
-  "predicted_at": "2026-11-26T03:30:01+00:00",
+  "predicted_at": "2026-11-26T06:03:03+00:00",
   "prediction": {
-   "home_points": 117.1,
+   "home_points": 117.2,
    "away_points": 106.6,
    "home_margin": 10.5,
    "home_win_prob": 0.771,
@@ -6347,126 +6376,140 @@
     -7.6,
     28.7
    ],
-   "total": 223.6
+   "total": 223.8
   }
  },
  "401909330": {
   "date": "2026-11-28T01:00Z",
   "home": "BOS",
   "away": "ATL",
-  "predicted_at": "2026-11-26T03:30:01+00:00",
+  "predicted_at": "2026-11-26T06:03:03+00:00",
   "prediction": {
-   "home_points": 114.3,
-   "away_points": 105.5,
+   "home_points": 114.4,
+   "away_points": 105.6,
    "home_margin": 8.8,
    "home_win_prob": 0.732,
    "margin_range80": [
     -9.4,
     26.9
    ],
-   "total": 219.8
+   "total": 220.0
+  },
+  "line": {
+   "spread": -9.5,
+   "over_under": 222.5,
+   "home_cover_prob": 0.479,
+   "over_prob": 0.446,
+   "provider": "DraftKings"
   }
  },
  "401909331": {
   "date": "2026-11-28T01:30Z",
   "home": "MIN",
   "away": "MEM",
-  "predicted_at": "2026-11-26T03:30:01+00:00",
+  "predicted_at": "2026-11-26T06:03:03+00:00",
   "prediction": {
-   "home_points": 117.4,
-   "away_points": 109.7,
+   "home_points": 117.5,
+   "away_points": 109.8,
    "home_margin": 7.7,
    "home_win_prob": 0.707,
    "margin_range80": [
     -10.4,
     25.9
    ],
-   "total": 227.1
+   "total": 227.3
   }
  },
  "401909332": {
   "date": "2026-11-28T02:00Z",
   "home": "PHX",
   "away": "DAL",
-  "predicted_at": "2026-11-26T03:30:01+00:00",
+  "predicted_at": "2026-11-26T06:03:03+00:00",
   "prediction": {
-   "home_points": 116.1,
-   "away_points": 113.3,
-   "home_margin": 2.8,
-   "home_win_prob": 0.579,
+   "home_points": 115.9,
+   "away_points": 113.4,
+   "home_margin": 2.6,
+   "home_win_prob": 0.572,
    "margin_range80": [
-    -15.3,
-    21.0
+    -15.6,
+    20.7
    ],
-   "total": 229.4
+   "total": 229.3
   }
  },
  "401909333": {
   "date": "2026-11-28T02:30Z",
   "home": "SA",
   "away": "LAL",
-  "predicted_at": "2026-11-26T03:30:01+00:00",
+  "predicted_at": "2026-11-26T06:03:03+00:00",
   "prediction": {
-   "home_points": 112.9,
-   "away_points": 107.2,
-   "home_margin": 5.8,
-   "home_win_prob": 0.658,
+   "home_points": 113.1,
+   "away_points": 107.5,
+   "home_margin": 5.6,
+   "home_win_prob": 0.654,
    "margin_range80": [
-    -12.4,
-    23.9
+    -12.5,
+    23.8
    ],
-   "total": 220.1
+   "total": 220.5
+  },
+  "line": {
+   "spread": -6.5,
+   "over_under": 226.5,
+   "home_cover_prob": 0.475,
+   "over_prob": 0.374,
+   "provider": "DraftKings"
   }
  },
  "401909334": {
   "date": "2026-11-28T02:30Z",
   "home": "UTAH",
   "away": "DEN",
-  "predicted_at": "2026-11-26T03:30:01+00:00",
+  "predicted_at": "2026-11-26T06:03:03+00:00",
   "prediction": {
-   "home_points": 114.8,
-   "away_points": 118.9,
+   "home_points": 114.9,
+   "away_points": 119.0,
    "home_margin": -4.1,
    "home_win_prob": 0.387,
    "margin_range80": [
     -22.2,
     14.1
    ],
-   "total": 233.7
+   "total": 233.9
   }
  },
  "401909335": {
   "date": "2026-11-28T02:30Z",
   "home": "LAC",
   "away": "NO",
-  "predicted_at": "2026-11-26T03:30:01+00:00",
+  "predicted_at": "2026-11-26T06:03:03+00:00",
   "prediction": {
-   "home_points": 119.5,
-   "away_points": 115.7,
+   "home_points": 119.6,
+   "away_points": 115.8,
    "home_margin": 3.8,
    "home_win_prob": 0.606,
    "margin_range80": [
     -14.3,
     21.9
    ],
-   "total": 235.2
+   "total": 235.3
   }
  },
  "401909336": {
   "date": "2026-11-28T02:30Z",
   "home": "POR",
   "away": "GS",
-  "predicted_at": "2026-11-26T03:30:01+00:00",
+  "predicted_at": "2026-11-26T06:03:03+00:00",
   "prediction": {
-   "home_points": 117.0,
-   "away_points": 106.4,
-   "home_margin": 10.5,
-   "home_win_prob": 0.772,
+   "home_points": 117.4,
+   "away_points": 107.2,
+   "home_margin": 10.2,
+   "home_win_prob": 0.764,
    "margin_range80": [
-    -7.6,
-    28.7
+    -8.0,
+    28.3
    ],
-   "total": 223.4
+   "total": 224.6
   }
  }
 }

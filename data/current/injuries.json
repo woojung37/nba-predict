@@ -101,10 +101,10 @@
   "athlete_id": "4576060",
   "name": "Ryan Kalkbrenner",
   "position": "C",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Left Hip Soreness",
   "return_date": "2026-11-28",
-  "updated": "2026-11-25T17:41Z",
+  "updated": "2026-11-26T05:30Z",
   "comment": "Kalkbrenner (hip) has been ruled out for Wednesday's matchup with Chicago."
  },
  {
@@ -149,10 +149,10 @@
   "athlete_id": "4397189",
   "name": "Jalen Smith",
   "position": "F",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Illness",
   "return_date": "2026-11-28",
-  "updated": "2026-11-25T22:07Z",
+  "updated": "2026-11-26T05:29Z",
   "comment": "Smith (illness) is listed as out for Wednesday's game against Charlotte."
  },
  {
@@ -463,9 +463,9 @@
   "position": "C",
   "status": "Day-To-Day",
   "injury": "Left Ankle Soreness",
-  "return_date": "2026-11-25",
-  "updated": "2026-11-26T02:48Z",
-  "comment": "Edey (ankle) is doubtful to return to Wednesday's game against the Clippers."
+  "return_date": "2026-11-27",
+  "updated": "2026-11-26T03:43Z",
+  "comment": "Edey (ankle) did not return to Wednesday's 115-97 win over the Clippers. He finished with seven points (3-4 FG, 1-1 FT), four rebounds, two assists and two blocks across nine minutes."
  },
  {
   "team_id": "29",
@@ -535,9 +535,9 @@
   "position": "G",
   "status": "Day-To-Day",
   "injury": "Left Ankle",
-  "return_date": "2026-11-25",
-  "updated": "2026-11-26T03:08Z",
-  "comment": "Ball headed to the locker room after turning his left ankle against the Thunder, Tim MacMahon of ESPN.com reports."
+  "return_date": "2026-11-27",
+  "updated": "2026-11-26T03:37Z",
+  "comment": "Ball (ankle) did not return to Wednesday's 113-106 win over the Thunder."
  },
  {
   "team_id": "16",
@@ -626,14 +626,26 @@
  {
   "team_id": "18",
   "team": "New York Knicks",
+  "athlete_id": "4431823",
+  "name": "Miles McBride",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Left Groin Soreness",
+  "return_date": "2026-11-27",
+  "updated": "2026-11-26T05:31Z",
+  "comment": "McBride (adductor) has been ruled out for Wednesday's game against the Cavaliers."
+ },
+ {
+  "team_id": "18",
+  "team": "New York Knicks",
   "athlete_id": "6585",
   "name": "Andre Drummond",
   "position": "C",
   "status": "Day-To-Day",
   "injury": "Head Not Specified",
-  "return_date": "2026-11-25",
-  "updated": "2026-11-26T02:31Z",
-  "comment": "Drummond is questionable to return to Wednesday's game against Cleveland due to a head injury, Stefan Bondy of The New York Post reports."
+  "return_date": "2026-11-27",
+  "updated": "2026-11-26T03:40Z",
+  "comment": "Drummond (head) did not return to Wednesday's 121-102 win over the Cavaliers."
  },
  {
   "team_id": "18",
@@ -646,18 +658,6 @@
   "return_date": "2026-11-27",
   "updated": "2026-11-25T23:19Z",
   "comment": "Anunoby (calf) participated in on-court work for the first time since sustaining the injury, Ian Begley of SportsNet New York reports."
- },
- {
-  "team_id": "18",
-  "team": "New York Knicks",
-  "athlete_id": "4431823",
-  "name": "Miles McBride",
-  "position": "G",
-  "status": "Out",
-  "injury": "Left Groin Soreness",
-  "return_date": "2026-11-27",
-  "updated": "2026-11-25T17:57Z",
-  "comment": "McBride (adductor) has been ruled out for Wednesday's game against the Cavaliers."
  },
  {
   "team_id": "18",
@@ -905,10 +905,10 @@
   "athlete_id": "3064440",
   "name": "Zach LaVine",
   "position": "G",
-  "status": "Out",
+  "status": "Day-To-Day",
   "injury": "Right Knee Soreness",
   "return_date": "2026-11-29",
-  "updated": "2026-11-25T22:40Z",
+  "updated": "2026-11-26T05:33Z",
   "comment": "LaVine (knee) is listed as out for Wednesday's game versus the Warriors."
  },
  {

@@ -5611,20 +5611,20 @@
   "date": "2026-11-26T01:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Toyota Center (Houston)",
   "home": {
    "id": "10",
    "abbr": "HOU",
-   "score": 92
+   "score": 116
   },
   "away": {
    "id": "21",
    "abbr": "PHX",
-   "score": 81
+   "score": 104
   }
  },
  {
@@ -5632,20 +5632,20 @@
   "date": "2026-11-26T03:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Chase Center",
   "home": {
    "id": "9",
    "abbr": "GS",
-   "score": 30
+   "score": 129
   },
   "away": {
    "id": "23",
    "abbr": "SAC",
-   "score": 14
+   "score": 110
   }
  },
  {
@@ -5653,20 +5653,20 @@
   "date": "2026-11-26T03:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Moda Center",
   "home": {
    "id": "22",
    "abbr": "POR",
-   "score": 22
+   "score": 116
   },
   "away": {
    "id": "24",
    "abbr": "SA",
-   "score": 18
+   "score": 111
   }
  },
  {
@@ -5688,6 +5688,12 @@
    "id": "14",
    "abbr": "MIA",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "NY -4.5",
+   "spread": -4.5,
+   "over_under": 224.5
   }
  },
  {
@@ -5730,6 +5736,12 @@
    "id": "20",
    "abbr": "PHI",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "PHI -4.5",
+   "spread": 4.5,
+   "over_under": 234.5
   }
  },
  {
@@ -5772,6 +5784,12 @@
    "id": "1",
    "abbr": "ATL",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "BOS -9.5",
+   "spread": -9.5,
+   "over_under": 222.5
   }
  },
  {
@@ -5835,6 +5853,12 @@
    "id": "13",
    "abbr": "LAL",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "SA -6.5",
+   "spread": -6.5,
+   "over_under": 226.5
   }
  },
  {
