@@ -5691,8 +5691,8 @@
   },
   "odds": {
    "provider": "DraftKings",
-   "details": "NY -4.5",
-   "spread": -4.5,
+   "details": "NY -3.5",
+   "spread": -3.5,
    "over_under": 224.5
   }
  },
@@ -5789,7 +5789,7 @@
    "provider": "DraftKings",
    "details": "BOS -9.5",
    "spread": -9.5,
-   "over_under": 222.5
+   "over_under": 220.5
   }
  },
  {
@@ -5858,7 +5858,7 @@
    "provider": "DraftKings",
    "details": "SA -6.5",
    "spread": -6.5,
-   "over_under": 226.5
+   "over_under": 225.5
   }
  },
  {
@@ -5880,6 +5880,12 @@
    "id": "7",
    "abbr": "DEN",
    "score": null
+  },
+  "odds": {
+   "provider": "DraftKings",
+   "details": "DEN -9.5",
+   "spread": 9.5,
+   "over_under": 227.5
   }
  },
  {

@@ -9889,19 +9889,32 @@
   "id": "213418",
   "date": "2026-11-26T10:00:00+00:00",
   "season": 2026,
-  "status": "NS",
+  "status": "S3",
   "completed": false,
   "home": {
    "id": 1181,
    "name": "Hyundai E&C Hillstate W",
-   "score": null
+   "score": 1
   },
   "away": {
    "id": 4452,
    "name": "SOOP SOOPers W",
-   "score": null
+   "score": 1
   },
-  "sets": []
+  "sets": [
+   [
+    21,
+    25
+   ],
+   [
+    25,
+    21
+   ],
+   [
+    20,
+    20
+   ]
+  ]
  },
  {
   "id": "213419",

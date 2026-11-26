@@ -9827,19 +9827,32 @@
   "id": "213292",
   "date": "2026-11-26T10:00:00+00:00",
   "season": 2026,
-  "status": "NS",
+  "status": "S3",
   "completed": false,
   "home": {
    "id": 1176,
    "name": "Woori",
-   "score": null
+   "score": 0
   },
   "away": {
    "id": 1175,
    "name": "Samsung Blue Fangs",
-   "score": null
+   "score": 2
   },
-  "sets": []
+  "sets": [
+   [
+    21,
+    25
+   ],
+   [
+    22,
+    25
+   ],
+   [
+    18,
+    17
+   ]
+  ]
  },
  {
   "id": "213293",
