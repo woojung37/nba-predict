@@ -41,5 +41,48 @@
    "away": 5
   },
   "low_confidence": false
+ },
+ {
+  "id": "213294",
+  "date": "2026-11-28T05:00:00+00:00",
+  "status": "NS",
+  "home": {
+   "id": 2100,
+   "name": "Busan OK",
+   "ko": "OK저축은행"
+  },
+  "away": {
+   "id": 1173,
+   "name": "Kepco",
+   "ko": "한국전력"
+  },
+  "prediction": {
+   "home_win_prob": 0.313,
+   "scores": {
+    "3-0": 0.062,
+    "0-3": 0.221,
+    "3-1": 0.112,
+    "1-3": 0.262,
+    "3-2": 0.14,
+    "2-3": 0.203
+   },
+   "set_win_prob": 0.395,
+   "expected_sets": 4.06,
+   "total": 174.2,
+   "total_range80": [
+    131.6,
+    216.9
+   ],
+   "total_sigma": 33.26,
+   "home_minus_1_5": 0.174,
+   "away_minus_1_5": 0.484,
+   "full_five_sets": 0.343,
+   "edge": -0.109
+  },
+  "data_games": {
+   "home": 6,
+   "away": 7
+  },
+  "low_confidence": false
  }
 ]
