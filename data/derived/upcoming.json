@@ -66,6 +66,18 @@
     {
      "team_id": "18",
      "team": "New York Knicks",
+     "athlete_id": "6585",
+     "name": "Andre Drummond",
+     "position": "C",
+     "status": "Out",
+     "injury": "Concussion Not Specified",
+     "return_date": "2026-11-29",
+     "updated": "2026-11-27T15:36Z",
+     "comment": "Drummond (concussion) has been ruled out for Friday's game against the Heat."
+    },
+    {
+     "team_id": "18",
+     "team": "New York Knicks",
      "athlete_id": "4431823",
      "name": "Miles McBride",
      "position": "G",
@@ -98,18 +110,6 @@
      "return_date": "2026-11-27",
      "updated": "2026-11-26T21:57Z",
      "comment": "Anunoby (calf) is doubtful for Friday's game against the Heat."
-    },
-    {
-     "team_id": "18",
-     "team": "New York Knicks",
-     "athlete_id": "6585",
-     "name": "Andre Drummond",
-     "position": "C",
-     "status": "Day-To-Day",
-     "injury": "Head Not Specified",
-     "return_date": "2026-11-27",
-     "updated": "2026-11-26T21:51Z",
-     "comment": "Drummond (head) is questionable for Friday's game against the Heat."
     }
    ],
    "top_players": [
@@ -589,7 +589,7 @@
    "provider": "DraftKings",
    "details": "DET -10.5",
    "spread": -10.5,
-   "over_under": 218.5
+   "over_under": 219.5
   },
   "home": {
    "id": "8",
@@ -1128,9 +1128,9 @@
    },
    "vs_line": {
     "spread": -10.5,
-    "over_under": 218.5,
+    "over_under": 219.5,
     "home_cover_prob": 0.494,
-    "over_prob": 0.55,
+    "over_prob": 0.529,
     "provider": "DraftKings"
    }
   }
@@ -1202,6 +1202,18 @@
     {
      "team_id": "11",
      "team": "Indiana Pacers",
+     "athlete_id": "4396993",
+     "name": "Tyrese Haliburton",
+     "position": "G",
+     "status": "Out",
+     "injury": "Left Hamstring Strain",
+     "return_date": "2026-12-13",
+     "updated": "2026-11-27T16:20Z",
+     "comment": "Haliburton (hamstring) has been ruled out per Scott Agness of FieldhouseFiles.com for Friday's game against the 76ers. The guard participated in practice activities earlier this week as he continues working toward his return."
+    },
+    {
+     "team_id": "11",
+     "team": "Indiana Pacers",
      "athlete_id": "3133603",
      "name": "Kelly Oubre Jr.",
      "position": "G",
@@ -1234,18 +1246,6 @@
      "return_date": "2026-11-27",
      "updated": "2026-11-26T22:29Z",
      "comment": "McConnell (hamstring) is questionable for Friday's game against the 76ers."
-    },
-    {
-     "team_id": "11",
-     "team": "Indiana Pacers",
-     "athlete_id": "4396993",
-     "name": "Tyrese Haliburton",
-     "position": "G",
-     "status": "Out",
-     "injury": "Left Hamstring Strain",
-     "return_date": "2026-12-13",
-     "updated": "2026-11-24T19:41Z",
-     "comment": "Haliburton (hamstring) was recalled from the G League's Noblesville Boom on Tuesday, Tony East of Forbes.com reports."
     },
     {
      "team_id": "11",
@@ -1749,7 +1749,7 @@
    "provider": "DraftKings",
    "details": "TOR -9.5",
    "spread": -9.5,
-   "over_under": 219.5
+   "over_under": 218.5
   },
   "home": {
    "id": "28",
@@ -2302,9 +2302,9 @@
    },
    "vs_line": {
     "spread": -9.5,
-    "over_under": 219.5,
+    "over_under": 218.5,
     "home_cover_prob": 0.529,
-    "over_prob": 0.592,
+    "over_prob": 0.613,
     "provider": "DraftKings"
    }
   }
@@ -2321,7 +2321,7 @@
    "provider": "DraftKings",
    "details": "BOS -8.5",
    "spread": -8.5,
-   "over_under": 221.5
+   "over_under": 222.5
   },
   "home": {
    "id": "2",
@@ -2874,9 +2874,9 @@
    },
    "vs_line": {
     "spread": -8.5,
-    "over_under": 221.5,
+    "over_under": 222.5,
     "home_cover_prob": 0.507,
-    "over_prob": 0.468,
+    "over_prob": 0.446,
     "provider": "DraftKings"
    }
   }
@@ -4698,6 +4698,18 @@
     {
      "team_id": "26",
      "team": "Utah Jazz",
+     "athlete_id": "4277919",
+     "name": "Mo Bamba",
+     "position": "C",
+     "status": "Day-To-Day",
+     "injury": "Illness",
+     "return_date": "2026-11-29",
+     "updated": "2026-11-27T16:28Z",
+     "comment": "Bamba will start Monday's game against the Lakers, Daniel Starkand of LakersNation.com reports."
+    },
+    {
+     "team_id": "26",
+     "team": "Utah Jazz",
      "athlete_id": "4397077",
      "name": "Jaxson Hayes",
      "position": "C",
@@ -5109,19 +5121,19 @@
    ]
   },
   "prediction": {
-   "home_points": 114.9,
+   "home_points": 114.6,
    "away_points": 119.0,
-   "home_margin": -4.1,
-   "home_win_prob": 0.387,
-   "away_win_prob": 0.613,
+   "home_margin": -4.4,
+   "home_win_prob": 0.378,
+   "away_win_prob": 0.622,
    "margin_range80": [
-    -22.2,
-    14.1
+    -22.5,
+    13.7
    ],
-   "total": 233.9,
+   "total": 233.6,
    "total_range80": [
-    210.2,
-    257.6
+    209.9,
+    257.3
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -5129,7 +5141,7 @@
     "team_strength": -3.8,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": -2.3
+    "injuries": -2.6
    },
    "back_to_back": {
     "home": false,
@@ -5146,6 +5158,12 @@
      {
       "athlete_id": "4397077",
       "name": "Jaxson Hayes",
+      "status": "Day-To-Day",
+      "impact": -0.3
+     },
+     {
+      "athlete_id": "4277919",
+      "name": "Mo Bamba",
       "status": "Day-To-Day",
       "impact": -0.3
      }
@@ -5165,8 +5183,8 @@
    "vs_line": {
     "spread": 10.5,
     "over_under": 229.5,
-    "home_cover_prob": 0.675,
-    "over_prob": 0.593,
+    "home_cover_prob": 0.667,
+    "over_prob": 0.587,
     "provider": "DraftKings"
    }
   }
@@ -7721,6 +7739,18 @@
     {
      "team_id": "11",
      "team": "Indiana Pacers",
+     "athlete_id": "4396993",
+     "name": "Tyrese Haliburton",
+     "position": "G",
+     "status": "Out",
+     "injury": "Left Hamstring Strain",
+     "return_date": "2026-12-13",
+     "updated": "2026-11-27T16:20Z",
+     "comment": "Haliburton (hamstring) has been ruled out per Scott Agness of FieldhouseFiles.com for Friday's game against the 76ers. The guard participated in practice activities earlier this week as he continues working toward his return."
+    },
+    {
+     "team_id": "11",
+     "team": "Indiana Pacers",
      "athlete_id": "3133603",
      "name": "Kelly Oubre Jr.",
      "position": "G",
@@ -7753,18 +7783,6 @@
      "return_date": "2026-11-27",
      "updated": "2026-11-26T22:29Z",
      "comment": "McConnell (hamstring) is questionable for Friday's game against the 76ers."
-    },
-    {
-     "team_id": "11",
-     "team": "Indiana Pacers",
-     "athlete_id": "4396993",
-     "name": "Tyrese Haliburton",
-     "position": "G",
-     "status": "Out",
-     "injury": "Left Hamstring Strain",
-     "return_date": "2026-12-13",
-     "updated": "2026-11-24T19:41Z",
-     "comment": "Haliburton (hamstring) was recalled from the G League's Noblesville Boom on Tuesday, Tony East of Forbes.com reports."
     },
     {
      "team_id": "11",
@@ -10777,6 +10795,18 @@
     {
      "team_id": "26",
      "team": "Utah Jazz",
+     "athlete_id": "4277919",
+     "name": "Mo Bamba",
+     "position": "C",
+     "status": "Day-To-Day",
+     "injury": "Illness",
+     "return_date": "2026-11-29",
+     "updated": "2026-11-27T16:28Z",
+     "comment": "Bamba will start Monday's game against the Lakers, Daniel Starkand of LakersNation.com reports."
+    },
+    {
+     "team_id": "26",
+     "team": "Utah Jazz",
      "athlete_id": "4397077",
      "name": "Jaxson Hayes",
      "position": "C",
@@ -11201,19 +11231,19 @@
    ]
   },
   "prediction": {
-   "home_points": 113.2,
+   "home_points": 112.8,
    "away_points": 115.9,
-   "home_margin": -2.8,
-   "home_win_prob": 0.423,
-   "away_win_prob": 0.577,
+   "home_margin": -3.1,
+   "home_win_prob": 0.414,
+   "away_win_prob": 0.586,
    "margin_range80": [
-    -20.9,
-    15.4
+    -21.2,
+    15.1
    ],
-   "total": 229.1,
+   "total": 228.7,
    "total_range80": [
-    205.4,
-    252.8
+    205.0,
+    252.4
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -11221,7 +11251,7 @@
     "team_strength": -2.5,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": -2.3
+    "injuries": -2.6
    },
    "back_to_back": {
     "home": false,
@@ -11238,6 +11268,12 @@
      {
       "athlete_id": "4397077",
       "name": "Jaxson Hayes",
+      "status": "Day-To-Day",
+      "impact": -0.3
+     },
+     {
+      "athlete_id": "4277919",
+      "name": "Mo Bamba",
       "status": "Day-To-Day",
       "impact": -0.3
      }
@@ -11923,6 +11959,18 @@
     {
      "team_id": "18",
      "team": "New York Knicks",
+     "athlete_id": "6585",
+     "name": "Andre Drummond",
+     "position": "C",
+     "status": "Out",
+     "injury": "Concussion Not Specified",
+     "return_date": "2026-11-29",
+     "updated": "2026-11-27T15:36Z",
+     "comment": "Drummond (concussion) has been ruled out for Friday's game against the Heat."
+    },
+    {
+     "team_id": "18",
+     "team": "New York Knicks",
      "athlete_id": "4431823",
      "name": "Miles McBride",
      "position": "G",
@@ -11955,18 +12003,6 @@
      "return_date": "2026-11-27",
      "updated": "2026-11-26T21:57Z",
      "comment": "Anunoby (calf) is doubtful for Friday's game against the Heat."
-    },
-    {
-     "team_id": "18",
-     "team": "New York Knicks",
-     "athlete_id": "6585",
-     "name": "Andre Drummond",
-     "position": "C",
-     "status": "Day-To-Day",
-     "injury": "Head Not Specified",
-     "return_date": "2026-11-27",
-     "updated": "2026-11-26T21:51Z",
-     "comment": "Drummond (head) is questionable for Friday's game against the Heat."
     }
    ],
    "top_players": [
