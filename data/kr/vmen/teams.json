@@ -30,6 +30,16 @@
   "rating": 0.1
  },
  {
+  "id": 1171,
+  "name": "KAL Jumbos",
+  "ko": "대한항공",
+  "wins": 3,
+  "losses": 3,
+  "points_for": 610,
+  "points_against": 603,
+  "rating": -0.014
+ },
+ {
   "id": 1176,
   "name": "Woori",
   "ko": "우리카드",
@@ -40,24 +50,14 @@
   "rating": -0.055
  },
  {
-  "id": 1171,
-  "name": "KAL Jumbos",
-  "ko": "대한항공",
-  "wins": 2,
-  "losses": 3,
-  "points_for": 501,
-  "points_against": 502,
-  "rating": -0.027
- },
- {
   "id": 1172,
   "name": "KB Stars",
   "ko": "KB손해보험",
   "wins": 1,
-  "losses": 4,
-  "points_for": 438,
-  "points_against": 477,
-  "rating": -0.059
+  "losses": 5,
+  "points_for": 539,
+  "points_against": 586,
+  "rating": -0.072
  },
  {
   "id": 2100,

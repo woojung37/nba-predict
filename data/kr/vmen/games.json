@@ -9858,12 +9858,12 @@
   "id": "213293",
   "date": "2026-11-27T10:00:00+00:00",
   "season": 2026,
-  "status": "S3",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 1171,
    "name": "KAL Jumbos",
-   "score": 1
+   "score": 3
   },
   "away": {
    "id": 1172,
@@ -9880,8 +9880,12 @@
     34
    ],
    [
-    5,
-    4
+    26,
+    24
+   ],
+   [
+    26,
+    24
    ]
   ]
  },
