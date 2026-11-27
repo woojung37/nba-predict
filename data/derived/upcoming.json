@@ -9,9 +9,9 @@
   "date_kst": "2026-11-28T09:00:00+09:00",
   "odds": {
    "provider": "DraftKings",
-   "details": "NY -4.5",
-   "spread": -4.5,
-   "over_under": 222.5
+   "details": "NY -2.5",
+   "spread": -2.5,
+   "over_under": 221.5
   },
   "home": {
    "id": "18",
@@ -66,38 +66,14 @@
     {
      "team_id": "18",
      "team": "New York Knicks",
-     "athlete_id": "6585",
-     "name": "Andre Drummond",
-     "position": "C",
-     "status": "Out",
-     "injury": "Concussion Not Specified",
-     "return_date": "2026-11-29",
-     "updated": "2026-11-27T15:36Z",
-     "comment": "Drummond (concussion) has been ruled out for Friday's game against the Heat."
-    },
-    {
-     "team_id": "18",
-     "team": "New York Knicks",
      "athlete_id": "4431823",
      "name": "Miles McBride",
      "position": "G",
-     "status": "Day-To-Day",
-     "injury": "Left Groin Soreness",
-     "return_date": "2026-11-27",
-     "updated": "2026-11-26T22:11Z",
-     "comment": "McBride (groin) is questionable for Friday's game against the Heat."
-    },
-    {
-     "team_id": "18",
-     "team": "New York Knicks",
-     "athlete_id": "2528426",
-     "name": "Jordan Clarkson",
-     "position": "G",
      "status": "Out",
-     "injury": "Right Foot Plantar Fasciitis",
-     "return_date": "2026-11-27",
-     "updated": "2026-11-26T22:03Z",
-     "comment": "Clarkson (foot) is questionable for Friday's game against the Heat."
+     "injury": "Left Groin Soreness",
+     "return_date": "2026-11-29",
+     "updated": "2026-11-27T18:21Z",
+     "comment": "McBride (groin) is out for Friday's game against the Heat."
     },
     {
      "team_id": "18",
@@ -107,9 +83,45 @@
      "position": "F",
      "status": "Out",
      "injury": "Left Calf Soreness",
+     "return_date": "2026-11-29",
+     "updated": "2026-11-27T18:20Z",
+     "comment": "Anunoby (calf) has been ruled out for Friday's game against the Heat. The forward was previously listed as doubtful and will miss his third consecutive contest due to a left calf strain."
+    },
+    {
+     "team_id": "18",
+     "team": "New York Knicks",
+     "athlete_id": "2528426",
+     "name": "Jordan Clarkson",
+     "position": "G",
+     "status": "Out",
+     "injury": "Right Foot Plantar Fasciitis",
+     "return_date": "2026-11-29",
+     "updated": "2026-11-27T18:19Z",
+     "comment": "Clarkson (foot) is out for Friday's game against the Heat."
+    },
+    {
+     "team_id": "18",
+     "team": "New York Knicks",
+     "athlete_id": "3136195",
+     "name": "Karl-Anthony Towns",
+     "position": "C",
+     "status": "Day-To-Day",
+     "injury": "Right Abdomen Bruise",
      "return_date": "2026-11-27",
-     "updated": "2026-11-26T21:57Z",
-     "comment": "Anunoby (calf) is doubtful for Friday's game against the Heat."
+     "updated": "2026-11-27T16:51Z",
+     "comment": "Towns is questionable for Friday's game against the Heat due to a right abdominal contusion."
+    },
+    {
+     "team_id": "18",
+     "team": "New York Knicks",
+     "athlete_id": "6585",
+     "name": "Andre Drummond",
+     "position": "C",
+     "status": "Out",
+     "injury": "Concussion Not Specified",
+     "return_date": "2026-11-29",
+     "updated": "2026-11-27T15:36Z",
+     "comment": "Drummond (concussion) has been ruled out for Friday's game against the Heat."
     }
    ],
    "top_players": [
@@ -153,7 +165,7 @@
      "fg_pct": 54.2,
      "fg3_pct": 41.7,
      "ft_pct": 75.9,
-     "injury_status": null
+     "injury_status": "Day-To-Day"
     },
     {
      "athlete_id": "3934719",
@@ -281,18 +293,6 @@
      "return_date": "2026-11-27",
      "updated": "2026-11-26T21:15Z",
      "comment": "Antetokounmpo is probable for Friday's game against the Knicks due to right groin tendinitis."
-    },
-    {
-     "team_id": "14",
-     "team": "Miami Heat",
-     "athlete_id": "3059319",
-     "name": "Andrew Wiggins",
-     "position": "F",
-     "status": "Day-To-Day",
-     "injury": "Right Ankle Sprain",
-     "return_date": "2026-11-27",
-     "updated": "2026-11-26T21:08Z",
-     "comment": "Wiggins is probable for Friday's game against the Knicks due to a right ankle sprain."
     }
    ],
    "top_players": [
@@ -502,19 +502,19 @@
    ]
   },
   "prediction": {
-   "home_points": 116.5,
-   "away_points": 108.0,
-   "home_margin": 8.5,
-   "home_win_prob": 0.725,
-   "away_win_prob": 0.275,
+   "home_points": 115.4,
+   "away_points": 108.2,
+   "home_margin": 7.2,
+   "home_win_prob": 0.695,
+   "away_win_prob": 0.305,
    "margin_range80": [
-    -9.7,
-    26.6
+    -10.9,
+    25.4
    ],
-   "total": 224.5,
+   "total": 223.5,
    "total_range80": [
-    200.8,
-    248.2
+    199.9,
+    247.2
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -522,7 +522,7 @@
     "team_strength": 6.2,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 0.2
+    "injuries": -1.0
    },
    "back_to_back": {
     "home": false,
@@ -537,10 +537,16 @@
       "impact": -1.3
      },
      {
+      "athlete_id": "3136195",
+      "name": "Karl-Anthony Towns",
+      "status": "Day-To-Day",
+      "impact": -1.1
+     },
+     {
       "athlete_id": "4431823",
       "name": "Miles McBride",
-      "status": "Day-To-Day",
-      "impact": -0.0
+      "status": "Out",
+      "impact": -0.1
      }
     ],
     "away": [
@@ -549,12 +555,6 @@
       "name": "Giannis Antetokounmpo",
       "status": "Day-To-Day",
       "impact": -1.4
-     },
-     {
-      "athlete_id": "3059319",
-      "name": "Andrew Wiggins",
-      "status": "Day-To-Day",
-      "impact": -0.1
      }
     ]
    },
@@ -569,10 +569,10 @@
     }
    },
    "vs_line": {
-    "spread": -4.5,
-    "over_under": 222.5,
-    "home_cover_prob": 0.611,
-    "over_prob": 0.543,
+    "spread": -2.5,
+    "over_under": 221.5,
+    "home_cover_prob": 0.631,
+    "over_prob": 0.544,
     "provider": "DraftKings"
    }
   }
@@ -587,8 +587,8 @@
   "date_kst": "2026-11-28T09:30:00+09:00",
   "odds": {
    "provider": "DraftKings",
-   "details": "DET -10.5",
-   "spread": -10.5,
+   "details": "DET -9.5",
+   "spread": -9.5,
    "over_under": 219.5
   },
   "home": {
@@ -859,7 +859,20 @@
     "net_rtg": -10.9
    },
    "rest_days": 1,
-   "injuries": [],
+   "injuries": [
+    {
+     "team_id": "15",
+     "team": "Milwaukee Bucks",
+     "athlete_id": "5214640",
+     "name": "Kasparas Jakucionis",
+     "position": "G",
+     "status": "Out",
+     "injury": "Left Ankle",
+     "return_date": "2026-11-28",
+     "updated": "2026-11-27T17:58Z",
+     "comment": "Jakucionis (ankle) won't play Friday's game against the Pistons."
+    }
+   ],
    "top_players": [
     {
      "athlete_id": "4395725",
@@ -1068,18 +1081,18 @@
   },
   "prediction": {
    "home_points": 115.6,
-   "away_points": 105.3,
-   "home_margin": 10.3,
-   "home_win_prob": 0.767,
-   "away_win_prob": 0.233,
+   "away_points": 105.1,
+   "home_margin": 10.5,
+   "home_win_prob": 0.771,
+   "away_win_prob": 0.229,
    "margin_range80": [
-    -7.8,
-    28.4
+    -7.6,
+    28.6
    ],
-   "total": 220.8,
+   "total": 220.6,
    "total_range80": [
-    197.1,
-    244.5
+    196.9,
+    244.3
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -1087,7 +1100,7 @@
     "team_strength": 13.1,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": -4.8
+    "injuries": -4.6
    },
    "back_to_back": {
     "home": false,
@@ -1114,7 +1127,14 @@
       "impact": -0.5
      }
     ],
-    "away": []
+    "away": [
+     {
+      "athlete_id": "5214640",
+      "name": "Kasparas Jakucionis",
+      "status": "Out",
+      "impact": -0.2
+     }
+    ]
    },
    "ratings": {
     "home": {
@@ -1127,10 +1147,10 @@
     }
    },
    "vs_line": {
-    "spread": -10.5,
+    "spread": -9.5,
     "over_under": 219.5,
-    "home_cover_prob": 0.494,
-    "over_prob": 0.529,
+    "home_cover_prob": 0.528,
+    "over_prob": 0.524,
     "provider": "DraftKings"
    }
   }
@@ -1202,6 +1222,18 @@
     {
      "team_id": "11",
      "team": "Indiana Pacers",
+     "athlete_id": "2580365",
+     "name": "Larry Nance Jr.",
+     "position": "F",
+     "status": "Day-To-Day",
+     "injury": "Right Ankle Soreness",
+     "return_date": "2026-11-27",
+     "updated": "2026-11-27T18:07Z",
+     "comment": "Nance (ankle) is probable for Friday's game against the 76ers."
+    },
+    {
+     "team_id": "11",
+     "team": "Indiana Pacers",
      "athlete_id": "4396993",
      "name": "Tyrese Haliburton",
      "position": "G",
@@ -1222,18 +1254,6 @@
      "return_date": "2026-11-27",
      "updated": "2026-11-27T00:42Z",
      "comment": "Oubre is questionable for Friday's game against the 76ers due to a right hand laceration."
-    },
-    {
-     "team_id": "11",
-     "team": "Indiana Pacers",
-     "athlete_id": "2580365",
-     "name": "Larry Nance Jr.",
-     "position": "F",
-     "status": "Day-To-Day",
-     "injury": "Right Ankle Soreness",
-     "return_date": "2026-11-27",
-     "updated": "2026-11-26T22:43Z",
-     "comment": "Nance (ankle) is questionable for Friday's game against the 76ers."
     },
     {
      "team_id": "11",
@@ -1427,8 +1447,8 @@
      "status": "Day-To-Day",
      "injury": "Illness",
      "return_date": "2026-11-27",
-     "updated": "2026-11-26T22:16Z",
-     "comment": "Embiid (illness) is questionable for Friday's game against the Pacers."
+     "updated": "2026-11-27T16:32Z",
+     "comment": "Embiid (illness) was at shootaround for the 76ers on Friday, Chris Hine of The Philly Inquirer reports."
     },
     {
      "team_id": "20",
@@ -1749,7 +1769,7 @@
    "provider": "DraftKings",
    "details": "TOR -9.5",
    "spread": -9.5,
-   "over_under": 218.5
+   "over_under": 219.5
   },
   "home": {
    "id": "28",
@@ -2302,9 +2322,9 @@
    },
    "vs_line": {
     "spread": -9.5,
-    "over_under": 218.5,
+    "over_under": 219.5,
     "home_cover_prob": 0.529,
-    "over_prob": 0.613,
+    "over_prob": 0.592,
     "provider": "DraftKings"
    }
   }
@@ -2321,7 +2341,7 @@
    "provider": "DraftKings",
    "details": "BOS -8.5",
    "spread": -8.5,
-   "over_under": 222.5
+   "over_under": 223.5
   },
   "home": {
    "id": "2",
@@ -2381,9 +2401,9 @@
      "position": "C",
      "status": "Out",
      "injury": "Illness",
-     "return_date": "2026-11-27",
-     "updated": "2026-11-26T19:00Z",
-     "comment": "Robinson (illness) is questionable for Friday's game against the Hawks."
+     "return_date": "2026-11-29",
+     "updated": "2026-11-27T17:31Z",
+     "comment": "Robinson has been ruled out Marc D'Amico of the Celtics' official sitefor Friday's game."
     }
    ],
    "top_players": [
@@ -2874,9 +2894,9 @@
    },
    "vs_line": {
     "spread": -8.5,
-    "over_under": 222.5,
+    "over_under": 223.5,
     "home_cover_prob": 0.507,
-    "over_prob": 0.446,
+    "over_prob": 0.425,
     "provider": "DraftKings"
    }
   }
@@ -2891,9 +2911,9 @@
   "date_kst": "2026-11-28T10:30:00+09:00",
   "odds": {
    "provider": "DraftKings",
-   "details": "MIN -4.5",
-   "spread": -4.5,
-   "over_under": 222.5
+   "details": "MIN -3.5",
+   "spread": -3.5,
+   "over_under": 219.5
   },
   "home": {
    "id": "16",
@@ -2951,11 +2971,11 @@
      "athlete_id": "4432816",
      "name": "LaMelo Ball",
      "position": "G",
-     "status": "Day-To-Day",
+     "status": "Out",
      "injury": "Left Ankle",
-     "return_date": "2026-11-27",
-     "updated": "2026-11-26T23:14Z",
-     "comment": "Ball (ankle) is questionable for Friday's game against the Grizzlies."
+     "return_date": "2026-11-29",
+     "updated": "2026-11-27T18:52Z",
+     "comment": "Ball (ankle) has been ruled out for Friday's game against the Grizzlies. The guard was previously questionable after spraining his left ankle during Wednesday's win over Oklahoma City."
     },
     {
      "team_id": "16",
@@ -3077,7 +3097,7 @@
      "fg_pct": 40.5,
      "fg3_pct": 35.8,
      "ft_pct": 76.9,
-     "injury_status": "Day-To-Day"
+     "injury_status": "Out"
     },
     {
      "athlete_id": "4433247",
@@ -3444,19 +3464,19 @@
    ]
   },
   "prediction": {
-   "home_points": 117.5,
+   "home_points": 116.6,
    "away_points": 109.6,
-   "home_margin": 7.9,
-   "home_win_prob": 0.712,
-   "away_win_prob": 0.288,
+   "home_margin": 7.0,
+   "home_win_prob": 0.69,
+   "away_win_prob": 0.31,
    "margin_range80": [
-    -10.2,
-    26.0
+    -11.1,
+    25.1
    ],
-   "total": 227.1,
+   "total": 226.2,
    "total_range80": [
-    203.4,
-    250.8
+    202.5,
+    249.9
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -3464,7 +3484,7 @@
     "team_strength": 3.1,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 2.8
+    "injuries": 1.9
    },
    "back_to_back": {
     "home": false,
@@ -3475,8 +3495,8 @@
      {
       "athlete_id": "4432816",
       "name": "LaMelo Ball",
-      "status": "Day-To-Day",
-      "impact": -0.5
+      "status": "Out",
+      "impact": -1.4
      }
     ],
     "away": [
@@ -3523,10 +3543,10 @@
     }
    },
    "vs_line": {
-    "spread": -4.5,
-    "over_under": 222.5,
-    "home_cover_prob": 0.595,
-    "over_prob": 0.598,
+    "spread": -3.5,
+    "over_under": 219.5,
+    "home_cover_prob": 0.598,
+    "over_prob": 0.642,
     "provider": "DraftKings"
    }
   }
@@ -3541,9 +3561,9 @@
   "date_kst": "2026-11-28T11:00:00+09:00",
   "odds": {
    "provider": "DraftKings",
-   "details": "PHX -1.5",
-   "spread": -1.5,
-   "over_under": 226.5
+   "details": "PHX -3.5",
+   "spread": -3.5,
+   "over_under": 225.5
   },
   "home": {
    "id": "21",
@@ -3769,6 +3789,18 @@
     {
      "team_id": "6",
      "team": "Dallas Mavericks",
+     "athlete_id": "6442",
+     "name": "Kyrie Irving",
+     "position": "G",
+     "status": "Day-To-Day",
+     "injury": "Left Knee Not Specified",
+     "return_date": "2026-11-27",
+     "updated": "2026-11-27T19:07Z",
+     "comment": "Irving (knee) is listed as questionable for Friday's game against the Suns due to left knee injury management."
+    },
+    {
+     "team_id": "6",
+     "team": "Dallas Mavericks",
      "athlete_id": "5106040",
      "name": "Tobi Lawal",
      "position": "F",
@@ -3856,7 +3888,7 @@
      "fg_pct": 44.4,
      "fg3_pct": 36.6,
      "ft_pct": 86.7,
-     "injury_status": null
+     "injury_status": "Day-To-Day"
     },
     {
      "athlete_id": "4278078",
@@ -4023,18 +4055,18 @@
   },
   "prediction": {
    "home_points": 115.9,
-   "away_points": 113.4,
-   "home_margin": 2.6,
-   "home_win_prob": 0.572,
-   "away_win_prob": 0.428,
+   "away_points": 112.6,
+   "home_margin": 3.3,
+   "home_win_prob": 0.593,
+   "away_win_prob": 0.407,
    "margin_range80": [
-    -15.6,
-    20.7
+    -14.8,
+    21.5
    ],
-   "total": 229.3,
+   "total": 228.5,
    "total_range80": [
-    205.6,
-    253.0
+    204.8,
+    252.2
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -4042,7 +4074,7 @@
     "team_strength": 0.6,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": -0.0
+    "injuries": 0.8
    },
    "back_to_back": {
     "home": false,
@@ -4050,7 +4082,14 @@
    },
    "injury_impact": {
     "home": [],
-    "away": []
+    "away": [
+     {
+      "athlete_id": "6442",
+      "name": "Kyrie Irving",
+      "status": "Day-To-Day",
+      "impact": -0.8
+     }
+    ]
    },
    "ratings": {
     "home": {
@@ -4063,10 +4102,10 @@
     }
    },
    "vs_line": {
-    "spread": -1.5,
-    "over_under": 226.5,
-    "home_cover_prob": 0.53,
-    "over_prob": 0.56,
+    "spread": -3.5,
+    "over_under": 225.5,
+    "home_cover_prob": 0.495,
+    "over_prob": 0.565,
     "provider": "DraftKings"
    }
   }
@@ -4083,7 +4122,7 @@
    "provider": "DraftKings",
    "details": "SA -6.5",
    "spread": -6.5,
-   "over_under": 226.5
+   "over_under": 225.5
   },
   "home": {
    "id": "24",
@@ -4144,8 +4183,8 @@
      "status": "Out",
      "injury": "Left Hip Strain",
      "return_date": "2026-11-27",
-     "updated": "2026-11-26T23:41Z",
-     "comment": "Harper (hip) is questionable for Friday's game against the Lakers."
+     "updated": "2026-11-27T18:51Z",
+     "comment": "Harper (hip) participated in Friday's morning shootaround, per Matt Guzman of SI.com."
     },
     {
      "team_id": "24",
@@ -4341,20 +4380,7 @@
     "net_rtg": 6.5
    },
    "rest_days": 3,
-   "injuries": [
-    {
-     "team_id": "13",
-     "team": "Los Angeles Lakers",
-     "athlete_id": "4066457",
-     "name": "Austin Reaves",
-     "position": "G",
-     "status": "Out",
-     "injury": "Left Heel Bruise",
-     "return_date": "2026-11-27",
-     "updated": "2026-11-26T23:21Z",
-     "comment": "Reaves (heel) is questionable for Friday's game against the Spurs."
-    }
-   ],
+   "injuries": [],
    "top_players": [
     {
      "athlete_id": "3945274",
@@ -4396,7 +4422,7 @@
      "fg_pct": 51.3,
      "fg3_pct": 40.9,
      "ft_pct": 91.5,
-     "injury_status": "Out"
+     "injury_status": null
     },
     {
      "athlete_id": "4433136",
@@ -4563,18 +4589,18 @@
   },
   "prediction": {
    "home_points": 113.9,
-   "away_points": 107.5,
-   "home_margin": 6.4,
-   "home_win_prob": 0.675,
-   "away_win_prob": 0.325,
+   "away_points": 110.0,
+   "home_margin": 3.9,
+   "home_win_prob": 0.608,
+   "away_win_prob": 0.392,
    "margin_range80": [
-    -11.7,
-    24.6
+    -14.3,
+    22.0
    ],
-   "total": 221.3,
+   "total": 223.9,
    "total_range80": [
-    197.6,
-    245.0
+    200.2,
+    247.6
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -4582,7 +4608,7 @@
     "team_strength": 4.3,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 0.1
+    "injuries": -2.5
    },
    "back_to_back": {
     "home": false,
@@ -4603,14 +4629,7 @@
       "impact": -0.4
      }
     ],
-    "away": [
-     {
-      "athlete_id": "4066457",
-      "name": "Austin Reaves",
-      "status": "Out",
-      "impact": -2.5
-     }
-    ]
+    "away": []
    },
    "ratings": {
     "home": {
@@ -4624,9 +4643,9 @@
    },
    "vs_line": {
     "spread": -6.5,
-    "over_under": 226.5,
-    "home_cover_prob": 0.498,
-    "over_prob": 0.39,
+    "over_under": 225.5,
+    "home_cover_prob": 0.426,
+    "over_prob": 0.465,
     "provider": "DraftKings"
    }
   }
@@ -4641,9 +4660,9 @@
   "date_kst": "2026-11-28T11:30:00+09:00",
   "odds": {
    "provider": "DraftKings",
-   "details": "DEN -10.5",
-   "spread": 10.5,
-   "over_under": 229.5
+   "details": "DEN -9.5",
+   "spread": 9.5,
+   "over_under": 232.5
   },
   "home": {
    "id": "26",
@@ -4703,9 +4722,9 @@
      "position": "C",
      "status": "Day-To-Day",
      "injury": "Illness",
-     "return_date": "2026-11-29",
-     "updated": "2026-11-27T16:28Z",
-     "comment": "Bamba will start Monday's game against the Lakers, Daniel Starkand of LakersNation.com reports."
+     "return_date": "2026-11-27",
+     "updated": "2026-11-27T16:41Z",
+     "comment": "Bamba (illness) is listed as questionable for Friday's game against the Nuggets, according to the Jazz's injury report."
     },
     {
      "team_id": "26",
@@ -5181,10 +5200,10 @@
     }
    },
    "vs_line": {
-    "spread": 10.5,
-    "over_under": 229.5,
-    "home_cover_prob": 0.667,
-    "over_prob": 0.587,
+    "spread": 9.5,
+    "over_under": 232.5,
+    "home_cover_prob": 0.641,
+    "over_prob": 0.523,
     "provider": "DraftKings"
    }
   }
@@ -5764,9 +5783,9 @@
   "date_kst": "2026-11-28T11:30:00+09:00",
   "odds": {
    "provider": "DraftKings",
-   "details": "POR -9.5",
-   "spread": -9.5,
-   "over_under": 219.5
+   "details": "POR -7.5",
+   "spread": -7.5,
+   "over_under": 217.5
   },
   "home": {
    "id": "22",
@@ -5818,6 +5837,18 @@
    },
    "rest_days": 1,
    "injuries": [
+    {
+     "team_id": "22",
+     "team": "Portland Trail Blazers",
+     "athlete_id": "6606",
+     "name": "Damian Lillard",
+     "position": "G",
+     "status": "Out",
+     "injury": "Right Calf Soreness",
+     "return_date": "2026-11-29",
+     "updated": "2026-11-27T18:38Z",
+     "comment": "Lillard (calf) has been ruled out for Friday's game against the Warriors. The veteran guard is dealing with right calf tightness and soreness."
+    },
     {
      "team_id": "22",
      "team": "Portland Trail Blazers",
@@ -5908,7 +5939,7 @@
      "fg_pct": 39.1,
      "fg3_pct": 34.1,
      "ft_pct": 90.8,
-     "injury_status": null
+     "injury_status": "Out"
     },
     {
      "athlete_id": "4279888",
@@ -6281,19 +6312,19 @@
    ]
   },
   "prediction": {
-   "home_points": 117.4,
+   "home_points": 115.5,
    "away_points": 107.2,
-   "home_margin": 10.2,
-   "home_win_prob": 0.764,
-   "away_win_prob": 0.236,
+   "home_margin": 8.3,
+   "home_win_prob": 0.721,
+   "away_win_prob": 0.279,
    "margin_range80": [
-    -8.0,
-    28.3
+    -9.8,
+    26.4
    ],
-   "total": 224.6,
+   "total": 222.7,
    "total_range80": [
-    200.9,
-    248.3
+    199.0,
+    246.4
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -6301,14 +6332,21 @@
     "team_strength": 5.2,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 3.0
+    "injuries": 1.1
    },
    "back_to_back": {
     "home": false,
     "away": false
    },
    "injury_impact": {
-    "home": [],
+    "home": [
+     {
+      "athlete_id": "6606",
+      "name": "Damian Lillard",
+      "status": "Out",
+      "impact": -1.9
+     }
+    ],
     "away": [
      {
       "athlete_id": "3975",
@@ -6329,10 +6367,10 @@
     }
    },
    "vs_line": {
-    "spread": -9.5,
-    "over_under": 219.5,
-    "home_cover_prob": 0.519,
-    "over_prob": 0.608,
+    "spread": -7.5,
+    "over_under": 217.5,
+    "home_cover_prob": 0.522,
+    "over_prob": 0.611,
     "provider": "DraftKings"
    }
   }
@@ -7544,14 +7582,26 @@
     {
      "team_id": "4",
      "team": "Chicago Bulls",
+     "athlete_id": "5242496",
+     "name": "Noa Essengue",
+     "position": "F",
+     "status": "Day-To-Day",
+     "injury": "Thumb",
+     "return_date": "2026-11-28",
+     "updated": "2026-11-27T19:06Z",
+     "comment": "Essengue (thumb) is probable to play Saturday against the Pacers."
+    },
+    {
+     "team_id": "4",
+     "team": "Chicago Bulls",
      "athlete_id": "4397189",
      "name": "Jalen Smith",
      "position": "F",
      "status": "Day-To-Day",
      "injury": "Illness",
      "return_date": "2026-11-28",
-     "updated": "2026-11-26T05:29Z",
-     "comment": "Smith (illness) is listed as out for Wednesday's game against Charlotte."
+     "updated": "2026-11-27T18:36Z",
+     "comment": "Smith (illness) is listed as probable for Saturday's game against Indiana."
     },
     {
      "team_id": "4",
@@ -7739,6 +7789,18 @@
     {
      "team_id": "11",
      "team": "Indiana Pacers",
+     "athlete_id": "2580365",
+     "name": "Larry Nance Jr.",
+     "position": "F",
+     "status": "Day-To-Day",
+     "injury": "Right Ankle Soreness",
+     "return_date": "2026-11-27",
+     "updated": "2026-11-27T18:07Z",
+     "comment": "Nance (ankle) is probable for Friday's game against the 76ers."
+    },
+    {
+     "team_id": "11",
+     "team": "Indiana Pacers",
      "athlete_id": "4396993",
      "name": "Tyrese Haliburton",
      "position": "G",
@@ -7759,18 +7821,6 @@
      "return_date": "2026-11-27",
      "updated": "2026-11-27T00:42Z",
      "comment": "Oubre is questionable for Friday's game against the 76ers due to a right hand laceration."
-    },
-    {
-     "team_id": "11",
-     "team": "Indiana Pacers",
-     "athlete_id": "2580365",
-     "name": "Larry Nance Jr.",
-     "position": "F",
-     "status": "Day-To-Day",
-     "injury": "Right Ankle Soreness",
-     "return_date": "2026-11-27",
-     "updated": "2026-11-26T22:43Z",
-     "comment": "Nance (ankle) is questionable for Friday's game against the 76ers."
     },
     {
      "team_id": "11",
@@ -8135,7 +8185,20 @@
     "net_rtg": -10.9
    },
    "rest_days": 0,
-   "injuries": [],
+   "injuries": [
+    {
+     "team_id": "15",
+     "team": "Milwaukee Bucks",
+     "athlete_id": "5214640",
+     "name": "Kasparas Jakucionis",
+     "position": "G",
+     "status": "Out",
+     "injury": "Left Ankle",
+     "return_date": "2026-11-28",
+     "updated": "2026-11-27T17:58Z",
+     "comment": "Jakucionis (ankle) won't play Friday's game against the Pistons."
+    }
+   ],
    "top_players": [
     {
      "athlete_id": "4395725",
@@ -8559,19 +8622,19 @@
    ]
   },
   "prediction": {
-   "home_points": 110.0,
+   "home_points": 109.7,
    "away_points": 119.0,
-   "home_margin": -9.0,
-   "home_win_prob": 0.262,
-   "away_win_prob": 0.738,
+   "home_margin": -9.2,
+   "home_win_prob": 0.257,
+   "away_win_prob": 0.743,
    "margin_range80": [
-    -27.1,
-    9.1
+    -27.4,
+    8.9
    ],
-   "total": 228.9,
+   "total": 228.7,
    "total_range80": [
-    205.2,
-    252.6
+    205.0,
+    252.4
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -8579,14 +8642,21 @@
     "team_strength": -12.0,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 1.0
+    "injuries": 0.8
    },
    "back_to_back": {
     "home": false,
     "away": false
    },
    "injury_impact": {
-    "home": [],
+    "home": [
+     {
+      "athlete_id": "5214640",
+      "name": "Kasparas Jakucionis",
+      "status": "Out",
+      "impact": -0.2
+     }
+    ],
     "away": [
      {
       "athlete_id": "5174983",
@@ -8833,8 +8903,8 @@
      "status": "Day-To-Day",
      "injury": "Illness",
      "return_date": "2026-11-27",
-     "updated": "2026-11-26T22:16Z",
-     "comment": "Embiid (illness) is questionable for Friday's game against the Pacers."
+     "updated": "2026-11-27T16:32Z",
+     "comment": "Embiid (illness) was at shootaround for the 76ers on Friday, Chris Hine of The Philly Inquirer reports."
     },
     {
      "team_id": "20",
@@ -9339,18 +9409,6 @@
      "return_date": "2026-11-27",
      "updated": "2026-11-26T21:15Z",
      "comment": "Antetokounmpo is probable for Friday's game against the Knicks due to right groin tendinitis."
-    },
-    {
-     "team_id": "14",
-     "team": "Miami Heat",
-     "athlete_id": "3059319",
-     "name": "Andrew Wiggins",
-     "position": "F",
-     "status": "Day-To-Day",
-     "injury": "Right Ankle Sprain",
-     "return_date": "2026-11-27",
-     "updated": "2026-11-26T21:08Z",
-     "comment": "Wiggins is probable for Friday's game against the Knicks due to a right ankle sprain."
     }
    ],
    "top_players": [
@@ -9561,18 +9619,18 @@
   },
   "prediction": {
    "home_points": 120.9,
-   "away_points": 119.4,
-   "home_margin": 1.5,
-   "home_win_prob": 0.542,
-   "away_win_prob": 0.458,
+   "away_points": 119.6,
+   "home_margin": 1.4,
+   "home_win_prob": 0.538,
+   "away_win_prob": 0.462,
    "margin_range80": [
-    -16.6,
-    19.6
+    -16.8,
+    19.5
    ],
-   "total": 240.3,
+   "total": 240.5,
    "total_range80": [
-    216.6,
-    264.0
+    216.8,
+    264.2
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -9580,7 +9638,7 @@
     "team_strength": -0.1,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": -0.4
+    "injuries": -0.6
    },
    "back_to_back": {
     "home": false,
@@ -9601,12 +9659,6 @@
       "name": "Giannis Antetokounmpo",
       "status": "Day-To-Day",
       "impact": -1.4
-     },
-     {
-      "athlete_id": "3059319",
-      "name": "Andrew Wiggins",
-      "status": "Day-To-Day",
-      "impact": -0.1
      }
     ]
    },
@@ -9922,20 +9974,7 @@
     "net_rtg": 6.5
    },
    "rest_days": 1,
-   "injuries": [
-    {
-     "team_id": "13",
-     "team": "Los Angeles Lakers",
-     "athlete_id": "4066457",
-     "name": "Austin Reaves",
-     "position": "G",
-     "status": "Out",
-     "injury": "Left Heel Bruise",
-     "return_date": "2026-11-27",
-     "updated": "2026-11-26T23:21Z",
-     "comment": "Reaves (heel) is questionable for Friday's game against the Spurs."
-    }
-   ],
+   "injuries": [],
    "top_players": [
     {
      "athlete_id": "3945274",
@@ -9977,7 +10016,7 @@
      "fg_pct": 51.3,
      "fg3_pct": 40.9,
      "ft_pct": 91.5,
-     "injury_status": "Out"
+     "injury_status": null
     },
     {
      "athlete_id": "4433136",
@@ -10144,18 +10183,18 @@
   },
   "prediction": {
    "home_points": 115.9,
-   "away_points": 114.9,
-   "home_margin": 1.0,
-   "home_win_prob": 0.527,
-   "away_win_prob": 0.473,
+   "away_points": 117.4,
+   "home_margin": -1.6,
+   "home_win_prob": 0.456,
+   "away_win_prob": 0.544,
    "margin_range80": [
-    -17.2,
-    19.1
+    -19.7,
+    16.6
    ],
-   "total": 230.7,
+   "total": 233.3,
    "total_range80": [
-    207.1,
-    254.4
+    209.6,
+    257.0
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -10163,7 +10202,7 @@
     "team_strength": -0.3,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": -0.7
+    "injuries": -3.3
    },
    "back_to_back": {
     "home": false,
@@ -10202,14 +10241,7 @@
       "impact": -0.2
      }
     ],
-    "away": [
-     {
-      "athlete_id": "4066457",
-      "name": "Austin Reaves",
-      "status": "Out",
-      "impact": -2.5
-     }
-    ]
+    "away": []
    },
    "ratings": {
     "home": {
@@ -10290,8 +10322,8 @@
      "status": "Out",
      "injury": "Left Hip Strain",
      "return_date": "2026-11-27",
-     "updated": "2026-11-26T23:41Z",
-     "comment": "Harper (hip) is questionable for Friday's game against the Lakers."
+     "updated": "2026-11-27T18:51Z",
+     "comment": "Harper (hip) participated in Friday's morning shootaround, per Matt Guzman of SI.com."
     },
     {
      "team_id": "24",
@@ -10496,9 +10528,9 @@
      "position": "C",
      "status": "Out",
      "injury": "Illness",
-     "return_date": "2026-11-27",
-     "updated": "2026-11-26T19:00Z",
-     "comment": "Robinson (illness) is questionable for Friday's game against the Hawks."
+     "return_date": "2026-11-29",
+     "updated": "2026-11-27T17:31Z",
+     "comment": "Robinson has been ruled out Marc D'Amico of the Celtics' official sitefor Friday's game."
     }
    ],
    "top_players": [
@@ -10800,9 +10832,9 @@
      "position": "C",
      "status": "Day-To-Day",
      "injury": "Illness",
-     "return_date": "2026-11-29",
-     "updated": "2026-11-27T16:28Z",
-     "comment": "Bamba will start Monday's game against the Lakers, Daniel Starkand of LakersNation.com reports."
+     "return_date": "2026-11-27",
+     "updated": "2026-11-27T16:41Z",
+     "comment": "Bamba (illness) is listed as questionable for Friday's game against the Nuggets, according to the Jazz's injury report."
     },
     {
      "team_id": "26",
@@ -11959,38 +11991,14 @@
     {
      "team_id": "18",
      "team": "New York Knicks",
-     "athlete_id": "6585",
-     "name": "Andre Drummond",
-     "position": "C",
-     "status": "Out",
-     "injury": "Concussion Not Specified",
-     "return_date": "2026-11-29",
-     "updated": "2026-11-27T15:36Z",
-     "comment": "Drummond (concussion) has been ruled out for Friday's game against the Heat."
-    },
-    {
-     "team_id": "18",
-     "team": "New York Knicks",
      "athlete_id": "4431823",
      "name": "Miles McBride",
      "position": "G",
-     "status": "Day-To-Day",
-     "injury": "Left Groin Soreness",
-     "return_date": "2026-11-27",
-     "updated": "2026-11-26T22:11Z",
-     "comment": "McBride (groin) is questionable for Friday's game against the Heat."
-    },
-    {
-     "team_id": "18",
-     "team": "New York Knicks",
-     "athlete_id": "2528426",
-     "name": "Jordan Clarkson",
-     "position": "G",
      "status": "Out",
-     "injury": "Right Foot Plantar Fasciitis",
-     "return_date": "2026-11-27",
-     "updated": "2026-11-26T22:03Z",
-     "comment": "Clarkson (foot) is questionable for Friday's game against the Heat."
+     "injury": "Left Groin Soreness",
+     "return_date": "2026-11-29",
+     "updated": "2026-11-27T18:21Z",
+     "comment": "McBride (groin) is out for Friday's game against the Heat."
     },
     {
      "team_id": "18",
@@ -12000,9 +12008,45 @@
      "position": "F",
      "status": "Out",
      "injury": "Left Calf Soreness",
+     "return_date": "2026-11-29",
+     "updated": "2026-11-27T18:20Z",
+     "comment": "Anunoby (calf) has been ruled out for Friday's game against the Heat. The forward was previously listed as doubtful and will miss his third consecutive contest due to a left calf strain."
+    },
+    {
+     "team_id": "18",
+     "team": "New York Knicks",
+     "athlete_id": "2528426",
+     "name": "Jordan Clarkson",
+     "position": "G",
+     "status": "Out",
+     "injury": "Right Foot Plantar Fasciitis",
+     "return_date": "2026-11-29",
+     "updated": "2026-11-27T18:19Z",
+     "comment": "Clarkson (foot) is out for Friday's game against the Heat."
+    },
+    {
+     "team_id": "18",
+     "team": "New York Knicks",
+     "athlete_id": "3136195",
+     "name": "Karl-Anthony Towns",
+     "position": "C",
+     "status": "Day-To-Day",
+     "injury": "Right Abdomen Bruise",
      "return_date": "2026-11-27",
-     "updated": "2026-11-26T21:57Z",
-     "comment": "Anunoby (calf) is doubtful for Friday's game against the Heat."
+     "updated": "2026-11-27T16:51Z",
+     "comment": "Towns is questionable for Friday's game against the Heat due to a right abdominal contusion."
+    },
+    {
+     "team_id": "18",
+     "team": "New York Knicks",
+     "athlete_id": "6585",
+     "name": "Andre Drummond",
+     "position": "C",
+     "status": "Out",
+     "injury": "Concussion Not Specified",
+     "return_date": "2026-11-29",
+     "updated": "2026-11-27T15:36Z",
+     "comment": "Drummond (concussion) has been ruled out for Friday's game against the Heat."
     }
    ],
    "top_players": [
@@ -12046,7 +12090,7 @@
      "fg_pct": 54.2,
      "fg3_pct": 41.7,
      "ft_pct": 75.9,
-     "injury_status": null
+     "injury_status": "Day-To-Day"
     },
     {
      "athlete_id": "3934719",
@@ -12431,19 +12475,19 @@
    ]
   },
   "prediction": {
-   "home_points": 112.7,
+   "home_points": 111.6,
    "away_points": 104.3,
-   "home_margin": 8.4,
-   "home_win_prob": 0.724,
-   "away_win_prob": 0.276,
+   "home_margin": 7.3,
+   "home_win_prob": 0.698,
+   "away_win_prob": 0.302,
    "margin_range80": [
-    -9.7,
-    26.6
+    -10.8,
+    25.5
    ],
-   "total": 217.1,
+   "total": 216.0,
    "total_range80": [
-    193.4,
-    240.8
+    192.3,
+    239.7
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -12451,7 +12495,7 @@
     "team_strength": 6.4,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 0.0
+    "injuries": -1.1
    },
    "back_to_back": {
     "home": false,
@@ -12466,10 +12510,16 @@
       "impact": -1.3
      },
      {
+      "athlete_id": "3136195",
+      "name": "Karl-Anthony Towns",
+      "status": "Day-To-Day",
+      "impact": -1.1
+     },
+     {
       "athlete_id": "4431823",
       "name": "Miles McBride",
-      "status": "Day-To-Day",
-      "impact": -0.0
+      "status": "Out",
+      "impact": -0.1
      }
     ],
     "away": [
@@ -13054,6 +13104,18 @@
     {
      "team_id": "22",
      "team": "Portland Trail Blazers",
+     "athlete_id": "6606",
+     "name": "Damian Lillard",
+     "position": "G",
+     "status": "Out",
+     "injury": "Right Calf Soreness",
+     "return_date": "2026-11-29",
+     "updated": "2026-11-27T18:38Z",
+     "comment": "Lillard (calf) has been ruled out for Friday's game against the Warriors. The veteran guard is dealing with right calf tightness and soreness."
+    },
+    {
+     "team_id": "22",
+     "team": "Portland Trail Blazers",
      "athlete_id": "4706557",
      "name": "Chris Youngblood",
      "position": "G",
@@ -13141,7 +13203,7 @@
      "fg_pct": 39.1,
      "fg3_pct": 34.1,
      "ft_pct": 90.8,
-     "injury_status": null
+     "injury_status": "Out"
     },
     {
      "athlete_id": "4279888",
@@ -13514,19 +13576,19 @@
    ]
   },
   "prediction": {
-   "home_points": 124.4,
+   "home_points": 122.5,
    "away_points": 111.3,
-   "home_margin": 13.1,
-   "home_win_prob": 0.823,
-   "away_win_prob": 0.177,
+   "home_margin": 11.2,
+   "home_win_prob": 0.786,
+   "away_win_prob": 0.214,
    "margin_range80": [
-    -5.0,
-    31.2
+    -6.9,
+    29.4
    ],
-   "total": 235.7,
+   "total": 233.8,
    "total_range80": [
-    212.0,
-    259.4
+    210.1,
+    257.5
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -13534,14 +13596,21 @@
     "team_strength": 9.8,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": 1.3
+    "injuries": -0.5
    },
    "back_to_back": {
     "home": false,
     "away": false
    },
    "injury_impact": {
-    "home": [],
+    "home": [
+     {
+      "athlete_id": "6606",
+      "name": "Damian Lillard",
+      "status": "Out",
+      "impact": -1.9
+     }
+    ],
     "away": [
      {
       "athlete_id": "3907497",
@@ -14374,11 +14443,11 @@
      "athlete_id": "4432816",
      "name": "LaMelo Ball",
      "position": "G",
-     "status": "Day-To-Day",
+     "status": "Out",
      "injury": "Left Ankle",
-     "return_date": "2026-11-27",
-     "updated": "2026-11-26T23:14Z",
-     "comment": "Ball (ankle) is questionable for Friday's game against the Grizzlies."
+     "return_date": "2026-11-29",
+     "updated": "2026-11-27T18:52Z",
+     "comment": "Ball (ankle) has been ruled out for Friday's game against the Grizzlies. The guard was previously questionable after spraining his left ankle during Wednesday's win over Oklahoma City."
     },
     {
      "team_id": "16",
@@ -14500,7 +14569,7 @@
      "fg_pct": 40.5,
      "fg3_pct": 35.8,
      "ft_pct": 76.9,
-     "injury_status": "Day-To-Day"
+     "injury_status": "Out"
     },
     {
      "athlete_id": "4433247",
@@ -14625,18 +14694,18 @@
   },
   "prediction": {
    "home_points": 106.6,
-   "away_points": 119.0,
-   "home_margin": -12.5,
-   "home_win_prob": 0.189,
-   "away_win_prob": 0.811,
+   "away_points": 118.1,
+   "home_margin": -11.6,
+   "home_win_prob": 0.206,
+   "away_win_prob": 0.794,
    "margin_range80": [
-    -30.6,
-    5.6
+    -29.7,
+    6.5
    ],
-   "total": 225.6,
+   "total": 224.7,
    "total_range80": [
-    201.9,
-    249.3
+    201.0,
+    248.4
    ],
    "sigma": 14.15,
    "total_sigma": 18.49,
@@ -14644,7 +14713,7 @@
     "team_strength": -14.3,
     "home_court": 2.0,
     "rest": -0.0,
-    "injuries": -0.1
+    "injuries": 0.7
    },
    "back_to_back": {
     "home": false,
@@ -14663,8 +14732,8 @@
      {
       "athlete_id": "4432816",
       "name": "LaMelo Ball",
-      "status": "Day-To-Day",
-      "impact": -0.5
+      "status": "Out",
+      "impact": -1.4
      }
     ]
    },

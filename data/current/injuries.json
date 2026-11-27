@@ -67,9 +67,9 @@
   "position": "C",
   "status": "Out",
   "injury": "Illness",
-  "return_date": "2026-11-27",
-  "updated": "2026-11-26T19:00Z",
-  "comment": "Robinson (illness) is questionable for Friday's game against the Hawks."
+  "return_date": "2026-11-29",
+  "updated": "2026-11-27T17:31Z",
+  "comment": "Robinson has been ruled out Marc D'Amico of the Celtics' official sitefor Friday's game."
  },
  {
   "team_id": "17",
@@ -146,14 +146,26 @@
  {
   "team_id": "4",
   "team": "Chicago Bulls",
+  "athlete_id": "5242496",
+  "name": "Noa Essengue",
+  "position": "F",
+  "status": "Day-To-Day",
+  "injury": "Thumb",
+  "return_date": "2026-11-28",
+  "updated": "2026-11-27T19:06Z",
+  "comment": "Essengue (thumb) is probable to play Saturday against the Pacers."
+ },
+ {
+  "team_id": "4",
+  "team": "Chicago Bulls",
   "athlete_id": "4397189",
   "name": "Jalen Smith",
   "position": "F",
   "status": "Day-To-Day",
   "injury": "Illness",
   "return_date": "2026-11-28",
-  "updated": "2026-11-26T05:29Z",
-  "comment": "Smith (illness) is listed as out for Wednesday's game against Charlotte."
+  "updated": "2026-11-27T18:36Z",
+  "comment": "Smith (illness) is listed as probable for Saturday's game against Indiana."
  },
  {
   "team_id": "4",
@@ -202,6 +214,18 @@
   "return_date": "2026-11-29",
   "updated": "2026-11-16T22:06Z",
   "comment": "Mobley will receive treatment and participate in rehab after the team confirmed a diagnosis of a right great toe sprain, and he'll be re-evaluated in the next 7-to-10 days."
+ },
+ {
+  "team_id": "6",
+  "team": "Dallas Mavericks",
+  "athlete_id": "6442",
+  "name": "Kyrie Irving",
+  "position": "G",
+  "status": "Day-To-Day",
+  "injury": "Left Knee Not Specified",
+  "return_date": "2026-11-27",
+  "updated": "2026-11-27T19:07Z",
+  "comment": "Irving (knee) is listed as questionable for Friday's game against the Suns due to left knee injury management."
  },
  {
   "team_id": "6",
@@ -362,6 +386,18 @@
  {
   "team_id": "11",
   "team": "Indiana Pacers",
+  "athlete_id": "2580365",
+  "name": "Larry Nance Jr.",
+  "position": "F",
+  "status": "Day-To-Day",
+  "injury": "Right Ankle Soreness",
+  "return_date": "2026-11-27",
+  "updated": "2026-11-27T18:07Z",
+  "comment": "Nance (ankle) is probable for Friday's game against the 76ers."
+ },
+ {
+  "team_id": "11",
+  "team": "Indiana Pacers",
   "athlete_id": "4396993",
   "name": "Tyrese Haliburton",
   "position": "G",
@@ -382,18 +418,6 @@
   "return_date": "2026-11-27",
   "updated": "2026-11-27T00:42Z",
   "comment": "Oubre is questionable for Friday's game against the 76ers due to a right hand laceration."
- },
- {
-  "team_id": "11",
-  "team": "Indiana Pacers",
-  "athlete_id": "2580365",
-  "name": "Larry Nance Jr.",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Right Ankle Soreness",
-  "return_date": "2026-11-27",
-  "updated": "2026-11-26T22:43Z",
-  "comment": "Nance (ankle) is questionable for Friday's game against the 76ers."
  },
  {
   "team_id": "11",
@@ -442,18 +466,6 @@
   "return_date": "2027-03-02",
   "updated": "2026-08-26T20:04Z",
   "comment": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evaluated in six months, per Law Murray of The Athletic."
- },
- {
-  "team_id": "13",
-  "team": "Los Angeles Lakers",
-  "athlete_id": "4066457",
-  "name": "Austin Reaves",
-  "position": "G",
-  "status": "Out",
-  "injury": "Left Heel Bruise",
-  "return_date": "2026-11-27",
-  "updated": "2026-11-26T23:21Z",
-  "comment": "Reaves (heel) is questionable for Friday's game against the Spurs."
  },
  {
   "team_id": "29",
@@ -552,16 +564,16 @@
   "comment": "Antetokounmpo is probable for Friday's game against the Knicks due to right groin tendinitis."
  },
  {
-  "team_id": "14",
-  "team": "Miami Heat",
-  "athlete_id": "3059319",
-  "name": "Andrew Wiggins",
-  "position": "F",
-  "status": "Day-To-Day",
-  "injury": "Right Ankle Sprain",
-  "return_date": "2026-11-27",
-  "updated": "2026-11-26T21:08Z",
-  "comment": "Wiggins is probable for Friday's game against the Knicks due to a right ankle sprain."
+  "team_id": "15",
+  "team": "Milwaukee Bucks",
+  "athlete_id": "5214640",
+  "name": "Kasparas Jakucionis",
+  "position": "G",
+  "status": "Out",
+  "injury": "Left Ankle",
+  "return_date": "2026-11-28",
+  "updated": "2026-11-27T17:58Z",
+  "comment": "Jakucionis (ankle) won't play Friday's game against the Pistons."
  },
  {
   "team_id": "16",
@@ -569,11 +581,11 @@
   "athlete_id": "4432816",
   "name": "LaMelo Ball",
   "position": "G",
-  "status": "Day-To-Day",
+  "status": "Out",
   "injury": "Left Ankle",
-  "return_date": "2026-11-27",
-  "updated": "2026-11-26T23:14Z",
-  "comment": "Ball (ankle) is questionable for Friday's game against the Grizzlies."
+  "return_date": "2026-11-29",
+  "updated": "2026-11-27T18:52Z",
+  "comment": "Ball (ankle) has been ruled out for Friday's game against the Grizzlies. The guard was previously questionable after spraining his left ankle during Wednesday's win over Oklahoma City."
  },
  {
   "team_id": "16",
@@ -662,38 +674,14 @@
  {
   "team_id": "18",
   "team": "New York Knicks",
-  "athlete_id": "6585",
-  "name": "Andre Drummond",
-  "position": "C",
-  "status": "Out",
-  "injury": "Concussion Not Specified",
-  "return_date": "2026-11-29",
-  "updated": "2026-11-27T15:36Z",
-  "comment": "Drummond (concussion) has been ruled out for Friday's game against the Heat."
- },
- {
-  "team_id": "18",
-  "team": "New York Knicks",
   "athlete_id": "4431823",
   "name": "Miles McBride",
   "position": "G",
-  "status": "Day-To-Day",
-  "injury": "Left Groin Soreness",
-  "return_date": "2026-11-27",
-  "updated": "2026-11-26T22:11Z",
-  "comment": "McBride (groin) is questionable for Friday's game against the Heat."
- },
- {
-  "team_id": "18",
-  "team": "New York Knicks",
-  "athlete_id": "2528426",
-  "name": "Jordan Clarkson",
-  "position": "G",
   "status": "Out",
-  "injury": "Right Foot Plantar Fasciitis",
-  "return_date": "2026-11-27",
-  "updated": "2026-11-26T22:03Z",
-  "comment": "Clarkson (foot) is questionable for Friday's game against the Heat."
+  "injury": "Left Groin Soreness",
+  "return_date": "2026-11-29",
+  "updated": "2026-11-27T18:21Z",
+  "comment": "McBride (groin) is out for Friday's game against the Heat."
  },
  {
   "team_id": "18",
@@ -703,9 +691,45 @@
   "position": "F",
   "status": "Out",
   "injury": "Left Calf Soreness",
+  "return_date": "2026-11-29",
+  "updated": "2026-11-27T18:20Z",
+  "comment": "Anunoby (calf) has been ruled out for Friday's game against the Heat. The forward was previously listed as doubtful and will miss his third consecutive contest due to a left calf strain."
+ },
+ {
+  "team_id": "18",
+  "team": "New York Knicks",
+  "athlete_id": "2528426",
+  "name": "Jordan Clarkson",
+  "position": "G",
+  "status": "Out",
+  "injury": "Right Foot Plantar Fasciitis",
+  "return_date": "2026-11-29",
+  "updated": "2026-11-27T18:19Z",
+  "comment": "Clarkson (foot) is out for Friday's game against the Heat."
+ },
+ {
+  "team_id": "18",
+  "team": "New York Knicks",
+  "athlete_id": "3136195",
+  "name": "Karl-Anthony Towns",
+  "position": "C",
+  "status": "Day-To-Day",
+  "injury": "Right Abdomen Bruise",
   "return_date": "2026-11-27",
-  "updated": "2026-11-26T21:57Z",
-  "comment": "Anunoby (calf) is doubtful for Friday's game against the Heat."
+  "updated": "2026-11-27T16:51Z",
+  "comment": "Towns is questionable for Friday's game against the Heat due to a right abdominal contusion."
+ },
+ {
+  "team_id": "18",
+  "team": "New York Knicks",
+  "athlete_id": "6585",
+  "name": "Andre Drummond",
+  "position": "C",
+  "status": "Out",
+  "injury": "Concussion Not Specified",
+  "return_date": "2026-11-29",
+  "updated": "2026-11-27T15:36Z",
+  "comment": "Drummond (concussion) has been ruled out for Friday's game against the Heat."
  },
  {
   "team_id": "25",
@@ -860,8 +884,8 @@
   "status": "Day-To-Day",
   "injury": "Illness",
   "return_date": "2026-11-27",
-  "updated": "2026-11-26T22:16Z",
-  "comment": "Embiid (illness) is questionable for Friday's game against the Pacers."
+  "updated": "2026-11-27T16:32Z",
+  "comment": "Embiid (illness) was at shootaround for the 76ers on Friday, Chris Hine of The Philly Inquirer reports."
  },
  {
   "team_id": "20",
@@ -898,6 +922,18 @@
   "return_date": "2027-02-03",
   "updated": "2026-09-11T16:03Z",
   "comment": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will miss an extended period of time, Shams Charania of ESPN reports."
+ },
+ {
+  "team_id": "22",
+  "team": "Portland Trail Blazers",
+  "athlete_id": "6606",
+  "name": "Damian Lillard",
+  "position": "G",
+  "status": "Out",
+  "injury": "Right Calf Soreness",
+  "return_date": "2026-11-29",
+  "updated": "2026-11-27T18:38Z",
+  "comment": "Lillard (calf) has been ruled out for Friday's game against the Warriors. The veteran guard is dealing with right calf tightness and soreness."
  },
  {
   "team_id": "22",
@@ -992,8 +1028,8 @@
   "status": "Out",
   "injury": "Left Hip Strain",
   "return_date": "2026-11-27",
-  "updated": "2026-11-26T23:41Z",
-  "comment": "Harper (hip) is questionable for Friday's game against the Lakers."
+  "updated": "2026-11-27T18:51Z",
+  "comment": "Harper (hip) participated in Friday's morning shootaround, per Matt Guzman of SI.com."
  },
  {
   "team_id": "24",
@@ -1087,9 +1123,9 @@
   "position": "C",
   "status": "Day-To-Day",
   "injury": "Illness",
-  "return_date": "2026-11-29",
-  "updated": "2026-11-27T16:28Z",
-  "comment": "Bamba will start Monday's game against the Lakers, Daniel Starkand of LakersNation.com reports."
+  "return_date": "2026-11-27",
+  "updated": "2026-11-27T16:41Z",
+  "comment": "Bamba (illness) is listed as questionable for Friday's game against the Nuggets, according to the Jazz's injury report."
  },
  {
   "team_id": "26",
