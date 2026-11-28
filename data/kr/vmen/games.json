@@ -9893,17 +9893,17 @@
   "id": "213294",
   "date": "2026-11-28T05:00:00+00:00",
   "season": 2026,
-  "status": "S3",
-  "completed": false,
+  "status": "FT",
+  "completed": true,
   "home": {
    "id": 2100,
    "name": "Busan OK",
-   "score": 2
+   "score": 3
   },
   "away": {
    "id": 1173,
    "name": "Kepco",
-   "score": 0
+   "score": 1
   },
   "sets": [
    [
@@ -9915,8 +9915,12 @@
     23
    ],
    [
-    0,
-    0
+    26,
+    28
+   ],
+   [
+    25,
+    21
    ]
   ]
  },

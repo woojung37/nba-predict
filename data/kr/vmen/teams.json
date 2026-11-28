@@ -10,16 +10,6 @@
   "rating": 0.101
  },
  {
-  "id": 1173,
-  "name": "Kepco",
-  "ko": "한국전력",
-  "wins": 5,
-  "losses": 2,
-  "points_for": 645,
-  "points_against": 644,
-  "rating": 0.024
- },
- {
   "id": 1175,
   "name": "Samsung Blue Fangs",
   "ko": "삼성화재",
@@ -28,6 +18,16 @@
   "points_for": 547,
   "points_against": 500,
   "rating": 0.1
+ },
+ {
+  "id": 1173,
+  "name": "Kepco",
+  "ko": "한국전력",
+  "wins": 5,
+  "losses": 3,
+  "points_for": 734,
+  "points_against": 745,
+  "rating": -0.046
  },
  {
   "id": 1171,
@@ -50,6 +50,16 @@
   "rating": -0.055
  },
  {
+  "id": 2100,
+  "name": "Busan OK",
+  "ko": "OK저축은행",
+  "wins": 2,
+  "losses": 5,
+  "points_for": 663,
+  "points_against": 701,
+  "rating": -0.014
+ },
+ {
   "id": 1172,
   "name": "KB Stars",
   "ko": "KB손해보험",
@@ -58,15 +68,5 @@
   "points_for": 539,
   "points_against": 586,
   "rating": -0.072
- },
- {
-  "id": 2100,
-  "name": "Busan OK",
-  "ko": "OK저축은행",
-  "wins": 1,
-  "losses": 5,
-  "points_for": 562,
-  "points_against": 612,
-  "rating": -0.085
  }
 ]

@@ -1192,13 +1192,37 @@
    "away_minus_1_5": 0.484,
    "full_five_sets": 0.343,
    "edge": -0.109
+  },
+  "result": {
+   "home_score": 3,
+   "away_score": 1,
+   "home_margin": 2,
+   "total": 190,
+   "sets": [
+    [
+     25,
+     17
+    ],
+    [
+     25,
+     23
+    ],
+    [
+     26,
+     28
+    ],
+    [
+     25,
+     21
+    ]
+   ]
   }
  },
  "213295": {
   "date": "2026-11-29T05:00:00+00:00",
   "home": "삼성화재",
   "away": "현대캐피탈",
-  "predicted_at": "2026-11-28T06:03:31+00:00",
+  "predicted_at": "2026-11-28T10:53:49+00:00",
   "prediction": {
    "home_win_prob": 0.5,
    "scores": {
