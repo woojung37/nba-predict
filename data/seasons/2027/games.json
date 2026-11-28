@@ -5695,20 +5695,20 @@
   "date": "2026-11-28T00:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Little Caesars Arena",
   "home": {
    "id": "8",
    "abbr": "DET",
-   "score": 112
+   "score": 113
   },
   "away": {
    "id": "15",
    "abbr": "MIL",
-   "score": 96
+   "score": 98
   }
  },
  {
@@ -5716,20 +5716,20 @@
   "date": "2026-11-28T00:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Gainbridge Fieldhouse",
   "home": {
    "id": "11",
    "abbr": "IND",
-   "score": 85
+   "score": 87
   },
   "away": {
    "id": "20",
    "abbr": "PHI",
-   "score": 108
+   "score": 111
   }
  },
  {
@@ -5739,18 +5739,18 @@
   "season_type": 2,
   "state": "in",
   "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "status": "STATUS_END_PERIOD",
   "neutral": false,
   "venue": "Scotiabank Arena",
   "home": {
    "id": "28",
    "abbr": "TOR",
-   "score": 116
+   "score": 124
   },
   "away": {
    "id": "17",
    "abbr": "BKN",
-   "score": 94
+   "score": 100
   }
  },
  {
@@ -5766,7 +5766,7 @@
   "home": {
    "id": "2",
    "abbr": "BOS",
-   "score": 74
+   "score": 78
   },
   "away": {
    "id": "1",
@@ -5787,12 +5787,12 @@
   "home": {
    "id": "16",
    "abbr": "MIN",
-   "score": 62
+   "score": 72
   },
   "away": {
    "id": "29",
    "abbr": "MEM",
-   "score": 67
+   "score": 72
   }
  },
  {
@@ -5808,7 +5808,7 @@
   "home": {
    "id": "21",
    "abbr": "PHX",
-   "score": 49
+   "score": 58
   },
   "away": {
    "id": "6",
@@ -5829,12 +5829,12 @@
   "home": {
    "id": "24",
    "abbr": "SA",
-   "score": 12
+   "score": 14
   },
   "away": {
    "id": "13",
    "abbr": "LAL",
-   "score": 19
+   "score": 23
   }
  },
  {
@@ -5850,12 +5850,12 @@
   "home": {
    "id": "26",
    "abbr": "UTAH",
-   "score": 12
+   "score": 19
   },
   "away": {
    "id": "7",
    "abbr": "DEN",
-   "score": 24
+   "score": 27
   }
  },
  {
@@ -5871,12 +5871,12 @@
   "home": {
    "id": "12",
    "abbr": "LAC",
-   "score": 22
+   "score": 26
   },
   "away": {
    "id": "3",
    "abbr": "NO",
-   "score": 13
+   "score": 24
   }
  },
  {
@@ -5892,12 +5892,12 @@
   "home": {
    "id": "22",
    "abbr": "POR",
-   "score": 20
+   "score": 32
   },
   "away": {
    "id": "9",
    "abbr": "GS",
-   "score": 3
+   "score": 8
   }
  },
  {
@@ -5921,7 +5921,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "ORL -3.5",
    "spread": 3.5,
    "over_under": 218.5
@@ -5948,7 +5948,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "CHA -5.5",
    "spread": -5.5,
    "over_under": 213.5
@@ -5975,7 +5975,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "CHI -2.5",
    "spread": -2.5,
    "over_under": 236.5
@@ -6002,7 +6002,7 @@
    "score": null
   },
   "odds": {
-   "provider": "Draft Kings",
+   "provider": "DraftKings",
    "details": "OKC -12.5",
    "spread": 12.5,
    "over_under": 228.5
