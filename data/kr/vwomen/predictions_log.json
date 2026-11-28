@@ -1133,7 +1133,7 @@
   "date": "2026-11-28T07:00:00+00:00",
   "home": "정관장",
   "away": "IBK기업은행",
-  "predicted_at": "2026-11-27T21:03:58+00:00",
+  "predicted_at": "2026-11-28T02:56:43+00:00",
   "prediction": {
    "home_win_prob": 0.527,
    "scores": {
@@ -1156,6 +1156,35 @@
    "away_minus_1_5": 0.29,
    "full_five_sets": 0.374,
    "edge": 0.01
+  }
+ },
+ "213421": {
+  "date": "2026-11-29T07:00:00+00:00",
+  "home": "SOOP SOOPers W",
+  "away": "한국도로공사",
+  "predicted_at": "2026-11-28T02:56:43+00:00",
+  "prediction": {
+   "home_win_prob": 0.24,
+   "scores": {
+    "3-0": 0.042,
+    "0-3": 0.277,
+    "3-1": 0.082,
+    "1-3": 0.289,
+    "3-2": 0.116,
+    "2-3": 0.193
+   },
+   "set_win_prob": 0.348,
+   "expected_sets": 3.99,
+   "total": 169.8,
+   "total_range80": [
+    130.9,
+    208.7
+   ],
+   "total_sigma": 30.34,
+   "home_minus_1_5": 0.125,
+   "away_minus_1_5": 0.567,
+   "full_five_sets": 0.309,
+   "edge": -0.124
   }
  }
 }
