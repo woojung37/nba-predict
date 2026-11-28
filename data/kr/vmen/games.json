@@ -9893,19 +9893,32 @@
   "id": "213294",
   "date": "2026-11-28T05:00:00+00:00",
   "season": 2026,
-  "status": "NS",
+  "status": "S3",
   "completed": false,
   "home": {
    "id": 2100,
    "name": "Busan OK",
-   "score": null
+   "score": 2
   },
   "away": {
    "id": 1173,
    "name": "Kepco",
-   "score": null
+   "score": 0
   },
-  "sets": []
+  "sets": [
+   [
+    25,
+    17
+   ],
+   [
+    25,
+    23
+   ],
+   [
+    0,
+    0
+   ]
+  ]
  },
  {
   "id": "213295",

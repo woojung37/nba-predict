@@ -5758,20 +5758,20 @@
   "date": "2026-11-28T01:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "TD Garden",
   "home": {
    "id": "2",
    "abbr": "BOS",
-   "score": 79
+   "score": 86
   },
   "away": {
    "id": "1",
    "abbr": "ATL",
-   "score": 83
+   "score": 87
   }
  },
  {
@@ -5779,20 +5779,20 @@
   "date": "2026-11-28T01:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Target Center",
   "home": {
    "id": "16",
    "abbr": "MIN",
-   "score": 81
+   "score": 109
   },
   "away": {
    "id": "29",
    "abbr": "MEM",
-   "score": 82
+   "score": 114
   }
  },
  {
@@ -5800,20 +5800,20 @@
   "date": "2026-11-28T02:00Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_HALFTIME",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Mortgage Matchup Center",
   "home": {
    "id": "21",
    "abbr": "PHX",
-   "score": 63
+   "score": 109
   },
   "away": {
    "id": "6",
    "abbr": "DAL",
-   "score": 53
+   "score": 113
   }
  },
  {
@@ -5821,20 +5821,20 @@
   "date": "2026-11-28T02:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Frost Bank Center",
   "home": {
    "id": "24",
    "abbr": "SA",
-   "score": 17
+   "score": 99
   },
   "away": {
    "id": "13",
    "abbr": "LAL",
-   "score": 29
+   "score": 96
   }
  },
  {
@@ -5842,20 +5842,20 @@
   "date": "2026-11-28T02:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Delta Center",
   "home": {
    "id": "26",
    "abbr": "UTAH",
-   "score": 37
+   "score": 107
   },
   "away": {
    "id": "7",
    "abbr": "DEN",
-   "score": 35
+   "score": 120
   }
  },
  {
@@ -5863,20 +5863,20 @@
   "date": "2026-11-28T02:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_IN_PROGRESS",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Intuit Dome",
   "home": {
    "id": "12",
    "abbr": "LAC",
-   "score": 34
+   "score": 104
   },
   "away": {
    "id": "3",
    "abbr": "NO",
-   "score": 32
+   "score": 105
   }
  },
  {
@@ -5884,20 +5884,20 @@
   "date": "2026-11-28T02:30Z",
   "season": 2027,
   "season_type": 2,
-  "state": "in",
-  "completed": false,
-  "status": "STATUS_END_PERIOD",
+  "state": "post",
+  "completed": true,
+  "status": "STATUS_FINAL",
   "neutral": false,
   "venue": "Moda Center",
   "home": {
    "id": "22",
    "abbr": "POR",
-   "score": 37
+   "score": 116
   },
   "away": {
    "id": "9",
    "abbr": "GS",
-   "score": 11
+   "score": 94
   }
  },
  {
@@ -5921,7 +5921,7 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "ORL -3.5",
    "spread": 3.5,
    "over_under": 218.5
@@ -5948,7 +5948,7 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "CHA -5.5",
    "spread": -5.5,
    "over_under": 213.5
@@ -5975,10 +5975,10 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "CHI -2.5",
    "spread": -2.5,
-   "over_under": 236.5
+   "over_under": 234.5
   }
  },
  {
@@ -6002,7 +6002,7 @@
    "score": null
   },
   "odds": {
-   "provider": "DraftKings",
+   "provider": "Draft Kings",
    "details": "OKC -12.5",
    "spread": 12.5,
    "over_under": 228.5
@@ -6027,6 +6027,12 @@
    "id": "20",
    "abbr": "PHI",
    "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "HOU -12.5",
+   "spread": -12.5,
+   "over_under": 219.5
   }
  },
  {
@@ -6702,6 +6708,48 @@
   }
  },
  {
+  "id": "401910085",
+  "date": "2026-12-03T01:00Z",
+  "season": 2027,
+  "season_type": 2,
+  "state": "pre",
+  "completed": false,
+  "status": "STATUS_SCHEDULED",
+  "neutral": false,
+  "venue": "State Farm Arena",
+  "home": {
+   "id": "1",
+   "abbr": "ATL",
+   "score": null
+  },
+  "away": {
+   "id": "11",
+   "abbr": "IND",
+   "score": null
+  }
+ },
+ {
+  "id": "401910088",
+  "date": "2026-12-03T01:00Z",
+  "season": 2027,
+  "season_type": 2,
+  "state": "pre",
+  "completed": false,
+  "status": "STATUS_SCHEDULED",
+  "neutral": false,
+  "venue": "Frost Bank Center",
+  "home": {
+   "id": "24",
+   "abbr": "SA",
+   "score": null
+  },
+  "away": {
+   "id": "28",
+   "abbr": "TOR",
+   "score": null
+  }
+ },
+ {
   "id": "401910083",
   "date": "2026-12-03T02:00Z",
   "season": 2027,
@@ -6740,27 +6788,6 @@
   "away": {
    "id": "16",
    "abbr": "MIN",
-   "score": null
-  }
- },
- {
-  "id": "401910085",
-  "date": "2026-12-04T00:00Z",
-  "season": 2027,
-  "season_type": 2,
-  "state": "pre",
-  "completed": false,
-  "status": "STATUS_SCHEDULED",
-  "neutral": false,
-  "venue": "State Farm Arena",
-  "home": {
-   "id": "1",
-   "abbr": "ATL",
-   "score": null
-  },
-  "away": {
-   "id": "11",
-   "abbr": "IND",
    "score": null
   }
  },
@@ -6807,27 +6834,6 @@
   }
  },
  {
-  "id": "401910088",
-  "date": "2026-12-04T01:00Z",
-  "season": 2027,
-  "season_type": 2,
-  "state": "pre",
-  "completed": false,
-  "status": "STATUS_SCHEDULED",
-  "neutral": false,
-  "venue": "Frost Bank Center",
-  "home": {
-   "id": "24",
-   "abbr": "SA",
-   "score": null
-  },
-  "away": {
-   "id": "28",
-   "abbr": "TOR",
-   "score": null
-  }
- },
- {
   "id": "401910089",
   "date": "2026-12-04T03:00Z",
   "season": 2027,
@@ -6846,6 +6852,114 @@
    "id": "26",
    "abbr": "UTAH",
    "score": null
+  }
+ },
+ {
+  "id": "401909450",
+  "date": "2026-12-05T00:00Z",
+  "season": 2027,
+  "season_type": 2,
+  "state": "pre",
+  "completed": false,
+  "status": "STATUS_SCHEDULED",
+  "neutral": false,
+  "venue": "State Farm Arena",
+  "home": {
+   "id": "1",
+   "abbr": "ATL",
+   "score": null
+  },
+  "away": {
+   "id": "20",
+   "abbr": "PHI",
+   "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "PHI -3.5",
+   "spread": 3.5,
+   "over_under": 227.5
+  }
+ },
+ {
+  "id": "401909451",
+  "date": "2026-12-05T02:30Z",
+  "season": 2027,
+  "season_type": 2,
+  "state": "pre",
+  "completed": false,
+  "status": "STATUS_SCHEDULED",
+  "neutral": false,
+  "venue": "American Airlines Center",
+  "home": {
+   "id": "6",
+   "abbr": "DAL",
+   "score": null
+  },
+  "away": {
+   "id": "24",
+   "abbr": "SA",
+   "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "SA -9.5",
+   "spread": 9.5,
+   "over_under": 221.5
+  }
+ },
+ {
+  "id": "401909452",
+  "date": "2026-12-06T00:30Z",
+  "season": 2027,
+  "season_type": 2,
+  "state": "pre",
+  "completed": false,
+  "status": "STATUS_SCHEDULED",
+  "neutral": false,
+  "venue": "Little Caesars Arena",
+  "home": {
+   "id": "8",
+   "abbr": "DET",
+   "score": null
+  },
+  "away": {
+   "id": "2",
+   "abbr": "BOS",
+   "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "BOS -1.5",
+   "spread": 1.5,
+   "over_under": 212.5
+  }
+ },
+ {
+  "id": "401909453",
+  "date": "2026-12-06T03:00Z",
+  "season": 2027,
+  "season_type": 2,
+  "state": "pre",
+  "completed": false,
+  "status": "STATUS_SCHEDULED",
+  "neutral": false,
+  "venue": "Moda Center",
+  "home": {
+   "id": "22",
+   "abbr": "POR",
+   "score": null
+  },
+  "away": {
+   "id": "29",
+   "abbr": "MEM",
+   "score": null
+  },
+  "odds": {
+   "provider": "Draft Kings",
+   "details": "POR -2.5",
+   "spread": -2.5,
+   "over_under": 226.5
   }
  },
  {
